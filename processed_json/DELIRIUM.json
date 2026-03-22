@@ -1,0 +1,64 @@
+{
+  "condition_name": "Delirium",
+  "condition_slug": "delirium",
+  "source": "NSTG 2022",
+  "introduction": "A transient disorder of brain function. Manifests as a global cognitive impairment and behavioural disturbance. More common at the extremes of life, though it can occur at any age. Incidence up to 15% has been reported among general medical inpatients; up to 40% among acutely ill geriatric patients. Poor detection and mis-diagnosis are common. Most common causes: Trauma, Infections, Metabolic derangements, Side effects of drugs.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Disturbance of consciousness, arousal and awareness",
+        "Disturbance of attention, disorientation, memory deficits and language disturbances",
+        "Perceptual disturbances, disorganized thinking and delusions",
+        "Acute onset rapid fluctuations, disruption of sleep-wake cycle, and mood alterations",
+        "Neurologic signs like myoclonus, asterixis and frontal release reflexes (sucking, grasping, groping etc.)"
+      ]
+    }
+  ],
+  "investigations": [
+    "Determined by any causal or contributing medical conditions"
+  ],
+  "treatment": {
+    "goals": [
+      "Identify and ameliorate any causal or contributing medical conditions",
+      "Improve cognition",
+      "Normalize behaviour"
+    ],
+    "non_drug": [
+      "Nurse in a quiet, well-lit environment",
+      "Support physical care, including food and fluid intake",
+      "Provide orienting cues",
+      "Physical restraint judiciously used when indicated"
+    ],
+    "drug": [
+      "High-potency antipsychotics in low dosages for sedation: Haloperidol (Adult: 0.5 - 1 mg orally or parenterally, every 6 – 8 hours; Child (2 - 12 years): initially 12.5 - 25 μg/kg orally twice daily, adjusted according to response to maximum 10 mg daily; Child (12 - 18 years): initially 0.5 - 3 mg daily, adjusted according to response to lowest effective maintenance dose (as low as 5 - 10 mg daily))",
+      "Benzodiazepines for severe agitation (i.e. life-threatening features) or patient seriously disrupting management"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Close nursing care is required to prevent injuries and falls",
+      "Avoid over-medication, especially as antipsychotics and sedatives used may worsen delirium"
+    ],
+    "supportive_measures": [
+      "Give reassurance to patient and relatives/caregivers about the transient nature of condition (No risk of \"madness\")",
+      "Protect the airways",
+      "Provide fluids and nutrition",
+      "Assist with movement",
+      "Treat pain",
+      "Manage incontinence"
+    ]
+  },
+  "differential_diagnoses": [
+    "Dementia",
+    "Acute (idiopathic) psychotic disorders"
+  ],
+  "complications": [
+    "Usually transient but may be associated with increased morbidity (e.g. from falls) and mortality"
+  ],
+  "prevention": [
+    "Early treatment of infective and metabolic conditions",
+    "Care with the use of drugs (especially anticholinergic medications) in the elderly"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

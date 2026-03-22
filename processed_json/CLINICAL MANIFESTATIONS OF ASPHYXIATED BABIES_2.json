@@ -1,0 +1,58 @@
+{
+  "condition_name": "Asphyxia in Neonates",
+  "condition_slug": "asphyxia-in-neonates",
+  "source": "NSTG 2022",
+  "introduction": "Asphyxia in neonates can lead to hypoxic-ischemic encephalopathy, affecting various bodily functions depending on severity.",
+  "clinical_features": [
+    {
+      "type": "Clinical Manifestations",
+      "features": [
+        "Inability to cry or suck",
+        "Global hypotonia and poor activity",
+        "Global hypertonia with brisk deep tendon reflexes",
+        "Shock and oliguria",
+        "Poor temperature regulation",
+        "Paralytic ileus",
+        "Respiratory distress",
+        "Bleeding tendencies",
+        "Seizures"
+      ]
+    }
+  ],
+  "investigations": [],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Serial monitoring of parameters (oxygen saturation via pulse oximetry, random blood glucose, serum electrolytes, urea and creatinine, serum calcium, serum troponin, serum aspartate aminotransferase, serum alanine aminotransferase where available)",
+      "Apnea management with frequent airway clearing and ventilation by bag and mask",
+      "Nil per oral until peristalsis is present and respiratory rate is normal, feeding with expressed breast milk via nasogastric or orogastric tube",
+      "Monitor urine output, weigh diaper or catheterize for adequate monitoring, and consult nephrologist if oliguria noted",
+      "Selective head cooling (if available)"
+    ],
+    "drug": [
+      "Slow intravenous phenobarbitone for seizures",
+      "Use of inotropes like dobutamine or dopamine for hypotension not corrected by fluid bolus",
+      "Magnesium sulphate to improve outcome",
+      "Oxygen administration to maintain SpO₂ >94%"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Prophylactic phenobarbitone is no longer standard practice",
+      "Fluid restriction in perinatal asphyxia management is no longer favored"
+    ],
+    "supportive_measures": [
+      "Derangements corrected according to standard protocols",
+      "Prevent over-hydration, administer exact daily maintenance fluid requirement",
+      "Use fluid bolus of normal saline in aliquots if circulatory collapse occurs",
+      "Correct electrolyte derangement as needed",
+      "Treat hypoglycemia as per serial serum monitoring"
+    ]
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": [
+    "Persistence of abnormal cry and motor functions beyond first week suggests severe cerebral damage"
+  ]
+}

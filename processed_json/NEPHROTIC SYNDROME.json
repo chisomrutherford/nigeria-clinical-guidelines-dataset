@@ -1,0 +1,55 @@
+{
+  "condition_name": "Nephrotic Syndrome",
+  "condition_slug": "nephrotic-syndrome",
+  "source": "NSTG 2022",
+  "introduction": "A clinical complex characterized by the following: Proteinuria of 3.5 g per 24 hours, Hypoalbuminaemia, Generalized oedema, Hyperlipidaemia, Lipiduria, Hypercoagulability.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Generalized body swelling",
+        "Passage of frothy urine"
+      ]
+    }
+  ],
+  "investigations": [
+    "Blood: Serum proteins, Serum lipids",
+    "Urine: Urinalysis, 24-hour urine collection for protein estimation",
+    "Abdominal ultrasound scan",
+    "Renal biopsy"
+  ],
+  "treatment": {
+    "goals": [
+      "Reduce proteinuria",
+      "Eradicate peripheral oedema"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Diuretics e.g. loop diuretics like furosemide",
+      "Glucocorticoids (e.g. prednisolone)",
+      "Cytotoxic drugs (e.g. cyclophosphamide) in some steroid-resistant cases"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Congestive heart failure",
+    "Decompensated chronic liver disease",
+    "Protein losing enteropathy"
+  ],
+  "complications": [
+    "Peripheral arterial or venous thrombosis",
+    "Acceleration of atherosclerosis",
+    "Protein malnutrition",
+    "Vitamin D deficiency",
+    "Increased susceptibility to infections",
+    "Iron-resistant microcytic hypochromic anaemia"
+  ],
+  "prevention": [
+    "Avoid nephrotoxins",
+    "Treat bites and stings to prevent p haemolytic streptococcal infection"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

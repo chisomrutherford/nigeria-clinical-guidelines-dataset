@@ -1,0 +1,71 @@
+{
+  "condition_name": "Hyperlipidaemia",
+  "condition_slug": "hyperlipidaemia",
+  "source": "NSTG 2022",
+  "introduction": "An increase in plasma lipid levels: Cholesterol, or its fractions, or triglyceridaemia. It can be primary (hereditary) or secondary with underlying diseases especially diabetes mellitus and hypertension. A major risk factor for ischaemia heart disease",
+  "clinical_features": [
+    {
+      "type": "Signs",
+      "features": [
+        "xanthomata",
+        "xanthelasmata",
+        "corneal arcus"
+      ]
+    },
+    {
+      "type": "Symptoms",
+      "features": [
+        "ischaemic heart disease",
+        "underlying cause hyperlipidaemia"
+      ]
+    }
+  ],
+  "investigations": [
+    "Lipid profile",
+    "Urea, Electrolytes and Creatinine",
+    "FBG",
+    "Urine proteins",
+    "Serum proteins (total and differential)"
+  ],
+  "treatment": {
+    "goals": [
+      "Lower lipid levels",
+      "Prevent or treat complications",
+      "Treat underlying causes"
+    ],
+    "non_drug": [
+      "Stop smoking",
+      "Reduce weight",
+      "Exercise moderately and regularly",
+      "Water soluble fibre: oat, bran"
+    ],
+    "drug": [
+      "Atorvastatin"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Caution in patients with history of liver disease, high alcohol intake",
+      "Hypothyroidism should be adequately managed before starting treatment with a statin",
+      "Liver function tests mandatory before, and within 1 - month of starting treatment; thereafter at intervals of 6 months for 1 year",
+      "Statins may cause reversible myositis, headache, diarrhoea, nausea, vomiting, constipation, flatulence, abdominal pain; insomnia"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Primary hyperlipidaemia",
+    "Secondary hyperlipidaemia: diabetes mellitus",
+    "Nephrotic syndrome"
+  ],
+  "complications": [
+    "Ischaemic heart disease",
+    "Peripheral vascular disease",
+    "Stroke",
+    "Hypertension"
+  ],
+  "prevention": [
+    "Dietary manipulation",
+    "Early identification of individuals at risk"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

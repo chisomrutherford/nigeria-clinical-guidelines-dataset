@@ -1,0 +1,110 @@
+{
+  "condition_name": "Rabies",
+  "condition_slug": "rabies",
+  "source": "NSTG 2022",
+  "introduction": "An acute progressive encephalitis zoonotic disease caused by a bullet-shaped rhabdovirus called rabies virus. The virus is a single-stranded enveloped RNA virus and has the potential to infect all mammals. Transmitted by infected secretions, usually saliva. Infected dogs are responsible for 99% of human rabies infection. Wildlife -foxes, wolves, jackals, bats, racoons, skunks, or mongoose account for a small proportion of transmission in non-endemic countries. Infection occurs from scratch and bites or when infected secretions are in direct contact with exposed skin or mucous membranes. Occasionally contact with a virus-containing aerosol or the ingestion or transplant of infected tissues may initiate the disease process.",
+  "clinical_features": [
+    {
+      "type": "Symptoms around site of bite/scratch",
+      "features": [
+        "Pain",
+        "Parasthesiae"
+      ]
+    },
+    {
+      "type": "A non-specific prodrome",
+      "features": [
+        "Fever",
+        "Headache",
+        "Malaise",
+        "Myalgia",
+        "Anorexia",
+        "Nausea",
+        "Vomiting",
+        "Sore throat",
+        "Cough",
+        "Paraesthesia"
+      ]
+    },
+    {
+      "type": "An acute encephalitic stage (furious)",
+      "features": [
+        "Signs of hyperactivity-agitation, combativeness, restlessness",
+        "Excitable behaviour",
+        "Hallucinations and pyschosis",
+        "Confusion",
+        "Muscle spasms",
+        "Meningismus",
+        "Seizures",
+        "Hydrophobia (fear of water)",
+        "Sometimes aerophobia (fear of drafts or of fresh air)",
+        "Death occurs after a few days due to cardio-respiratory arrest."
+      ]
+    },
+    {
+      "type": "Paralytic",
+      "features": [
+        "Muscles gradually become paralyzed, starting at the site of the bite or scratch.",
+        "A coma slowly develops, and eventually death occurs.",
+        "Brainstem dysfunction",
+        "Diplopia",
+        "Facial paralysis",
+        "Optic neuritis",
+        "Difficulty with deglutition",
+        "Priapism",
+        "Spontaneous ejaculation",
+        "Coma"
+      ]
+    }
+  ],
+  "investigations": [
+    "Full Blood Count and differentials",
+    "Urea and Electrolytes",
+    "Culture of secretions",
+    "Cerebro Spinal Fluid (CSF) analysis",
+    "Serology",
+    "Pulmonary Chain Reaction (PCR)",
+    "Direct rapid immunohistochemistry tests",
+    "Enzyme-linked immunosorbent assays"
+  ],
+  "treatment": {
+    "goals": [
+      "Disinfect wound; avoid early suturing.",
+      "Provide passive immunization with anti-rabies antiserum",
+      "Provide active immunization with the vaccine."
+    ],
+    "non_drug": [
+      "Wound care - The wound or site of exposure should be: Cleansed under running water. Washed for several minutes with soapy water. Disinfected and dressed simply. It should not be sutured immediately."
+    ],
+    "drug": [
+      "Purified cell culture and embryonated egg-based rabies vaccines (CCEEVs) is recommended.",
+      "CCEEVs can be administered by intradermal (ID) or IM injection.",
+      "Post-exposure prophylaxis (PEP) and Pre-exposure (PrEP) regimens require a series of vaccine injections according to the manufacturers recommended schedules.",
+      "Unimmunized persons or those whose prophylaxis is probably incomplete. Rabies (purified cell culture) vaccine: 1 ml by deep subcutaneous or intramuscular injection in the deltoid region on days 0, 3, 7, 14 and 28 Plus Rabies immunoglobulin (RIG) given on day 0. Maximum dose calculation for RIG is 40 IU/kg body weight for equine derived RIG (eRIG), and 20 IU/kg body weight for human derived RIG (hRIG).",
+      "Same schedule for child as for adult.",
+      "For fully immunized persons: Rabies (purified cell culture) vaccine: 1 ml by deep subcutaneous or intramuscular injection in the deltoid region on days 1 and 3. Same schedule for child as for adult.",
+      "Post-exposure prophylaxis (PEP) should be initiated as soon as possible after exposure.",
+      "Pregnancy is not a contraindication to rabies vaccine."
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": [
+      "Allay anxiety: reassure.",
+      "Other measures as appropriate for clinical situation"
+    ]
+  },
+  "differential_diagnoses": [
+    "Guillain-Barre syndrome",
+    "Other causes of viral encephalitis",
+    "Poliomyelitis",
+    "Allergic encephalomyelitis"
+  ],
+  "complications": [],
+  "prevention": [
+    "Pre-exposure prophylaxis should be offered to persons at high risk of exposure and/or contact with rabies virus: Veterinarians, Cave explorers, Laboratory workers who handle the rabies virus, Animal handlers, Workers in quarantine stations, Field workers who are likely to be bitten by infected wild animals, Certain port officials, Bat handlers, Persons living in (or traveling to) areas where rabies is enzootic and/or where there is limited access to prompt medical care.",
+    "Those caring for patients with rabies. Although there is no proven evidence of human transmission.",
+    "If there is substantial risk of exposure, and rapid access to post-exposure prophylaxis is limited, give pre-exposure prophylaxis Rabies vaccine PrEP schedule - 2-site ID vaccine administered on days 0 and 7 or 1-site IM vaccine administration on days 0 and 7. (1 ml by deep subcutaneous or intramuscular injection in the deltoid region). Booster doses every 2 - 3 years for those at continued risk."
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

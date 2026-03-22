@@ -1,0 +1,67 @@
+{
+  "condition_name": "Herpes Zoster",
+  "condition_slug": "herpes_zoster",
+  "source": "NSTG 2022",
+  "introduction": "A second infection with varicella-zoster virus (VZV), usually in adults and limited to a dermatome Synonyms: Zoster, from the Greek \"zostrix\", meaning belt Shingles, from the Latin \"cingulus\", also meaning belt",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Vesicles arranged in one or more dermatomes unilaterally",
+        "Initial pruritus, pain and paraesthesia",
+        "Multidermatomal and disseminated forms may occur in immunocompromised states especially HIV infection",
+        "The early rash is vesicular, later becomes pustular and then ulcerates",
+        "The whole episode may last 2 weeks"
+      ]
+    }
+  ],
+  "investigations": [
+    "HIV screening for all patients",
+    "Full Blood Count with differentials",
+    "ESR",
+    "Exclude Hodgkin's disease and leukaemia"
+  ],
+  "treatment": {
+    "goals": [
+      "Provide symptomatic relief",
+      "Treat secondary infection",
+      "Treat any identified predisposing factor"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Drying agents e.g. zinc oxide 5% (calamine) lotion - Apply twice daily",
+      "Aciclovir - Adult: 800 mg orally five times daily for 5 - 7 days - Continue for at least 3 days after complete healing - Child: 12 - 18 years: 5 mg/kg orally every 8 hours usually for 5 days",
+      "Aciclovir cream 5% - Adult: apply five times daily for 5 - 10 days",
+      "Oral antibiotics to treat or prevent secondary bacterial infection",
+      "Amitriptyline 10 - 25 mg orally initially, gradually increased to 75 mg daily",
+      "Pregabalin: start with 75 mg twice or thrice daily, gradually increase dose depending on efficacy and tolerability to a maximum of 600 mg per day in divided doses"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Aciclovir - Ensure adequate hydration",
+      "Aciclovir - Caution in pregnancy and breastfeeding",
+      "Aciclovir - May cause nausea, vomiting, dizziness",
+      "Aciclovir - Fatigue, pruritus and photosensitivity",
+      "Pregabalin - Hypersensitivity reactions",
+      "Pregabalin - Ataxia, dizziness",
+      "Pregabalin - Suicidal tendencies",
+      "Pregabalin - Blurred vision",
+      "Pregabalin - Muscle spasms",
+      "Pregabalin - Peripheral oedema"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Chicken pox"
+  ],
+  "complications": [
+    "Pain may persist long after rash has healed (post-herpetic neuralgia)",
+    "Dissemination of infection in the immunocompromised",
+    "Hemorrhagic and necrotic lesions",
+    "Ramsay-Hunt syndrome (Herpes zoster of the ear resulting in severe ear pain, hearing loss and vertigo)",
+    "Visual impairment due to corneal ulcers (Zoster ophthalmicus-V1)"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

@@ -1,0 +1,48 @@
+{
+  "condition_name": "Wax in the Ear",
+  "condition_slug": "wax-in-the-ear",
+  "source": "NSTG 2022",
+  "introduction": "Wax (or cerumen) is a normal product of the human external ear. A dark brownish mixture of the secretions of the ceruminous and sebaceous glands in the outer third of the external auditory canal. Small quantities are produced continuously and function to lubricate the canal Quantities produced and the consistencies vary May be excessive in some people, causing deafness, ear ache, secondary infection and even vertigo",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Sensation of blockage and some degree of deafness are the most common complaints",
+        "Sometimes, pain and irritation",
+        "Ear discharge in some cases",
+        "Quantity seen varies",
+        "May be soft or hard",
+        "May be impacted in the deep meatus"
+      ]
+    }
+  ],
+  "investigations": [],
+  "treatment": {
+    "goals": [
+      "Evacuate the wax and clear the ear"
+    ],
+    "non_drug": [
+      "Removal with probe and cotton wool: for soft wax",
+      "Ear syringing: for hard wax, often after preliminary softening with oily drops",
+      "Occasionally, removal under anaesthesia if syringing is unsuccessful"
+    ],
+    "drug": [
+      "Ear drops to soften and loosen wax",
+      "Warm olive oil"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Foreign bodies",
+    "Otitis externa"
+  ],
+  "complications": [
+    "Superimposed infection: otitis externa",
+    "Hearing impairment"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

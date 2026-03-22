@@ -1,0 +1,75 @@
+{
+  "condition_name": "Tonsillitis",
+  "condition_slug": "tonsillitis",
+  "source": "NSTG 2022",
+  "introduction": "An inflammatory condition of the palatine tonsils, common in children. In half or more cases infection is by beta-haemolytic streptococcus, in others viral Typically an acute infection. Chronic tonsillitis presents usually as recurrent acute infection Essentially a disease of children but also occurs in young adults",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Fever",
+        "Sore throat",
+        "Dysphagia",
+        "Systemic upset and malaise",
+        "Tonsils are swollen, inflamed and covered with purulent exudates",
+        "Jugulo-digastric lymph nodes are enlarged and tender"
+      ]
+    }
+  ],
+  "investigations": [
+    "Throat swab for microscopy, culture and sensitivity",
+    "Full Blood Count"
+  ],
+  "treatment": {
+    "goals": [
+      "Control the infection",
+      "Control pain",
+      "Prevent further episodes"
+    ],
+    "non_drug": [
+      "Oral hydration",
+      "Salt/warm water gurgle",
+      "Tonsillectomy in chronic cases with frequent recurrent tonsillitis"
+    ],
+    "drug": [
+      "Antibiotics: Amoxicillin",
+      "Adults: 250 - 500 mg orally 8 hourly for 5 - 7 days",
+      "Child: 40 mg/kg orally every 8 hours for 5 - 7 days",
+      "The parenteral route may be required when there is vomiting or severe dysphagia",
+      "Cotrimoxazole",
+      "Adult: 960 mg orally 12 hourly for 5 - 7 days",
+      "Child 6 weeks to 5 months: 120 mg orally 12 hourly",
+      "6 months - 5 years: 240 mg 12 hourly",
+      "6 – 12 years: 480 mg every 12 hours",
+      "Analgesic: Paracetamol",
+      "Adult: 500 mg -1 g orally 4 - 6 hourly (to a maximum of 4 g) for 5 - 7 days",
+      "Child over 50 kg: same as adult dosing",
+      "6 - 12 years: 250 - 500 mg;",
+      "3 months - 5 years:125-250 mg taken orally 4 - 6 hourly for 5 - 7 days"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Cotrimoxazole - Fixed drug eruption",
+      "Nausea and vomiting",
+      "Erythema multiforme",
+      "Steven-Johnson syndrome"
+    ],
+    "supportive_measures": [
+      "Bed rest",
+      "Intravenous infusion as necessary"
+    ]
+  },
+  "differential_diagnoses": [
+    "Infectious mononucleosis",
+    "Vincent's angina",
+    "Agranulocytosis"
+  ],
+  "complications": [
+    "Quinsy: main common complication",
+    "Parapharyngeal infection/abscess",
+    "Rheumatic fever and nephritis following streptococcal tonsillitis"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

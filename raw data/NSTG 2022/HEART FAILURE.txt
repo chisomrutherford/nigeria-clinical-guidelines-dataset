@@ -1,0 +1,112 @@
+HEART FAILURE
+Introduction
+A clinical state (syndrome) in which the heart is unable to generate enough
+cardiac output to meet the metabolic demands of the body or does so at an
+increased filling pressure. The common causes in Nigeria include
+hypertension, dilated cardiomyopathy and rheumatic heart disease.
+Cardiac failure may be acute or chronic
+
+CLINICAL FEATURES OF HEART FAILURE
+• Major Diagnostic criteria:
+- Paroxysmal nocturnal dyspnoea
+- Orthopnoea
+- Raised jugular venous pressure
+- Pulmonary oedema
+
+• Minor diagnostic criteria include:
+- Cough productive of frothy sputum
+- Leg swelling
+- Abdominal swelling
+- The prominence of particular symptoms will depend on which side
+is affected
+- Oedema
+- Tachycardia (about 100 beats per minute)
+- Displaced apex
+- Hepatomegaly, ascites
+A diagnosis of heart failure requires 2 major or 1 major and 2 or more minor
+criteria
+
+DIFFERENTIAL DIAGNOSES OF HEART FAILURE
+• Bronchial asthma
+• Chronic obstructive airways disease (COAD)
+• Chronic kidney disease
+• Chronic liver disease
+
+COMPLICATIONS OF HEART FAILURE
+• Thrombo-embolic phenomena: stroke, pulmonary embolism
+• Pre-renal azotaemia
+• Arrhythmias
+
+INVESTIGATIONS OF HEART FAILURE
+• Chest radiograph
+• Electrocardiography
+• Echocardiography
+• Electrolyte, Urea and Creatinine
+• FBG
+• Urine micro-analysis
+• Full Blood Count with differentials
+
+TREATMENT GOALS OF HEART FAILURE
+• Relieve symptoms
+• Treat cause where feasible
+• Treat precipitating factors
+• Enhance quality of life
+• Prevent complications
+• Prolong life
+
+TREATMENT OF HEART FAILURE
+Non-drug Treatment
+• Bed rest
+• Low salt diet
+• Exercise (within limits of tolerance)
+• Stop cigarette smoking
+• Avoid excessive alcohol
+Drug Treatment
+• Diuretics
+- Furosemide: 40 - 160 mg intravenously or orally
+- Spironolactone: 25 daily
+• Potassium supplements
+- Potassium chloride: 600 mg orally once, every 8 - 12 hours daily
+depending on the serum levels of potassium
+• Vasodilators
+- Angiotensin converting enzyme inhibitors (ACEIs): Captopril 6.25
+- 25 mg every 12 hours preferably at bedtime
+Or
+- Lisinopril: 2.5 - 20 mg daily especially if there is hypertension
+• Cardioselective blockers (moderate to severe cardiac failure)
+- Carvedilol: 3.125 - 25 mg daily. Initially 3.125 mg once to twice
+daily (with food); dose increased at intervals of at least 2 weeks to
+6.25 mg twice daily, then to 12.5 mg twice daily, then to 25 mg twice
+daily; increase to highest dose tolerated, max. 25 mg twice daily in
+patients with severe heart failure or body weight less than 85 kg and
+50 mg twice daily in patients over 85 kg
+Or
+- Metoprolol: 25 - 150 mg daily
+• Venodilators
+- Nitrates: Glyceryl trinitrate (nitroglycerin): 0.3 - 1 mg sublingually
+and repeated as required
+
+• Inotropes
+- Digoxin: 125 - 250 μg daily (the elderly may require 62.5 - 125 μg
+daily)
+- Dopamine : 2 - 5 μg/kg/minute by intravenous infusion
+• Anticoagulants
+- Warfarin: monitor INR 2 - 2.5
+- Important in atrial fibrillation
+Supportive Measures
+• Pacemakers for arrythmias
+• Ventricular assist devices
+Notable Adverse Drug Reactions, Contraindications and Caution
+• Digoxin: arrhythmias
+• Potassium-sparing drugs: hyperkalaemia
+• ACEIs: hypotension, hyperkalaemia
+• Unless there is a compelling indication, do not combine potassium
+supplements with potassium-sparing drugs
+• The dose and infusion rate for dopamine are critical
+- Low dose infusion rates will cause excessive hypotension
+- Higher infusion rates will elevate the blood pressure
+• The use of β-blockers, atrial natriuretic peptide analogues and
+endothelin receptor antagonists should be reserved for specialist care
+Prevention
+• Adequate treatment of hypertension and diabetes mellitus
+• Good sanitation and personal hygiene (to prevent rheumatic fever)

@@ -1,0 +1,65 @@
+{
+  "condition_name": "Periodontitis",
+  "condition_slug": "periodontitis",
+  "source": "NSTG 2022",
+  "introduction": "An inflammatory condition of the periodontium: periodontal ligament, cementum, alveolar bone, gingivae.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features of Periodontitis",
+      "features": [
+        "May be asymptomatic initially, with a low grade inflammation of the periodontium and gingiva",
+        "As it progresses, and following attachment, lost gums become red, slightly swollen and bleed on slight touch",
+        "Associated teeth show different degrees of mobility"
+      ]
+    },
+    {
+      "type": "Acute Periodontitis",
+      "features": [
+        "Relatively uncommon, of short duration; may be due to trauma, abscess or ulceration",
+        "Characterized by pain",
+        "May be associated with bleeding, fever, swelling and redness of the mucosa, unpleasant taste in the mouth"
+      ]
+    },
+    {
+      "type": "Chronic Periodontitis",
+      "features": [
+        "Inflammation within the supporting tissues of the teeth with bone loss",
+        "Characterized by pocket formation and/or recession of the gingiva",
+        "Prevalent in adults, but can occur at any age",
+        "A sequelae to untreated gingivitis"
+      ]
+    }
+  ],
+  "investigations": [],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Instruction, reinforcement, and evaluation of the patient's plaque control should be performed",
+      "Supra- and sub-gingival scaling and root planning to remove microbial plaque and calculi"
+    ],
+    "drug": [
+      "Paracetamol: Adult: 1 g orally every 8 hours for 3 - 5 days; Child: 1 - 5 years: 125 - 250 mg; 6-12 years: 250 - 500 mg orally every 8 hours",
+      "Amoxicillin: Adult: 250 mg orally every 8 hours for 5 days; Child: 1 month - 1 year: 62.5 mg orally every 8 hours for 5 days; 1 - 5 years: 125 mg every 8 hours for 5 days; 5 - 12 years: 250 mg 8 hourly for 5 days; 12 - 18 years 500 mg 8 hourly for 5 days; all doses doubled in severe infections",
+      "Metronidazole: Adult: 200 mg orally every 8 hours for 5 days; Child: 1 - 3 years: 50 mg orally every 8 hours for 5 days; 3 - 7 years: 100 mg every 12 hours for 5 days; 7 - 10 years: 100 mg every 8 hours for 5 days",
+      "2% Chlorhexidine gluconate (alcohol free) Rinse mouth with 10 mLs for about 1 minute twice daily for 1 - 2 weeks",
+      "Hexetidine mouthwashes to alternate with warm saline mouthwashes"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Metronidazole: nausea, vomiting and metallic taste, disulfiram-like reactions if taken with alcohol",
+      "Metronidazole is contraindicated in pregnancy",
+      "Avoid alcohol during treatment with metronidazole, and for at least 48 hours after treatment"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [
+    "Oral health education",
+    "Scaling and polishing every six months"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "Scaling and root planning to remove microbial plaque and calculi"
+  ],
+  "prognosis": null
+}

@@ -1,0 +1,118 @@
+{
+  "condition_name": "Scleroderma (Systemic Sclerosis)",
+  "condition_slug": "scleroderma-systemic-sclerosis",
+  "source": "NSTG 2022",
+  "introduction": "A connective tissue disease characterized by autoimmunity, vasculopathy and fibrosis (skin thickening and tightening). Two main forms: Localized - skin fibrosis without internal organ involvement; Generalized - Limited cutaneous sclerosis (calcinosis, raynaud phenomenon (RP); esophageal dysmotility, sclerodactyl and teleanglectasis (formerly known as CREST syndrome), Diffuse cutaneous systemic sclerosis (DCSS), Scleroderma sine scleroderma – internal manifestation of scleroderma without skin involvement. The aetiology is unknown. Genetics, female sex, environmental and infectious agents play a role. Seen in persons who have lost mutation in the antifibrotic pathway. Auto-antibodies produced activate fibroblast induce collagen production and prevent collagen degradation resulting in fibrosis.",
+  "clinical_features": [
+    {
+      "type": "Raynaud's Phenomenon",
+      "features": [
+        "episodic bilateral colour changes of pallor, cyanosis and then erythema (white, blue and then red)",
+        "association with pain or paraesthesia",
+        "precipitated by cold or emotion seen on fingers, toes, nose and ears"
+      ]
+    },
+    {
+      "type": "Skin",
+      "features": [
+        "swelling and puffiness of fingers",
+        "tightening",
+        "decrease flexibility of the skin",
+        "skin ulcer",
+        "telanglectasia",
+        "calcinosis"
+      ]
+    },
+    {
+      "type": "Musculoskeletal",
+      "features": [
+        "arthritis",
+        "arthralgia",
+        "muscle weakness"
+      ]
+    },
+    {
+      "type": "Gastrointestinal",
+      "features": [
+        "gastroesophageal reflux",
+        "dysphagia",
+        "dyspepsia",
+        "nausea",
+        "intestinal pseudo-obstruction"
+      ]
+    },
+    {
+      "type": "Pulmonary",
+      "features": [
+        "dyspnoea on exertion",
+        "non-productive cough"
+      ]
+    },
+    {
+      "type": "Cardiac",
+      "features": [
+        "pericarditis",
+        "pulmonary hypertension",
+        "congestive heart failure"
+      ]
+    },
+    {
+      "type": "Kidney",
+      "features": [
+        "sclerodermal renal crisis seen in DCSS characterized with microangiopathic haemolytic anaemic and hypertension"
+      ]
+    }
+  ],
+  "investigations": [
+    "FBC, haematocrit",
+    "ESR, CRP",
+    "Digital chest X-ray, HRCT scan with suspicion of ILD",
+    "ECG, ECHO with suspicion of pulmonary hypertension",
+    "Serology – Anti-Nuclear Antibody (ANA)",
+    "Anti-topoisomerase 1 (anti-Scl 70) specific for diffuse sclerosis",
+    "Anti-centromere (specific for Limited scleroderma)",
+    "Others Anti-RNA polymerase I, II, and III, anti-U1 RNP (found in mixed connective tissue)"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Smoking cessation",
+      "Avoiding cold use of hand gloves and stockings",
+      "Physiotherapy to minimize contractures"
+    ],
+    "drug": [
+      "Calcium channel blockers (e.g. tabs nifedipine 10-20 mg daily as tolerated)",
+      "Phosphodiesterase inhibitor (e.g. tabs tadalafil 5 mg daily)",
+      "Selective serotonin uptake inhibitor (e.g. tabs fluoxetine 20 mg nocte daily)",
+      "Prostacyclin for Raynaud's Phenomenon",
+      "Tabs tadalafil 5 mg daily for digital ulcers",
+      "Tabs sildenafil 20 mg three times daily for digital ulcers",
+      "Tabs bosentan 62.5 mg 12 hourly for patients less than 40 kg body weight. For those above 40 kg body weight, 62.5 mg 12 hourly for the first four weeks and then 125 mg 12 hourly afterwards",
+      "Angiotensin converting enzyme inhibitor (tabs captopril 2.5 - 5 mg daily) for scleroderma renal crisis",
+      "IV cyclophosphomide 1 g monthly for 9 months for interstitial lung disease",
+      "Tabs mycophenolate mofetil 1 - 2 g daily for interstitial lung disease",
+      "IV rituximab 500 mg - 1 g day 1 and day 15 for interstitial lung disease",
+      "Phosphodiesterase inhibitor (e.g. tabs tadalafil 20-40mg daily, sildenafil) for pulmonary hypertension",
+      "Endothelin receptor antagonist (e.g. tabs bosentan 62.5 mg 12 hourly for patients less than 40 kg body weight; for those above 40 kg, 62.5 mg 12 hourly for the first four weeks and then 125 mg 12 hourly afterwards)",
+      "Prostacyclin (epoprostenol IV 1 - 2 ng/kg/min daily)",
+      "Proton pump inhibitors: tabs omeprazole 20 - 40 mg twice daily for gastrointestinal symptoms",
+      "H2 receptor blockers (tabs cimetidine 400 mg twice daily) for gastrointestinal symptoms",
+      "Prokinetic agents: tabs metoclopramide 10 mg three times daily"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Systemic Lupus Erythematosus (SLE)",
+    "Rheumatoid arthritis",
+    "Mixed connective tissue",
+    "Nephrogenic systemic fibrosis (common in dialysis patient)",
+    "Eosinophilic fasciitis",
+    "Polyneuropathy, organomegaly, endocrinopathy, monoclonal gammopathy, scleroderma like skin change (POEMS syndrome)"
+  ],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

@@ -1,0 +1,61 @@
+{
+  "condition_name": "Mastoiditis",
+  "condition_slug": "mastoiditis",
+  "source": "NSTG 2022",
+  "introduction": "Develops as a complication of acute suppurative otitis media, mostly in children. Follows acute otitis media (untreated or inadequately treated), or due to particularly virulent organisms. Infection spreads from the tympanum posteriorly into the mastoid antrum and air cells. Colliquative necrosis of the air cells and suppuration in the mastoid bone follows. A subperiosteal abscess forms behind the ear in a child with a discharging ear.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features of Mastoiditis",
+      "features": [
+        "Fever",
+        "Pain behind the ear",
+        "Mucopurulent ear discharge",
+        "Progressive inflammatory swelling over the mastoid region",
+        "Swelling is tender and fluctuant"
+      ]
+    }
+  ],
+  "investigations": [
+    "Ear swab for microscopy, culture, culture and sensitivity",
+    "Radiographs of the mastoid",
+    "CT Scan of petromastoid",
+    "MRI of the petromastoid"
+  ],
+  "treatment": {
+    "goals": [
+      "Control and eradicate infection",
+      "Prevent more serious Complications"
+    ],
+    "non_drug": [
+      "Cortical mastoidectomy to open the mastoid",
+      "Exenterate the infected air cells and drain the mastoid"
+    ],
+    "drug": [
+      "Antibiotics: Large doses of parenteral antibiotics",
+      "Amoxicillin, Adult: 500 mg -1 g intravenously 6-8 hourly for 7 days, Child: 50 - 100 mg/kg intravenously 6 - 8 hourly in divided doses daily for 7 days",
+      "Ceftriaxone, Adult: 1 g 12 hourly intravenously for 7 days, Child: 13 years and above: by intravenous infusion over 60 minutes; 1 month - 12 years (body weight under 50 kg) 50 mg/kg once daily, up to 80 mg/kg in severe infections; Neonates: 20 -50 mg/kg once daily, by deep intramuscular injection or by intravenous injection over 2 - 4 minutes, or by intravenous infusion",
+      "Analgesics: Paracetamol, Adult: 500 mg -1 g orally 4 - 6 hourly (to a maximum of 4 g daily) for 5 - 7 days, Child over 50 kg: same as adult dosing; 6 - 12 years: 250 - 500 mg; 3 months - 5 years:125 - 250 mg taken orally 4 - 6 hourly for 5 - 7 days"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": [
+      "Bed rest: in-patient care",
+      "Intravenous infusion as appropriate"
+    ]
+  },
+  "differential_diagnoses": [
+    "Suppurating post-aural lymphadenitis from otitis externa"
+  ],
+  "complications": [
+    "Spread of infection into cranial cavity with:",
+    "Extradural abscess",
+    "Meningitis",
+    "Brain abscess",
+    "Lateral sinus thrombophlebitis"
+  ],
+  "prevention": [
+    "Adequate and timely treatment of acute otitis media"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

@@ -1,0 +1,92 @@
+{
+  "condition_name": "Pruritus",
+  "condition_slug": "pruritus",
+  "source": "NSTG 2022",
+  "introduction": "Commonly known as itching. The most common unpleasant experience involving the skin; provokes a desire to scratch. May be elicited by many normally occurring stimuli e.g. Light touch, Temperature change, Emotional stress and Chemical, mechanical, thermal and electrical stimuli. Mediated by the release of chemical substances e.g. histamine, kinins, and proteases. Prostaglandin E lowers the threshold for histamine-induced pruritus, while enkephalins, pentapeptides which bind to opiate receptors in the brain modulate pain and itching centrally.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "At a low level, may merely be annoying",
+        "May actually torture the patient, interfere with sleep and lead to less than optimal performance",
+        "There are great variations from person to person",
+        "In the same person there may be variation in reactions to the same stimuli",
+        "In the elderly, senile pruritus due to dry skin may be particularly bothersome",
+        "Psychologic trauma, stress, absence of distractions, anxiety, and fear may all enhance itching",
+        "Tends to be most severe at the time of undressing for bed",
+        "There are also regional variations",
+        "The ear canals, eyelids, nostrils, and perianal and genital areas are especially susceptible to pruritus",
+        "May be localized or generalized",
+        "May or may not be associated with skin lesions",
+        "Excoriations are typically linear and occur where the patient can reach with his hands",
+        "The middle of the back is typically spared except when the patient has used a back scratcher",
+        "The scratch is usually erythematous, with many tiny erosions scattered along it",
+        "Fresh marks are usually weepy or bloody; older ones crusted",
+        "Lesions may become impetiginized",
+        "In addition to excoriations, some patients may have smooth, shiny fingernails (the polished nails of chronic pruritus)",
+        "Pruritus without skin lesions suggests - Biliary obstruction - Diabetes mellitus - Uraemia - Lymphoma - Hyperthyroidism - Adverse reaction to medicines e.g. Histamine liberators, opioids - Occult scabies - Pediculosis - Onchodermatitis - Dermatitis herpetiformis - Atopic eczema in remission - HIV/AIDS - Systemic mastocytosis",
+        "Polycythaemia vera is a notable cause of pruritus; usually induced by temperature changes",
+        "Some patients complain of pruritus provoked by bath or immediately post-bath",
+        "Factors include: - Aquagenic pruritus - Temperature-dependent pruritus due to cold/heat - Cholinergic pruritus (when the core temperature is increased and there is sweating) - Allergy to bath sponge or soap - Mechanical scrubbing of the skin with coarse sponge causing degranulation of mast cells - A forceful jet of water from the shower may trigger pruritus in some cases."
+      ]
+    }
+  ],
+  "investigations": [
+    "As suggested by meticulous history and physical examination"
+  ],
+  "treatment": {
+    "goals": [
+      "Suppress itch",
+      "Identify and treat cause(s)",
+      "Improve quality of life",
+      "Prevent Complications"
+    ],
+    "non_drug": [
+      "Ultra Violet B therapy",
+      "Localized pruritus",
+      "Counsel patients"
+    ],
+    "drug": [
+      "Ketotifen",
+      "Doxepin",
+      "Cholestyramine",
+      "Activated charcoal",
+      "Corticosteroid creams for inflammatory skin disease",
+      "Crotamiton cream 10%",
+      "Urea 10%, hydrocortisone cream 1 %",
+      "Emulsifying ointment BP",
+      "Doxepin hydrochloride"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Cholestyramine: Counsel patients",
+      "Other drugs should be taken at least 1 hour before, or 4 - 6 hours after cholestyramine to reduce possible interference with absorption",
+      "May cause constipation and gastrointestinal discomfort",
+      "Interferes with the absorption of fat-soluble vitamins",
+      "Supplements of vitamins A, D and K may be required",
+      "Activated charcoal: Risk of aspiration in drowsy or comatose patients",
+      "Risk of intestinal obstruction in patients with reduced gastro-intestinal motility",
+      "Black stools",
+      "Doxepin: Caution in patients with glaucoma, urinary retention, and severe liver impairment",
+      "May cause drowsiness, local burning, stinging, irritation and dry mouth"
+    ],
+    "supportive_measures": [
+      "Treat vomiting with an anti-emetic because it may reduce the efficacy of charcoal treatment"
+    ]
+  },
+  "differential_diagnoses": [
+    "All the above causes of pruritus"
+  ],
+  "complications": [
+    "Sleep disturbance",
+    "Less than optimal performance at home, work or school",
+    "Emotional disturbance",
+    "Suicidal ideation"
+  ],
+  "prevention": [
+    "Use a cleansing bar (instead of soap) for baths",
+    "Pat rather than rub skin dry after bath and immediately lubricate skin with petroleum jelly or emulsifying ointment"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

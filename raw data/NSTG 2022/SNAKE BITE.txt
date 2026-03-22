@@ -1,0 +1,110 @@
+SNAKE BITE 
+Introduction
+A neglected tropical disease. In Africa, snake bite often occurs among farmers who walk unshod, and occasionally occur around homes when snakes are accidentally stepped upon.
+
+Causes
+Poisonous snakes belong to the families of:
+• Viperidae (responsible for most snake bites in Africa)
+  - Subfamilies: Viperinae (old world vipers), Crotalinae (New world vipers, Asian pit vipers)
+• Elapidae (e. g. cobras)
+• Colubridae (e. g. boomslang)
+  - A large group; only a few species are dangerously toxic to humans
+• Hydrophidae (sea snakes)
+
+CLINICAL FEATURES OF SNAKE BITE 
+• Depends on the type of snake, location of bite and promptness of intervention
+  - Local effects include Pain, swelling, bruising, tender enlargement of regional lymph nodes
+  - Systemic effects:
+    - Early anaphylactoid symptoms
+    - Transient hypotension with syncope
+    - Angioedema and urticaria
+    - Abdominal colic
+    - Diarrhoea
+    - Vomiting
+    - Late persistent or recurrent hypotension
+    - Electrocardiograph abnormalities
+    - Spontaneous systemic bleeding
+    - Coagulopathy
+    - Adult respiratory distress syndrome
+    - Acute renal failure
+• Viperidae and crotalidae
+  - Local and systemic bleeding, impairment of organ function, reduction of cardiac output, inhibition of peripheral nerve impulses
+  - Multisystem effects: Rhabdomyolysis, Haemolysis, Blood vessel damage
+• Elapidae
+  - Neurotoxic effects
+• Snake bite wounds may become secondarily infected with:
+  - Clostridium tetani, causing tetanus
+  - Clostridium welchii, causing gas gangrene
+
+Initial assessment
+• Brief history: time and circumstances of bite, progression of local and systemic symptoms; antibiotic allergy, immunization of patient and other morbid condition(s)
+• Examination: to look for tooth marks, local swelling, bleeding, shock, cardiovascular and respiratory systems, evidence of paralysis, level of consciousness
+
+INVESTIGATIONS OF SNAKE BITE 
+Investigations
+• FBC and differentials
+• Test for haemostasis (20 Minute Whole Blood Clotting Test)
+• Electrolytes and Urea
+• Blood clotting profile
+• Arterial blood gas estimation
+• Chest radiograph
+• Wound and blood cultures
+
+TREATMENT OF SNAKE BITE 
+Treatment Goals
+• Neutralize envenomation
+• Limit systemic effects
+• Local wound care
+• Prevent onset of Complications
+
+First-Aid and Transport to the Hospital
+• Move the victim to safety from area where they may have been bitten
+• Reassure the patient (only 50% of the bites by venomous snakes cause
+  envenoming)
+• Remove constricting clothing, rings, shoes, bracelets, bands from the bitten
+  limb
+• Immobilize the whole patient, especially the bitten limb, using a splint or
+  sling
+• Transport the patient to the hospital as quickly and passive as possible
+• Avoid harmful practices: never attempt to suck out or aspirate the poison,
+  do not make incisions, never attempt to catch the snake, a tight arterial
+  tourniquet should never be used)
+
+Non-drug Treatment
+• Assess and observe the patient for at least 24 hours
+• Cardiopulmonary resuscitation may be necessary: clearing of the airway,
+  oxygen administration by face mask or nasal cannula, intravenous access to
+  allow treatment of shock with intravenous fluids
+• Identification of the snake would help in the choice of anti-venom (where
+  specific anti-venoms are available)
+• Wound debridement and fasciotomy for compartment syndrome may
+  become necessary
+
+Drug treatment
+• Intravenous fluid administration to maintain circulation: use colloids or
+  crystalloids as clinically appropriate
+• Anti-venom:
+  - Indications for anti-venom treatment:
+    - Systemic envenomation (neurotoxicity, spontaneous systemic
+      bleeding, incoagulable blood (20MWBCT), cardiovascular
+      abnormality (hypotension, shock, arrhythmia, abnormal
+      electrocardiogram)
+    - Local envenomation: extensive swelling (involving more than half
+      of the bitten limb), rapidly progressive swelling, bites on fingers
+      and toes
+- Usually polyvalent anti-venoms are used, but where specific species are identified, a monospecific anti-venom may be used
+- Adult and child: No dose difference between adult and child in terms of dosage. Contents of the anti-venom vial diluted in sodium chloride 0.9% intravenous infusion, and infused intravenously over 30 minutes
+- Intradermal, subcutaneous testing with diluted venom before administration are not predictive of venom reaction and should not be done
+• Prophylactic antibiotics as appropriate Tetanus prophylaxis
+
+Anti-venom reactions:
+• Early reactions (3 - 60 minutes):
+  - Cough, tachycardia, itching, urticarial, fever, nausea, vomiting, headache
+  - Treatment of anaphylaxis with antihistamines (H blockers), epinephrine (adrenaline) and corticosteroids
+• Pyrogenic reactions; due to pyrogen contamination of anti-venom during manufacture
+  - begins 1-2 hours after treatment and characterized by fever and chills
+  - Tepid sponging and administration of paracetamol are useful
+• Late reactions:
+  - Occurs 5 - 24 days (average 7 days) following anti-venom
+  - Characterized by itching, urticaria, fever, arthralgia, periarticular swellings, proteinuria and sometimes neurological symptoms
+  - Antihistamines are used for milder attacks, but in severe cases, including those with neurological symptoms, a short course of prednisolone should be used

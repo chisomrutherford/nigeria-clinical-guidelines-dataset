@@ -1,0 +1,59 @@
+{
+  "condition_name": "Chronic Otitis Media",
+  "condition_slug": "chronic-otitis-media",
+  "source": "NSTG 2022",
+  "introduction": "A chronic inflammatory condition of the middle ear mucosa associated with recurrent ear discharge, often over a period of years.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features of Chronic Otitis Media",
+      "features": [
+        "recurrent ear discharge (mucoid in simple type; thick and foul-smelling in serious type)",
+        "increasing deafness",
+        "pain is uncommon",
+        "central eardrum perforation is of varying size",
+        "cholesteatoma and marginal or attic perforation in serious type"
+      ]
+    }
+  ],
+  "investigations": [
+    "Ear swab for MCS",
+    "Audiogram: conductive deafness",
+    "X-ray of the mastoids: shows sclerosis, Hypopneumatization",
+    "CT Scan of Petromastoid: Axial, coronal views",
+    "MRI of the petromastoid"
+  ],
+  "treatment": {
+    "goals": [
+      "To give the patient a safe and dry ear",
+      "To preserve or restore hearing as much as possible"
+    ],
+    "non_drug": [
+      "Careful ear toileting and regular ear dressing with antiseptic pack",
+      "Myringoplasty to protect middle ear and improve hearing in dry ears with persistent perforation.",
+      "Mastoid operation when there is cholesteatoma unresponsive to treatment."
+    ],
+    "drug": [
+      "Co-Amoxiclav",
+      "Adult: 500/125 mg orally q8hr for 14 days in acute exacerbations.",
+      "Child: 6 - 12 years: 250 mg orally 12 hourly",
+      "Child: under 6 years: 125 mg 12 hourly"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Do not use topical ototoxic antibiotics in the presence of perforation."
+    ],
+    "supportive_measures": [
+      "Protect ears from water with Vaseline/cotton wool while bathing"
+    ]
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Intracranial suppuration (extradural abscess, meningitis, or brain abscess)",
+    "Lateral sinus thrombosis",
+    "Facial nerve paralysis",
+    "Labyrinthitis"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

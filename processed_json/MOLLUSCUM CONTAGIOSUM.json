@@ -1,0 +1,52 @@
+{
+  "condition_name": "Molluscum Contagiosum",
+  "condition_slug": "molluscum-contagiosum",
+  "source": "NSTG 2022",
+  "introduction": "A common infection caused by a large epidermotropic pox virus. It is common in children. Spread by direct human to human contact. In adults it is often transmitted during sexual intercourse",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Individual lesions are smooth-surfaced, firm, dome-shaped, pearly papules; average diameter 3 - 5 mm",
+        "Some \"giant\" lesions may be up to 1.5 cm in diameter",
+        "Characteristic central umbilication",
+        "Spontaneous resolution is expected",
+        "Host response plays an important role",
+        "Children with widespread molluscum contagiosum usually have atopic dermatitis",
+        "Consider HIV in adults"
+      ]
+    }
+  ],
+  "investigations": [
+    "Histopathology of the expressed pasty core"
+  ],
+  "treatment": {
+    "goals": [
+      "Eradicate the skin lesions"
+    ],
+    "non_drug": [
+      "Light electrosurgery with a fine needle",
+      "Cryotherapy with trichloroacetic acid 35% - 100%",
+      "Curettage and paint with iodine"
+    ],
+    "drug": [
+      "Cimetidine - Adult: 40 mg/kg/day orally for 2 months - Child: not licensed for use in children less than 1 year. - 1 month - 12 years: 5 - 10 mg/kg (maximum 400 mg) 4 times daily - 12 - 18 years: 400 mg orally 4 times daily",
+      "Antibiotics - To prevent or treat secondary infection"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Viral warts",
+    "Giant molluscum contagiosum may mimic basal cell epithelioma"
+  ],
+  "complications": [
+    "Secondary bacterial infection"
+  ],
+  "prevention": [
+    "Avoid direct skin contact with an infected person"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

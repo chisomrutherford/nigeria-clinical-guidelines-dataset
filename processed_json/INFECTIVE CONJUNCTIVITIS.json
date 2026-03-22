@@ -1,0 +1,63 @@
+{
+  "condition_name": "Infective Conjunctivitis",
+  "condition_slug": "infective_conjunctivitis",
+  "source": "NSTG 2022",
+  "introduction": "The commonest cause of a red eye is infective conjunctivitis.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Red eye (generalized)",
+        "Eye discharge: purulent or catarrhal, worse on waking from sleep",
+        "Eye discomfort: grittiness",
+        "Photophobia: mild",
+        "Swollen eyelids in ophthalmia neonatorum"
+      ]
+    }
+  ],
+  "investigations": [
+    "Conjunctival swab for microscopy, culture and sensitivity"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Dark glasses for photophobia"
+    ],
+    "drug": [
+      "Antibiotic eyedrops or ointments - Chloramphenicol 0.5%: Apply one drop at least every 2 hours until infection is controlled then reduce frequency and continue for 48 hours after healing",
+      "Inclusion conjunctivitis: Sulphonamide drops or tetracycline drops or ointment",
+      "Epidemic keratoconjunctivitis: Antibiotic drops to prevent secondary bacterial infection (chloramphenicol 0.5% drops)",
+      "Adult and child over 2 years: apply every 4 hours for no more than 5 days",
+      "Or: Ofloxacin 0.3% solution applied as stated above",
+      "Plus: systemic cephalosporin e.g. ceftriaxone - Adult: 1 g every 12 hours intravenously for 7 days",
+      "Child: 12 years and above: by intravenous infusion over 60 minutes",
+      "Neonates: 20 - 50 mg/kg once daily, by deep intramuscular injection, intravenous injection over 2 – 4 minutes, or by intravenous infusion",
+      "1 month - 12 years (body weight under 50 kg) 50 mg/kg once daily, up to 80 mg/kg in severe infections",
+      "Chlamydia: Systemic erythromycin - Adults and children over 8 years: 250 - 500 mg orally every 6 hours (or 500 mg - 1 g every 12 hours)",
+      "1 month - 2 years: 125 mg orally every 6 hours; dose doubled in severe infections",
+      "2 - 8 years: 250 mg 6 hourly",
+      "8 - 18 years: 250 - 500 mg 6 hourly; dose doubled in severe infections"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Steroid drops are absolutely contraindicated"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Allergic conjunctivitis",
+    "Acute keratitis",
+    "Acute iritis/uveitis",
+    "Acute glaucoma"
+  ],
+  "complications": [
+    "Corneal affectation, which could lead to perforation",
+    "Endophthalmitis"
+  ],
+  "prevention": [
+    "Wash hands thoroughly after any unhygienic procedure",
+    "Avoid sharing towels used for cleaning face"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

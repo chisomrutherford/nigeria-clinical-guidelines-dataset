@@ -1,0 +1,112 @@
+THE PARALYZED PATIENT 
+Introduction
+An individual presenting with inability to use one, or all the limbs as a result of
+neurological disease. Paralysis of limbs on one side of the body has been
+covered under cerebrovascular disease (Stroke). This section will address
+paralysis of both lower limbs or all four limbs. The paralysis may be transient or
+last for a while and can affect any age group.
+
+CAUSES OF THE PARALYZED PATIENT
+• Poliomyelitis
+• Spinal cord diseases (myelopathies)
+• Metabolic disease (periodic paralysis due to potassium changes in sensitive
+individuals),
+• Vitamin B12 deficiency
+• Immunological and autoimmune disorders – Guillain-Barre syndrome
+(GBS), Disorders of neuromuscular junction – Myasthenia gravis (MG)
+• Infections – Cerebral venous thrombophlebitis, Lyme disease
+• Neoplastic conditions with metastasis
+• Trauma
+• Brain stem pathologies
+Neurodegenrative diseases - amyotrophic lateral sclerosis; primary muscle disease - muscular dystrophy
+
+CLINICAL FEATURES OF THE PARALYZED PATIENT 
+• Poliomyelitis – the most important cause of acute flaccid paralysis and a
+major cause of disability worldwide; Presents usually in childhood after a 
+febrile illness. There is muscle wasting and lower motor neuron signs. Post-
+polio syndrome is characterized by pain and worsening disability
+• Brain stem lesions - quadriparesis with cranial nerve palsies, cerebellar
+signs (incoordination, tremors, ataxic gait, nystagmus) and bulbar signs
+(dysphagia, dysphonia, dysarthria), tongue wasting with fasciculations and
+absent gag reflex
+• Myelopathies - quadriparesis or paraparesis and definite sensory level,
+gibbus (if extradural lesion) sphincteric dysfunction and impotence. There
+may be upper or lower motor neuron signs, the latter during the phase of
+neuronal shock
+• Myasthenia gravis (MG) - fluctuating weakness that improves with rest or
+with the administration of anticholinesterase drugs in those previously
+diagnosed with the condition
+• Motor neuron disease - a combination of upper and lower motor neuron
+signs commonly without sensory deficit
+• Muscular dystrophy - motor weakness with abnormality in muscle bulk.
+There may be pseudohypertrophy, gait change, positive family history and
+no sensory deficit
+• Guillain-Barre syndrome (GBS) - preceding febrile illness (urinary or
+respiratory tract infections or recent vaccination followed rapidly by
+ascending weakness, lumbar pain and sphincteric disturbance. May be
+associated with facial nerve paralysis, papilloedema and bulbar palsy
+
+DIFFERENTIAL DIAGNOSES IN A PARALYZED PATIENT 
+• Multi-infarct dementia
+• Bilateral stroke
+• Conversion disorder (hysteria)
+• Multiple sclerosis
+
+COMPLICATIONS IN A PARALYZED PATIENT 
+• Deep vein thrombosis
+• Pulmonary embolism
+• Decubitus ulcers
+• Disuse atrophy
+• Contractures
+• Bulbar failure
+
+INVESTIGATIONS IN A PARALYZED PATIENT 
+• Imaging: Plain X-ray of the skull and back; Magnetic resonance imaging
+(brain, spines); Chest X-ray
+• Cerebrospinal fluid examination for protein, cells, cytology, oligoclonal
+bands
+• Muscle biopsy
+• Edrophonium test for myasthenia gravis; Protein Specific Antigen for
+prostatic cancer
+• Electrolyte and urea for suspected periodic paralysis
+• Electromyography and nerve conduction studies for suspected GBS, MG
+and periodic paralysis
+• Other tests are pulse oximetry; erythrocyte sedimentation rate, full blood
+count and plasma glucose
+
+TREATMENT OF THE PARALYZED PATIENT 
+Treatment Goals
+• Restoration of motor power
+• Mobility support
+• Prevention of complications
+Non-drug Treatment
+• Physiotherapy
+• Prevention of deep vein thrombosis
+• Catheterization when there is either incontinence or retention
+• Feeding support for those with swallowing disorders
+• Use of calipers to aid movement and support extremities
+Drug Treatment
+• Acute phase: Pain – use of non-steroidal anti-inflammatory drugs and
+pregabalin for neuropathic pain
+• GBS: Intravenous immunoglobulins where available or plasmapheresis;
+High dose steroid (Pulse therapy) with IV methylprednisolone 1 g daily for
+5 days followed by oral prednisolone
+• MG: Pyridostigmine/ neostigmine should be prescribed; Oral prednisolone
+may be added
+• There may be need for ICU management of patients who develop bulbar
+palsy or severe respiratory depression (GBS, MG). This will be guided by
+oxygen desaturation.
+• Management of complications like aspiration pneumonitis with antibiotics
+Surgery
+Surgical treatment when due to mass lesion (See Chapter on cancer for relevant
+management)
+Notable Adverse Drug Reactions, Contraindications and Caution
+• Steroids can cause dyspepsia and hyperglycaemia. They should be
+prescribed after infections have been excluded and with caution in diabetic
+patients
+Prevention
+• Immunization against poliomyelitis in childhood
+• Screening for cancer and early management before metastatic spread
+• Prevention of stroke (see section on Stroke and other causes listed above)
+• Avoid known precipitants like heavy meals or exercise for periodic
+paralysis; infection or poor compliance for MG crisis

@@ -1,0 +1,75 @@
+{
+  "condition_name": "Chronic Myeloid Leukaemia (CML)",
+  "condition_slug": "chronic-myeloid-leukaemia-cml",
+  "source": "NSTG 2022",
+  "introduction": "Chronic Myeloid Leukaemia (CML), also known as Chronic Myelogenous Leukaemia or Chronic Granulocytic Leukaemia, is a clonal disease resulting from acquired genetic change in a pluripotential haematopoietic stem cell. Altered stem cell proliferation generates a population of differentiated cells, and a greatly expanded total myeloid mass. It is rare below the age of 20 years but occurs in all age groups. There is an increased risk of developing CML with exposure to high doses of irradiation. It is a biphasic or triphasic disease, usually diagnosed in the initial \"chronic\" or stable phase.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Asymptomatic Abdominal swelling/pain",
+        "Lethargy",
+        "Shortness of breath on exertion",
+        "Weight loss",
+        "Unexplained haemorrhage at various sites e.g. gums, intestinal/urinary tracts",
+        "Increased sweating",
+        "Visual disturbances",
+        "Gout",
+        "Priapism",
+        "Splenomegaly",
+        "Anaemia and Haemorrhage",
+        "Fever",
+        "Lymphadenopathy (rare in chronic phase)"
+      ]
+    }
+  ],
+  "investigations": [
+    "Determination of Philadelphia chromosome",
+    "Lactic dehydrogenase",
+    "Serum calcium"
+  ],
+  "treatment": {
+    "goals": [
+      "Induce remission to achieve complete remission",
+      "Maintain disease-free state",
+      "Achieve absence of Philadelphia chromosome"
+    ],
+    "non_drug": [
+      "Appropriate nutrition",
+      "Adequate hydration",
+      "Electrolyte balance"
+    ],
+    "drug": [
+      "Hydroxycarbamide (hydroxyurea) - Adult: 20-30 mg/kg orally daily or 80 mg/kg every third day",
+      "Interferon alpha - Adult: 9 million units subcutaneously or intravenously thrice weekly for 6 - 12 months",
+      "Imatinib mesylate - 400 mg orally daily (to be used strictly under specialist supervision)"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Profound myelosuppression",
+      "Profound nausea, vomiting, diarrhoea and abdominal discomfort",
+      "Secondary malignancies",
+      "Steroids: Cushing's syndrome, hypertension, diabetes mellitus, immunosuppression, infections",
+      "Vincristine: neurotoxicity",
+      "Cylophosphamide: alopecia, haemorrhagic cystitis",
+      "Daunorubicin: myelosuppression, alopecia, cardiotoxicity",
+      "All are contraindicated in patients with history of hypersensitivity reactions to the respective medicines"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Chronic myelomonocytic leukaemia",
+    "Chronic neutrophilic leukaemia",
+    "Juvenile chronic myeloid leukaemia"
+  ],
+  "complications": [
+    "Blastic transformation",
+    "Death"
+  ],
+  "prevention": [
+    "Avoid exposure to ionizing radiation",
+    "Early detection and treatment"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

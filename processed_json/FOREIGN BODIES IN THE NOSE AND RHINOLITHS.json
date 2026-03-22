@@ -1,0 +1,46 @@
+{
+  "condition_name": "Foreign Bodies in the Nose and Rhinoliths",
+  "condition_slug": "foreign-bodies-in-the-nose-and-rhinoliths",
+  "source": "NSTG 2022",
+  "introduction": "Typically result in foul smelling unilateral nasal discharge. Some inorganic objects may (after long periods) become coated by hard calcific deposits and become known as rhinoliths. High index of suspicion is important. Once care giver insists on foreign body inhalation (symptomatic or asymptomatic), it must be fully investigated.",
+  "clinical_features": [
+    {
+      "type": "",
+      "features": [
+        "Often no indication or symptom",
+        "May be noticed accidentally by parent",
+        "Later, complaints of foul purulent unilateral nasal discharge of unknown origin"
+      ]
+    }
+  ],
+  "investigations": [
+    "Nasal endoscopy",
+    "Radiograph of nose: for metallic or radio-opaque objects",
+    "CT Scan of the nose and paranasal sinuses when missile injuries are involved"
+  ],
+  "treatment": {
+    "goals": [
+      "Remove object safely with little discomfort to patient"
+    ],
+    "non_drug": [
+      "Careful removal with appropriate hook or forceps",
+      "Removal under anaesthesia as necessary"
+    ],
+    "drug": [],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Acute or chronic rhinitis/sinusitis",
+    "Nasal growth/polyp"
+  ],
+  "complications": [
+    "Secondary infection: rhinosinusitis"
+  ],
+  "prevention": [
+    "Vigilant supervision of young children"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

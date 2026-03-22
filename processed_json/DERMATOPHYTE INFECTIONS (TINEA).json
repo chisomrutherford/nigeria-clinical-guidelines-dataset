@@ -1,0 +1,96 @@
+{
+  "condition_name": "Dermatophyte Infections (Tinea)",
+  "condition_slug": "dermatophyte-infections-tinea",
+  "source": "NSTG 2022",
+  "introduction": "Superficial fungal infection that affects keratinized tissues. Fungi that usually cause only superficial infections on the skin are called dermatophytes and they are classified in three genera: Microsporum, Trichophyton and Epidermophyton. Can be acquired from humans, animals, soil or vegetable matter. Common in tropical climate (which is hot and humid). Infection could be spread by fomites. The mycoses caused by dermatophytes are called dermatophytosis, tinea, or ringworm. On certain parts of the body, they have distinctive features characteristic of that particular site; therefore, the tineas are divided into: Tinea capitis (scalp), Tinea barbae (beard), Tinea faciei (face), Tinea corporis (trunk), Tinea cruris (groin), Tinea manuum (hand), Tinea pedis (feet), Tinea unguium or onychomycosis (nail).",
+  "clinical_features": [
+    {
+      "type": "General",
+      "features": [
+        "Varied: depending on the site of the body involved",
+        "Pruritis is a notable symptom"
+      ]
+    },
+    {
+      "type": "Tinea capitis",
+      "features": [
+        "Scalp involvement is seen predominantly in children",
+        "Lesions are varied in appearance: usually scaly, dry and annular, with or without alopecia",
+        "Some appear diffuse and scaly and may involve the whole of the scalp",
+        "Inflamed, pustular lesions (kerion) may develop when infection is from animal to man",
+        "Pruritus usually leads to excoriation of lesions and secondary bacterial infection",
+        "Hypersensitivity to the presence of the fungal elements may occur at distant sites ('Id' reaction)"
+      ]
+    },
+    {
+      "type": "Tinea barbae",
+      "features": [
+        "Ringworm of the beard is not a common disease",
+        "Occurs chiefly among those in agricultural pursuits, especially those in contact with farm animals",
+        "Lesions present as severe, deep folliculitis with erythema, nodular infiltrates, scales and pustules",
+        "Marked regional lymphadenopathy is the rule"
+      ]
+    },
+    {
+      "type": "Tinea faciei",
+      "features": [
+        "Fungal infection of the face (apart from the beard)",
+        "Frequently misdiagnosed, since the typical ringworm lesion is not commonly seen on the face",
+        "Erythematous, slightly scaling, indistinct borders are usually seen",
+        "People who use corticosteroids and combination steroid creams as cosmetic bleaching creams are prone to developing Tinea faciei",
+        "The steroid effect makes the lesions atypical and hence it is referred to as Tinea incognito"
+      ]
+    },
+    {
+      "type": "Tinea corporis",
+      "features": [
+        "One or more circular, sharply circumscribed, slightly erythematous, dry, scaly patches",
+        "Lesions may be slightly elevated, particularly at the borders, where they are more inflamed and scalier than at the central parts",
+        "Progressive central clearing produces annular outlines that give them the name 'ringworm'",
+        "In the presence of immune suppression from underlying illness, or chronic use of topical steroid creams lesions may be very extensive and atypical in appearance (Tinea incognito)"
+      ]
+    },
+    {
+      "type": "Tinea cruris",
+      "features": [
+        "Occurs more commonly in adult men",
+        "Leads to severe itching in the groin (crotch)",
+        "Presents as slowly spreading erythematous patches with scaly borders on the upper inner aspects of the thighs"
+      ]
+    }
+  ],
+  "investigations": [],
+  "treatment": {
+    "goals": [
+      "To clear lesions and prevent recurrence"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Topical Ketoconazole - 2% cream apply twice daily",
+      "Miconazole - 2% cream apply twice daily",
+      "Systemic Fluconazole - Adult: 50 mg orally daily for 2 - 4 weeks; up to 6 weeks in tinea pedis",
+      "Systemic Fluconazole - Child: 1 month - 18 years 3 mg/kg (maximum 50 mg) daily for 2 - 4 weeks; up to 6 weeks in Tinea pedis"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Fluconazole: numerous drug interactions",
+      "Hepatotoxicity during long-term daily therapy"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [
+    "Do not share combs, hair brushes, school caps, shoes, socks or underwear",
+    "Keep the feet dry; avoid tight-fitting covered shoes",
+    "Aerate the feet as often as possible",
+    "Use good antifungal powder on the feet after bathing e.g. Tolnaftate 1% powder",
+    "Reduce perspiration and enhance evaporation from the crural areas by wearing loose pants (e.g. boxer pants) made of absorbent cotton fabric",
+    "Apply plain talcum powder or antifungal powders in the flexures e.g. armpits, under the breasts, in the groin area",
+    "Avoid exposure to animals with ringworm (M. canis) especially cats, dogs and (less commonly), horses and cattle",
+    "Excessive perspiration is the most common predisposing factor in adult Tinea corporis",
+    "Avoid excessively hot, humid environments, or take a cold shower after sweating"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

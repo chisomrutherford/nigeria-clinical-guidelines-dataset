@@ -1,0 +1,187 @@
+FOOD POISONING
+Introduction
+A spectrum of disorders arising from:
+Ingestion of food and water contaminated by micro-organisms, and/or their
+toxins, or by chemicals from non-infectious sources.
+Clinical forms:
+・Staphylococcal food poisoning:
+- Food is contaminated by Staphylococcus aureus (S. aureus) when
+prepared unhygienically by individuals who are carriers
+- Subsequent growth of S. aureus in the food and enterotoxin production
+occurs if the food is not cooked at temperatures sufficient to kill the
+bacteria, or is not refrigerated
+・ Food-borne botulism
+・ Non-typhoidal Salmonellosis
+・ Shigellosis
+・ E. coli food poisoning
+・ Campylobacter food poisoning
+・ Listeria monocytogenes food poisoning
+・ Yersinia enterocolitica food poisoning
+・ Norwalk (Norovirus) virus food poisoning
+・ Hepatitis A virus food poisoning
+・ Giardiasis
+・ Helminthic parasitic food poisoning
+・ Others: Bacillus cereus, Vibrio cholera
+
+CLINICAL FEATURES OF FOOD POISONING 
+Clinical Features
+Variable depending on cause and severity:
+・ Abdominal pains
+・ Nausea and Vomiting
+・ Diarrhoea
+・ Fever
+・ Dehydration
+・ Fatigue
+・ Other systemic symptoms
+・ Staphylococcal food poisoning: symptoms begin 30 minutes – 6 hours after
+exposure to microbial toxins.
+- Nausea
+- Abdominal cramps
+- Vomiting
+- Diarrhoea
+・Clostridium perfringens: symptoms begin 6 – 24 hours after exposure.
+- Diarrhoea
+- Abdominal cramps.
+・Food-borne Clostridium botulism
+- Incubation period is 18 - 36 hours, but depending on toxin dose, can
+extend from a few hours to several days.
+- Symmetric descending paralysis
+- Diplopia
+- Dysarthria/dysphagia
+- Nausea, vomiting and abdominal pain may precede or follow the onset
+of paralysis.
+・ Non-typhoidal Salmonellosis: symptoms begin 6 hours to 6 days after
+exposure.
+- Diarrhoea
+- Nausea
+- Vomiting
+- Abdominal cramps
+- Fever
+- Headache
+- Myalgia
+・Shigellosis: symptoms begin 24hours to 48 hours after exposure
+- Fever
+- Self-limiting watery diarrhoea
+- Bloody diarrhoea
+- Dysentery
+- Frequent passage, 10 - 30 times/day of small volume stools containing
+blood, mucus, and pus
+- Abdominal cramps
+- Tenesmus
+・ Campylobacter food poisoning: symptoms begin 2 to 5 days after exposure.
+- Diarrhoea (frequently bloody)
+- Abdominal pain
+- Fever, headache, nausea, and/or vomiting.
+- The symptoms typically last 3 to 6 days.
+・ E. coli food poisoning: symptoms begin 3 to 5 days after exposure.
+- Watery diarrhoea (often bloody) accompanied by abdominal cramps.
+- Vomiting.
+- Around 5–10% of people diagnosed with E. coli food poisoning
+develop a life-threatening complication.
+・ L. monocytogenes food poisoning: Symptoms begin 1 – 4 weeks after
+exposure.
+- Non-invasive listeriosis – fever and diarrhoea
+- Invasive listeriosis-pregnancy losses and meningoencephalitis in
+immunosuppressed person
+・ Norwalk virus food poisoning: Symptoms begin 12 – 48 hours after
+exposure:
+- Abrupt onset of nausea and abdominal cramps followed by vomiting
+and/or diarrhoea
+・ Hepatitis A virus food poisoning:
+- May cause large outbreaks of diarrhoea and vomiting from
+contaminated food, water, milk and shellfish. Intra-family and intra-
+institutional spread common
+
+DIAGNOSIS OF FOOD POISONING 
+Diagnosis
+・ Essentially clinical
+・ Laboratory confirmation of the specific microbe(s) involved.
+
+DIFFERENTIAL DIAGNOSES OF FOOD POISONING 
+Differential Diagnoses
+・ Other causes of acute onset diarrhoea, nausea,
+・ abdominal cramps and vomiting with or without systemic manifestations.
+
+COMPLICATIONS OF FOOD POISONING 
+Complications
+Variable depending on cause and severity.:
+・ Fluid and electrolyte derangements, Dehydration
+・ Rectal prolapse.
+・ Protein-losing enteropathy, Malnutrition
+・ Haemolytic-uraemic syndrome
+・ Toxic megacolon, perforation
+・ Bacteraemia, Cholecystitis, Pancreatitis, Cystitis, Meningitis,
+Endocarditis, Arthritis, Peritonitis, Cellulitis or Septic abortion
+
+TREATMENT OF FOOD POISONING 
+Treatment Goals
+・ Restore fluid and electrolyte balance
+・ Neutralize toxin
+・ Eradicate the microbe
+Non-drug Treatment
+・ Gastric lavage in food-borne botulism
+Drug Treatment
+・ Appropriate fluid and electrolyte replacement
+・ Botulism Antitoxin Heptavalent (A, B, C, D, E, F, G) - (Equine)should be
+administered as soon as possible after specimens are obtained for laboratory
+analysis for food-borne botulism.
+・ Emetics in food-borne botulism
+・ Administer appropriate medicines
+・ Shigellosis
+- Oral Rehydration Therapy
+Plus:
+- Amoxicillin:
+- Adult: 50 - 100 mg/kg/day orally every 8 hours; up to 2 g/day
+- Child up to 10 years: 125 mg every 8 hours, doubled in severe
+infections.
+Or:
+- Trimethoprim/sulfamethoxazole (co-trimoxazole)
+- Adult: 960 mg orally every 12 hours for 5 days
+- Child :
+- Few weeks to 5 months: 120 mg orally
+- 6 months - 5 years: 240 mg
+- 6 - 12 years: 480 mg given every 12 hours for 5 days
+Or:
+- Ceftriaxone:
+- Adult: 1 g intravenously slowly for 5 days
+- Child: 50 mg/kg/day intravenously for 5 days
+・Campylobacter food poisoning
+- Fluid and electrolyte replacement
+Plus:
+- Erythromycin
+- Adult: 250 mg orally every 6 hours for 5 - 7 days
+- Child: 30-50 mg/kg orally every 6 hours for 5 - 7 days
+- Infections involving macrolide resistance could be treated with
+amoxicillin-clavulanate.
+・E. coli food poisoning
+- Antibiotics are not recommended for patients with suspected shiga-
+toxin producing E. coli (STEC) infections, also referred to as
+enterohemorrhagic E. coli (EHEC). Administering antibiotics to
+patients with STEC infections might increase their risk of developing
+haemolytic uraemic syndrome (characterized by low platelet, anaemia
+and kidney failure)
+L. monocytogenes food poisoning
+・
+- Ampicillin 50 mg/kg/day in divided doses
+Plus:
+- Gentamicin 3 - 5- mg/kg daily
+Treat specific Complications as appropriate e.g.
+- Antibiotic-unresponsive toxic megacolon: colectomy
+- Haemolytic-uraemic syndrome: dialysis
+- Malnutrition from protein-losing enteropathy: nutritional support;
+optimal nutritional management
+Prevention
+・ Environmental and personal hygiene
+- Hand washing with soap and water.
+- Decontamination of water supplies by chlorination.
+- Use of sanitary latrines or toilets
+- Identify and treat chronic carriers among food handlers.
+・ Hygienic preparation and storage of food and water
+・ Ensure that food is cooked at temperatures sufficient to kill bacteria.
+・ Refrigerate food whenever possible.
+・ Encourage exclusive breastfeeding.
+・ Encourage measures to reduce the burden of malnutrition (with its attendant
+predisposition to severe infections)
+・ Administer a pentavalent vaccine (A, B, C, D, and E) for persons at high risk
+of botulism.
+・ Report new cases to public health authorities

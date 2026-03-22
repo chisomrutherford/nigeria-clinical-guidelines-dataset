@@ -1,0 +1,66 @@
+{
+  "condition_name": "Cellulitis",
+  "condition_slug": "cellulitis",
+  "source": "NSTG 2022",
+  "introduction": "An acute suppurative bacterial infection of the skin and soft tissue, often with involvement of underlying structures: fascia, muscles and tendons. Most often due to ß-haemolytic streptococci or Staphylococcus aureus. Less common causes include: Anaerobic bacteria, Mycobacteria, Proteus, Pseudomonas and rarely Cryptococcus. Usually (but not always) follows some discernible wound. Often a complication of immunosuppression like diabetes and HIV/AIDS",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Areas of oedema; rapidly spreading",
+        "Erythema (rapidly becomes intense and spreads)",
+        "Tenderness and warmth",
+        "Often accompanied by fever, lymphangitis, regional lymphadenitis",
+        "Systemic signs of toxicity",
+        "Area becomes infiltrated and pits on pressure",
+        "Sometimes the central part becomes nodular and surrounded by a vesicle that ruptures and discharges pus and necrotic material"
+      ]
+    }
+  ],
+  "investigations": [
+    "Blood culture",
+    "Full Blood Count with differentials",
+    "Fasting blood glucose",
+    "HIV screening",
+    "Wound swab for microscopy, culture and sensitivity",
+    "Urinalysis"
+  ],
+  "treatment": {
+    "goals": [
+      "Eradicate infection",
+      "Treat underlying immune suppression (where applicable)",
+      "Prevent Complications"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Ampicillin/cloxacillin - Adult: 500 mg - 1 g orally every 6 hours for 5 - 7 days; Child under 5 years: 125 mg every 6 hours for 5-7 days; 5 - 10 years: 250 mg orally every 6 hours for 5-7 days",
+      "Cloxacillin - Adult: 500 mg orally every 6 hours for 5 - 7 days; Child under 5 years: 125 mg orally every 6 hours for 5-7 days; 5 - 10 years: 250 mg orally every 6 hours for 5-7 days",
+      "Ciprofloxacin - Adult: 250 - 750 mg orally every 12 hours for 5 – 7 days",
+      "Ceftriaxone - Adult: 1 g intravenously or intramuscularly daily for 3 days; Child: Neonate: 20 - 50 mg/kg by intravenous infusion over 60 minutes; 1 month - 12 years; body weight less than 50 kg: 50 mg/kg by deep intramuscular injection or intravenous injection over 2 - 4 minutes, or by intravenous infusion; Intramuscular injections over 1 g should be divided over more than 1 site; Doses of 50 mg/kg and more should be given by intravenous infusion only; Use only when there is significant resistance to other drugs",
+      "Tetanus Prophylaxis"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Ciprofloxacin is contraindicated in growing adolescents and children below 12 years; also contraindicated in pregnancy"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Erysipelas",
+    "Deep vein thrombosis"
+  ],
+  "complications": [
+    "Unusual in immunocompetent adults; children and compromised adults are at higher risk",
+    "Septicaemia",
+    "Gangrene",
+    "Metastatic abscesses",
+    "Recurrent cellulitis may predispose to chronic lymphoedema"
+  ],
+  "prevention": [
+    "Treat any wound promptly"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "May need incision and drainage or debridement"
+  ],
+  "prognosis": null
+}

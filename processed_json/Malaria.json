@@ -1,0 +1,162 @@
+{
+  "condition_name": "Malaria",
+  "condition_slug": "malaria",
+  "source": "NSTG 2022",
+  "introduction": "An infectious protozoan disease transmitted by the female Anopheles mosquito. A major public and private health problem and indeed a cause and consequence of national underdevelopment. Five species of the parasite cause the disease in humans: Plasmodium falciparum, P. malariae, P. vivax, P. ovale and P. knowlesi . P. falciparum accounts for 98% of all cases of malaria in Nigeria and is responsible for the severe form of the disease. Principal mode of spread; bites from infected female Anopheles mosquito. Peak feeding times are usually dusk and dawn, but also throughout the night. Other uncommon modes are: Blood transfusion, Mother-to-child transmission.",
+  "clinical_features": [
+    {
+      "type": "Acute Uncomplicated malaria",
+      "features": [
+        "Fever",
+        "Chills",
+        "Headache Malaise",
+        "Aches and body pain",
+        "Weakness",
+        "Tiredness",
+        "Pallor",
+        "Anorexia",
+        "Vomiting",
+        "Bitterness in the mouth",
+        "Excessive sweating",
+        "Pallor",
+        "Hepatosplenomegaly",
+        "Jaundice"
+      ]
+    },
+    {
+      "type": "Severe (Complicated) malaria",
+      "features": [
+        "Prostration",
+        "Impaired consciousness or unrousable coma",
+        "Failure to feed",
+        "Respiratory distress",
+        "Multiple convulsions - more than 2 episodes in 24 hours",
+        "Circulatory collapse (Algid malaria)",
+        "Pulmonary oedema (radiological)",
+        "Abnormal bleeding/DIC",
+        "Jaundice"
+      ]
+    },
+    {
+      "type": "Laboratory indications of severe malaria",
+      "features": [
+        "Severe anaemia",
+        "Hypoglycemia (blood glucose < 2.2 mmol/L)",
+        "Acidosis (HCO< 15 mmol/L)",
+        "Haemoglobinuria (black water fever)",
+        "Renal impairment (creatinine > 265 μmol/L)",
+        "Hyperlactataemia (> 5 mmol/L)",
+        "Hyperparasitaemia (> 5% or 250,000/ μL)"
+      ]
+    },
+    {
+      "type": "Indicators of poor prognosis in severe malaria",
+      "features": [
+        "Marked agitation",
+        "Hyperventilation (respiratory distress)",
+        "Hypothermia (<36.50C)",
+        "Deep coma",
+        "Repeated convulsions",
+        "Bleeding",
+        "Anuria",
+        "Haemodynamic shock"
+      ]
+    },
+    {
+      "type": "Laboratory indicators of poor prognosis",
+      "features": [
+        "Hyperparasitemia (> 100,000 /μgL; about 2% of cells infected)",
+        "Blood film showing >20% of parasite to be 'late stage'",
+        "Blood film showing > 5% of neutrophils with visible pigments",
+        "Hypoglycemia (<2.2 mmol/L)",
+        "Hyperlactatemia (> 5 mmol/L)",
+        "Acidosis (arterial PH > 7.3, serum HCO> 15 mmol/L)",
+        "Elevated serum creatinine (> 265 μmol/L)",
+        "Elevated total bilirubin (> 50 μmol/L)",
+        "Leukocytosis (>12,000 /μL)",
+        "Severe anaemia (PCV >15%)",
+        "Coagulopathy",
+        "Decreased platelet count (< 50,000 /μL)",
+        "Prolonged prothrombin time",
+        "Decreased fibrinogen"
+      ]
+    }
+  ],
+  "investigations": [
+    "Blood smear for malaria parasites",
+    "Packed cell volume; haemoglobin concentration",
+    "White cell count with differentials",
+    "Blood sugar",
+    "Urinalysis",
+    "Electrolytes and Urea; Creatinine",
+    "Stool microscopy for ova; occult blood",
+    "Chest radiograph",
+    "Cerebrospinal fluid biochemistry; microscopy, culture, and sensitivity"
+  ],
+  "treatment": {
+    "goals": [
+      "Eradicate parasitaemia",
+      "Prevent progression to severe malaria.",
+      "Attend to the immediate threats of life.",
+      "Prevent transmission of gametocytes.",
+      "Provide personal protection against malaria.",
+      "Provide chemoprophylaxis in susceptible groups."
+    ],
+    "non_drug": [],
+    "drug": [
+      "Prompt parasitological confirmation by microscopy or RDTs before treatment",
+      "Artemisinin-based Combination Therapy (ACTs)",
+      "Artemether-Lumefantrine (AL) is the medicine of choice",
+      "Artesunate-Amodiaquine (AA), Dihydroartemisinin Piperaquine and Artesunate-Pyronaridine are alternatives",
+      "Pre-referral treatment (Rectal Artesunate, Artesunate IM, Artemether IM or Quinine IM)",
+      "Parenteral Artesunate is the drug of choice for severe malaria",
+      "Follow-on Treatment with a full course of ACT"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Mefloquine should be avoided if the patient had cerebral malaria because of the increased risk of seizure, encephalopathy and psychosis."
+    ],
+    "supportive_measures": [
+      "Paracetamol (oral/rectal) for symptomatic relief",
+      "If temperature is >38.5°C, wipe with wet towel, and fan to lower the temperature",
+      "Nurse in cardiac position for Pulmonary oedema",
+      "Give oxygen.",
+      "Furosemide 2 - 4 mg/kg intravenously",
+      "Renal failure - Give fluids if patient is dehydrated",
+      "Catheterize to monitor urinary output.",
+      "Transfuse with screened fresh whole blood for profuse bleeding.",
+      "If meningitis is suspected, give appropriate antibiotics.",
+      "Treat other severe diseases accordingly."
+    ]
+  },
+  "differential_diagnoses": [
+    "Typhoid fever",
+    "Meningitis",
+    "Encephalitis",
+    "Septicaemia",
+    "Other causes of fever"
+  ],
+  "complications": [
+    "Pneumonia",
+    "Septicaemia",
+    "Preterm contractions/preterm labour",
+    "Abortions",
+    "Low birth weight",
+    "Intrauterine deaths",
+    "Congenital malaria",
+    "Hyperreactive malaria splenomegaly",
+    "Quartan malaria nephropathy",
+    "Possibly, Burkitt's lymphoma"
+  ],
+  "prevention": [
+    "Reduce the frequency of mosquito bites by avoiding exposure to mosquitoes at their peak feeding times.",
+    "Use insect repellants.",
+    "Put on suitable clothing.",
+    "Use insecticide-impregnated bed nets (ITN)",
+    "Chemoprohylaxis is indicated for children born to non-immune mothers in endemic areas, pregnant women, travellers to endemic areas, and people with sickle cell anaemia.",
+    "Mefloquine and Atovaquone-Proguanil are recommended for use in Nigeria.",
+    "Chemoprophylaxis is not recommended for individuals living with areas of intense transmission."
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

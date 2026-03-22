@@ -1,0 +1,63 @@
+{
+  "condition_name": "Asphyxiated Babies",
+  "condition_slug": "asphyxiated-babies",
+  "source": "NSTG 2022",
+  "introduction": "",
+  "clinical_features": [
+    {
+      "type": "manifestations",
+      "features": [
+        "Inability to cry or suck",
+        "Global hypotonia and poor activity or global hypertonia with brisk deep tendon reflexes",
+        "Shock and oliguria",
+        "Poor temperature regulation",
+        "Paralytic ileus",
+        "Respiratory distress",
+        "Bleeding tendencies",
+        "Seizures"
+      ]
+    }
+  ],
+  "investigations": [
+    "Oxygen saturation via pulse oximetry",
+    "Random blood glucose",
+    "Serum electrolytes, urea and creatinine, serum calcium",
+    "Serum troponin",
+    "Serum aspartate aminotransferase, serum alanine aminotransferase"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Serial monitoring of parameters",
+      "Frequent airway clearing and ventilation by bag and mask",
+      "Nil per oral should be maintained until peristalsis is present and respiratory rate is normal",
+      "Feeding with expressed breast milk via nasogastric or orogastric tube",
+      "Monitor urine output using diaper weight or catheterization",
+      "Invite nephrologist if oliguria is noted"
+    ],
+    "drug": [
+      "Seizures managed with slow intravenous phenobarbitone",
+      "Use inotropes if hypotension is not corrected by fluid bolus (dobutamine or dopamine)",
+      "Administer magnesium sulphate",
+      "Oxygen administration"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": [
+      "Prevent over-hydration by administering exact daily maintenance fluid requirement",
+      "Observe for signs of hypovolaemia and hypoperfusion (blood pressure/capillary refill time)",
+      "Provide fluid bolus of normal saline if circulatory collapse occurs",
+      "Serial serum monitoring of glucose and treat hypoglycaemia",
+      "Correct electrolyte derangement",
+      "Avoid hypoxaemia, maintain SpO₂ >94%",
+      "Selective head cooling if available"
+    ]
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": [
+    "The persistence of abnormal cry and abnormal motor functions beyond the first week of life highly suggests severe cerebral damage."
+  ]
+}

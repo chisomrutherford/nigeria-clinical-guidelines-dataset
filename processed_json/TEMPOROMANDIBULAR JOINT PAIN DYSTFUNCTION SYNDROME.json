@@ -1,0 +1,57 @@
+{
+  "condition_name": "Temporomandibular Joint Pain Dysfunction Syndrome",
+  "condition_slug": "temporomandibular_joint_pain_dysfunction_syndrome",
+  "source": "NSTG 2022",
+  "introduction": "The most common problem in or around the TMJ.",
+  "clinical_features": [
+    {
+      "type": "Demographics",
+      "features": [
+        "Equal frequency between genders, but five times as many females seek treatment",
+        "Patients are usually between 15 and 40 years"
+      ]
+    },
+    {
+      "type": "Symptoms",
+      "features": [
+        "Unilateral or bilateral dull pain within the TMJ and/or surrounding muscles, sometimes on waking or during eating or speech",
+        "TMJ may lock in the open or closed positions, occasionally",
+        "TMJ sounds such as clicking, crunching or grating",
+        "Associated headache is usually located in the temporal region",
+        "Pain is cyclical and usually resolves, but may recur",
+        "May be associated with psychological stress"
+      ]
+    }
+  ],
+  "investigations": [],
+  "treatment": {
+    "goals": [
+      "Conservative and reversible treatment"
+    ],
+    "non_drug": [
+      "Most symptoms are self-limiting and do not require treatment",
+      "Educate patient about the condition, emphasizing its frequency and self-limiting nature",
+      "Soft diet",
+      "Apply moist heat to painful muscles",
+      "Physiotherapy"
+    ],
+    "drug": [
+      "Analgesics as appropriate",
+      "Anxiolytics",
+      "Diazepam 5 mg orally 1 hour before sleep, then 2.5 mg every 12 hours, for up to 10 days (maximum)"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": [
+      "Occlusal splints"
+    ]
+  },
+  "differential_diagnoses": [
+    "Migraine",
+    "Psychologic depression"
+  ],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

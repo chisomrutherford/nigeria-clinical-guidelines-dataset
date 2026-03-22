@@ -1,0 +1,232 @@
+ACUTE ABDOMEN
+Introduction
+These are abdominal conditions causing sudden or severe pain, that requires
+immediate or urgent attention.
+Cause may be surgical in nature or medical diseases. Medical conditions
+should always be borne in mind as they would usually not require surgical
+intervention.
+Common surgical and medical causes are detailed in Table 2. In newborns,
+intestinal obstruction (Table 3) is the commonest cause of acute abdomen and
+their care is different from that of adults and older children.
+
+
+## Table 16.2: Causes of Acute Abdomen
+
+| **Surgical Pathology** | **Medical Disease** |
+|---|---|
+| **Inflammatory/Infective** Appendicitis, cholecystitis, pancreatitis, salpingitis, diverticulitis, primary peritonitis, intra-abdominal abscess | **Metabolic disease** Diabetes mellitus, porphyria |
+| **Gastrointestinal perforation** Perforated typhoid enteritis, perforated peptic ulcer, GI perforation from trauma, perforated GI neoplasms | **Haematologic disease** Haemoglobinopathy (e.g. sickle cell disease, thalassaemia), leukaemia |
+| **Intestinal obstruction/strangulation** Inguinal & other external hernias, internal hernias, intussusception, peritoneal adhesions, volvulus, obstructing GI neoplasms | **Gastrointestinal infections/infestations** Gastroenteritis, typhoid enteritis, parasitic infestation |
+| **Intra-abdominal haemorrhage** Trauma (spleen, liver, other solid viscera), ectopic pregnancy, ruptured aortic aneurysm, ruptured neoplasm (e.g. primary liver cell carcinoma) | **Extra-abdominal infection/infestations** Lower lobar pneumonia, malaria |
+| **Biliary tract obstruction** | |
+| **Urinary tract obstruction** | |
+| **Gynaecologic disease** Twisted ovarian cyst, salpingitis, ectopic pregnancy, bleeding graafian follicle, complicated uterine fibroids | |
+| **Non-specific pain** | |
+
+ 
+Table 16. 3: Causes of neonatal intestinal obstruction
+Anorectal malformation
+Intestinal atresia
+Hirschsprung’s disease
+Intestinal ma lrotation an d midgutv olvulu s
+Inca rcerated and strangulated inguinal/other hernia
+
+Less common causes
+Meconium obstruction (plug and ileus)
+Extra -luminal co mpre ssi on from masses
+Congenital peritoneal bands
+Others: Non-specific pain, etc
+
+CLINICAL EVALUATION IN ACUTE ABDOMEN 
+Clinical Evaluation
+A detailed history should be taken and meticulous and thorough physical
+examination done. However, prompt resuscitation should not be sacrificed for
+taking too much time for history and examination. Clinical evaluation and
+resuscitation should as much as feasible be done simultaneously to save time.
+In Acute abdominal pain note the following:
+• Location
+• Onset and progression
+• Nature and character
+• Aggravating and relieving factors
+• Abdominal distension
+• A past history of similar pain suggests complication of an underlying
+condition
+• In typhoid perforation, fever precedes abdominal pain, while the reverse
+is true for acute appendicitis
+• Nausea and vomiting:
+- A frequent finding
+- Common in intestinal obstruction
+• Altered bowel habits:
+- Diarrhoea may suggest an infective/inflammatory condition
+- Constipation occurs in intestinal obstruction and late in peritonitis
+- The presence or absence of blood, mucus in stool should be ascertained
+• Fever:
+- An early feature in inflammatory/infective conditions
+- A late feature in most other causes of acute abdomen
+• Gynaecologic history:
+- Last menstrual period: this will help in the suspicion of ectopic
+gestation and bleeding graafian follicle
+- Vaginal discharge: salpingitis
+• Urinary symptoms:
+- Pain on micturition
+- Pus in urine or cloudy urine
+- Urethral discharge
+- Loin pain
+• Past medical history:
+- Diabetes mellitus
+- Sickle cell disease
+• Physical examination:
+- General examination
+- Dehydration
+- Temperature (the exact temperature should be taken with a
+thermometer: oral, axillary or rectal temperature)
+- Pallor
+- Jaundice
+- Foetor (as in diabetic ketoacidosis etc.)
+- Haemodynamic status:
+- Pulse rate: >100/minute is abnormal
+- Blood pressure: <100 mmHg systolic and <60 mmHg diastolic
+pressures indicate hypotension in an adult
+- Chest:
+- Examine carefully for evidence of chest infection
+- Abdomen :
+- Distension
+- Presence of scars of previous surgery or bruising in trauma
+- Visible peristalsis (suggests intestinal obstruction)
+- General peritonitis: There may be no movement with respiration
+- Ascertain the site of tenderness
+- Localized:
+- Right iliac fossa (appendicitis, gynaecologic conditions etc.)
+- Right hypochondrium (cholecystitis)
+- Generalised: varied causes. As much as possible any palpable mass
+should be characterized
+- If tenderness is not too marked, ascertain the presence of free fluid in
+the peritoneal cavity by shifting dullness or fluid thrill (ascites)
+- Listen for bowel sounds
+- Diminished or absent in peritonitis; exaggerated in early stages of
+intestinal obstruction
+- Rectal examination:
+- Look for perianal soilage
+- Presence or absence of faeces in rectum
+- Palpate rectovesical pouch or rectouterine pouch (of Douglas) for
+bogginess and tenderness indicating a pelvic collection of pus or
+blood
+- Examine the faeces on the examining finger for blood, mucus
+Vaginal examination:
+- May be necessary to exclude gynaecological conditions
+Differential Diagnoses
+• Give very careful thought to findings at clinical evaluation and list of
+possible causes in Table 2, and then make a list of 3 – 5 possible
+differential diagnoses before proceeding to carry out relevant
+investigations.
+
+INVESTIGATIONS OF ACUTE ABDOMEN 
+Investigations
+Plain radiography
+• Abdomen:
+- Supine and upright films to identify features of intestinal obstruction
+(dilated bowel loops and multiple fluid levels)
+- A radio-opaque shadow may be seen in the region of the urinary tract in
+ureteric colic
+• Chest:
+- An upright film may identify gas under the diaphragm in
+gastrointestinal perforation
+
+- Chest infection should also be looked for
+• Abdomino-pelvic ultrasonography:
+- Should help to ascertain the cause of pain in a proportion of the patients
+(e.g. cholecystitis, gynaecologic conditions, urinary calculi, and
+degenerating masses)
+- May identify injured solid organ in trauma
+• Diagnostic peritoneal lavage:
+- Useful in abdominal trauma to identify haemoperitoneum and leakage
+of gastrointestinal contents and secretions of other organs into the
+peritoneal cavity
+• Biochemical tests:
+- Urinalysis: test the urine for sugar, protein, ketones, etc
+- Random blood sugar to exclude diabetes mellitus
+- Serum electrolytes and urea; correction may be needed
+- Serum amylase to exclude acute pancreatitis
+• Haematological tests:
+- Haemogram to exclude anaemia
+- Packed cell volume may not be reliable because of haemoconcentration
+from dehydration
+- If there is suspicion of sickle cell disease, the haemoglobin genotype
+should be obtained
+- A complete blood count may show evidence of acute infection
+(leucocytosis, neutrophilia)
+- Blood should be grouped, and compatible blood cross-matched and
+made ready
+Other Investigations:
+• Computed tomography may be needed when there is diagnostic confusion
+• Cultures: any suspicious fluid and materials should be obtained and sent for
+microbiology and culture (e.g. vaginal discharge, peritoneal fluid)
+Treatment
+• Resuscitation and general measures
+• In most patients, resuscitation and institution of some general measures
+are necessary before proceeding to definitive treatment of the condition
+• Time taken to adequately resuscitate the patient is critical to achieving a
+good outcome and preventing/minimizing morbidity and mortality
+• Monitor closely by repeated examinations and electronic monitoring to
+identify when patient is adequately resuscitated
+• Avoid time wasting as well as identify patients who are not responding to
+resuscitation and require additional measures
+• Surgery may become part of resuscitation as a damage control measure
+but such surgery is usually limited in extent
+General measures
+• Rehydration and correction of electrolyte derangements
+• Correct shock by giving crystalloids (sodium chloride 0.9%, Ringer's
+lactate) or colloid (e.g. dextran)
+
+• Maintenance fluids are calculated based on degree of dehydration
+• Correct electrolyte deficits (especially potassium)
+• Nasogastric decompression: the largest possible size of tube for patient
+• Aspirate intermittently using low pressure suction or large syringe
+• Urethral catheterization (to monitor urine output)
+• Correct anaemia (by blood transfusion)
+• Commence broad spectrum, intravenous antibiotics effective against
+likely microorganisms
+- Do not give aminoglycosides until urine output is adequate
+• Monitor the following parameters to ensure adequate rehydration:
+- Cardio-respiratory stability
+- Pulse rate
+- Blood pressure
+- Central venous pressure
+- Pulmonary capillary wedge pressure
+- Urine output, volume, colour
+- Hydration status
+- Skin turgor
+- Sensorium
+- Ascertain level of consciousness
+- Evidence of adequate resuscitation
+- Pulse rate begins to fall towards, or below 100 beats/minute
+- Blood pressure: begins to rise towards normal
+- Urine output: 50 - 100 mL/hr (1 - 2 mL/kg/hr); clear or amber
+- SaO2 saturation (from pulse oximeter) 80% and above
+
+TREATMENT OF ACUTE ABDOMEN 
+Definitive Treatment
+Once the patient is adequately resuscitated, definitive treatment can proceed
+• Surgical conditions:
+Most of the surgical conditions will require urgent laparotomy after adequate
+resuscitation
+- Evacuation of pus, blood and all infected material
+- Meticulous examination of all organs and recesses
+- Identify primary pathology
+- Identify other associated/coexisting pathology
+- Treat identified pathologies on their merits
+- Cleanse peritoneal cavity with large volumes of warm sodium
+chloride 0.9%
+Note: Neonates should be referred to the nearest secondary or tertiary facility
+where an anaesthesiologist is readily available
+• Medical conditions:
+- Consult a physician as appropriate, to treat the condition accordingly
+- It is important that repeated examination and monitoring continues
+during and after definitive treatment to identify any problems and
+promptly attend to them
+
+Prognosis
+• Outcome and survival depend on:
+• Early presentation and diagnosis
+• Prompt and adequate resuscitation before surgery
+• Appropriate and meticulous surgery and other treatments as indicated

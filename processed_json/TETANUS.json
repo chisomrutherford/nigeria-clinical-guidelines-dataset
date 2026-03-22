@@ -1,0 +1,121 @@
+{
+  "condition_name": "Tetanus",
+  "condition_slug": "tetanus",
+  "source": "NSTG 2022",
+  "introduction": "A neurologic disorder characterized by increased muscle tone and spasm caused by tetanospasmin, a powerful protein toxin elaborated by Clostridium tetani. C. tetani is ubiquitous and affects all ages and sexes, especially in low socioeconomic settings. The bacteria are found in the soil, inanimate environment, animal faeces, and occasionally in human faeces. Portals of entry include the umbilical stump, female genital mutilation, male circumcision, abortion sites, penetrative wounds (e.g., nail puncture or intramuscular injection), head injury, scalp wounds, traditional scarification, trado-medical incisions, post-operative surgical sites, and chronic otitis media.",
+  "clinical_features": [
+    {
+      "type": "Generalized tetanus",
+      "features": [
+        "Lock jaw (trismus)",
+        "Dysphagia",
+        "Stiffness or pain in the neck, shoulder, and back muscles",
+        "Risus sardonicus (from facial muscle involvement)",
+        "Rigid abdomen and stiff proximal limb muscles",
+        "Intermittent reflex spasms in response to stimuli (e.g. noise, touch)",
+        "Opisthotonos",
+        "Consciousness and sensorium are intact"
+      ]
+    },
+    {
+      "type": "Neonatal tetanus (tetanus neonatorum)",
+      "features": [
+        "Poor feeding",
+        "Irritability",
+        "Rigidity",
+        "Spasms",
+        "Poor prognosis"
+      ]
+    },
+    {
+      "type": "Localized tetanus",
+      "features": [
+        "Increased tone: spasms are restricted to the muscles near the wound.",
+        "Prognosis is good"
+      ]
+    },
+    {
+      "type": "Cephalic tetanus",
+      "features": [
+        "Follows head injury or ear infection.",
+        "Trismus",
+        "Dysfunction of one or more cranial nerves, often the 7th nerve",
+        "May become generalised",
+        "Mortality is high."
+      ]
+    }
+  ],
+  "investigations": [
+    "Wound swab for microscopy, culture, and sensitivity",
+    "Cerebrospinal fluid for biochemistry; microscopy, culture, and sensitivity",
+    "Full Blood Count; ESR",
+    "Urinalysis; urine microscopy, culture, and sensitivity",
+    "Blood glucose",
+    "Electrocardiography",
+    "Serum Electrolytes, Urea and Creatinine",
+    "Electromyography"
+  ],
+  "treatment": {
+    "goals": [
+      "Eliminate the source of toxin",
+      "Neutralize unbound toxin",
+      "Prevent muscle spasms.",
+      "Monitor the patient's condition and provide support until recovery."
+    ],
+    "non_drug": [
+      "Admit patient to a dark and quiet room or intensive care unit where available.",
+      "Protect airway.",
+      "Explore wounds.",
+      "Cleanse and thoroughly debride the wound.",
+      "Provide intubation or tracheostomy for hypoventilation.",
+      "Physiotherapy",
+      "Monitor bowel, bladder and renal function.",
+      "Prevent decubitus ulcers."
+    ],
+    "drug": [
+      "Metronidazole - Adult: 500 mg intravenously, every 6 hours for 10 days",
+      "Benzylpenicillin (Penicillin G) - Adult: 0.6 - 2.4 g daily by slow intravenous injection or infusion in 2 - 4 divided doses; higher doses in severe infections",
+      "Human tetanus immune globulin (TIG) - Adult: TIG 500 units by IM injection or intravenously (IV)—depending on the available preparation",
+      "Diazepam - Adult: 20 mg intravenously slowly stat and titrate up to 250 mg/day in infusion",
+      "Phenobarbital - Adult: 10 mg/kg intravenously at a rate of not more than 100 mg/minute, up to maximum total dose of 1 g"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Diazepam is adsorbed from plastics of infusion bags and giving sets; causes drowsiness and light headedness; hypotension.",
+      "Benzyl penicillin: hypersensitivity reactions",
+      "Metronidazole: taste disturbances",
+      "Phenobarbital: caution in renal and hepatic impairment; can cause paradoxical excitement, restlessness, and confusion in the elderly; hyperkinesia in children."
+    ],
+    "supportive_measures": [
+      "Treat autonomic dysfunction with vasopressors, chronotropic agents if necessary",
+      "Hydration: To control insensitive and other fluid losses",
+      "Enteral or parenteral nutrition as determined by clinical situation",
+      "Treat intercurrent infections."
+    ]
+  },
+  "differential_diagnoses": [
+    "Alveolar abscess",
+    "Strychnine poisoning",
+    "Dystonic drug reactions",
+    "Hypocalcaemic tetani",
+    "Meningitis/encephalitis",
+    "Acute abdomen"
+  ],
+  "complications": [
+    "Autonomic dysfunction - Labile or sustained hypertension, Tachycardia, Dysarrhythmias, Hyperpyrexia, Profuse sweating, Peripheral vasoconstriction, Cardiac arrest ",
+    "Aspiration pneumonia",
+    "Fractures",
+    "Muscle rupture",
+    "Deep vein thrombophlebitis",
+    "Pulmonary emboli",
+    "Decubitus ulcers",
+    "Rhabdomyolysis"
+  ],
+  "prevention": [
+    "Active immunization of all partially or un-immunized adults, those recovering from tetanus, all pregnant women, infants and un-immunized (missed) children.",
+    "Health education",
+    "Improvement in socio-economic status"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

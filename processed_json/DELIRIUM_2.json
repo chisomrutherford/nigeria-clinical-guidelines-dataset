@@ -1,0 +1,79 @@
+{
+  "condition_name": "Delirium",
+  "condition_slug": "delirium",
+  "source": "NSTG 2022",
+  "introduction": "Acute onset disorder of attention and cognitive function; fluctuating course. Common in the elderly and potentially reversible. May occur in home settings but more common during hospitalization. More prevalent postoperatively and in Intensive Care Units. Up to 80% of terminally ill patients may be delirious before death.",
+  "clinical_features": [
+    {
+      "type": "Diagnosing delirium",
+      "features": [
+        "Acute deterioration in cognition, fluctuating over time",
+        "Inattention",
+        "Disorganized thinking",
+        "Altered level of consciousness (agitation, coma, drowsiness, hyper-alertness, irritability, stupor)"
+      ]
+    },
+    {
+      "type": "Forms",
+      "features": [
+        "Hyperactive, hyper alert",
+        "Hypoactive, hypo alert, lethargic",
+        "Mixed – combining features of the above 2 forms"
+      ]
+    }
+  ],
+  "investigations": [
+    "FBC",
+    "Electrolyte, urea and creatinine",
+    "Serum Ca",
+    "LFT",
+    "Blood glucose",
+    "Blood culture",
+    "Urinalysis and urine culture",
+    "Chest X-ray",
+    "Thyroid function tests"
+  ],
+  "treatment": {
+    "goals": [
+      "Return patient to baseline cognitive functioning"
+    ],
+    "non_drug": [
+      "Agitation: ensure safety; use physical restraints only as a last resort to prevent self-harm; allow family participation – even if only to sit by",
+      "Cognitive impairment: sensory orientation, family presence, increase nursing attention, calendars, clocks, newspapers, familiar music, games, etc.",
+      "Dehydration: rehydrate",
+      "Hearing loss: hearing aids",
+      "Immobility: ambulate out of bed as soon and as frequently as possible, involve in self-care as much as possible, minimize tethers (IV lines, nasogastric tubes, urinary catheters, etc.), physiotherapy",
+      "Medications: taper and discontinue unnecessary medicines (see Beer's list of potentially inappropriate medicines), consider renal and liver function in relation to medications, use alternatives, avoid medicines with long half lives",
+      "Sleep deprivation: avoid sedatives, sleep protocol (back massage, soothing music, minimize vital sign checks/procedures, reschedule medication regimen to exclude night time if possible, caffeine-free drinks; maintain sleep-wake cycle)",
+      "Visual impairment: provide glasses or other appropriate visual aids"
+    ],
+    "drug": [
+      "Haloperidol: 0.25-1 mg every 20-30 minutes as loading dose until patient is calmer; divide loading dose by 2 and give every 12 hours; taper over 2-3 days. Maximum daily dose 3-5 mg; doses above 5 mg per day not beneficial; increase harm",
+      "Lorazepam: 0.25 - 0.5 mg starting dose"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Haloperidol should not be given by the intravenous route because of the risk of QTc prolongation. Obtain ECG prior to the first dose if possible",
+      "Caution with haloperidol if patient is taking other medicines that prolong Qtc"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Dementia",
+    "Depression",
+    "Mania",
+    "Organic psychosis e.g. schizophrenia"
+  ],
+  "complications": [
+    "Increased length of hospital stay: functional decline, immobility, pressure ulcers, deep vein thrombosis, pulmonary embolism, etc.",
+    "Complications associated with underlying causes",
+    "Increased risk of dementia",
+    "Worsening of pre-existing cognitive impairment",
+    "Mortality"
+  ],
+  "prevention": [
+    "Identify potential risk factors and avoid or mitigate them"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

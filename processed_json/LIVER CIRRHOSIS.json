@@ -1,0 +1,54 @@
+{
+  "condition_name": "Liver Cirrhosis",
+  "condition_slug": "liver-cirrhosis",
+  "source": "NSTG 2022",
+  "introduction": "An advanced stage of chronic liver disease associated with histological evidence of hepatocyte degeneration, nodularity and fibrosis.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Fatigue",
+        "Fluid retention e.g., Ascites and peripheral oedema",
+        "Peripheral stigmata of chronic liver disease."
+      ]
+    }
+  ],
+  "investigations": [
+    "LFTs",
+    "PT, PTTK",
+    "Liver biopsy",
+    "Ultrasound examination of the liver",
+    "Hepatitis B & C",
+    "Upper GI endoscopy."
+  ],
+  "treatment": {
+    "goals": [
+      "Prevent further liver damage",
+      "Prevent deterioration of liver function",
+      "Symptomatic relief from anaemia, fatigue and oedema"
+    ],
+    "non_drug": [
+      "Encourage high fibre and low salt diet",
+      "Correction of anaemia",
+      "Reduce oedema and ascites"
+    ],
+    "drug": [
+      "Diuretics: Spironolactone tablets 25 - 100 mg orally 12 hourly",
+      "Furosemide 20 - 80 mg orally 12 hourly",
+      "Salt-poor albumin for intractable ascites",
+      "Prevention of variceal bleeding: Propranolol 40 - 80 mg orally daily",
+      "Isosorbide mononitrate 10 mg orally thrice daily"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [
+    "Immunization against hepatitis A and B",
+    "Abstinence from alcohol."
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

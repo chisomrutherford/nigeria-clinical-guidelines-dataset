@@ -1,0 +1,77 @@
+{
+  "condition_name": "Back Pain",
+  "condition_slug": "back-pain",
+  "source": "NSTG 2022",
+  "introduction": "Defined as pain along the spine stretching from the neck downward and including the buttocks area. It affects the cervical, thoracic, lumbar, sacral and coccyx spines and is probably the commonest affliction of mankind. Affects all age groups and sexes. Most cases are due to mechanical causes – poor posture, overuse, unaccustomed exercises. Most back pains are from the soft tissues of the back: muscles, ligaments, tendons, and not from the bony or joint structure. Such pains do not need further investigations but there are 'red flag' clinical features that necessitate further investigations (X-ray, MRI, CT).",
+  "clinical_features": [
+    {
+      "type": "Red Flag Clinical Features",
+      "features": [
+        "Back pain that disturb sleep",
+        "Back pain that persists with recumbent position",
+        "Back pain associated with constitutional disturbances such as fever, loss of weight, nausea, and general feeling of being unwell.",
+        "Back pain associated with bowel disorders.",
+        "Back pain associated with urinary symptoms.",
+        "Back pain associated with muscle weakness",
+        "Back pain associated with deformities of the back",
+        "Degenerative arthritis: spondylosis, spinal canal stenosis, spondylolisthesis, osteomyelitis",
+        "Primary or secondary malignancies, osteoporotic fractures, multiple myeloma, tuberculosis of the spine, spinal abscess"
+      ]
+    },
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Back pain",
+        "Radicular pain in the arms or legs",
+        "Back stiffness",
+        "Saddle anaesthesia",
+        "Paraesthesia in the feet",
+        "Back pain worsened by coughing or sneezing is suggestive of disc lesions",
+        "Back deformity"
+      ]
+    }
+  ],
+  "investigations": [
+    "None, if the pain is mechanical",
+    "Laboratory investigations to exclude other causes",
+    "Imaging: Plain X-rays, CT Scan, MRI, Bone Densitometry, Radioisotope studies"
+  ],
+  "treatment": {
+    "goals": [
+      "Relief of pain",
+      "Treatment of underlying disease",
+      "Treatment of complications"
+    ],
+    "non_drug": [
+      "Weight loss",
+      "Education",
+      "Avoidance of precipitating factors",
+      "Physical therapy",
+      "Acupuncture",
+      "Bio feed back",
+      "Back exercises e.g. Mackenzie Extension Exercises"
+    ],
+    "drug": [
+      "Simple analgesics such as paracetamol up to 1 g three times daily",
+      "Non steroidal anti-inflammatory drugs: Ibuprofen up to 2,400 mg daily, Naproxen: 500 mg twice daily, Diclofenac: 75 mg twice daily, COX-2 inhibitors e.g. celecoxib: 200 mg daily.",
+      "Muscles relaxants: tizanidine, up to 4 mg three times daily, baclofen 5 - 10 mg daily",
+      "Narcotic analgesics: tramadol 50 mg three times daily",
+      "Anti depressants: Amitriptyline 25 - 50 mg nocte, Selective Serotonin Re–uptake Inhibitors e.g. fluoxetine",
+      "Anti–convulsants: pregabalin up to 600 mg daily, gabapentin up to 1,500 mg daily"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Referred pain from gastrointestinal structures, liver, gall bladder, pancreatic disease.",
+    "Aortic aneurysms",
+    "Tumours of the pleura, pericardium",
+    "Pelvic inflammatory diseases",
+    "Psychosomatic disorders"
+  ],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

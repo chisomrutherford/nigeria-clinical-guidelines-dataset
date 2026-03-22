@@ -1,0 +1,23 @@
+{
+  "condition_name": "Dubin-Johnson Syndrome",
+  "condition_slug": "dubin-johnson-syndrome",
+  "source": "NSTG 2022",
+  "introduction": "Intermittent bilirubinaemia (conjugated). Often chronic and familial. No itching, usually asymptomatic. Cause is unknown.",
+  "clinical_features": [],
+  "investigations": [],
+  "treatment": {
+    "goals": [],
+    "non_drug": [],
+    "drug": [],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "None is required"
+  ],
+  "prognosis": null
+}

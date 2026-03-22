@@ -1,0 +1,84 @@
+{
+  "condition_name": "Glaucoma",
+  "condition_slug": "glaucoma",
+  "source": "NSTG 2022",
+  "introduction": "The glaucomas are a group of diseases in which there is gradual loss of vision (actually visual field) due to a form of optic neuropathy. A raised intraocular pressure is a risk factor. It is a common cause of blindness worldwide and once a patient is blind from glaucoma, vision cannot be restored.",
+  "clinical_features": [
+    {
+      "type": "primary open angle glaucoma",
+      "features": [
+        "generally symptomless except in the late stages when symptoms of visual loss present"
+      ]
+    },
+    {
+      "type": "congenital glaucoma",
+      "features": [
+        "enlarged eyeball(s) in the newborn",
+        "corneal oedema/opacity",
+        "photophobia and watering"
+      ]
+    },
+    {
+      "type": "acute closed angle glaucoma",
+      "features": [
+        "marked elevation of intraocular pressure with severe pain",
+        "reduction in vision, red eye",
+        "fixed mid-dilated pupil",
+        "shallow anterior chamber"
+      ]
+    }
+  ],
+  "investigations": [
+    "Intraocular pressure measurement",
+    "Central and peripheral visual field test.",
+    "Fundoscopy to determine cup/disc ratio",
+    "Gonioscopy to view the angle of the eye"
+  ],
+  "treatment": {
+    "goals": [
+      "Stop further loss of retinal ganglion cells and nerve fibre layer by prompt treatment."
+    ],
+    "non_drug": [],
+    "drug": [
+      "Beta-blockers e.g. timolol",
+      "Parasympathomimetics e.g. pilocarpine",
+      "Sympathomimetics e.g. adrenaline, dipivefrin",
+      "Carbonic anhydrase inhibitors e.g. acetazolamide, dorzolamide",
+      "Prostaglandin analogues e.g. latanoprost",
+      "Hyperosmotic agents e.g. mannitol, glycerol"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Timolol - can precipitate heart block, bradycardia and bronchospasms",
+      "Pilocarpine - mioses, spasms of accommodation, retinal detachment",
+      "Acetazolamide - paraesthesia, renal stone formation, Steven – Johnson syndrome, gastrointestinal disturbances, decreased libido, fatigue, weight loss.",
+      "Latanoprost –foreign body sensation, mild conjunctival hyperaemia and increased pigmentation of iris",
+      "Timoptol is contraindicated in Asthmatics and patients with heart block.",
+      "Acetazolamide is contraindicated in patients with pre-existing systemic acidosis, patients with sickle cell disease and allergy to sulphonamides.",
+      "Pilocarpine is contraindicated in eyes with previous retinal detachment, and pathological myopia."
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Ocular hypertension",
+    "Primary optic atrophy (pallor but no cupping of the disc)"
+  ],
+  "complications": [
+    "Central Retinal Vein Occlusion",
+    "Rubeosis irides with resultant secondary glaucoma",
+    "Total blindness"
+  ],
+  "prevention": [
+    "Early detection and prompt treatment",
+    "Screening for glaucoma should be incorporated into the health plan of any nation"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "Goniotomy (for congenital glaucoma)",
+    "Trabeculectomy (for all forms of glaucoma)",
+    "Trabeculotomy",
+    "Laser trabeculoplasty",
+    "Peripheral iridectomy or Yag laser iridotomy for acute closed angle glaucoma (to the affected eye as well as the normal fellow eye)",
+    "Laser photo-ablation of the ciliary body"
+  ],
+  "prognosis": null
+}

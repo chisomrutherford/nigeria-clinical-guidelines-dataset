@@ -1,0 +1,56 @@
+{
+  "condition_name": "Pityriasis Versicolor (Tinea Versicolor)",
+  "condition_slug": "pityriasis-versicolor-tinea-versicolor",
+  "source": "NSTG 2022",
+  "introduction": "Superficial yeast infection of the skin caused by Malassezia furfur species (normal commensal on the skin). Common in warm humid climates. Predisposing factors include occlusion of the skin with pomades and greases, immune suppression, hyperhidrosis, and heat.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Usually asymptomatic (or just mild itching)",
+        "May be generalized in the immuno-compromised",
+        "Fine scaly, guttate or nummular patches, particularly on young adults who perspire freely",
+        "Individual patches are dirty, yellowish/ brownish/hypopigmented macules (hence the term versicolor)",
+        "Larger irregular patches may evolve",
+        "Sometimes follicular tendency is marked; more noticeable at the advancing edges of the irregular patches",
+        "Sites of predilection: Sternal region, sides of the chest, shoulders, upper back, face"
+      ]
+    }
+  ],
+  "investigations": [
+    "Skin scraping for KOH microscopy"
+  ],
+  "treatment": {
+    "goals": [
+      "Improve appearance of skin"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Selenuim sulphide shampoo: Apply on affected areas daily, leave on for 10 – 15 minutes and wash off. Continue for 3 weeks",
+      "Ketoconazole shampoo: Use as above",
+      "Miconazole cream for limited areas. Apply twice daily for 3 weeks"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": [
+      "Deal with underlying predisposing factor(s)"
+    ]
+  },
+  "differential_diagnoses": [
+    "Seborrhoeic dermatitis",
+    "Pityriasis alba",
+    "Pityriasis rosea",
+    "Leprosy"
+  ],
+  "complications": [
+    "None usually; only of cosmetic significance",
+    "Malassezia furfur sepsis from contamination of the lipid-containing medium in immunocompromised patients receiving hyperalimentation through tubes"
+  ],
+  "prevention": [
+    "Avoid hot, humid environments or clothing that promote perspiration",
+    "Take a cold shower after perspiration",
+    "Use any of the above shampoo washes once a month if predisposed"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

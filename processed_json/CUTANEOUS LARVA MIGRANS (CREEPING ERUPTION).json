@@ -1,0 +1,56 @@
+{
+  "condition_name": "Cutaneous Larva Migrans (Creeping Eruption)",
+  "condition_slug": "cutaneous-larva-migrans-creeping-eruption",
+  "source": "NSTG 2022",
+  "introduction": "An infection of the skin by various nematode larvae which migrate, but never reach internal organs or complete their life cycles. Migration leads to twisting, winding linear skin lesions produced by the burrowing of larvae Victims are usually: • People who go barefoot at the beaches • Children playing in sandboxes and crawling on the bare ground • Carpenters and plumbers working under homes • Gardeners The most common causes are cat and dog hookworm • Ancylostoma braziliense • Ancylostoma caninum • Necator americanus • Gnathostoma spinigerum • Strongyloides stercoralis",
+  "clinical_features": [
+    {
+      "type": "Cutaneous Larva Migrans",
+      "features": [
+        "Shortly after entering the skin, the larvae elicit intense pruritus",
+        "Tiny papules and even papulovesicles develop",
+        "Intermittent stinging pain occurs as the larvae migrate",
+        "Thin red, tortuous and minimally elevated lines are formed in the skin",
+        "Rate of migration varies with the species",
+        "Pruritus and excoriation promote secondary bacterial infections",
+        "Intestinal infections with Strongyloides stercoralis may be associated with perianal larva migrans syndrome called 'larva currens' because of the rapidity of larval migration (up to 10 cm/hour)",
+        "Larva currens is an autoinfection caused by penetration of the perianal skin by Strongyloides stercoralis"
+      ]
+    }
+  ],
+  "investigations": [
+    "None useful to management"
+  ],
+  "treatment": {
+    "goals": [
+      "Eradicate the larvae",
+      "Eradicate gut Strongyloides",
+      "Treat impetiginization",
+      "Prevent re-infection"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Ivermectin - Adult: 150 microgram/kg orally as a single dose",
+      "Ivermectin - Child over 5 years old: 200 micrograms/kg orally daily for 2 days",
+      "Albendazole - Adult: 400 mg orally twice daily for 2 days, repeated after 3 weeks if necessary",
+      "Albendazole - Child over 2 years: 400 mg once or twice daily for 3 days, repeated after 3 weeks if necessary",
+      "Antihistamines for pruritus",
+      "Antibiotics for secondary bacterial infections"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Ring worm"
+  ],
+  "complications": [
+    "Secondary bacterial infection",
+    "Fatal Strongyloides stercoralis hyper infection in immunocompromised patients"
+  ],
+  "prevention": [
+    "Avoid direct contact of skin with sand"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

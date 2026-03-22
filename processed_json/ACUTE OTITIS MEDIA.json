@@ -1,0 +1,73 @@
+{
+  "condition_name": "Acute Otitis Media",
+  "condition_slug": "acute-otitis-media",
+  "source": "NSTG 2022",
+  "introduction": "Acute inflammation of the middle ear due to pyogenic organisms.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Earache",
+        "Fever",
+        "Deafness",
+        "Ear discharge",
+        "Malaise (in babies, irritability)",
+        "Redness of the eardrum",
+        "Later, perforation and pulsating mucopurulent discharge"
+      ]
+    }
+  ],
+  "investigations": [
+    "Ear swab for MCS - swab taken properly without contamination",
+    "FBC and Differentials"
+  ],
+  "treatment": {
+    "goals": [
+      "Control infection",
+      "Restore normal hearing"
+    ],
+    "non_drug": [
+      "Ear toileting and antiseptic dressings",
+      "Myringotomy for persistent mucopurulent collection in middle ear with bulging eardrum"
+    ],
+    "drug": [
+      "Antibiotics",
+      "Amoxicillin - Adult: 500 mg -1 g orally 8 hourly for 5 - 7 days",
+      "Amoxicillin - Child: 40 mg/kg orally 8 hourly",
+      "Analgesics",
+      "Paracetamol - Adult: 500 mg - 1 g orally 4 - 6 hourly (maximum of 4 g/d) for 5 - 7 days",
+      "Paracetamol - Child over 50 kg: same as adult dosing",
+      "Paracetamol - 6 - 12 years: 250-500 mg 4-6 hourly",
+      "Paracetamol - 1 - 5 years: 125 - 250 mg",
+      "Paracetamol - 3 months - 1 year: 125 - 250 mg for 5 - 7 days",
+      "Systemic decongestant",
+      "Psuedoephedrine - Adult: 60 mg orally 4 – 6 hourly, (maximum 4 times a day)",
+      "Psuedoephedrine - Child 6-12 years: 30 mg (5 mL of syrup) 8 hourly",
+      "Psuedoephedrine - Child 2-5 years:15 mg, (2.5 mL of syrup) 4-8 hourly"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Preparations of pseudoephedrine with antihistamines may cause drowsiness",
+      "Avoid ear drops"
+    ],
+    "supportive_measures": [
+      "Bed rest and adequate fluids"
+    ]
+  },
+  "differential_diagnoses": [
+    "Acute otitis externa",
+    "Referred otalgia",
+    "Otitis media with Effusion"
+  ],
+  "complications": [
+    "Acute mastoiditis",
+    "Facial nerve paralysis",
+    "Labyrinthitis",
+    "Intracranial (meningitis, brain abscess, lateral sinus thrombosis)"
+  ],
+  "prevention": [
+    "General healthy and clean airy environment reduces incidence of upper respiratory infections (colds)"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

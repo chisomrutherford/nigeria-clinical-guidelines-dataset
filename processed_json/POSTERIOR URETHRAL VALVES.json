@@ -1,0 +1,63 @@
+{
+  "condition_name": "Posterior Urethral Valves",
+  "condition_slug": "posterior-urethral-valves",
+  "source": "NSTG 2022",
+  "introduction": "Congenital mucosal folds situated in the prostatic/membranous urethra, causing urine outflow obstruction. Occurs in males - The most common mechanical cause of renal deterioration in children",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Obstructive urinary symptoms",
+        "Urinary retention",
+        "Failure to thrive",
+        "Distended bladder with palpable kidneys"
+      ]
+    }
+  ],
+  "investigations": [
+    "Urinalysis",
+    "Urine microscopy, culture and sensitivity",
+    "FBC",
+    "Serum Urea, Electrolytes and Creatinine",
+    "Abdominal ultrasound",
+    "Micturating cysto-urethrogram",
+    "Urethrocystoscopy"
+  ],
+  "treatment": {
+    "goals": [
+      "Relieve obstruction",
+      "Treat any Complications"
+    ],
+    "non_drug": [
+      "Valve resection with endoscopes",
+      "Valve avulsion with valvotomes"
+    ],
+    "drug": [],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": [
+      "Correct dehydration and electrolyte imbalance",
+      "Treat infection with appropriate antibiotics",
+      "Urinary diversion: vesicostomy"
+    ]
+  },
+  "differential_diagnoses": [
+    "Anterior urethral valves",
+    "Congenital bladder neck hypertrophy",
+    "Congenital urethral stricture",
+    "Meatal stenosis",
+    "Posterior urethral polyp"
+  ],
+  "complications": [
+    "Recurrent urinary tract infections",
+    "Septicaemia",
+    "Bladder dysfunction",
+    "Bladder stones",
+    "Hydroureter/hydronephrosis",
+    "Progressive renal impairment",
+    "Failure to thrive"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

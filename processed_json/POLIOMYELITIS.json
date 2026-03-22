@@ -1,0 +1,142 @@
+{
+  "condition_name": "Poliomyelitis",
+  "condition_slug": "poliomyelitis",
+  "source": "NSTG 2022",
+  "introduction": "An acute infectious disease of humans (particularly children) caused by any of three serotypes of poliovirus P1, P2, and P3. Immunity to one serotype does not confer immunity to others. Occurs in many regions of the developing world. There was an increase in global cases as a result of an epidemic in India. In 2015, Nigeria was declared a polio free country.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Incubation period: 6 - 20 days, with a range of 3 – 35 days",
+        "Asymptomatic infection: 95%",
+        "Minor non-specific symptoms: 4 - 8%",
+        "Symptoms occur in less than 2 %",
+        "Slight fever",
+        "Headache",
+        "Malaise",
+        "Sore throat",
+        "Vomiting"
+      ]
+    },
+    {
+      "type": "Non-paralytic polio",
+      "features": [
+        "Symptoms last 1- 2 weeks",
+        "Moderate fever",
+        "Headache",
+        "Vomiting and diarrhoea",
+        "Fatigue",
+        "Irritability and pain or stiffness of the back, arms, legs, abdomen",
+        "Muscle tenderness and spasms in any part of the body",
+        "Neck pain and stiffness",
+        "Skin rash"
+      ]
+    },
+    {
+      "type": "Paralytic polio",
+      "features": [
+        "Spinal polio: 79%",
+        "Bulbar polio: 2%",
+        "Bulbospinal: polio 19%",
+        "Fever 5 - 7 days before other symptoms",
+        "Headache, stiff neck and back, asymmetric muscle weakness",
+        "Rapid onset",
+        "Progresses to paralysis",
+        "Location of paralysis depends on region affected",
+        "Abnormal sensation",
+        "Hyperaesthesia",
+        "Difficulty in initiating micturition",
+        "Constipation and Bloated abdomen",
+        "Dyspnoea, Dysphagia and Drooling",
+        "Muscle spasms",
+        "Irritability",
+        "Positive babinski's sign"
+      ]
+    }
+  ],
+  "investigations": [
+    "Viral isolation from stool, pharynx or cerebrospinal fluid",
+    "Fingerprinting genomic sequencing to determine if it is the wild type vaccine type",
+    "Serology: a fourfold rise in antibody may be demonstrated",
+    "Cerebrospinal fluid examination:",
+    "Raised white cell count, 10 - 200 cells/mm3 (primarily lymphocytes)",
+    "Mild increase in protein: 40 - 50 mg/mL"
+  ],
+  "treatment": {
+    "goals": [
+      "Allay fear",
+      "Minimize ensuing skeletal deformities",
+      "Anticipate and treat Complications",
+      "Prepare the child and family for a prolonged management of permanent disability if it seems likely"
+    ],
+    "non_drug": [
+      "Bed rest",
+      "Avoidance of exertion and application of hot packs",
+      "Lying on a firm bed and hospitalization for those with paralytic disease",
+      "Suitable body alignment to avoid excessive skeletal deformity",
+      "Active and passive motions as soon as pain disappears",
+      "Manual compression of the bladder",
+      "Adequate dietary and fluid intake",
+      "Review by orthopaedist and psychiatrist",
+      "Gravity drainage of accumulated secretions",
+      "Tracheostomy in case of vocal cord paralysis"
+    ],
+    "drug": [
+      "Bethanecol 5 - 10 mg orally or 2.5 - 5 mg subcutaneously for bladder paralysis",
+      "Analgesics",
+      "Avoid opiates if there is impairment of ventilation",
+      "Treat urinary tract infection with appropriate antibiotics"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Oral polio vaccine:",
+      "Paralytic poliomyelitis",
+      "Should not be administered to persons who are immunocompromised (it is a live vaccine)",
+      "Contraindicated in persons with history of severe allergic reaction to a vaccine component or following prior dose",
+      "Moderate or severe acute illness",
+      "Inactivated vaccine may be used in immune compromised persons",
+      "It may (rarely) cause local reactions"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Guillain-Barre syndrome",
+    "Lead toxicity",
+    "Cranial nerve Herpes zoster",
+    "Post-diphtheric neuropathy",
+    "Viral encephalitis",
+    "Rabies",
+    "Tetanus"
+  ],
+  "complications": [
+    "Multiple intestinal erosions",
+    "Acute gastric dilatation",
+    "Hypertension",
+    "Hypercalcaemia",
+    "Nephrocalcinosis",
+    "Vascular lesions",
+    "Myocarditis",
+    "Pulmonary oedema and Pulmonary embolism",
+    "Paralysis of limbs",
+    "Muscles of respiration and swallowing which can be fatal"
+  ],
+  "prevention": [
+    "Hygienic practices",
+    "To prevent / limit contamination of food and water by the virus",
+    "Vaccination: The only effective method of Prevention",
+    "Oral Polio Vaccine: Given at Birth, 6 weeks,10 weeks,14 weeks",
+    "Highly effective",
+    "50% immune after 1 dose",
+    "Greater than 95% immune after 3 doses",
+    "Confers herd immunity",
+    "Immunity probably life long",
+    "Limits spread of wild polio virus",
+    "Inactivated Polio Vaccine: Given at 2 months 4 months 12 months",
+    "Highly effective",
+    "90% immune after 2 doses",
+    "99% immune after 3 doses",
+    "Duration of immunity not known with certainty"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

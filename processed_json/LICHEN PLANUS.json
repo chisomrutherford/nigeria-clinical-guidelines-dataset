@@ -1,0 +1,76 @@
+{
+  "condition_name": "Lichen Planus",
+  "condition_slug": "lichen_planus",
+  "source": "NSTG 2022",
+  "introduction": "An inflammatory skin condition involving the skin and/or mucus membranes. It is a chronic, pruritic and papular condition. Some of the drugs known to cause lichen planus (LP): Chloroquine, Quinacrine, Quinidine, Gold, Streptomycin, Tetracycline, NSAIDs, Phenothiazines, Hydrochlorothiazide.",
+  "clinical_features": [
+    {
+      "type": "General",
+      "features": [
+        "LP has been found in children, young and middle-aged adults",
+        "Skin lesions are flat-topped polygonal papules with a characteristic colour",
+        "Violaceous in fair skinned people, but slate-grey on black skin",
+        "Itching is mild-to-severe",
+        "Like psoriasis, lesions often occur on sites of trauma and scratch marks (Koebner's or isomorphic phenomenon)",
+        "Wickham's striae are fine white streaks present on the tops of papules",
+        "The lesions are distributed mainly on: Flexor surfaces of the wrist, Lumbar area, The penis, tongue, buccal and vaginal mucous membranes",
+        "On the buccal mucous membrane, it may present as white reticulate (lacy) pattern or plaque which may after several years transgress into squamous cell carcinoma",
+        "The nails are also affected with: Pitting, roughening and splitting (trachyonychia); Thickening (pachyonychia); Encroachment of the nail fold on the nail plate (pterygium unguium)",
+        "Total destruction of all 20 nails may precede, accompany, or follow the onset of skin lesions",
+        "The hair follicles in the scalp may also be affected (lichen planopilaris) with post-inflammatory scarring alopecia",
+        "Hepatitis C infection is found with greater frequency in lichen planus than in controls",
+        "Healing of the skin lesions leaves post-inflammatory hyperpigmentation"
+      ]
+    }
+  ],
+  "investigations": [
+    "Histopathology",
+    "Hepatitis C antigen"
+  ],
+  "treatment": {
+    "goals": [
+      "Relieve itching",
+      "Clear the lesions",
+      "Suppress inflammation"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Topical corticosteroids: Beclomethasone dipropionate 0.1% cream; apply 1 - 2 times daily",
+      "Bethamethasone valerate 0.1% cream and ointment; apply 1 - 2 times daily",
+      "For isolated or hyperkeratotic lesions apply corticosteroids under occlusion or use intralesional triamcinolone",
+      "Scalp lesions: Clobetasol propionate 0.05% lotion; apply thinly 1 - 2 times daily for up to 4 weeks",
+      "Mouth lesions: Triamcinolone acetonide 0.1% in adhesive base apply a thin layer 2 - 4 times daily for a maximum of 5 days",
+      "Tretinoin 0.025% cream; apply thinly 1 - 2 times daily",
+      "Systemic corticosteroids: Prednisolone 20 - 40 mg orally daily for several weeks",
+      "Triamcinolone acetonide 40 mg intramuscularly once or twice at a 6-week interval",
+      "Ciclosporin 2.5 mg/kg daily in two divided doses; increase to maximum 5 mg/kg daily if needed"
+    ],
+    "adverse_reactions_and_cautions": [
+      "See Psoriasis"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Psoriasis",
+    "Pityriasis rosea",
+    "Lupus erythematosus",
+    "Secondary syphilis",
+    "Lichen striatus",
+    "Parapsoriasis",
+    "Pityriasis rubra pilaris",
+    "Nummular eczema",
+    "Oral lesions: Erosive lesions may mimic Aphthous stomatitis and herpes simplex",
+    "White plaques may be confused with pre-malignant leukoplakia",
+    "White sponge naevus"
+  ],
+  "complications": [
+    "20-nail dystrophy",
+    "Rarely, squamous cell carcinoma of oral and hypertrophic lichen planus"
+  ],
+  "prevention": [
+    "Avoid precipitating drugs"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

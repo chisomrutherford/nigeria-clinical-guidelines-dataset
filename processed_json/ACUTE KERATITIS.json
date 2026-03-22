@@ -1,0 +1,55 @@
+{
+  "condition_name": "Acute Keratitis",
+  "condition_slug": "acute-keratitis",
+  "source": "NSTG 2022",
+  "introduction": "Infection or inflammation of the cornea. It could be secondary to trauma, or associated with infective conjunctivitis or occur de novo.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Irritation, pain",
+        "Red eye (conjunctival congestion)",
+        "Eye discharge: watery; purulent (if bacterial)",
+        "Photophobia",
+        "Visual impairment, depending on the site and size of ulcer and if interstitial",
+        "Hypopion, if associated with uveitis (no hypopion if viral)",
+        "Ulceration of cornea, which stains with fluoresceine; no ulcer in interstitial keratitis"
+      ]
+    }
+  ],
+  "investigations": [
+    "Corneal scraping for microscopy, culture and sensitivity"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Lateral tarsorrhaphy for exposure keratopathy"
+    ],
+    "drug": [
+      "Antibiotic drops (if bacterial): Chloramphenicol eye drops 0.5%: Apply 1 drop at least every 2 hours, and then reduce the frequency as infection is controlled and continue for 48 hours after healing",
+      "Atropine drops; 1 drop, twice daily",
+      "Antivirals (if dendritic ulcer): Acyclovir; Apply 1 cm ointment 5 times daily (continue for at least 3 days after complete healing)",
+      "Antivirals: Idoxuridine 5% in dimethylsulfoxide. Adult and child over 12 years: apply to lesions 4 times daily for 4 days, starting at first sign of attack",
+      "Topical steroids: Only for interstitial keratitis where there is no active ulcer"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Never use topical steroids in the presence of an active microbial ulcer"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Infective conjunctivitis",
+    "Acute iritis",
+    "Acute glaucoma"
+  ],
+  "complications": [
+    "Corneal perforation",
+    "Corneal scarification"
+  ],
+  "prevention": [
+    "Treat initial infection or trauma promptly to avoid progression to keratitis"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

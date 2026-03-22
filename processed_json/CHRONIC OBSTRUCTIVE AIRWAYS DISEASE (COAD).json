@@ -1,0 +1,46 @@
+{
+  "condition_name": "Chronic Obstructive Airways Disease (COAD)",
+  "condition_slug": "chronic-obstructive-airways-disease-coad",
+  "source": "NSTG 2022",
+  "introduction": "A pulmonary disorder of adults characterized by chronic airflow limitation in the small airways. Complicates chronic bronchitis and emphysema. Obstruction to air flow is only partially reversible with bronchodilator therapy. Two extreme types of COAD are recognized although there is a lot of overlap.",
+  "clinical_features": [
+    {
+      "type": "Pink puffers",
+      "features": [
+        "Slowly progressive dyspnoea",
+        "Cough with scanty sputum",
+        "Asthenic features",
+        "Barrel-shaped chest",
+        "Wheeze",
+        "These patients mainly have emphysema"
+      ]
+    },
+    {
+      "type": "Blue bloaters",
+      "features": [
+        "Prolonged periods of cough and copious sputum production",
+        "Dyspnoea",
+        "Frequent respiratory infections",
+        "Central cyanosis",
+        "These patients mainly have chronic bronchitis"
+      ]
+    }
+  ],
+  "investigations": [],
+  "treatment": {
+    "goals": [],
+    "non_drug": [],
+    "drug": [],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Chronic persistent asthma",
+    "Cystic fibrosis"
+  ],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

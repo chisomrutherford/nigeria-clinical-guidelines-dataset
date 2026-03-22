@@ -1,0 +1,69 @@
+{
+  "condition_name": "Alcohol Dependence (Alcoholism)",
+  "condition_slug": "alcohol-dependence-alcoholism",
+  "source": "NSTG 2022",
+  "introduction": "A disorder characterized by a wide spectrum of problems. Central feature is the continued use of alcohol which takes an increasingly dominant place in the user's life in spite of experience of harm related to drinking. Social and genetic factors are thought to be important in pathogenesis",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Craving tolerance and intoxication",
+        "Withdrawal episodes and compulsive desire to use alcohol",
+        "Associated physical, psychological, and/or social (e.g., interpersonal, occupational) impairments"
+      ]
+    }
+  ],
+  "investigations": [
+    "FBC and differentials, LFT"
+  ],
+  "treatment": {
+    "goals": [
+      "Reduction in alcohol consumption as an interim measure",
+      "Abstinence as the desired goal",
+      "Rehabilitation",
+      "Prevention of relapse"
+    ],
+    "non_drug": [
+      "Psychosocial interventions",
+      "Cognitive behavioural therapy",
+      "Marital and family therapy",
+      "Group therapy"
+    ],
+    "drug": [
+      "Only occasionally required, and following careful assessment"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Detoxification is required for severe withdrawal syndrome or delirium tremens",
+      "This will involve the administration of a long-acting benzodiazepine (e.g. Chlordiazepoxide) and",
+      "thiamine supplements over 7 - 10 days"
+    ],
+    "supportive_measures": [
+      "Rehabilitation:",
+      "- Sustain abstinence",
+      "- Acquire an alcohol-free life style",
+      "- Prevent relapse"
+    ]
+  },
+  "differential_diagnoses": [
+    "Dependence on (and withdrawal from) other substances (both prescription and street drugs)",
+    "Co-morbid disorders (anxiety disorders, depressive disorder, bipolar disorder and idiopathic insomnia)"
+  ],
+  "complications": [
+    "Hypertension",
+    "Liver cirrhosis",
+    "Damage to other organs (including the brain)",
+    "Accidents",
+    "Delirium tremens",
+    "Increased mortality (reduce life expectancy)",
+    "Family, social and occupational disability"
+  ],
+  "prevention": [
+    "Health education (including school health education, peer group education and self-help group e.g., alcoholics anonymous 'AA')",
+    "Government regulation of alcohol use"
+  ],
+  "other_investigations": [
+    "Other Investigations as indicated for medical/physical Complications"
+  ],
+  "definitive_treatment": [],
+  "prognosis": []
+}

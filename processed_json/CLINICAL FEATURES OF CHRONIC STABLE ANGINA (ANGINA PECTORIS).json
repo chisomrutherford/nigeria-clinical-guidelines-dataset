@@ -1,0 +1,68 @@
+{
+  "condition_name": "Chronic Stable Angina (Angina Pectoris)",
+  "condition_slug": "chronic-stable-angina-angina-pectoris",
+  "source": "NSTG 2022",
+  "introduction": "",
+  "clinical_features": [
+    {
+      "type": "Symptoms",
+      "features": [
+        "Retrosternal chest pain or heaviness worsened by exertion",
+        "Pain radiates to the left upper arm and into the neck",
+        "Tightness of the chest as if it is being tied",
+        "Dyspnoea",
+        "Palpitation",
+        "Giddiness",
+        "Fatigue",
+        "Silent ischaemia, especially in diabetics and the elderly"
+      ]
+    },
+    {
+      "type": "Signs",
+      "features": [
+        "No specific abnormal finding",
+        "Nicotine stain of the nails",
+        "Cardiomegaly"
+      ]
+    }
+  ],
+  "investigations": [
+    "Resting ECG: Normal in 50% of patients, ST depression, May show Q wave of previous MI",
+    "Exercise stress ECG: Positive test evidenced by ST depression ≥ 1 mm at the J point (planar or down sloping), Arrhythmias, Fall in BP, Sensitivity (68%), Specificity (77%)",
+    "Echocardiography: May show segmental hypokinesia or dyskinesia, severe infarcts show global hypokinesia",
+    "Laboratory evaluation: FBG, Lipid profile, Electrolyte, Urea and Creatinine, Cardiac enzymes – Point of care or laboratory based (CK-MB, troponin, N-terminal B natriuretic peptide)",
+    "Coronary angiography: Gold standard, invasive, expensive and done only when coronary artery bypass graft (CABG) or angioplasty is planned"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Revascularization: Percutaneous coronary intervention",
+      "Coronary artery bypass graft"
+    ],
+    "drug": [
+      "Anti-platelet therapy: Acetyl salicylic acid 75 mg orally daily or Clopidogrel 75 mg orally daily",
+      "Lipid lowering drugs: HMG-CoA reductase inhibitors (Atorvastatin 10 - 20 mg orally daily)",
+      "Nitrates: Short acting nitroglycerin tablets 0.3-1 mg sublingually as required; 400 microgram spray/metered dose 1-2 doses under tongue or Intravenous infusion 10 - 200 μg/minute, max 400 μg/minute, Long acting (Isosorbide dinitrate 30 - 120 mg three times daily, up to 240 mg if required or Intravenous infusion 2 - 10 mg/hr, higher doses up to 20 mg/hour may be required",
+      "Beta blockers: Cardioselective (atenolol 50 - 100 mg daily; metoprolol 50 - 200 mg daily), Target pulse rate of 55 - 60 bpm, Taper over 3 - 10 days",
+      "Calcium channel blockers: Dihydropyridine (Amlodipine 5 - 10 mg daily or Nifedipine 20 - 60 mg daily), Non-dihydropyridine (Verapamil 80 - 120 mg 8 hourly)",
+      "Angiotensin converting enzyme inhibitor: Captopril 6.25 - 12.5 mg daily, Other ACEIs may be used in patients with hypertension",
+      "Angiotensin receptor blockers: Valsartan 80 - 160 mg daily"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Pulmonary embolism",
+    "Gastro-esophageal reflux disease (GERD)",
+    "Pericarditis",
+    "Aortic dissection",
+    "Mitral valve prolapse syndrome",
+    "Esophageal spasm",
+    "Costochondritis"
+  ],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

@@ -1,0 +1,299 @@
+Malaria
+Introduction
+An infectious protozoan disease transmitted by the female Anopheles
+mosquito.
+A major public and private health problem and indeed a cause and consequence
+of national underdevelopment.
+Five species of the parasite cause the disease in humans: Plasmodium
+falciparum, P. malariae, P. vivax, P. ovale and P. knowlesi . P. falciparum
+accounts for 98% of all cases of malaria in Nigeria and is responsible for the
+severe form of the disease. Principal mode of spread; bites from infected female
+Anopheles mosquito. Peak feeding times are usually dusk and dawn, but also
+throughout the night.
+Other uncommon modes are:
+・ Blood transfusion
+・ Mother-to-child transmission
+
+CLASSIFICATION BASED ON CLINICAL COURSE OF P. FALCIPARUM 
+Classification based on clinical course of P.falciparum.
+・ Asymptomatic parasitaemia
+・ Acute uncomplicated malaria
+・ Severe malaria
+Asymptomatic parasitaemia
+・ Affects older children and adults living in high malaria endemicity.
+・ Have acquired natural immunity to clinical disease.
+・ Have malaria parasites in the peripheral blood but no symptoms.
+
+CLINICAL FEATURES OF ACUTE UNCOMPLICATED MAALRIA 
+Acute Uncomplicated malaria:
+Present with Clinical Features, usually non-specific:
+・ Fever
+・ Chills
+・ Headache Malaise
+・ Aches and body pain
+・ Weakness
+・ Tiredness
+・ Pallor
+・ Anorexia
+・ Vomiting
+・ Bitterness in the mouth
+・ Excessive sweating
+・ Pallor
+・ Hepatosplenomegaly
+・ Jaundice
+Severe (Complicated) malaria:
+Is a medical emergency requiring prompt attention
+Indication for severity could be clinical or laboratory:
+・ Clinical:
+- Prostration
+- Impaired consciousness or unrousable coma
+- Failure to feed
+- Respiratory distress
+- Multiple convulsions - more than 2 episodes in 24 hours
+- Circulatory collapse (Algid malaria)
+- Pulmonary oedema (radiological)
+- Abnormal bleeding/DIC
+- Jaundice
+• Laboratory:
+- Severe anaemia
+- Hypoglycemia (blood glucose < 2.2 mmol/L)
+- Acidosis (HCO< 15 mmol/L)
+- Haemoglobinuria (black water fever)
+- Renal impairment (creatinine > 265 μmol/L)
+- Hyperlactataemia (> 5 mmol/L)
+- Hyperparasitaemia (> 5% or 250,000/ μL)
+Indicators of a poor prognosis in severe malaria
+・ Clinical:
+- Marked agitation
+- Hyperventilation (respiratory distress)
+- Hypothermia (<36.50C)
+- Deep coma
+- Repeated convulsions
+- Bleeding
+- Anuria
+- Haemodynamic shock
+・ Laboratory:
+- Hyperparasitemia (> 100,000 /μgL; about 2% of cells infected)
+- Blood film showing >20% of parasite to be 'late stage'
+- Blood film showing > 5% of neutrophils with visible pigments
+- Hypoglycemia (<2.2 mmol/L)
+- Hyperlactatemia (> 5 mmol/L)
+- Acidosis (arterial PH > 7.3, serum HCO> 15 mmol/L)
+- Elevated serum creatinine (> 265 μmol/L)
+- Elevated total bilirubin (> 50 μmol/L)
+- Leukocytosis (>12,000 /μL)
+- Severe anaemia (PCV >15%)
+- Coagulopathy
+- Decreased platelet count (< 50,000 /μL)
+- Prolonged prothrombin time
+- Decreased fibrinogen
+Other early Complications include:
+・ Pneumonia
+・ Septicaemia
+・ Preterm contractions/preterm labour
+・ Abortions
+・ Low birth weight
+・ Intrauterine deaths
+・ Congenital malaria
+Late Complications:
+・ Hyperreactive malaria splenomegaly
+・ Quartan malaria nephropathy
+・ Possibly, Burkitt's lymphoma
+Cerebral malaria
+・ A severe form of malaria.
+・ Malaria with coma persisting for > 30 min after a seizure is considered to be
+cerebral malaria.
+・ Occurs usually in children and in non-immune adults.
+・ Manifests with diffuse and symmetric encephalopathy; focal neurologic
+signs are unusual.
+・ Requires prompt and effective therapy to avoid fatality.
+Diagnosis of malaria
+・ Clinical diagnosis alone is presumptive, gives room for over-diagnosis.
+・ Confirmatory diagnosis is based on the detection of parasites in the blood.
+・ Parasitological confirmation is recommended in all suspected cases of
+malaria.
+・ Light microscopy remains the gold standard.
+・ Microscopic diagnosis should not delay appropriate treatment if there is a
+clinical suspicion of severe malaria.
+・ Rapid Diagnostic Test is used in Primary Health Care levels
+
+DIFFERENTIAL DIAGNOSES OF MALARIA 
+Differential Diagnoses
+・ Typhoid fever
+・ Meningitis
+・ Encephalitis
+・ Septicaemia
+・ Other causes of fever
+
+INVESTIGATIONS OF MALARIA 
+Investigations
+・ Blood smear for malaria parasites
+・ Packed cell volume; haemoglobin concentration
+・ White cell count with differentials
+・ Blood sugar
+・ Urinalysis
+・ Electrolytes and Urea; Creatinine Stool microscopy for ova; occult blood
+Chest radiograph
+・ Cerebrospinal fluid biochemistry; microscopy, culture, and sensitivity
+
+TREATMENT OF MALARIA 
+Treatment Goals
+・ Eradicate parasitaemia
+・ Prevent progression to severe malaria.
+・ Attend to the immediate threats of life.
+・ Prevent transmission of gametocytes.
+・ Provide personal protection against malaria.
+・ Provide chemoprophylaxis in susceptible groups.
+Drug Treatment
+・ All patients suspected of malaria should have prompt parasitological
+confirmation by microscopy or RDTs before treatment.
+・ Uncomplicated malaria
+- Artemisinin-based Combination Therapy (ACTs) are the current
+recommended treatments for uncomplicated malaria globally.
+- ACTs are the recommended treatment of uncomplicated malaria in all
+trimesters of pregnancy.
+- Artemether-Lumefantrine (AL) is the medicine of choice while
+Artesunate-Amodiaquine (AA), Dihydroartemisinin Piperaquine and
+Artesunate-Pyronaridine are alternatives.
+
+# Table 10.7: Dosage Regimen for AL (Artemether-Lumefantrine)
+
+| Weight | No of tablets/dose (20/120) mg tab | No of tablets/dose (40/240) mg tab | No of tablets/dose (80/480) mg tab |
+|---|---|---|---|
+| 5 -- <15 kg | 1 tab twice daily x 3 days | NA | NA |
+| 15 -- <25 kg | 2 tabs twice daily x 3 days | 1 tab twice daily x 3 days | NA |
+| 25 -- <35 kg | 3 tabs twice daily x 3 days | NA | NA |
+| >35 kg | 4 tabs twice daily x 3 days | 2 tabs twice daily x 3 days | 1 tab twice daily x 3 days |
+
+# Table 10.8: Dosage Regimen for AA (Artesunate-Amodiaquine)
+
+| Weight/Age | Tablet Strength | Dosage Regimen |
+|---|---|---|
+| 4.5 kg -- <9 kg (2 months - 11 months) | 25 mg/67.5 mg | 1 tablet once daily x 3 days |
+| 9 kg -- <18 kg (1 year - 5 years) | 50 mg/135 mg | 1 tablet once daily x 3 days |
+| 18 kg -- <36 kg (6 years - 13 years) | 100 mg/270 mg | 1 tablet once daily x 3 days |
+| 36 kg and above (14 years and above) | 100 mg/270 mg | 2 tablets once daily x 3 days |
+
+---
+
+**Note:** Treat infants less than 5 kg with ACTs under supervision by the health care provider.
+
+Other ACTs available for the treatment of uncomplicated malaria:
+・ Artesunate-Mefloquine
+・ Dihydroartemisinin- Piperaquine
+・ Artemisinin- Piperaquine
+Pre-referral treatment of severe malaria
+・ To mitigate poor outcome, pre-referral treatment should be offered in cases
+of severe disease.
+・ As soon as a presumptive diagnosis of severe malaria is made,
+recommended pre-referral treatment options include any of these; rectal
+Artesunate, Artesunate IM, Artemether IM or Quinine IM, in the order of
+preference.
+・ Dosing regimen
+- IM Artesunate: 3 mg/kg (children <6 years or < 20 kg); 2.4 mg/kg (older
+children and adults)
+- Rectal Artesunate: 10 mg/kg body-weight single dose.
+- IM Artemether: 3.2 mg/kg
+- IM Quinine: 10 mg/kg
+Severe malaria
+・ Parenteral Artesunate is the drug of choice, and treatment should be started
+without delay.
+・ If not available other effective parenteral antimalarial should be
+commenced.
+・ Adults and Children > 20 kg:
+- Artesunate 2.4 mg/kg (BW) IV or IM given on admission (time 0), then
+12 hours and 24 hours, then once a day. There is no upper limit to the
+total dose of artesunate.
+・Children ≤ 20 kg:
+- Artesunate 3 mg/kg (BW) IV or IM given on admission (time 0), then
+12 hours and 24 hours, then once a day.
+- Parenteral artemether or quinine is an alternative if parenteral
+artesunate is not available.
+・ Artemether 3.2 mg/kg (BW) IM given on admission then 1.6 mg/kg (BW)
+per day; or
+・ Quinine 20 mg salt/kg (BW) on admission (IV infusion or divided IM
+injections), then 10 mg/kg (BW) every 8 hours; infusion rate should not
+exceed 5 mg/kg (BW) per hr.
+Note: Give parenteral antimalarials in the treatment of severe malaria for a
+minimum of 24 hours once started (irrespective of the patient's ability to
+tolerate oral medications earlier) and thereafter complete treatment by
+giving a complete course of the recommended ACT.
+Follow-on Treatment
+After the initial 24 hours parenteral treatment, and once the patient can
+・
+tolerate oral therapy, complete treatment with a full course of ACT
+(Arthemeter + Lumefantrine, OR Artesunate + Amodiaquine, OR
+Dihydroartemisinin + Piperaquine OR Pyronaridine + Artesunate) for 3-
+days irrespective of the number of days for which patient was on parenteral
+artesunate prior to the commencement of oral administration.
+In all cases, patient's progress should be monitored, and management changed
+as deemed necessary.
+Supportive Measures
+・ Paracetamol (oral/rectal) for symptomatic relief
+・ If temperature is >38.5°C, wipe with wet towel, and fan to lower the
+temperature.
+・ Pulmonary oedema
+- Nurse in cardiac position
+- Give oxygen.
+- Furosemide 2 - 4 mg/kg intravenously
+- Exclude anaemia as the cause of pulmonary oedema
+・ Renal failure
+- Give fluids if patient is dehydrated: 20 ml/kg of chloride injection 0.9%,
+and challenge with furosemide 1 - 2 mg/kg
+- Catheterize to monitor urinary output.
+- If no urine within the next 24 hours, refer to Nephrologist for possible
+renal replacement therapy
+・ Profuse bleeding
+- Transfuse with screened fresh whole blood.
+- Give pre-referral treatment and refer urgently.
+・ If meningitis is suspected, and cannot be excluded immediately by lumbar
+puncture, give appropriate antibiotics.
+・ Other severe diseases should be treated accordingly.
+Treatments not recommended
+・ High dose Corticosteroids and other anti-inflammatory agents
+・ Agents used for cerebral oedema e.g. Urea.
+・ Adrenaline
+・ Heparin
+Notable Adverse Drug Reactions, Contraindications and Caution
+· Mefloquine should be avoided if the patient had cerebral malaria because of
+the increased risk of seizure, encephalopathy and psychosis.
+Prevention
+・ Personal protection
+- Reduce the frequency of mosquito bites by avoiding exposure to
+mosquitoes at their peak feeding times.
+- Use insect repellants.
+- Put on suitable clothing.
+- Use insecticide-impregnated bed nets (ITN)
+・Chemoprohylaxis: Indicated for:
+- Children born to non-immune mothers in endemic areas
+- Pregnant women (see section on antenatal care)
+- Travellers to endemic areas
+- People with sickle cell anaemia should have regular chemoprophylaxis
+(see Sickle Cell Diseases)
+Recommended antimalarial prophylaxis in Nigeria:
+・ The recommended chemoprophylaxis for non-immune visitors should be
+available in the visitor's country of origin. Mefloquine, and Atovaquone-
+Proguanil are recommended for use in Nigeria.
+Mefloquine:
+・ 5 mg base/kg weekly, giving an adult dose of 250 mg base weekly.
+・ If tablets are available, an appropriate fraction can be given to child aged 8 -
+13 years
+・ Contraindicated in children <8 years and in pregnant women
+・ Commence 2 - 3 weeks prior to arrival, weekly in country and thereafter for
+2-3 weeks after departure.
+Atovaquone-Proguanil
+・ Fixed dose combination administered daily.
+・ Commence 1-2 days prior to arrival, then continue throughout stay, and for
+7 days after departure.
+
+# Table 10.9: Atovaquone-Proguanil Dosage Regimen
+
+| Weight (kg) | Total Daily Dose | Dosage Regimen |
+|---|---|---|
+| 11-20 kg | 62.5 mg/25 mg | 1 Paediatric tablet daily |
+| 21-30 kg | 12.5 mg/50 mg | 2 Paediatric tablets daily as a single dose |
+| 31-40 kg | 187.5 mg/75 mg | 3 Paediatric tablets daily as a single dose |
+| >40 kg | 250 mg/100 mg | 1 Tablet (adult strength) as a single dose |
+
+· Chemoprophylaxis is not recommended for individuals living with areas of
+intense transmission.

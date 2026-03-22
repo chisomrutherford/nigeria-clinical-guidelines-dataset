@@ -1,0 +1,61 @@
+{
+  "condition_name": "Furunculosis (Boils)",
+  "condition_slug": "furunculosis-boils",
+  "source": "NSTG 2022",
+  "introduction": "Infection of a hair follicle by staphylococcal organisms, that leads to an inflammatory nodule, with a pustular centre. A carbuncle is two or more confluent furuncles, with separate heads. Recalcitrant cases may occur with a background of immune suppression, Alcoholism, Malnutrition, Blood dyscrasias, Disorders of neutrophil function, Diabetes, AIDS. May occur in patients with atopic dermatitis. May be iatrogenic.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Can be found on all body sites where hairs are present. It starts with a small, yellow creamy pustule that rapidly evolves into a red nodule, often with a central yellow plug.",
+        "As the lesion expands, it becomes painful and tense.",
+        "Associated with local oedema, lymphangitis, regional lymphadenopathy and fever.",
+        "Eventually, the central part of the nodule becomes soft and drains spontaneously.",
+        "Healing occurs after about 1 - 2 weeks with scar formation."
+      ]
+    }
+  ],
+  "investigations": [
+    "Wound swab for bacteriology and sensitivity",
+    "Full Blood Count with differentials",
+    "Fasting blood glucose",
+    "HIV screening",
+    "Urinalysis"
+  ],
+  "treatment": {
+    "goals": [
+      "Treat infection",
+      "Correct predisposing factors",
+      "Prevent Complications"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Topical antibiotics",
+      "Mupirocin cream or fusidic acid cream or ointment",
+      "Co-trimoxazole",
+      "Erythromycin"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Resistance may set in with prolonged use of systemic antibiotic",
+      "Usually unnecessary except for head and neck lesions, or when the boil is accompanied by fever, chills, regional lymphadenopathy, or a feeling of being unwell"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Folliculitis",
+    "Cutaneous myiasis",
+    "Acne inversa in the axilla or groin"
+  ],
+  "complications": [
+    "Cellulitis",
+    "Septicaemia",
+    "Cavernous sinus thrombosis when the lesions are on the head and neck"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "Surgical treatment: A small puncture wound often gives less of a scar than allowing spontaneous rupture; it also reduces the pain",
+    "Should be under antibiotic cover to prevent septicaemia"
+  ],
+  "prognosis": null
+}

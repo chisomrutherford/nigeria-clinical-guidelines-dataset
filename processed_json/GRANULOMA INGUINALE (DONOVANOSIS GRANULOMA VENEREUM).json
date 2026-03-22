@@ -1,0 +1,72 @@
+{
+  "condition_name": "Granuloma Inguinale (Donovanosis Granuloma Venereum)",
+  "condition_slug": "granuloma-inguinale",
+  "source": "NSTG 2022",
+  "introduction": "A mildly contagious disease caused by Klebsiella granulomatis. Currently rare in several parts of Africa; Endemic in Southeast Asia, Southern India, the Caribbean and South America.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "A chronic mildly contagious disease with a potentially progressive and destructive character",
+        "Incubation period ranges from 10 - 40 days",
+        "The early lesion is a papule or nodule which soon becomes ulcerated and has an offensive discharge",
+        "The floor of the ulcer may be covered with a dirty grey material; its walls may be overhanging, or a papillomatous fungating mass may arise from the growth of vegetations",
+        "Progressive indolent, serpiginous ulceration of the groins, pubis, genitals and anus may form.",
+        "Pain on walking may be excruciating",
+        "Persisting sinuses and hypertrophic depigmented scars are fairly characteristic",
+        "Regional lymph nodes are not enlarged but with cicatrisation, the lymph channels may be blocked causing pseudoelephantiasis of the genitalia. Both the fibrotic scarring and elephantiasis-like lesion could cause obstructed labour",
+        "Subcutaneous extension and abscesses may occur and form a pseudo-bubo in the inguinal region",
+        "Healing is unlikely without treatment; the locally destructive lesion may eventually involve the groin, pubis and anus",
+        "A squamous cell carcinoma may arise from chronic lesions."
+      ]
+    }
+  ],
+  "investigations": [
+    "Direct microscopy"
+  ],
+  "treatment": {
+    "goals": [
+      "Same as for gonococcal infection"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Azithromycin 1 g orally on first day, then 500 mg orally, once a day",
+      "Doxycycline 100 mg orally every 12 hours",
+      "Therapy should be continued until the lesions have completely epithelialized",
+      "Erythromycin 500 mg orally every 6 hours",
+      "Tetracycline 500 mg orally every 6 hours",
+      "Trimethoprim 80 mg/sulfamethoxazole 400 mg, 2 tablets orally, 12 hourly",
+      "All treatment should be for a minimum of 14 days",
+      "The addition of a parenteral aminoglycoside such as gentamicin should be carefully considered for treating HIV-infected patients"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Sulfamethoxazole/trimethoprim: Contraindicated in persons with hypersensitivity to sulfonamides or trimethoprim; porphyria",
+      "Caution required in renal impairment (avoid if severe); hepatic impairment (avoid if severe); maintain adequate fluid intake (to avoid crystalluria)",
+      "May cause nausea, vomiting, diarrhoea, headache, hypersensitivity reactions, including fixed drug eruption, pruritus, photo-sensitivity reactions, exfoliative dermatitis, and erythema nodosum"
+    ],
+    "supportive_measures": [
+      "Patients should be followed up clinically until signs and symptoms have resolved",
+      "See Chlamydia"
+    ]
+  },
+  "differential_diagnoses": [
+    "Syphilis",
+    "Chancroid",
+    "Lymphogranuloma venereum",
+    "Lupus vulgaris",
+    "Deep mycosis",
+    "Amoebic ulcer",
+    "Pyoderma gangrenosum",
+    "Squamous cell and basal cell carcinoma"
+  ],
+  "complications": [
+    "Obstructed labour",
+    "Squamous cell carcinoma"
+  ],
+  "prevention": [
+    "Counselling, Compliance, Condom use and Contact treatment"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

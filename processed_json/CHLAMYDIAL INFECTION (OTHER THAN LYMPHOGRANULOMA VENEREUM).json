@@ -1,0 +1,75 @@
+{
+  "condition_name": "Chlamydial Infection (Other Than Lymphogranuloma Venereum)",
+  "condition_slug": "chlamydial-infection-other-than-lymphogranuloma-venereum",
+  "source": "NSTG 2022",
+  "introduction": "The Chlamydiae occupy a special place between bacteria and viruses. They are a large group of obligate intracellular organisms. Chlamydia trachomatis has a number of serovars and causes many different human infections: Eye: trachoma; inclusion conjunctivitis. Genital tract: lymphogranuloma venereum, non-gonococcal urethritis, cervicitis, salpingitis. Respiratory tract: pneumonia. C. trachomatis immunotypes D - K are isolated in about 50% of cases of non-gonococcal urethritis and cervicitis by appropriate techniques.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Asymptomatic, but when an incubation period can be determined, it is usually about 10 - 20 days",
+        "Co-infection with gonococci and chlamydiae is common",
+        "Non-gonococcal urethritis in males, and in females cervicitis, salpingitis, or pelvic inflammatory disease",
+        "Urethral or cervical discharge tends to be less painful, less purulent, and watery in chlamydial compared with gonococcal infection",
+        "Cervix may show contact bleeding in addition to the discharge",
+        "A patient with urethritis or cervicitis and absence of gram-negative diplococci on Gram stain and of N. gonorrhoeae on culture is assumed to have chlamydial infection"
+      ]
+    }
+  ],
+  "investigations": [
+    "Microscopy, culture and sensitivity (of discharge)",
+    "Direct immunofluorescence assay",
+    "Enzyme-linked immunoassay",
+    "DNA probe test",
+    "Ligase chain reaction (LCR)"
+  ],
+  "treatment": {
+    "goals": [
+      "Same as for gonococcal infection"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Doxycycline 100 mg orally, every 12 hours for 7 days",
+      "Azithromycin 1 g orally, in a single dose",
+      "Erythromycin 500 mg orally every 6 hours for 7 days (during pregnancy)",
+      "Amoxicillin 500 mg orally every 8 hours for 7 days (during pregnancy)",
+      "Erythromycin syrup 50 mg/kg per day orally, every 6 hours for 14 days (neonatal conjunctivitis)",
+      "Trimethoprim 40 mg with sulfamethoxazole 200 mg orally, every 12 hours for 14 days (neonatal conjunctivitis)"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Doxycycline and tetracycline - Caution in patients with hepatic impairment, systemic lupus erythematosus and myasthenia gravis",
+      "Antacids, aluminium, calcium, iron, magnesium and zinc salts, and milk decrease the absorption of tetracyclines",
+      "Deposition of tetracyclines in growing bones and teeth (by binding to calcium) causes staining and occasionally dental hypoplasia",
+      "Should not be given to children under 12 years, or to pregnant or breastfeeding women",
+      "With the exception of doxycycline, tetracyclines may exacerbate renal failure and should not be given to patients with kidney disease",
+      "May cause nausea, vomiting and diarrhoea; hypersensitivity reactions",
+      "Headache and visual disturbances may indicate benign intracranial hypertension",
+      "Candida superinfection with prolonged therapy",
+      "Azithromycin and Erythromycin - Erythromycin estolate is contraindicated during pregnancy because of drug-related hepatotoxicity; only erythromycin base or erythromycin ethylsuccinate should be used",
+      "Erythromycin should not be taken on an empty stomach",
+      "Caution in persons with arrhythmias",
+      "Infants should be followed up for symptoms and signs of infantile hypertrophic pyloric stenosis (has been reported in infants less than 6 weeks exposed to this drug)",
+      "Ofloxacin See ciprofloxacin- Gonorrhoea Amoxicillin",
+      "Caution where there is a history of allergy",
+      "Erythematous rashes common in glandular fever, cytomegalovirus infection, acute or chronic lymphocytic leukaemia with pityriasis rosea, and allopurinol use"
+    ],
+    "supportive_measures": [
+      "It is important to treat the mother and her sexual partner"
+    ]
+  },
+  "differential_diagnoses": [
+    "See Gonorrhoea"
+  ],
+  "complications": [
+    "Epididymo-orchitis and sterility in males",
+    "Pelvic inflammatory disease (PID) and infertility in females",
+    "Adverse pregnancy outcomes",
+    "Conjunctivitis and pneumonia in the newborn"
+  ],
+  "prevention": [
+    "Counselling, Compliance, Condom use and Contact treatment"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

@@ -1,0 +1,91 @@
+OBESITY
+Introduction
+Overweight and obesity increase the risk for several diseases such as
+hypertension, ischaemic heart disease, and diabetes mellitus.Obesity results
+from an imbalance between energy intake and energy expenditure. However,
+more recent researches, have suggested that genetics, physiological and
+behavioural factors also play significant roles in the aetiology of obesity.
+
+CLINICAL FEATURES OF OBESITY 
+Assessment.
+・ Body mass index (BMI) is a surrogate measure for global adiposity for ease
+of clinical use.
+・ Waist circumference: is a surrogate marker for truncal obesity.
+
+BMI is calculated as follows
+・ BMI = weight in kg divided by the square of the height in metres expressed
+as kg/m2
+Classification of Obesity
+・ Underweight: <18.5 kg/m2
+・ Normal weight: 18.5 - 24.9 kg/m2
+・ Overweight: 25 - 29.9 kg/m2
+・ Obesity (Class1): 30 - 34.9 kg/m2
+・ Obesity (Class 2): 35 - 39.9 kg/m2
+・ Morbid obesity (Class 3): > 40 kg/m2
+・ Super morbid obesity: > 50 kg/m2
+Truncal obesity: waist circumference (WC) and/or waist/hip ratio (WHR).
+・ A healthy waist circumference for males is <94 cm and< 80cm for females.
+・ WC of >102 cm in males and >88 cm in females are associated with greatly
+increased risks.
+・ A healthy WHR is <0.9 in males and <0.85 in females.
+
+INVESTIGATIONS OF OBESITY
+・ Non-specific assessment:FBS, OGTT, serum lipid profile.
+・ Assessment of other complications as indicated.
+・ Specific assessment should be directed towards identifying underlying
+specific causes when suspected. These include conditions such as
+endocrinopathies (hypothyroidism, Cushing's syndrome, male
+hypogonadism, Insulinoma CNS disease that affects hypothalamic
+function, PCOS), genetic syndromes associated with obesity, mental
+disorders like bulimia nervosa and binge eating disorder, medications such
+as steroids, and atypical antipsychotics.
+
+
+# Table 5.4: Pathological Consequences of Obesity
+
+| System | Pathology |
+|---|---|
+| **Gastrointestinal** | Gallstones, pancreatitis, abdominal hernia, Non-Alcoholic Fatty Liver Disease, GERD |
+| **Endocrinology/Metabolic** | Metabolic syndrome, insulin resistance, impaired glucose tolerance, type 2 DM, dyslipidaemia, polycystic ovarian syndrome |
+| **Cardiovascular** | Hypertension, coronary artery disease, congestive heart failure, dysarrhythmia, pulmonary hypertension, stroke, venous stasis, deep venous thrombosis (DVT), pulmonary embolism, chronic kidney disease |
+| **Respiratory** | Abnormal pulmonary function, obstructive sleep apnoea, obesity hypoventilation syndrome |
+| **Musculoskeletal** | Osteoarthritis, gout, low back pain |
+| **Gynaecologic** | Menstrual irregularities, infertility |
+| **Genitourinary** | Urinary stress incontinence |
+| **Ophthalmologic** | Cataracts |
+| **Neurologic** | Idiopathic intracranial hypertension |
+| **Cancers** | Oesophagus, colon, gall bladder, cervix, breast, uterus, kidney, prostate |
+| **Postoperative events** | Atelectasis, pneumonia, DVT, pulmonary embolism |
+
+
+TREATMENT OF OBESITY 
+Treatment Goals
+・ Reduce energy intake and increase physical activity.
+・ Reduce body weight by 10% from the individual baseline weight over a
+period of six months.
+This can be achieved through the following:
+・ Lifestyle modification (diet therapy and physical activity)
+・ Behavioural and psychological interventions
+・ Pharmacological intervention
+・ Bariatric surgery
+Non-drug Treatment
+Lifestyle modifications:
+・ Low caloric diets (with reduction of both carbohydrate and fats
+components) are to ensure deficit of 500 to 1000Kcal per day from the
+individual daily nutritional intake to ensure weight loss of 0.5 to 1 kg per
+week.
+Physical activity:
+・ Moderate levels of exercise (brisk walking, swimming, cycling) for 30 to
+45 minutes, five days per week is encouraged. Other forms of exercise must
+be based on physician prescription.
+Behavioural and psychological interventions:
+・ Behavioural therapy should be aimed at motivating patients in adopting and
+practicing all recommended treatment strategies of obesity management.
+Drug Treatment:
+・ Only employed when lifestyle modification and behavioural therapy has
+failed
+・ Useful and approved drugs include orlistat: 120 mg with each meal (not
+recommended in children)
+Surgical intervention
+・ Bariatric surgery indicated when BMI >35 kg/m2 with co-morbidities or
+BMI ≥40 kg/m2 following failure of lifestyle and pharmacologic therapy.

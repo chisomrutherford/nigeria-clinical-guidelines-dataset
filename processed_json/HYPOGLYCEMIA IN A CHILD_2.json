@@ -1,0 +1,57 @@
+{
+  "condition_name": "Hypoglycemia in a Child",
+  "condition_slug": "hypoglycemia-in-a-child",
+  "source": "NSTG 2022",
+  "introduction": "Whole blood glucose level of < 2.6 mmol/L(<45 mg/dL), irrespective of age and gestational age.(conversion factor: 1mmol/L = 18mg/dL). Most infants with mild to moderate hypoglycaemia are asymptomatic.. Normal glucose utilization rate is 4-6mg/kg/minute but high-risk infants require 6-10mg/kg/minute. In the extreme cases of hyperinsulinism, the infants utilize glucose at a rate greater than 10mg/kg/minute. The following predispose to it: prematurity, intra-uterine growth restriction, hypothermia, perinatal asphyxia, polycythaemia, septicaemia, maternal diabetes, in-born errors of metabolism – galactosaemia, glycogen storage diseases – liver diseases, haemolytic disease of the newborn, Beckwith-Wiedemann syndrome, nesidioblastosis and other pancreatic tumours.",
+  "clinical_features": [
+    {
+      "type": "Symptoms",
+      "features": [
+        "Mild cases of hypoglycaemia may be asymptomatic.",
+        "Diaphoresis",
+        "Irritability",
+        "Hypotonia",
+        "Lethargy",
+        "Apnea",
+        "Seizures"
+      ]
+    }
+  ],
+  "investigations": [
+    "Screening for hypoglycaemia for all high-risk infants (EGA <37weeks, Weight <2.5kg, SGA, infants of diabetic mothers, infants of mothers on β-blockers, infants with cold-stress).",
+    "Diagnosis confirmed using test strips unaffected by haematocrit, oxygen saturation, or bilirubin level. Modern strips provide blood glucose values close to spectrophotometery values."
+  ],
+  "treatment": {
+    "goals": [
+      "Maintain normoglycaemia",
+      "Correct hypoglycaemia"
+    ],
+    "non_drug": [
+      "Consult a paediatric endocrinologist for refractory hypoglycaemia.",
+      "Central venous line insertion for administering higher glucose concentration."
+    ],
+    "drug": [
+      "Intravenous 10% dextrose-in-water for babies that cannot be fed.",
+      "Bolus of 4 mL/kg of 10% dextrose if RBG < 2.6 mmol/L, with maintenance infusion at 8 mg/kg/minute.",
+      "Intravenous hydrocortisone 2.5-5 mg/kg 12 hourly if hypoglycaemia persists despite 12 mg/kg/minute.",
+      "Oral diazoxide 1.7-5 mg/kg 8 hourly with oral chlorthiazide 10 mg/kg 12 hourly for monitoring hypotension and dehydration.",
+      "Subcutaneous somatostatin octreotide 1 microgram/kg 4 hourly or intramuscular glucagon 20 microgram/kg 6 hourly for extreme cases requiring more than 20 mg/kg/minute of glucose."
+    ],
+    "adverse_reactions_and_cautions": [
+      "Closely monitor for hypotension and dehydration with oral diazoxide and chlorthiazide."
+    ],
+    "supportive_measures": [
+      "Early feeding in the first hour and glucose monitoring in the presence of risk factors.",
+      "Measure blood glucose 30 minutes after bolus of glucose and continue monitoring until stable.",
+      "Increase Glucose Infusion Rate (GIR) if necessary."
+    ]
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "Partial pancreatectomy if hypoglycaemia persists with hyperinsulinism."
+  ],
+  "prognosis": null
+}

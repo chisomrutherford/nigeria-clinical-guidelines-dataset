@@ -1,0 +1,49 @@
+{
+  "condition_name": "Gastritis",
+  "condition_slug": "gastritis",
+  "source": "NSTG 2022",
+  "introduction": "Inflammation of the gastric mucosa which may be acute or chronic. The most important risk factors for acute gastritis include drugs (NSAIDs) and alcohol. While H. pylori infection is the most important risk factor for chronic gastritis.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Upper abdominal burning pain or discomfort that mimics peptic ulcer disease (PUD)."
+      ]
+    }
+  ],
+  "investigations": [
+    "Upper GI Endoscopy (macroscopic diagnosis).",
+    "Histology of gastric biopsy for definitive diagnosis"
+  ],
+  "treatment": {
+    "goals": [
+      "Eliminate pain.",
+      "Address offending agent.",
+      "Prevent progression to PUD or gastric cancer"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Magnesium trisilicate 1 - 2 tablets or suspension 10 mL orally three times daily or as required",
+      "Ranitidine 150 mg orally once daily as required",
+      "Omeprazole 20 mg orally once daily as required",
+      "Clarithromycin 500 mg orally twice daily",
+      "Amoxicillin 1g orally every twice daily",
+      "Omeprazole 20 mg orally twice daily"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": [
+      "Endoscopic surveillance every 2 - 3 years for early detection of cancer"
+    ]
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Acute gastritis: Upper gastrointestinal (GI) haemorrhage",
+    "Chronic gastritis: peptic ulcer disease; gastric cancer"
+  ],
+  "prevention": [
+    "Avoid risk factors (NSAIDs, alcohol, etc)"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

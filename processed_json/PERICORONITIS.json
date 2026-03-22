@@ -1,0 +1,53 @@
+{
+  "condition_name": "Pericoronitis",
+  "condition_slug": "pericoronitis",
+  "source": "NSTG 2022",
+  "introduction": "An inflammatory condition of the operculum or gum flap around a partially erupted/impacted tooth. Common around the lower last molars or wisdom teeth.",
+  "clinical_features": [
+    {
+      "type": "General",
+      "features": [
+        "Soreness and tenderness around partially-erupted tooth",
+        "Pain",
+        "Swelling",
+        "Enlargement of regional lymph nodes",
+        "Fever",
+        "Abscess formation"
+      ]
+    }
+  ],
+  "investigations": [
+    "Radiographs",
+    "To establish the position of the affected tooth and its relationship to the second molar",
+    "May show impacted third molar"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Careful irrigation under the gum flap to clear debris, using warm saline mouthwash; To be done frequently until stagnation area is removed",
+      "Operculectomy",
+      "Disimpaction of the third molar by surgical extraction",
+      "Occlusal reduction of opposing tooth",
+      "Extraction of opposing tooth to forestall supraeruption and sequelae"
+    ],
+    "drug": [
+      "Appropriate antibiotics",
+      "Analgesics",
+      "Supportive therapy"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Cellulitis",
+    "Ludwig's angina",
+    "Osteomyelitis",
+    "Submasseteric abscess",
+    "Temporomandibular joint ankylosis"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

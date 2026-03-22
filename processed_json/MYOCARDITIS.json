@@ -1,0 +1,70 @@
+{
+  "condition_name": "Myocarditis",
+  "condition_slug": "myocarditis",
+  "source": "NSTG 2022",
+  "introduction": "Acute inflammatory process affecting the myocardium that may occur in association with endocarditis and pericarditis.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features of Myocarditis",
+      "features": [
+        "Largely asymptomatic",
+        "A few may present with palpitations; symptoms of cardiac failure",
+        "Signs: Arrhythmias",
+        "Tachycardia",
+        "Raised JVP",
+        "Cardiomegaly",
+        "S3 or S4 (with or without murmurs of regurgitation in the mitral/tricuspid areas)"
+      ]
+    }
+  ],
+  "investigations": [
+    "Electrocardiography",
+    "Echocardiography",
+    "FBC and differentials",
+    "Electrolyte, Urea and Creatinine",
+    "Cardiac enzymes",
+    "Endomyocardial biopsy"
+  ],
+  "treatment": {
+    "goals": [
+      "Eliminate/withdraw the offending agent(s)",
+      "Treat the effect on the heart",
+      "Treat complications"
+    ],
+    "non_drug": [
+      "Bed rest"
+    ],
+    "drug": [
+      "Treat underlying cause(s)",
+      "Anti-arrhythmics (depends on the type of arrhythmias)",
+      "Anticoagulant: warfarin",
+      "Anti-cardiac failure: digoxin, diuretics, potassium supplements",
+      "Steroids: prednisolone (not in all cases)",
+      "Multivitamins",
+      "Anti-oxidants: ascorbic acid (vitamin C), vitamin E"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Antiarrhythmics may be pro-arrhythmic",
+      "Anticoagulants: bleeding",
+      "Steroids: fluid retention, dyspepsia",
+      "Diuretics: dehydration, electrolyte imbalance"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Other forms of cardiac failure, e.g. peripartum cardiomyopathy"
+  ],
+  "complications": [
+    "Cardiac failure",
+    "Arrhythmias",
+    "Thrombus formation"
+  ],
+  "prevention": [
+    "Prevent infection (viral, bacterial, etc)",
+    "Prevent exposure to toxins",
+    "Nutrition education"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

@@ -1,0 +1,67 @@
+{
+  "condition_name": "Acute Abdomen",
+  "condition_slug": "acute-abdomen",
+  "source": "NSTG 2022",
+  "introduction": "These are abdominal conditions causing sudden or severe pain, that requires immediate or urgent attention. Cause may be surgical in nature or medical diseases. Medical conditions should always be borne in mind as they would usually not require surgical intervention. Common surgical and medical causes are detailed in Table 2. In newborns, intestinal obstruction (Table 3) is the commonest cause of acute abdomen and their care is different from that of adults and older children.",
+  "clinical_features": [
+    {
+      "type": "Clinical Evaluation",
+      "features": [
+        "A detailed history should be taken and meticulous and thorough physical examination done. However, prompt resuscitation should not be sacrificed for taking too much time for history and examination. Clinical evaluation and resuscitation should as much as feasible be done simultaneously to save time.",
+        "In Acute abdominal pain note the following:\n• Location\n• Onset and progression\n• Nature and character\n• Aggravating and relieving factors\n• Abdominal distension\n• A past history of similar pain suggests complication of an underlying condition\n• In typhoid perforation, fever precedes abdominal pain, while the reverse is true for acute appendicitis\n• Nausea and vomiting:\n  - A frequent finding\n  - Common in intestinal obstruction\n• Altered bowel habits:\n  - Diarrhoea may suggest an infective/inflammatory condition\n  - Constipation occurs in intestinal obstruction and late in peritonitis\n  - The presence or absence of blood, mucus in stool should be ascertained\n• Fever:\n  - An early feature in inflammatory/infective conditions\n  - A late feature in most other causes of acute abdomen\n• Gynaecologic history:\n  - Last menstrual period: this will help in the suspicion of ectopic gestation and bleeding graafian follicle\n  - Vaginal discharge: salpingitis\n• Urinary symptoms:\n  - Pain on micturition\n  - Pus in urine or cloudy urine\n  - Urethral discharge\n  - Loin pain\n• Past medical history:\n  - Diabetes mellitus\n  - Sickle cell disease\n• Physical examination:\n  - General examination\n  - Dehydration\n  - Temperature (the exact temperature should be taken with a thermometer: oral, axillary or rectal temperature)\n  - Pallor\n  - Jaundice\n  - Foetor (as in diabetic ketoacidosis etc.)\n  - Haemodynamic status:\n    - Pulse rate: >100/minute is abnormal\n    - Blood pressure: <100 mmHg systolic and <60 mmHg diastolic pressures indicate hypotension in an adult\n  - Chest:\n    - Examine carefully for evidence of chest infection\n  - Abdomen :\n    - Distension\n    - Presence of scars of previous surgery or bruising in trauma\n    - Visible peristalsis (suggests intestinal obstruction)\n    - General peritonitis: There may be no movement with respiration\n    - Ascertain the site of tenderness\n    - Localized:\n      - Right iliac fossa (appendicitis, gynaecologic conditions etc.)\n      - Right hypochondrium (cholecystitis)\n    - Generalised: varied causes. As much as possible any palpable mass should be characterized\n    - If tenderness is not too marked, ascertain the presence of free fluid in the peritoneal cavity by shifting dullness or fluid thrill (ascites)\n    - Listen for bowel sounds\n      - Diminished or absent in peritonitis; exaggerated in early stages of intestinal obstruction\n  - Rectal examination:\n    - Look for perianal soilage\n    - Presence or absence of faeces in rectum\n    - Palpate rectovesical pouch or rectouterine pouch (of Douglas) for bogginess and tenderness indicating a pelvic collection of pus or blood\n    - Examine the faeces on the examining finger for blood, mucus\n  - Vaginal examination:\n    - May be necessary to exclude gynaecological conditions"
+      ]
+    }
+  ],
+  "investigations": [
+    "Plain radiography of abdomen: Supine and upright films to identify features of intestinal obstruction (dilated bowel loops and multiple fluid levels); a radio-opaque shadow may be seen in the region of the urinary tract in ureteric colic",
+    "Plain radiography of chest: An upright film may identify gas under the diaphragm in gastrointestinal perforation and look for chest infection",
+    "Abdomino-pelvic ultrasonography: Should help ascertain the cause of pain (e.g. cholecystitis, gynaecologic conditions, urinary calculi, degenerating masses); may identify injured solid organ in trauma",
+    "Diagnostic peritoneal lavage: Useful in abdominal trauma to identify haemoperitoneum and leakage of gastrointestinal contents",
+    "Biochemical tests: Urinalysis for sugar, protein, ketones; random blood sugar to exclude diabetes mellitus; serum electrolytes and urea (correction may be needed); serum amylase to exclude acute pancreatitis",
+    "Haematological tests: Haemogram to exclude anaemia; packed cell volume; haemoglobin genotype if sickle cell disease is suspected; complete blood count may show leucocytosis, neutrophilia; blood grouping and cross-matching"
+  ],
+  "treatment": {
+    "goals": [
+      "Achieve good outcome",
+      "Prevent/minimize morbidity and mortality"
+    ],
+    "non_drug": [
+      "Resuscitation and general measures",
+      "Rehydration and correction of electrolyte derangements",
+      "Correct shock by giving crystalloids or colloid",
+      "Maintenance fluids based on degree of dehydration",
+      "Correct electrolyte deficits (especially potassium)",
+      "Nasogastric decompression (largest possible size tube)",
+      "Urethral catheterization (to monitor urine output)",
+      "Correct anaemia (by blood transfusion)"
+    ],
+    "drug": [
+      "Commence broad spectrum, intravenous antibiotics (do not give aminoglycosides until urine output is adequate)"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": [
+      "Monitor closely by repeated examinations and electronic monitoring to identify adequate resuscitation",
+      "Avoid time wasting and identify non-responding patients",
+      "Monitor parameters for adequate rehydration: cardio-respiratory stability, pulse rate, blood pressure, central venous pressure, pulmonary capillary wedge pressure, urine output, hydration status, skin turgor, sensorium",
+      "Monitor SaO2 saturation (from pulse oximeter) > 80%"
+    ]
+  },
+  "differential_diagnoses": [
+    "Detailed in Table 16.2, list of possible causes"
+  ],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": [
+    "Computed tomography when diagnostic confusion arises",
+    "Cultures of suspicious fluids and materials for microbiology and culture"
+  ],
+  "definitive_treatment": [
+    "Once adequately resuscitated, proceed with definitive treatment",
+    "Surgical conditions require urgent laparotomy: evacuation of pus, blood, infected material; meticulous examination of organs; treat identified pathologies; cleanse peritoneal cavity with sodium chloride 0.9%",
+    "Neonates should be referred to secondary or tertiary facility",
+    "Consult a physician for medical conditions"
+  ],
+  "prognosis": [
+    "Outcome and survival depend on early presentation and diagnosis, prompt and adequate resuscitation before surgery, and appropriate and meticulous surgery"
+  ]
+}

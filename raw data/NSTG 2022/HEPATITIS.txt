@@ -1,0 +1,65 @@
+HEPATITIS
+Introduction
+Diffuse inflammation of the liver that can be caused by infective agents, drugs ,
+alcohol, autoimmune and toxins
+
+CLINICAL FEATURES OF HEPATITIS 
+Clinical Features
+• Acute hepatitis (lasting for less than 6 months):
+• Mild-to-moderate jaundice
+• Vague right upper quadrant discomfort
+• Fever With or without mild fever
+• Hepatomegaly.
+• Chronic hepatitis (Lasting more than 6 months):
+• General malaise/Fatigue
+• Re-occurence of jaundice.
+
+COMPLICATIONS OF HEPATITIS 
+Complications
+• Liver failure
+• Bleeding tendencies.
+• Cirrhosis/Liver cancer
+
+INVESTIGATIONS OF HEPATITIS 
+Investigations
+• Liver Function Tests
+• Serologic markers of Hepatitis A, B, C, D and E
+• Viral load
+• Abdominal ultrasonography
+• Prothrombin time
+• HIV Screening
+
+TREATMENT OF HEPATITIS 
+Treatment Goals
+• Provide supportive measures
+• Prevent progression to chronic phase
+Non-drug Treatment
+• High carbohydrate and Normal protein diet
+• Discontinuation of hepatotoxic medication
+• Bed rest
+Drug Treatment
+Chronic Hepatitis B
+• Treatment is required in patients with viral load exceeding 2000 IU/ml for
+HBeAg negative or 20000 IU/ml for HBeAg positive status.
+- Pegylated interferon alfa -2b: 180μg sc. weekly for 48 weeks
+- Oral Tenofovir 300 mg daily
+Chronic Hepatitis C:
+• Pegylated interferon alfa-2b: 180 microgram subcutaneously weekly for 48
+weeks
+Plus:
+• Ribavirin:
+- 400 mg orally twice daily for adults with body weight less than 65 kg
+- 400 mg in the morning and 600 mg in the evening for adults weighing
+65-85 kg;
+- 600 mg twice daily for adults weighing over 85 kg
+Or
+Peg IFN + Ribavirin + Sofosbuvir for 12 weeks. (For all genotypes)
+Hepatitis D
+Treatment of HBV is effective for HDV.
+Notable Adverse Drug Reactions, Complications and Caution
+• Interferon alpha 2b and Ribavirin reduce haematopoiesis
+
+• Flu-like illness
+• Leucopenia
+• Psychiatric-like symptoms
+• Development of early resistance if therapy exceeds one year

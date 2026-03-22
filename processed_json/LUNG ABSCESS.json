@@ -1,0 +1,79 @@
+{
+  "condition_name": "Lung Abscess",
+  "condition_slug": "lung-abscess",
+  "source": "NSTG 2022",
+  "introduction": "Defined as necrosis of the lung parenchyma, usually caused by microbial infection, often with an air-fluid level. May be classified as acute (symptoms < 1month) or chronic (symptoms > 1month). May also be classified as primary if it occurs in a previously healthy person or in a person prone to aspiration. Secondary lung abscess commonly occurs in association with bronchogenic carcinoma or immunodeficiency states e.g. HIV infection. Lung abscess may be associated with the following • Pyogenic bacteria • Tuberculosis • Fungi • Parasites • Pulmonary infarction • Primary or metastatic malignancies • Silicosis • Coal miner's pneumoconiosis",
+  "clinical_features": [
+    {
+      "type": "Symptoms",
+      "features": [
+        "Cough, with purulent offensive sputum",
+        "Fever, chills",
+        "Night sweats",
+        "Weight loss",
+        "Pleuritic chest pain"
+      ]
+    },
+    {
+      "type": "Signs",
+      "features": [
+        "Digital clubbing",
+        "Crepitations",
+        "Pleural friction rub"
+      ]
+    }
+  ],
+  "investigations": [
+    "Sputum: Gram stain and culture",
+    "Bronchoscopy",
+    "Transthoracic aspiration",
+    "Blood culture",
+    "Chest radiograph"
+  ],
+  "treatment": {
+    "goals": [
+      "Eradicate bacterial cause",
+      "Drain abscess",
+      "Preserve normal lung function"
+    ],
+    "non_drug": [
+      "Hydration",
+      "Pain relief",
+      "Physiotherapy"
+    ],
+    "drug": [
+      "Antibiotics",
+      "Metronidazole - Adult: 500 mg orally every 8 hours",
+      "Metronidazole - Child: neonate, initially 15 mg/kg orally then 7.5 mg/kg every 12 hours",
+      "Metronidazole - Child: 1 month – 12 years: 7.5 mg/kg (maximum 400 mg) every 8 hours",
+      "Metronidazole - Child: 12 – 18 years: 400 mg every 8 hours",
+      "Amoxicillin - Adult: 500 mg orally every 8 hours for 7 – 10 days",
+      "Amoxicillin - Child: less than 5 years: a quarter adult dose",
+      "Amoxicillin - Child: 5 – 10 years: half adult dose",
+      "Amoxicillin/clavulanic acid - Adult: 1 g/200 mg orally every 8 hours for 7 – 10 days"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Localized bronchiectasis",
+    "Pneumonia",
+    "Tuberculosis"
+  ],
+  "complications": [
+    "Cerebral abscess",
+    "Empyema",
+    "Amyloidosis"
+  ],
+  "prevention": [
+    "Good dental care",
+    "Adequate treatment of acute pneumonia",
+    "Preventive with vaccination in persons at risk",
+    "HIV infected patients who are still capable of responding to a vaccine challenge.",
+    "Patients with recurrent sinopulmonary infection",
+    "Patients with or acquired hypogammaglobulinaemia"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

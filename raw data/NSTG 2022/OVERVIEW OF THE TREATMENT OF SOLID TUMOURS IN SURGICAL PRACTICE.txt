@@ -1,0 +1,39 @@
+OVERVIEW OF THE TREATMENT OF SOLID TUMOURS IN SURGICAL PRACTICE 
+Introduction
+Cancer incidence is increasing all over the world but most especially in low-and medium-income countries. Cancer is now one of the leading causes of death from non-communicable diseases.
+Effective modern treatment of cancer is best accomplished when different modalities of treatment like surgery, use of drugs, ionizing radiation and symptomatic palliation are brought together to complement each other.
+
+SURGICAL TREATMENT OF CANCER 
+• Surgery is the oldest modality for the treatment of cancer. This modality plays a key role in the treatment of every stage of solid tumours and remains the cheapest disease changing cancer treatment
+
+• Surgery can be used in the Prevention of cancer where it may be employed to treat precancerous conditions to forestall the development of cancer. Young men with uncorrected cryptorchidism for example can be subjected to orchidectomy to prevent testicular cancer
+
+• Different cancer predisposing hereditary diseases like germline BRCA 1 and 2 mutations, familial adenomatous polyposis coli etc., can undergo prophylactic removal of predisposed organs to forestall development of cancer. Surgical treatment of cancers can be with curative intent or for palliation of symptoms
+
+• In organ confined tumours, Surgery is usually the primary treatment. Alone, surgery can cure about 70% of such tumours but will depend on addition of systemic drugs and or radiotherapy as adjuvants to achieve a cure in the other 30%
+
+• Sometimes, adjuvant drug treatment is brought upfront before surgery to downstage the tumour and enable surgical extirpation. The key principle in surgical treatment of organ confined tumours is a complete removal with a margin of normal tissue. This may involve such radical surgeries like limb amputations, mastectomies, nephrectomies, pneumonectomies etc.
+
+• In some instances, the magnitude of the surgery becomes extended to achieve a cure or to improve the chances of achieving a cure, like in radical or modified radical mastectomies, radical or modified radical neck dissections etc. The emergence of effective non-surgical treatment of solid tumours has impacted well on the use of surgery for the treatment of cancer
+
+• Where such effective alternate modalities exist, the magnitude of curative
+
+surgery can be reduced to achieve organ preserving surgeries without compromising survival. Such organ preserving surgeries like partial nephrectomies, breast conserving surgeries, limb sparing excisions of bone and soft tissue sarcomas are now standard of care.
+
+
+PALLIATIVE SURGERY FOR SOLID TUMOURS:
+• Done where the hope of a cure is not evident but surgical treatment promises to alleviate some of the distressing symptoms of the patient
+• Surgical relief of obstructing gastrointestinal tumours, or urinary tract tumours, toilet mastectomies when the tumour is not responding to systemic treatments, palliative limb amputations for non-resectable soft tissue sarcoma are examples in this category
+• Sometimes, surgical treatment of tumours can be required as emergencies like emergency laparotomies for perforated tumours, emergency surgery for bleeding malignancies, etc.
+
+MEDCAL MANAGEMENT OF CANCER:
+• The use of drugs is an indispensable tool in the management of solid tumours. Drug treatment of cancer has become so complex that a relatively new specialty, Medical Oncology has developed to manage it
+• This specialty has gained preeminence in the treatment of cancer with the increasing discovery of newer and better molecules for the treatment of different cancers
+• Drugs are used as adjuvants to surgery to increase chances of cure in patients that present early with organ confined tumours while in patients with late disease, drugs are required for improvement in quality of life and prolongation of life
+• Drug treatment of cancer involves appropriate use of cytotoxic chemotherapy, hormonal manipulation, immunotherapy as well as the use of newer targeted drugs which promises more selective destruction of cancer cells in their action. Medical management of cancer patients demands intricate balancing of efficacy and toxicities and can in many cases be the most distressing part of treatment for the patient
+
+RADIATION TREATMENT OF CANCER:
+• Solid tumours respond variably to controlled exposure to ionizing radiations. Radiation treatment may be with naturally occurring particles like cobalt 60 and radioactive caesium or can be with artificially generated ionizing radiations from modern linear accelerator machines
+• Delivery of the radiation can be from external machines as in external beam radiotherapy or by brachytherapy which involves insertion of the radioactive materials into body cavities or within the tissues or delivered systemically as in radioiodine treatment
+• Radiation treatment can be used as adjunct to surgical treatment for solid tumours to improve the chances of curative resection. It can also be used as the primary local control of solid tumours when surgery is not feasible/inappropriate
+• It also has a role in the treatment of focalized metastasis like brain metastasis or bone metastasis and in the control of symptoms like bleeding and pain.

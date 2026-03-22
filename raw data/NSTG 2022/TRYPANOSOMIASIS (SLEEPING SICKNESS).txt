@@ -1,0 +1,77 @@
+TRYPANOSOMIASIS (SLEEPING SICKNESS)
+Introduction
+African trypanosomiasis is an acute or chronic disease caused by Trypanosoma
+brucei namely T. brucei rhodesiense (East Africa) or T. brucei gambiense
+(West Africa)
+The disease is transmitted to humans by the bites of infected tsetse fly
+(Glossina genus) .
+
+CLINICAL FEATURES OF TRYPANOSOMIASIS (SLEEPING SICKNESS)
+Clinical Features
+・Early stage:
+- A nodule or chancre following a bite.
+- Fever
+- Headache
+- Dizziness
+- Weakness
+- Joint pains
+- Significant posterior cervical (Winterbottom sign) and supraclavicular
+lymphadenopathy
+- Splenomegaly
+・CNS stage:
+- Occurs six months to several years later.
+- Characterized by behavioural changes with hallucinations, delusions,
+and disturbances of sleep with drowsiness during the day and
+terminating with stupor.
+Investigations
+・ Peripheral blood film for the detection of trypanosomes
+・ Rapid Card Agglutination Trypanosomiasis Test (CATT) for antibody
+detection
+Diagnosis
+・ Presumptive
+・ Based on the clinical suspicion and history of exposure to the tsetse fly
+・ A finding of the trypanosome in peripheral blood, lymph node aspirate or
+CSF is confirmatory.
+
+DIFFERENTIAL DIAGNOSES OF TRYPANOSOMIASIS (SLEEPING SICKNESS)
+Differential Diagnoses
+・ Malaria fever
+・ Meningitis
+・ Viral infections involving the CNS
+DrugTreatment
+・ Early stage
+- Suramin (treatment of T.b. rhodesiense)
+- Adult and child: 5 mg/kg on day 1, 10 mg/kg on day 3, and 20 mg/kg on
+days 5, 11, 17, 23 and 30
+Or
+- Pentamidine (treatment of T. b. gambiense)
+Dose: 4 mg/kg/day IM or IV (diluted in saline in 2-hour infusions) x 7 days
+・ Late stage
+- Melarsoprol (treatment of both gambiense and rhodesiense infections)
+- Adult: 2.0 - 3.6 mg/kg intravenously in 3 divided doses for 3 days,
+followed 1 week later with 3.6 mg/kg intravenously in 3 divided doses
+for 3 days 10 - 21 days later: 3.6 mg/kg intravenously in 3 divided doses
+for 3 days.
+Or
+- Nifurtimox-eflornithine combination therapy (NECT)- (treatment of T.
+b. gambiense)
+- Nifurtimox 15 mg/kg per day orally in three doses x 10 days, and
+eflornithine 400 mg/kg/day IV in two 2-hour infusions (each dose
+diluted in 250 mL of water for injection) x 7 days.
+- Eflornithine in children weighing <10 kg: dilute in 50 mL of water for
+injection. Children weighing 10 - 25 kg: dilute in 100 mL of water for
+injection.
+Caution/Follow up
+・ Urine should be examined for casts and protein before and after treatment
+with suramin.
+・ Lumbar puncture follow-up for at least 1 year after treatment with
+melasoprol is required.
+・ There is no test of cure for African trypanosomiasis.
+・ After treatment, patients should be closely followed for 24 months and
+monitored for relapse.
+・ Recurrence of symptoms will require examination of body fluids, including
+CSF, to detect the presence of trypanosomes.
+Prevention
+・ Surveillance and treatment
+・ Chemoprophylaxis
+・ Vector control by selective clearing of vegetation and use of insecticides.

@@ -1,0 +1,43 @@
+{
+  "condition_name": "Dyspnoea",
+  "condition_slug": "dyspnoea",
+  "source": "NSTG 2022",
+  "introduction": "An abnormal and uncomfortable awareness of breathing Effort of breathing is out of proportion with exertion needs Patients often have difficulties in describing the discomfort of dyspnoea",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Will depend on the underlying cause(s) of dyspnoea"
+      ]
+    }
+  ],
+  "investigations": [],
+  "treatment": {
+    "goals": [
+      "Treat cause(s) of dyspnoea",
+      "Restore normal respiration"
+    ],
+    "non_drug": [
+      "Oxygen in appropriate concentration",
+      "Other treatment will depend on the underlying/ precipitating cause"
+    ],
+    "drug": [],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Obstructive airways disease: asthma, chronic bronchitis, emphysema",
+    "Parenchymal lung disease: pneumonia, pneumoconiosis, pulmonary fibrosis",
+    "Pulmonary vascular obstruction: pulmonary emboli",
+    "Chest wall disorders: respiratory muscle paralysis, kyphoscoliosis",
+    "Cardiogenic: Congestive cardiac failure",
+    "Left ventricular failure",
+    "Metabolic: Diabetic ketoacidosis",
+    "Neurogenic: Anxiety neurosis"
+  ],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

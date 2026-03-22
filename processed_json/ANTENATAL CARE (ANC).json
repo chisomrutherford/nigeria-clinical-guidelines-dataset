@@ -1,0 +1,149 @@
+{
+  "condition_name": "Antenatal Care (ANC)",
+  "condition_slug": "antenatal-care-anc",
+  "source": "NSTG 2022",
+  "introduction": "Antenatal care (ANC) is the Health Prevention services provided by skilled health-care professionals to pregnant women in order to ensure the best health conditions for both mother and baby during pregnancy and child birth. ANC is an excellent example of preventive health care as it deals mainly with normal individuals with an emphasis on the practice of health promotion. Availability, accessibility and utilization of ANC remains poor in Nigeria as in many other developing nations.",
+  "clinical_features": [
+    {
+      "type": "Aims",
+      "features": [
+        "Assessment and management of maternal risks and symptoms",
+        "Assessment and management of foetal risks",
+        "Prenatal diagnosis and management of foetal abnormalities",
+        "Diagnosis and management of perinatal complications",
+        "Prevention of maternal and foetal complications",
+        "Decision regarding timing and mode of delivery",
+        "Parental education regarding pregnancy, childbirth and child rearing"
+      ]
+    },
+    {
+      "type": "Providers",
+      "features": [
+        "ANC and delivery are conducted by skilled birth attendants; who are defined by WHO as an accredited health professional such as a midwife, doctor or nurse who has been educated and trained to proficiency in the skills needed to manage normal (uncomplicated) pregnancies, childbirth and the immediate postnatal period, and in the identification, management and referral of complications in women and newborns."
+      ]
+    },
+    {
+      "type": "Schedule of visits",
+      "features": [
+        "Monthly until 28 weeks gestation, then fortnightly until 36 weeks and weekly thereafter until delivery, resulting in up to 14 hospital visits during pregnancy. But available evidence indicates that there is no difference in outcome between a four visit schedule and a fourteen visit schedule.",
+        "The concept of Focused Antenatal Care (FANC) recommends four visits with clearly defined goals to be achieved at each visit. However, the FANC is aimed at women with no pregnancy risk factors for complications, while those with risk factors are to be managed with the 12 visits schedule.",
+        "Recent evidence suggested that the FANC model is associated with more perinatal deaths than ANC models that comprise at least eight contacts between the pregnant woman and the health care provider."
+      ]
+    },
+    {
+      "type": "ANC Model",
+      "features": [
+        "2016 WHO ANC Model recommends at least eight contacts: Contact 1 at 12 weeks of gestation, Contact 2 at 20 weeks, Contact 3 at 26 weeks, Contact 4 at 30 weeks, Contact 5 at 34 weeks, Contact 6 at 36 weeks, Contact 7 at 38 weeks, Contact 8 at 40 weeks.",
+        "Return for delivery at 41 weeks if not given birth."
+      ]
+    },
+    {
+      "type": "Additional Recommendations",
+      "features": [
+        "Each pregnant woman carries her own case notes during pregnancy to improve continuity, quality of care and pregnancy experience.",
+        "Task shifting the promotion of health-related behaviour for maternal and newborn health to broaden range of cadres including lay health workers, auxiliary nurses, midwives, nurses and doctors.",
+        "Task shifting the distribution of recommended nutritional supplements and intermittent preventive treatment (IPTp) for Malaria Prevention to a broad range of cadres.",
+        "Three doses of IPTp-SP is recommended starting as early as possible in the 2nd Trimester (after quickening or 16 – 18 weeks) the doses should be given one month apart.",
+        "IPTp-SP should be avoided in first trimester, and should not be administered to women receiving co-trimoxazole.",
+        "IPTp-SP can be safely used in women on daily dose of 0.4 mg of folic acid.",
+        "Folic acid at a daily dose equal or above 5mg should not be given together with SP as this counteracts its efficacy as an antimalarial."
+      ]
+    },
+    {
+      "type": "Activities during ANC contacts",
+      "features": [
+        "First ANC contact should be in the first trimester, preferably before the 12 week of gestation, lasting between 30 – 40 minutes.",
+        "Key objective is to obtain the woman's medical, obstetric history and risk assessment."
+      ]
+    },
+    {
+      "type": "Routine Investigations",
+      "features": [
+        "Urinalysis – for protein or glucose",
+        "Haemoglobin concentration/Packed cell Volume",
+        "Blood Group",
+        "Genotype",
+        "VDRL test",
+        "HIV screening",
+        "Hepatitis B and C screening",
+        "Ultrasound scanning."
+      ]
+    },
+    {
+      "type": "Interventions during first ANC visit",
+      "features": [
+        "Iron and folic acid",
+        "Tetanus toxoid – 1st dose",
+        "IPTp-SP – 1st dose",
+        "Calcium supplement",
+        "Test for syphilis if VDRL is positive.",
+        "Refer if other investigation result so require.",
+        "Allow time for advice, questions and answers.",
+        "Scheduling of next appointment.",
+        "Maintain complete clinic records of all transactions of the visit."
+      ]
+    },
+    {
+      "type": "2nd and subsequent contacts",
+      "features": [
+        "Aim is to identify developing ill health and to monitor maternal and foetal health.",
+        "Each contact is expected to last for 20 minutes.",
+        "Review of history for any change.",
+        "Assessment of adherence to routine ANC medicine.",
+        "Update risk status and refer when necessary.",
+        "Physical examination as in the first visit.",
+        "IPTp-Sp last dose not later than 1 month before the expected date of delivery.",
+        "Proguanil 100-200mg orally can be given in place of IPTp-SP.",
+        "Maintain complete clinical records as well as ANC record."
+      ]
+    },
+    {
+      "type": "Postnatal contacts",
+      "features": [
+        "Aim is to identify and respond to the maternal and child needs and complications.",
+        "Conduct postnatal contact in first 24 hours for every birth.",
+        "Conduct total of four postnatal contacts on First day (24 hours), Day 3 (48-72 hours), Between days 7-14, and Six weeks.",
+        "Offer contraceptive advice.",
+        "Offer child immunization and exclusive breastfeeding advice.",
+        "Complete tetanus prophylaxis with tetanus toxoid.",
+        "Continue interventions: iron, folic acid, and malaria prophylaxis."
+      ]
+    }
+  ],
+  "investigations": [],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Conducting ANC and delivery by skilled birth attendants.",
+      "Patient education on ANC schedule.",
+      "Promotion of health-related behaviour and nutritional supplements distribution.",
+      "Task shifting to increase range of care providers."
+    ],
+    "drug": [
+      "Iron and folic acid",
+      "Tetanus toxoid",
+      "IPTp-SP",
+      "Calcium supplement",
+      "Proguanil"
+    ],
+    "adverse_reactions_and_cautions": [
+      "IPTp-SP should be avoided in first trimester, and should not be administered to women receiving co-trimoxazole.",
+      "Folic acid at a daily dose equal or above 5mg should not be given together with SP as this counteracts its efficacy."
+    ],
+    "supportive_measures": [
+      "Each pregnant woman carries her own case notes during pregnancy to improve care and experience.",
+      "Maintain complete clinical records of all visits.",
+      "Conduct first ANC contact in the first trimester, with regular follow-ups based on updated schedule.",
+      "Comprehensive physical examinations and disease screenings."
+    ]
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [
+    "Use of intermittent preventive treatment for malaria and nutritional supplements.",
+    "Pregnant women managing their own case notes to ensure continuity of care throughout pregnancy."
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

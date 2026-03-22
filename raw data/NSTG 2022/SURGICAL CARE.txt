@@ -1,0 +1,278 @@
+SURGICAL CARE
+Introduction
+Surgical Care are initiatives aimed at reducing or eliminating complications
+arising from the provision of surgery to patients that need surgical operations.
+This is generally referred to as perioperative care which consists of
+preoperative, intra-operative and postoperative care.
+Goals of Peri-operative care
+Based on the evidence that majority of Complications and mortality following
+elective surgery are avoidable and can be prevented. These are:
+• Prevent avoidable Complications
+• Ensure early identification of Complications and prompt treatment
+• Prevent avoidable mortality
+• Ensure quick recovery and return to activities
+• Ensure safe and smooth surgery
+• Ensure optimal patient outcomes
+Pre-operative care
+Aims at preventing and/or minimizing the risk of adverse cardio-pulmonary
+events during and after surgery.
+Clinical evaluation
+• History of cough is indicative of Cardiopulmonary disorders such as chest
+infections, Bronchial asthma, chronic obstructive airways diseases,
+hypertension, heart failure etc.
+• Patient may have metabolic disorders like Diabetic Mellitus etc,
+Haematologic disorders like the haemoglobinopathies eg Sickle cell
+disease. Other patients may give history of allergy to drugs, talc, elastoplast,
+antiseptics, etc.
+• Drug history like Propranolol, diuretics, steroids and other hormonal
+agents; prednisolone, oral contraceptives; tricyclic antidepressants, which
+may interfere with healing process.
+• Social habits like cigarette smoking, alcohol use etc may have effects on
+anaesthetic outcome.
+• Previous anaesthetic experience, type and how long ago are important
+Investigations
+Cardiopulmonary:
+• Chest radiograph: especially for patients 60 years and above, and those with
+chest infection gives evidence of chest infection and cardiomegaly
+• ECG: for patients over 60 years and those with heart disease or
+hypertension
+• Pulmonary function tests may be necessary in patients with obstructive
+airways disease
+Metabolic:
+• Urine sugar to exclude diabetes mellitus in patients with history of polyuria,
+polydipsia and polyphagia
+• Serum electrolytes and urea
+• Haematologic: Haemogram and complete blood count in all patients
+• Haemoglobin genotype in patients with suspected haemoglobinopathies
+• Clotting profile (PT, KCCT) where there is suspicion of bleeding diathesis
+e.g. in jaundiced patients
+Others:
+• Other Investigations as may be indicated by individual clinical
+circumstances
+Pre-operative correction of abnormalities and preparation for surgery
+Cardiopulmonary:
+• Rehydrate adequately, using appropriate fluids
+• Control blood pressure in hypertensives
+• Treat chest infections with appropriate antibiotics
+• Manage obstructive airways disease
+Metabolic conditions and derangements:
+• Correct electrolyte deficits, especially hypokalaemia
+• Correct acidosis (by adequate rehydration in patients without renal
+impairment)
+• Diabetes should be controlled (Patients already controlled will need their
+therapy to be converted to soluble insulin for long surgical procedures)
+Haematological:
+• Correct anaemia
+- Cause(s) of anaemia should be identified and treated to at least 10g/dl
+- Haemogram 6 - 9 g/dL: correction may be achieved by haematinics;
+reschedule surgery
+- Haemogram <6 g/dL: correction may require blood transfusion
+- Emergency surgery: correct anaemia by blood transfusion
+- Blood transfusion should be avoided as much as practicable.
+- Patients with sickle cell anaemia: haemogram should be brought up to 8
+g/dL
+- These patients must be adequately hydrated to avoid sickling and
+sludging within the bloodstream
+- Short day case procedure: imperative to admit the patient with sickle
+cell anaemia at least a day before surgery to achieve adequate hydration
+- Suspected bleeding diathesis
+- Intramuscular vitamin K (10 mg daily), at least 48 - 72 hours before
+surgery
+• For major surgery, blood should be grouped, cross-matched and stored
+Other disorders:
+• Any associated medical condition should be treated /controlled before
+embarking on surgery. This should be done in conjunction with the
+physician as much as possible
+• Patients who require nutritional rehabilitation:
+- If surgery is elective reschedule it, and give adequate time to achieve
+improved nutritional status, otherwise morbidity and mortality may be
+increased
+• High- risk patients are those at high risk of developing postoperative
+complications
+- Deliberate and meticulous efforts should always be made to adequately
+evaluate them and ensure optimal fitness for surgery
+- Elderly patients (age >60 years) and obese patients: - risk of deep vein
+thrombosis, atelectasis
+- Cancer-risk of deep vein thrombosis, atelectasis, haemorrhage
+- Women on oral contraceptive pills-risk of deep vein thrombosis
+- Co-existing chronic medical conditions-risk of wide ranging
+complications
+- Sickle cell anaemia-risk of sickling crises, deep vein thrombosis
+Consent for surgery
+• Details of the surgery should always be explained to the patient (or
+relatives) in very simple language before surgery
+• Should include a mention of the possible/common complications
+• A signed consent should be obtained, in the presence of a witness (usually a
+nurse)
+• Obtaining consent should be done by the surgeon himself
+• There are a number of evidence-based risk stratification to guide in
+predicting the risk of adverse events and help in instituting appropriate
+measures to prevent these events (Tables 1 and 2).
+
+
+
+# Table 16.1: Cardiac Risk Stratification in Patients Undergoing Non-Cardiac Surgery
+
+| Risk | Examples |
+|---|---|
+| **High (≥5% cardiac risk)** | Emergent major operations (particularly elderly), Aortic or major vascular surgery, Peripheral vascular surgery, Upper abdominal |
+| **Intermediate (1%–5% cardiac risk)** | Intraperitoneal and intrathoracic surgery, Carotid endarterectomy, Head and neck surgery, Gynaecologic surgery, Neurosurgery, Orthopaedic surgery, Urologic surgery |
+| **Low (<1% cardiac risk)** | Endoscopic procedures, Superficial procedures, Cataract surgery, Breast surgery, Ambulatory surgery |
+ 
+          
+• Cardiac events include fatal and non-fatal cardiac events
+• Incorporates peri-operative cardiovascular events within 30 days after
+surgery
+• In addition to the cardiac risk stratification, note the American Society of
+Anaesthesiologist's physical status classification summarized below, which
+is a subjective assessment of patient's overall health.
+I. Patient is a completely healthy fit patient
+II. Patient has mild systemic disease
+III. Patient has severe systemic disease that is not incapacitating
+IV. Patient has incapacitating disease that is a constant threat to life
+V. A moribund patient who is not expected to survive without the operation
+VI. A declared brain-dead patient whose organs are being removed for donor
+purposes
+• The addition of “E” (except VI) denotes Emergency surgery: (An
+emergency is defined as existing when delay in treatment of the patient
+would lead to a significant increase in the threat to life or body part)
+Intra-operative care
+The focus of intra-operative care is to ensure a safe and smooth surgical
+procedure. The entire team in the operating room, including surgical team,
+anaesthesia team and peri-operative nursing team, should work together as a
+team and take responsibility for intra-operative care to ensure a smooth and safe
+operation. The WHO's 'Surgical Safety Checklist' is a helpful guide for safe and
+effective intra-operative care. This checklist can be modified to suit each
+hospital based on local realities.
+Post-operative care
+An excellently performed operation can be marred by poor post-operative care
+and inadequate attention to patient's post-operative needs.
+Meticulous and efficient care in the postoperative period is paramount for
+adequate patient recovery and success of surgery
+A well-planned and supervised postoperative care ensures a smooth recovery,
+and helps to prevent or limit postoperative morbidity and mortality
+Preoperative, intraoperative and postoperative care is a continuum and
+interlinked
+Many of the instructions and therapy started in the preoperative period may
+need to be continued into the postoperative period
+The surgeon himself must be involved in the postoperative care and not leave it
+to others, who may not have much ideas or information about the surgery
+Initial recovery
+Close monitoring and observation:
+• The first 4 - 6 hours after a major surgery and general anaesthesia are critical
+• The patient is still drowsy and recovering from the effects of anaesthesia
+• The cardiopulmonary status (pulse rate, blood pressure, respiration) needs
+to be monitored very closely (every 15 minutes) in order to promptly detect
+any abnormality
+• Where available, electronic monitors with an alarm system should be used
+
+Airway management
+• Airways need to be kept patent
+• Prevent the tongue from falling backwards by positioning patient in the left
+lateral position
+• The neck should be prevented from falling on itself as this can occlude the
+airway
+• Secretions should also be cleared using a low-pressure suction
+Nursing position
+• Different operations require specific positioning in the postoperative period
+to reduce venous pressures, keep airways patent, enhance drainage etc
+• The surgeon should be conversant with the specific positions and give
+appropriate instructions
+Analgesia/Pain management
+• Pain is a most undesirable effect of surgery. Patients should not be allowed
+to suffer from pain unduly. The appropriate analgesic technique should be
+chosen for the nature of surgical procedure performed. Adequate analgesia
+will ensure early ambulation and help to limit atelectasis
+• The following principles should guide the use of analgesia for control of
+postoperative pain: Multimodal approach: should be pre-emptive and
+preventative
+• Use of local anaesthetics:
+- Improve analgesia
+- Decrease opioid requirements
+- Decrease opioid-related side effects
+- Can be given via:
+- Wound infiltration
+- Epidural
+- Peripheral nerve blocks
+• Opioids remain the mainstay of surgical pain control
+• Pain should be continuously evaluated using appropriate pain assessment
+tools to help in ensuring adequate and appropriate management
+• The following analgesic guide is helpful in the control of postoperative pain
+
+
+Nasogastric decompression
+• The stomach may need to be kept decompressed for 24 - 48 hours,
+particularly following gastrointestinal surgery
+• Decompression:
+- Prevents abdominal distension and
+- Prevents tension on abdominal fascial closure I
+- Prevents splinting of the diaphragm and atelectasis
+• The widest possible bore of nasogastric tube for patient's age should be
+chosen
+• The nasogastric tube should be removed as soon as it is no longer needed,
+evidenced by:
+- Progressively diminishing effluent (<500 mL/24 hours in an adult)
+- Change from bilious colour to clear colour of gastric juice
+Fluid and electrolyte balance
+• Ensure that the patient receives adequate amounts of intravenous fluids if
+oral intake is prohibited
+• Choose an appropriate fluid to provide enough calories and electrolytes
+• Glucose 5% in sodium chloride 0.9% or lactated Ringer's solution is
+appropriate for most adults
+
+• After the 48 hours, the daily requirement of potassium should be provided if
+oral intake is still prohibited, especially if nasogastric drainage is ongoing
+• This should be in the form of potassium chloride added to intravenous fluids
+• Assess fluid and electrolyte balance on a daily basis and correct deficits
+• All intake (intravenous fluids, drugs, blood etc.) and output (urine,
+nasogastric drainage, other tubes, etc.) as well as insensible losses should be
+carefully recorded
+Nutrition
+• Following major surgery, adequate nutrition should be provided for the
+patient, particularly if oral intake is going to be prohibited for more than 48 -
+72 hours. This can be done in the form of parenteral nutrition
+Chest physiotherapy:
+Bed-ridden patients and patients who have had chest or upper abdominal
+surgery are prone to basal atelectasis and hypostatic pneumonia
+• These should be prevented by appropriate chest physiotherapy
+• Ensure adequate analgesia to enhance chest excursion
+• Encourage coughing and expectoration with a hand supporting any
+abdominal wound
+• Periodic chest percussion to loosen bronchial secretions
+• Ambulate as early as possible
+Mobilization and ambulation
+・ Mobilize and ambulate patients as early as is practicable to avoid the
+complications of prolonged recumbency
+・ Ambulation should be gradual: prop up in bed, sit out of bed, short walks,
+etc.
+・ Early ambulation should help prevent hypostatic pneumonia and eep vein
+thrombosis (very important in obese and elderly patients)
+Antibiotics
+・ Appropriate antibiotics as indicated
+・ Irrational or indiscriminate use is not to be encouraged
+Wound care
+Specific surgical wounds are cared for in different ways
+• Clean surgeries: do not open wound (unless indicated) until day 5 - 7
+• Inspect wounds immediately if there are features suggestive of surgical site
+(wound) infection
+- Undue pain
+- Undue swelling
+- Discharge of serosanguinous fluid or pus infected wounds:
+• Wound swab for microbiological culture and sensitivity tests
+• Adequate local wound care
+• Appropriate antibiotics
+• If there are systemic features (e.g. fever, anorexia) systemic treatment with
+antibiotics may be necessary
+Care of indwelling tubes, catheters and drains
+• All indwelling catheters, tubes and drains should be monitored and
+appropriately managed to avoid infection, dislodgement/displacement
+• They should be removed as soon as they have served their purpose(s)
+General Complications in the Post-operative Period
+Look out for general Complications and treat accordingly
+• Postoperative pyrexia may be due to:
+- Malaria
+- Atelectasis and hypostatic pneumonia
+- Wound infection
+- Urinary tract infection
+- Deep vein thrombosis
+- Wound infection

@@ -1,0 +1,112 @@
+{
+  "condition_name": "Acne Vulgaris",
+  "condition_slug": "acne-vulgaris",
+  "source": "NSTG 2022",
+  "introduction": "One of the most common skin diseases. A disorder of the pilosebaceous follicles. Typically, first appears during puberty when androgenic stimulation triggers excessive production of sebum. Many factors interact to produce acne in a given patient • Genetics • Sebum production • Hormones • Bacteria • Properties of the sebaceous follicle • Immunologic Over-production of stratum corneum cells (hyperkeratosis) obstructs the hair follicles at the follicular mouth producing open comedones, or blackheads Just beneath the follicular opening in the neck of the sebaceous follicle it causes microcomedones (closed comedones, or whiteheads) There is an overgrowth of gram-positive bacteria in the obstructed follicle: Propionibacterium acnes or Staphylococcus epidermidis; distally Pityrosporum ovale Rupture of the comedonal contents into the dermis induces a foreign body reaction and inflammation.",
+  "clinical_features": [
+    {
+      "type": "General",
+      "features": [
+        "Almost every individual has some degree of acne during puberty, with spontaneous resolution occurring in early adult life",
+        "Occasionally, the disease persists into the fourth decade, or even remains a life-long problem",
+        "Favoured sites are the face, upper back and upper chest and shoulders",
+        "There may be mild soreness, pain, or itching",
+        "May present differently in different age groups",
+        "Pre-teens often present with comedones as their first lesions",
+        "Teenage acne is invariably inflammatory and the lesions include firm red papules, pustules, abscesses, indurated nodules, cysts and rarely interconnecting draining sinus tracts",
+        "Inflammatory acne can be classified as mild, moderate, or severe"
+      ]
+    },
+    {
+      "type": "Mild acne",
+      "features": [
+        "Few-to-several inflammatory papules and pustules, but no nodules"
+      ]
+    },
+    {
+      "type": "Moderate acne",
+      "features": [
+        "Several-to-many papules, pustules, and a few to several nodules"
+      ]
+    },
+    {
+      "type": "Severe acne (acne conglobata)",
+      "features": [
+        "Numerous fistulated comedones",
+        "Extensive inflammatory papules, pustules",
+        "Many cysts, abscesses, nodules, and draining sinuses",
+        "The lesions may be generalized, involving even the buttocks",
+        "Excoriation of acne papules and microcomedones are common, and scarring may result",
+        "Usually, multiple shallow erosions or crusts are found"
+      ]
+    }
+  ],
+  "investigations": [
+    "Usually, none required",
+    "In the presence of unusual acne, hirsutism, premature pubarche, or androgenic alopecia (especially when associated with obesity and/or menstrual irregularities): Screen for hyperandrogenism",
+    "Blood levels of free testosterone, dehydroepiandrosterone, and androstenedione - If raised, test response of the hormones and cortisol to dexamethasone suppression"
+  ],
+  "treatment": {
+    "goals": [
+      "Reduce severity of acne",
+      "Prevent Complications"
+    ],
+    "non_drug": [
+      "Use non-irritating cleansing agents to reduce facial sheen and bacterial flora",
+      "Sunscreen is recommended for all (SPF 30 or higher)",
+      "Emotional support",
+      "Comedone extraction",
+      "Intralesional injection for deeper papules and occasional cysts",
+      "Chemical peels for scars and post inflammatory hyperpigmentation",
+      "Laser, dermabrasion for cosmetic improvement of scars"
+    ],
+    "drug": [
+      "Comedonal acne: Tretinoin cream 0.025% or 0.05% or 0.1% cream or gel applied nightly, or Benzoyl peroxide 2.5% or 5% water-based or alcohol-based gels, or Salicylic acid solution 2%",
+      "Mild inflammatory acne: Treat as comedonal acne",
+      "Moderate inflammatory acne: Tetracycline, or Doxycycline, or Erythromycin, or Clarithromycin",
+      "Antibiotic-resistant acne: Add Spironolactone",
+      "Severe acne: Start with systemic antibiotics and Oral isotretinoin (13-cis retinoic acid)",
+      "Acne fulminans: Prednisolone, and isotretinoin, with option for dapsone in toxic doses"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Topical preparations: Creams and water-based gels are less irritating than alcohol/acetone-based gels",
+      "Benzoyl peroxide: May bleach fabrics, hair and skin",
+      "Antibiotic resistance may occur",
+      "Tetracyclines, doxycycline contraindications in pregnancy and in children less than 12 years",
+      "Erythromycin: Serious cardiovascular complications cannot use with astemizole or terfenadine",
+      "Salicylic acid: Significant absorption from skin in children",
+      "Isotretinoin: Contraindicated during pregnancy, requires informed consent, monitoring cholesterol and triglyceride levels"
+    ],
+    "supportive_measures": [
+      "Comedone extraction",
+      "Chemical peels",
+      "Laser, dermabrasion"
+    ]
+  },
+  "differential_diagnoses": [
+    "Acne rosacea",
+    "Dermatosis papulosa nigra",
+    "Steatocystoma multiplex",
+    "Syringoma",
+    "Trichoepithelioma",
+    "Warts",
+    "Angiofibromas of tuberous sclerosis",
+    "Molluscum contagiosum",
+    "Steroid acne",
+    "Some drugs may produce acneiform eruptions - Androgens - Adrenocorticotropic hormone (ACTH) - Glucocorticoids - Hydantoins - Isoniazid - Halogens (Fluoride, Bromide etc)"
+  ],
+  "complications": [
+    "Psychosocial problems from cosmetic disfigurement",
+    "Post-inflammatory pigmentary changes",
+    "Pitted scars",
+    "Keloids",
+    "Acne fulminans (acute febrile ulcerative acne conglobata with polyarthritis and leukemoid reaction)"
+  ],
+  "prevention": [
+    "Avoid oil-based cosmetics, hair styling mousse, face creams and hair sprays",
+    "Avoid medicines that may induce acne"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

@@ -1,0 +1,204 @@
+ACUTE KIDNEY INJURY
+Introduction
+Acute kidney injury is defined as a sudden clinical and/or laboratory
+manifestation of abnormal kidney function occurring within 48 hours or 7 days
+of kidney injury.
+A reduction in urine output documented as less than 0.5 ml/kg/hour for more
+than 6 hours.
+Absolute increase in serum creatinine of more than or equal to 0.3 mg/dl (26.5
+μgmol/L) occurring within 48 hours of an insult to the kidneys.
+A percentage increase in serum creatinine of more than or equal to 50% (1.5
+fold from baseline) which is known or presumed to have occurred within 7
+days.
+Epidemiology
+・ Seen in about 5% of patients admitted to medical wards
+・ Up to 30% of intensive care admissions may manifest and develop AKI.
+・ AKI could be classified variably depending on the defining criteria.
+・ Hospital acquired AKI typically develops as a complication of another
+clinical condition
+・ Community acquired AKI typically evolve in these patients while in their
+homes.
+
+CLASSIFICATION OF ACUTE KIDNEY INJURY 
+Classification
+Classified according to the:
+・ Medical specialty in which it evolves ie Surgical AKI if it complicates
+surgery, Obstetric or Gynaecologic AKI
+・ Volume of urine being excreted at the time the AKI is developing:
+・ Non-oliguric AKI when urine volume is more than 400 ml/day
+・ Oliguric AKI when urine volume is less than 400ml/day and anuric AKI
+when urine volume is less than 150 ml/day.
+・ Site of physiologic or anatomic derangements or toxic insult into pre-renal,
+intrinsic renal and post renal AKI:
+Pre-renal AKI
+・ Systemic derangement leading to hypoperfusion of the kidneys leading to
+AKI e.g. diarrhoea and vomiting, haemorrhage, cardiac failure etc
+Intrinsic renal AKI
+・Direct nephrotoxic injury to renal tubules or there could be inflammation of
+interstitial, glomerular or vascular structures.
+Post renal AKI
+・ Obstruction to the outflow of urine, which could be at different levels e.g.
+renal pelvis, ureter, urinary bladder or urethra.
+・ Examples of causes of post-renal AKI include:
+- Nephrolithiasis
+- Retroperitoneal fibrosis and tumours
+- Bladder cancer
+- Benign prostatic hypertrophy
+- Prostate cancer or even urethritis
+・Peculiar causes of AKI in Nigerians include:
+- Nephrotoxins (native herbs, drugs, CuSO4 (green water)
+- Ethylene glycol poisoning etc)
+- Cholera
+- Malaria
+- Septicaemia (particularly typhoid)
+- Obstetric causes (ante partum haemorrhage, post-partum haemorrhage,
+septic abortion, eclampsia).
+
+STAGING OF ACUTE KIDNEY INJURY AND DIAGNOSTIC CRITERIA 
+# Table 8.1: Staging of Acute Kidney Injury
+| Stage | Change in Serum Creatinine (Scr) | % Increase in Serum Creatinine (Scr) | Urine Volume |
+|---|---|---|---|
+| 1 | Rise in Scr by >0.3 mg/dL (26.4 μmol/L) | Increase of >150 - 190% (1.5 to 1.9-fold increase) from baseline | Urine output less than 0.5 ml/kg/hr for more than 6 hours |
+| 2 | | Rise in serum creatinine by >200 - 290% (2 to 2.9-fold increase) from baseline | Urine output less than 0.5 ml/kg/hr for more than 12 hours |
+| 3 | Scr ≥4.0 mg/dL (≥353.6 μmol/L) OR initiation of renal replacement therapy | Rise in serum creatinine to >300% (≥3-fold) from baseline. OR eGFR <35 ml/min/1.73m² in those <18 years | Urine output less than 0.3 ml/kg/hr for 24 hours or anuria for ≥12 hours |
+
+CLINICAL FEATURES OF ACUTE KIDNEY INJURY 
+Clinical Features
+・Asymptomatic
+・Reduction in urine output (oliguria),
+・features of uraemia,
+・fluid retention leading to oedema
+・Uraemia present with different features in different systems:
+- Gastrointestinal system:
+-- Nausea and vomiting,
+-- Hiccups,
+-- Diarrhoea,
+-- Epigastric pain and rarely haematemesis.
+- Chest:
+- Central chest pain of pericarditis
+- Breathlessness
+- Pulmonary oedema.
+- Central nervous system:
+- Tremors
+- Derangement of sleep rhythm
+- Drowsiness
+- Seizures
+- Stupor or coma
+- Skin:
+- Dryness and pruritus
+- Haemopoietic system:
+- Anaemia (pallor)
+- Bleeding diathesis
+
+Diagnostic criteria
+As in the definition and table above.
+
+DIFFERENTIAL DIAGNOSES OF ACUTE KIDNEY INJURY 
+Differential Diagnoses
+・ Acute exacerbation of chronic kidney disease.
+・ End-stage Renal Failure
+
+COMPLICATIONS OF ACUTE KIDNEY INJURY 
+Complications
+・ Pulmonary oedema
+・ Infections
+・ Electrolyte abnormalities:
+・ Hyperkalaemia in acute cases and
+・ Hypokalaemia and
+・ Hyponatraemia in polyuric phases.
+
+INVESTIGATIONS OF ACUTE KIDNEY INJURY
+Investigations
+・ Urine Examination (Volume / microscopy /Urinalysis / Electrolytes)
+- Allow quantification of total daily urine output, which could be used in
+staging. Microscopy would reveal the types of cells, casts, crystals or
+other substances in the urine.
+- Urinalysis may reveal proteinuria, haematuria, glycosuria or a
+suggestion of complicating urinary tract infection
+- urinary electrolytes may suggest the severity of tubular damage
+・ Serum chemistry (e.g. creatinine, urea, K):
+- Allow staging of the AKI according to severity and may suggest need
+for initiation of renal replacement therapy
+- Could also be used to monitor treatment outcomes or improvement.
+・ Haematology including serology:
+- Assess the Full Blood Counts, clotting profile.
+- Serological tests may be necessary in patients with suspected
+connective tissue diseases
+・Imaging (e.g. USS, IVU, RUCG etc.):
+- Renal ultrasonography: Simplest non-invasive diagnostic tool for
+patients with AKI
+- Provides information on structural abnormalities
+- Suggest need for other imaging modalities particularly in patients with
+obstructive uropathy
+・Renal biopsy
+- Mandatory in the following:
+- Any evidence of glomerular disease :
+- nephrotic range proteinuria
+- sub-nephrotic range proteinuria with haematuria
+- RBC cast
+- AKI not resolving in 6 weeks
+- AKI in connective tissue disease
+- AKI in renal allograft
+- Determination of the prognosis and chance of recovery of renal
+function in dialysis dependent AKI.
+
+TREATMENT OF ACUTE KIDNEY INJURY 
+Treatment Goals
+・ Maintenance of fluid homeostasis
+・ Control of biochemical abnormalities
+・ Maintenance of nutrition
+・ Treat the underlying cause
+・ Dialysis where indicated
+Drug Treatment
+・ Maintenance of fluid homeostasis:
+- Entails strict regulation of fluid intake to insensible loss (500 - 1200
+ml/day).
+- Replacement of fluids totaling volume of urine and other documented
+losses in the previous 24 hours.
+- Avoid potassium containing fluids
+・ Control of biochemical abnormalities:
+- Hyperkalaemia in these patients should be treated in one of 3 ways:
+- Forcing the potassium (K) into cells using
+- Glucose-Insulin Infusion or Glucose Infusion
+- Antagonising the effects of K on the heart using 10% Calcium
+gluconate
+- Dialysis or use of ion exchange resin like kayexelate
+・Maintenance of nutrition: AKI patients are usually hyper-catabolic hence the
+following
+- High calorie low protein diet is recommended in acute or oliguric phase
+while
+- High calorie normal protein is recommended in recovery phase.
+- Parenteral hyperalimentation is seldom necessary in prolonged cases.
+・ Dialysis where indicated:
+- Manifestation of clinical and biochemical features of uraemia or
+development of electrolyte and acid-base Complications of AKI:
+- Encephalopathy,
+- Pulmonary oedema,
+- Persistent nausea and vomiting,
+- Pericarditis,
+- Refractory oedema,
+- Uncontrolled HT
+- Bleeding diathesis
+- Biochemical indications include:
+- Hyperkalaemia > 6.5 mmol/l
+- Serum bicarbonate < 12 mmol/l
+- Urea > 25 mmol/l
+- Creatinine > 600 μmol/l
+- Manifestations of features of hyper-catabolism:
+- K+ rate of rise > 1 mmol/day
+- urea rate of rise > 10 mmol/day
+- creatinine rate of rise >100 μmol/day.
+Types of dialysis
+・Daily haemodialysis,
+・Extended daily dialysis,
+・Slow low efficient dialysis,
+・Acute peritoneal dialysis,
+・Intermittent peritoneal dialysis,
+・Haemofiltration or haemodiafiltration.
+Prevention of AKI:
+・Avoidance of nephrotoxins in all forms.
+・Provision of pipe borne water.
+・Prompt treatment of accident victims.
+・Prompt treatment of infections.
+・Good maternal, child and reproductive health care
+・Adequate hydration during contrast Investigations

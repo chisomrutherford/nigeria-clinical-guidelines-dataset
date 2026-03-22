@@ -1,0 +1,81 @@
+{
+  "condition_name": "Rape",
+  "condition_slug": "rape",
+  "source": "NSTG 2022",
+  "introduction": "“Physically forced or otherwise coerced penetration – even if slightly – of the vulva or anus, using a penis, other body parts or an object” (WHO 2003). A growing social disorder afflicting the poor and rich, alike, with devastating and longstanding emotional consequences for the afflicted, family and society at large.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Indirect presentation",
+        "Vague symptoms",
+        "Perineal pain",
+        "Bleeding per vaginum",
+        "Bruised perineum, face/body",
+        "Arthritis",
+        "Disordered gait",
+        "Hymen tear",
+        "Sadness",
+        "Depression",
+        "Refusal to respond to simple questions",
+        "Avoidance of eye contact",
+        "School/work absenteeism"
+      ]
+    }
+  ],
+  "investigations": [
+    "Vaginal/perineal swab for microscopy, culture and sensitivity",
+    "Semen: DNA analysis",
+    "Urinalysis; urine microscopy, culture and sensitivity",
+    "Pregnancy test (blood)",
+    "HIV screening",
+    "Hepatitis screening"
+  ],
+  "treatment": {
+    "goals": [
+      "Evaluate safety of the patient",
+      "Assess and treat physical injuries",
+      "Provide emotional support",
+      "Assess and deal with the risk of sexually transmitted infections and pregnancy",
+      "It is important to document clinical findings"
+    ],
+    "non_drug": [
+      "Reassure patient",
+      "Provide information about legal services"
+    ],
+    "drug": [
+      "Treat physical injury (as appropriate)",
+      "Treat STIs, UTI (as appropriate)",
+      "Treat HIV infection (if detected); Post-exposure prophylaxis if clinical situation so requires",
+      "Manage pregnancy (as appropriate)",
+      "If seen within 120 hours, give emergency contraceptives (e.g. 1 tablet equivalent to 1.5 mg of levonorgestrel) to prevent unwanted pregnancy",
+      "Prevention of hepatitis",
+      "Prevention of tetanus in certain situations",
+      "Treat depression (if present)",
+      "Rape is an indication for safe termination of pregnancy in some countries. If indeed, it is adjudged to threaten the life of the woman, this could also be a justification for termination of pregnancy in Nigeria"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Vaginitis",
+    "Threatened abortion",
+    "Domestic violence",
+    "Depression"
+  ],
+  "complications": [],
+  "prevention": [
+    "Promote basic education for all",
+    "Reduce adult illiteracy",
+    "Promote family/community moral values",
+    "Promote basic health education",
+    "Promote safe shelter and neighbourhoods",
+    "Enforce existing laws on rape",
+    "Legislate for new laws to deter potential rapists and protect females",
+    "Legislate for review to abortion law to allow for termination of pregnancy in case of rape",
+    "Promote socio-economic well-being for all"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

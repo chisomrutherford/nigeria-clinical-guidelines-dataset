@@ -1,0 +1,62 @@
+{
+  "condition_name": "Panic Disorder",
+  "condition_slug": "panic-disorder",
+  "source": "NSTG 2022",
+  "introduction": "A disorder characterized by episodic attacks of extreme fear, mostly unrelated to specific objects or situations. Associated with multiple somatic and cognitive symptoms. Each attack lasts for about 5 - 30 minutes. Often begins abruptly. Affects about 0.5 - 1.0% of the population",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "A feeling of choking",
+        "pounding heart",
+        "chest pressure or pain",
+        "dizziness",
+        "shortness of breath",
+        "trembling",
+        "sweating",
+        "tingling or numbness in the hands or feet",
+        "hot flushes"
+      ]
+    }
+  ],
+  "investigations": [
+    "As indicated to exclude medical aetiologies"
+  ],
+  "treatment": {
+    "goals": [
+      "Reduce intensity and frequency of attacks",
+      "Reduce anticipatory anxiety"
+    ],
+    "non_drug": [
+      "Cognitive-behavioural therapy"
+    ],
+    "drug": [
+      "Fluoxetine: Adult: initially 20 mg orally once daily, increased after two weeks (if necessary) to 20 - 60 mg once daily (maximum 80 mg); Elderly: 20 - 40 mg (maximum 60 mg for elderly) once daily; Discontinue in both adults and elderly if no improvement within 10 weeks; Child and adolescent under 18 years: not recommended",
+      "Amitriptyline 50 - 150 mg orally/day"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Tricyclic antidepressants are cardio-toxic in overdose",
+      "Increased risk of suicidal attempts by patients with panic disorder"
+    ],
+    "supportive_measures": [
+      "Psychotherapy",
+      "Relaxation techniques"
+    ]
+  },
+  "differential_diagnoses": [
+    "Other causes of intense fear (phobias, obsessive-compulsive disorders, etc.)",
+    "Medical causes (e.g. hyperthyroid states, episodic hypoglycaemia, etc.)",
+    "Seizure disorders"
+  ],
+  "complications": [
+    "Phobia",
+    "Depression",
+    "Suicide"
+  ],
+  "prevention": [
+    "No specific primary prevention measures"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

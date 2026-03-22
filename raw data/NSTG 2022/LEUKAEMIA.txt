@@ -1,0 +1,150 @@
+LEUKAEMIA
+Introduction
+A heterogeneous group of diseases characterized by infiltration of the blood,
+bone marrow and other tissues by neoplastic cells of the haematopoietic system
+Two main types
+• Myeloid leukaemia
+• Lymphoid leukaemia
+Each is further divided into acute and chronic
+• Acute leukaemias are defined pathologically as blast cell leukaemias or
+malignancies of immature haematopoietic cells. The bone marrow shows >
+30% blast cells
+Two main groups of acute leukaemias
+- Acute myeloid leukaemia (AML)
+- Acute lymphoblastic leukaemia (ALL)
+• Childhood leukaemias: patients aged <15 years
+• Adult leukaemias: patients aged >15 years
+Leukaemias in adults aged > 60 years: an important group because their
+responses to current treatment protocols both for ALL and AML are inferior.
+These patients are not usually considered for more radical treatment
+approaches such as autologous or allogeneic bone marrow transplantation
+80% of adult cases: AML
+Epidemiology/predisposing conditions
+Acute lymphoblastic leukaemia (ALL) and Acute myeloid leukaemia (AML)
+More common in industrialized than rural areas.
+• Environmental agents implicated in the induction of certain types of
+leukaemia:
+- Ionising radiation: X-rays and other ionizing rays
+• Chemical carcinogens
+- Benzene and other petroleum derivatives
+- Alkylating agents
+• Host susceptibility e.g. genetic disorders: Bloom's syndrome
+- Fanconi's anaemia (AML)
+- Ataxia telangiectasia (ALL)
+- Down's syndrome
+• Blast transformation in pre-existing myeloproliferative disorders:
+- Aplastic anaemia (ALL)
+• Oncogenic viruses:
+- HTLV-1 (Human T-cell Lymphotropic virus 1): implicated in adult T
+cell leukaemia /lymphoma
+
+CLINICAL FEATURES OF LEUKAEMIA 
+Clinical Features
+• General symptoms of anaemia: Bleeding, Infections, Anorexia, Weight loss
+• Lymphadenopathy (not common in AML except in the monocytic variant)
+• Skin: Macules, papules, vesicles, pyoderma gangrenosum, neutrophilic
+dermatitis, leukaemic cutis, granulocytic sarcoma
+Differential Diagnoses
+• Septicaemia
+• Miliary tuberculosis
+• Malignant histiocytosis
+
+COMPLICATIONS OF LEUKAEMIA 
+Complications
+Worsening ill- health
+
+INVESTIGATIONS OF LEUKAEMIAS
+Investigations
+• Full blood count with ESR, reticulocyte count, Coombs test
+• Bone marrow examination
+• Biochemical tests: serum electrolytes, urea, creatinine, uric acid, liver
+function tests
+• Prothrombin time, partial thromboplasmin human leucocyte antigen typing
+• HIV I and II
+• Cytochemical tests:
+- Peroxidase
+- Sudan Black B-Non-specific esterase reaction e.g. alpha napthyl
+acetate esterase
+- Bone marrow cultures
+- Cytogenetic studies
+- Electron microscopy
+• Cell markers e.g. using a panel of antibodies combined with flow
+cytometric analysis or the alkaline phosphase-anti alkaline phosphate
+(APAAP) technique to classify the blast cells into lymphoid or myeloid
+lineages
+• Abdominal ultrasound/CT scans
+• Immunological classification
+• Terminal deoxynucleotidyl transferase demonstration in nuclei of B and T
+lymphocytes
+
+TREATMENT OF LEUKAEMIAS
+Treatment Goals
+• Induce remission to achieve complete remission
+• Consolidate the remission
+• Maintain disease-free state
+Non-drug Treatment
+• Appropriate nutrition
+• Adequate hydration (at least 3 litres/24 hours)
+• Erythrocyte transfusion as required
+• Platelet concentrate transfusion as required
+• Maintain electrolyte balance
+Drug Treatment
+Acute lymphoblastic leukaemia
+• Allopurinol 300 mg daily orally DVP Regime
+• Daunorubicin 30 mg/m2 intravenously on days 8, 15, 22 and 29
+• Vincristine 1.4mg/m2 to a maximum of 2 mg intravenously on days 8, 15, 22
+and 29
+• Prednisolone 60 mg orally once daily from day 1 - 28
+• L-asparaginase 1000 IU/rm intravenously on days 12, 15, 18, 21, 24, 27, 30
+and 33
+Or:
+• COAP Regime
+- Cyclophosphamide 650 mg/m 2intravenously on days 1 and 8; 14 and
+22
+- Vincristine (Oncovin) 1.4mg/m2 intravenously to a maximum of 2mg:
+days 1 and 8; 14 and 22
+- Cytosine Arabinoside 50 mg/m2 subcutaneously 12 hourly for 12 days
+or bolus intravenous injection 100 mg/m2 daily for 7 days
+- Prednisolone 40 mg/m2 oral for 14 days
+Drugs are given every 28 days for 3 courses
+• Nervous system prophylaxis
+- Methotrexate 12.5 mg/m2i ntrathecally twice weekly to a maximum of
+15 mg i.e. 5 doses over 3 weeks.
+• Nervous system treatment
+- IT Methotrexate 12.mg/m2 plus IT Cytosine Arabinoside 50mg/m 2plus IT
+Hydrocortisone 100mg
+Or:
+• APO Regime
+- Adriamycin 30mg/m2 intravenous infusion on days 1 – 3
+- Prednisolone 40mg/m2/day orally on days 1 – 28
+- Oncovin 1.5mg/m2 intravenous infusion on days 1 and 8; 15 and 22
+• Consolidation:
+- To be given on day 29
+- COAP regime to be given once provided WBC count is = 1x10s/L and
+platelet count is = 100 x10VL
+• Maintenance :
+- 6-Mercaptopurine 75 mg/m2 orally daily
+- Methotrexate 20 mg/m2 orally weekly
+• For 3 years if remission is maintained, otherwise reassessment
+- Pulse therapy (Intensification). To be given every 3 months with
+- Vincristine 1.4 mg/m2 a maximum of 2 mg weekly on days1 and 8
+Acute myeloblastic leukaemia
+Either TAD or COAP as shown below:
+TAD:
+• Cytarabine 100 mg/m 2(continuous infusion) on days 12 and 2, and 100
+mg/m every 12 hours by intravenous infusion over 30 minutes on days 3 - 8
+• Thioguanine 100 mg/m2 every 12 hours orally on days 3-9
+• Daunorubicin 60 mg/m2 by intravenous infusion over one hour on days 3 - 5
+Or:
+• COAP:
+- Cyclophosphamide 650 mg/m2 intravenously on days 1 and 8
+- Vincristine 1.4 mg/m2 intravenously to a maximum of 2 mg on days 1
+and 8
+- Cytarabine 50 mg/m2 subcutaneously every 12 hours for 7 days
+- Prednisolone 40 mg/m2 orally for 14 days
+- Nervous system prophylaxis is not required
+- Assess for remission after 3 courses
+- Maintenance
+- COAP every 6 weeks for 2 years
+- Intrathecal treatment as for ALL if there is CNS disease of the
+monocytic type

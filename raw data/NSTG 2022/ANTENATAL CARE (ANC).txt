@@ -1,0 +1,112 @@
+ANTENATAL CARE (ANC)
+Introduction
+Antenatal care (ANC) is the Health Prevention services provided by skilled health-care professionals to pregnant women in order to ensure the best health conditions for both mother and baby during pregnancy and child birth. ANC is an excellent example of preventive health care as it deals mainly with normal individuals with an emphasis on the practice of health promotion. Availability, accessibility and utilization of ANC remains poor in Nigeria as in many other developing nations.
+Aims of antenatal care
+■ Assessment and management of maternal risks and symptoms
+■ Assessment and management of foetal risks
+■ Prenatal diagnosis and management of foetal abnormalities
+■ Diagnosis and management of perinatal Complications
+■ Prevention of maternal and foetal Complications
+■ Decision regarding timing and mode of delivery
+■ Parental education regarding pregnancy, childbirth and child rearing
+Providers of antenatal care
+ANC and delivery are conducted by skilled birth attendants; who are defined by WHO as an accredited health professional such as a midwife, doctor or nurse who has been educated and trained to proficiency in the skills needed to manage normal (uncomplicated) pregnancies, childbirth and the immediate postnatal period, and in the identification, management and referral of Complications in women and newborns.
+Schedule of visits during pregnancy
+Traditionally, antenatal visits were:
+■ Monthly until 28 weeks gestation, then fortnightly until 36 weeks and weekly thereafter until delivery, resulting in up to 14 hospital visits during pregnancy. But available evidence indicates that there is no difference in outcome between a four visit schedule and a fourteen visit schedule.
+■ Thus, the concept of Focused Antenatal Care (FANC) came up. This concept recommends four visits with clearly defined Goals to be achieved at each visit. However, the FANC is aimed at women with no pregnancy risk factors for Complications, while those with risk factors are to be managed with the 12 visits schedule.
+■ Recent evidence suggested that the FANC model is associated with more perinatal deaths than ANC models that comprise at least eight contacts between the pregnant woman and the health care provider.
+■ Therefore, in 2016 WHO came up with ANC recommendations that there should be at least eight (8) contacts with the Health care Provider as follows:
+
+
+Table 18.1: WHO ANC Model
+
+┌───────────────────────────────┐
+│ 2016 WHO ANC Model            │
+├───────────────────────────────┤
+│ First Trimester               │
+│                               │
+│ Contact 1:  = 12 weeks of gestation │
+├───────────────────────────────┤
+│ Second Trimester              │
+│                               │
+│ Contact 2:   20 weeks         │
+│ Contact 3:   26 weeks         │
+├───────────────────────────────┤
+│ Third Trimester               │
+│                               │
+│ Contact 4:   30 weeks         │
+│ Contact 5:   34 weeks         │
+│ Contact 6:   36 weeks         │
+│ Contact 7:   38 weeks         │
+│ Contact 8:   40 weeks         │
+├───────────────────────────────┤
+│ Return for delivery at 41 weeks if not given birth │
+└───────────────────────────────┘
+
+Also it recommends the following:
+■ Each pregnant woman carries her own case notes during pregnancy to improve continuity, quality of care and pregnancy experience
+■ Task shifting the promotion of health-related behaviour for maternal and newborn health to broaden range of cadres including lay health workers, auxiliary nurses, midwives, nurses and doctors
+■ Task shifting the distribution of recommended nutritional supplements and intermittent preventive treatment (IPTp) for Malaria Prevention to a broad range of cadres.
+  · Three doses of IPTp-SP is recommended starting as early as possible in the 2nd Trimester (after quickening or 16 – 18 weeks) the doses should be given one month apart
+  · IPTp-SP should be avoided in first trimester, and should not be administered to women receiving co-trimoxazole.
+  · IPTp-SP can be safely used in women on daily dose of 0.4 mg of folic acid.
+  · Folic acid at a daily dose equal or above 5mg should not be given together with SP as this counteracts its efficacy as an antimalarial.
+
+Activities during ANC contacts
+First ANC Contact
+■ Should be in the first trimester, preferably before the 12 week of gestation
+■ Should last between 30 – 40 minutes.
+■ Key objective is to obtain the woman's medical, obstetric history and risk assessment
+
+Activities during the visit should include:
+Physical examination
+■ General examination including height and weight
+■ Blood pressure
+■ Chest and heart auscultations
+■ Abdominal palpation
+■ Vaginal examination (where necessary)
+Any medical or Obstetric condition identified are managed appropriately
+Routine Investigations
+■ Urinalysis – for protein or glucose
+■ Haemoglobin concentration/Packed cell Volume
+■ Blood Group
+■ Genotype
+■ VDRL test
+■ HIV screening
+■ Hepatitis B and C screening
+■ Ultrasound scanning
+Interventions:
+■ Iron and folic acid
+■ Tetanus toxoid – 1st dose
+■ IPTp-SP – 1st dose
+■ Calcium supplement
+■ Test for syphilis if VDRL is positive
+■ Refer if other investigation result so require
+■ Allow time for advice, questions and answers
+■ Scheduling of next appointment.
+■ Maintain complete clinic records of all transactions of the visit
+2nd and subsequent contacts
+■ Aim is to identify developing ill health and to monitor maternal and foetal health
+■ Each contact is expected to last for 20 minutes
+■ Activities during each visit should include:
+· Review of history for any change
+· Assessment of adherence to routine ANC medicine
+· Update risk status and refer when necessary
+· Physical examination as in the first visit
+· IPTp-Sp last dose not later than 1 month before the expected date of delivery.
+· Proguanil 100-200mg orally can be given in place of IPTp-SP
+· Maintain complete clinical records as well as ANC record
+Postnatal Contacts:
+The aim is to identify and respond to the maternal and child needs and Complications.
+Conduct postnatal contact in first 24 hours for every birth:
+
+Conduct total of four postnatal contacts on:
+- First day (24 hours)
+- Day 3 (48-72 hours)
+- Between days 7-14
+- Six weeks
+  - Offer contraceptive advice
+  - Offer child immunization and exclusive breastfeeding advice
+  - Complete tetanus prophylaxis with tetanus toxoid
+  - Continue interventions: iron, folic acid, and malaria prophylaxis

@@ -1,0 +1,89 @@
+{
+  "condition_name": "Fevers",
+  "condition_slug": "fevers",
+  "source": "NSTG 2022",
+  "introduction": "'Fever' is elevation of body temperature that exceeds the normal daily variation and occurs in conjunction with an increase in hypothalamic set point. Fever occurs in response to infection, inflammation, and trauma.",
+  "clinical_features": [
+    {
+      "type": "Diagnosis",
+      "features": [
+        "Rectal temperature is greater than 38°C",
+        "Early morning oral temperature of >37.2◦C (>99◦F)",
+        "A temperature of >37.7◦C (>100◦F) at any time during the day",
+        "Axillary temperature ≥37.5◦C (99.5◦F)",
+        "Periodicity, grade, and duration of fever",
+        "Associated night sweats",
+        "Associated systemic symptoms",
+        "Use of antipyretics",
+        "History of possible causes: infections, diseases associated with inflammation and trauma."
+      ]
+    },
+    {
+      "type": "Physical examination",
+      "features": [
+        "Measure body temperature using a thermometer",
+        "Other vital signs",
+        "Skin, lymph nodes, eyes, nail beds, CNS, chest, abdomen, cardiovascular, musculo-skeletal and nervous systems",
+        "The penis, prostate, scrotum, and testes (for men)",
+        "Pelvic examination (for women)"
+      ]
+    }
+  ],
+  "investigations": [
+    "FBC and differential WBC",
+    "Urinalysis, with examination of the urinary sediment",
+    "Examination of any abnormal fluid collection",
+    "Rapid diagnostic tests for infectious antigen or antibody",
+    "Blood smear for malaria parasites",
+    "Serology - detection of pathogen antigen or antibody",
+    "Nucleic acid-based techniques for detection of pathogens (e.g., polymerase chain reaction)",
+    "Microscopy, culture, and sensitivity of specimens from body fluids and mucosal surfaces",
+    "Urine examination",
+    "Serum urea, electrolytes, and creatinine",
+    "Blood glucose",
+    "Liver function tests",
+    "Cerebrospinal fluid examination",
+    "Chest radiograph"
+  ],
+  "treatment": {
+    "goals": [
+      "Reduce the body temperature",
+      "Treat underlying causes"
+    ],
+    "non_drug": [
+      "External cooling: Tepid sponging, modification of clothing and environmental cooling measures",
+      "Prevent dehydration: Liberal oral sips of water (if clinical state is not a contraindication)"
+    ],
+    "drug": [
+      "Paracetamol: Adult: 500 mg - 1 g orally every 4 - 6 hours; maximum 4 g daily",
+      "Paracetamol: Child: 3 months - 1 year: 60 - 125 mg",
+      "Paracetamol: Child: 1 - 5 years: 120 - 250 mg",
+      "Paracetamol: Child: 6 - 12 years: 250 - 500 mg repeated every 4 – 6 hours if necessary, to a maximum of 4 doses in 24 hours",
+      "Paracetamol: Infants under 3 months should not be given paracetamol unless advised by a doctor",
+      "Aspirin (acetylsalicylic acid): Adult: 300 - 900 mg orally (with or without food) every 4 - 6 hours if necessary; maximum 4g daily",
+      "Aspirin: Child: under 16 years, aspirin is not recommended because of the risk of Reye's syndrome",
+      "Treat the identified (or suspected) cause of fever"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Paracetamol: Liver damage (and less frequently, renal damage) following over dosage",
+      "Aspirin: Gastrointestinal discomfort, nausea",
+      "Aspirin: GI ulceration",
+      "Aspirin: Tinnitus (rarely deafness)",
+      "Aspirin: Use with caution in asthma, allergic disease, impaired renal or hepatic function, pregnancy, breastfeeding, elderly, dehydration"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Heat stroke in adults",
+    "Febrile convulsions in children",
+    "Complications associated with underlying cause(s) of fever.",
+    "Arrythmias in those with cardiac disease."
+  ],
+  "prevention": [],
+  "other_investigations": [
+    "Other Investigations as may be indicated in the clinical circumstances"
+  ],
+  "definitive_treatment": null,
+  "prognosis": null
+}

@@ -1,0 +1,131 @@
+{
+  "condition_name": "Sickle Cell Disease",
+  "condition_slug": "sickle-cell-disease",
+  "source": "NSTG 2022",
+  "introduction": "A group of conditions with pathological processes resulting from the presence of Haemoglobin S. Usually inherited from the parents who have themselves inherited Haemoglobin S. The principal genotypes include: Homozygous sickle cell disease (SS), Sickle cell-haemoglobin C disease (SC), Sickle cell-B thalassaemia (SB thal), Sickle cell-B+ thalassaemia Type I (SB+thal. Type I), Sickle cell-B+ thalassaemia. Type II. (SB+thal Type II), Sickle cell-B+ thalassaemia. Type III. (SB+thal. Type III). Sickle cell trait is the inheritance of one normal gene controlling formation of B Haemoglobin (HbA), and a sickle gene (HbS). Total haemoglobin A is more than haemoglobin S. Normal haemoglobin F. Sickle cell disease is the inheritance of two abnormal allelemorphic genes controlling formation of B chains of haemoglobin, at least one of which is the sickle gene. Polymerization of the sickle haemoglobin may lead to vaso-occlusion.",
+  "clinical_features": [
+    {
+      "type": "General",
+      "features": [
+        "Persistent anaemia/pallor",
+        "Growth retardation (variable)",
+        "Jaundice (variable)",
+        "Bone pains (recurrent)",
+        "Prominent facial bones due to increased bone marrow activity",
+        "Leaner body build and less weight (on average)",
+        "Shortened fingers due to infarction",
+        "Hand-foot syndrome in childhood",
+        "Shorter life span on average",
+        "Delayed sexual development",
+        "Impotence from prolonged priapism",
+        "High foetal loss in pregnancy"
+      ]
+    },
+    {
+      "type": "Sickle cell crises",
+      "features": [
+        "Acute symptoms/signs attributable to sickle cell disease",
+        "Pain (vaso-occlusive) crisis",
+        "Anaemia crisis"
+      ]
+    },
+    {
+      "type": "Vaso-occlusive crises",
+      "features": [
+        "Painful, tender, swollen bones",
+        "Acute hepatopathy",
+        "Acute chest syndrome",
+        "Priapism",
+        "Painless haematuria",
+        "Cerebrovascular disease (in descending order of prevalence)",
+        "Thrombotic stroke",
+        "Seizures",
+        "Haemorrhage",
+        "Retinopathy (commonest in SC patients)"
+      ]
+    },
+    {
+      "type": "Anaemic crises",
+      "features": [
+        "Acute splenic (or hepatic) sequestration",
+        "Hyper-haemolytic (e.g. precipitated by malaria)",
+        "Megaloblastic (folic acid deficiency)",
+        "Hypoplastic (due to infection or renal failure)",
+        "Aplastic (e.g. due to epidemic parvo virus B19)"
+      ]
+    }
+  ],
+  "investigations": [
+    "FBC and ESR; Red cell indices (MCH, MCHC, MCV), Reticulocyte count",
+    "Sickling tests: solubility test; metabisulphite test",
+    "Haemoglobin electrophoresis (using cellulose acetate paper at pH 8.4 or citrate agar gel at pH 5.6)",
+    "Serum Electrolytes, Urea and Creatinine",
+    "Liver function tests (transaminases, bilirubin, serum albumin, alkaline phosphatase and prothrombin time)",
+    "Urinalysis; microscopy, culture and sensitivity",
+    "Sputum: Acid Fast Bacilli, Microscopy, culture and sensitivity",
+    "Stool: Ova and parasites, Occult blood",
+    "Abdominal ultrasound scan",
+    "Transcranial Doppler ultrasonography",
+    "Chest radiograph"
+  ],
+  "treatment": {
+    "goals": [
+      "Maintain (or restore) a steady state of health",
+      "Prevent and treat Complications",
+      "Provide accurate diagnosis, relevant health education and genetic counselling to patients, relatives and heterozygotes",
+      "Improve quality of life",
+      "Provide a positive self-image in affected persons"
+    ],
+    "non_drug": [
+      "Balanced diet",
+      "Adequate fluid intake (at least 3 litres/24 hours)",
+      "Avoidance of pain-inducing conditions (Strenous physical exertion or stress, Dehydration, Sudden exposure to extremes of temperature, Infections e.g. malaria, Emotional stress)"
+    ],
+    "drug": [
+      "Proguanil",
+      "Folic acid 5 mg orally daily",
+      "Multivitamin",
+      "Omega-3",
+      "Paracetamol",
+      "Aspirin",
+      "Ibuprofen",
+      "Diclofenac sodium",
+      "Diclofenac potassium",
+      "Dihydrocodeine",
+      "Morphine",
+      "Artemisinin-based combination therapy"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Paracetamol should be used with caution in patients with hepatic impairment",
+      "Opioid analgesics cause respiratory depression and hypotension; should be avoided when intracranial pressure is suspected to be raised"
+    ],
+    "supportive_measures": [
+      "Counselling and health education",
+      "Membership of support group",
+      "Regular health checks"
+    ]
+  },
+  "differential_diagnoses": [
+    "Connective tissue disorders e.g. rheumatoid arthritis",
+    "Liver disease",
+    "Other causes of failure to thrive"
+  ],
+  "complications": [
+    "Kidneys: Hyposthenuria, Haematuria, Albuminuria, Reduced kidney function",
+    "Leg ulcers: Occur around the ankles, Heal slowly and tend to recur",
+    "Bones and Joints: Osteomyelitis, Avascular necrosis",
+    "Infections: Salmonella osteomyelitis, Pneumococcal pneumonia, Pneumococcal meningitis (rare in adolescents and adults), Tonsillitis and pharyngitis",
+    "Brain and nerves: Strokes, seizures (not common in adults), Meningitis (not common in adults), Cerebral haemorrhage, Mental neuropathy (rare)",
+    "Cardiovascular/respiratory: Heart failure, Pulmonary hypertension, Acute chest syndrome"
+  ],
+  "prevention": [
+    "Advice on the risks involved in marriages between carriers and between sicklers",
+    "Anti-pneumococcal vaccine (once every 5 years)"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "Stem cell transplantation",
+    "Gene therapy"
+  ],
+  "prognosis": null
+}

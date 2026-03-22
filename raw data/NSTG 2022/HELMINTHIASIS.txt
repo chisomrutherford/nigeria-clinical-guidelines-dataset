@@ -1,0 +1,179 @@
+HELMINTHIASIS
+Introduction
+Helminths are parasitic worm infestations that cause variable symptoms in
+humans.
+Helminths are broadly classified as Nematodes (round worms), Cestodes
+(Tapeworms) and Trematodes (Flukes).
+Nematodes (round worms) :
+・ Ascaris (typical round worm)
+・ Ancylostoma (hookworm)
+・ Enterobius (pinworm)
+・ Trichuris (whipworm)
+・ Strongyloides stercoralis
+Cestodes (flat worms/tapeworms)
+・ T. solium and T. saginata
+・ Echinococcosis
+Trematodes (flukes)
+・ Schistosoma haematobium and S. mansoni
+・ Fasciola
+・ Round worm infestations are associated with rural living and poor hygiene.
+- Most are soil-transmitted .
+- Prevalent among school children and young adults
+- Acquired through soil and faeco-oral contamination.
+・ Flat worms and tape worms are acquired by eating under-cooked
+contaminated meat or fish.
+・ Bladder worms (S. haematobium) are acquired by wading through streams
+and ponds contaminated with the vector snails.
+
+CLINICAL FEATURES OF HELMINTHIASIS
+Clinical Features
+Depends on the infecting helminth:
+・ Ascariasis
+- May be asymptomatic.
+- Lung phase
+- Migration of parasite larvae through the lungs can lead to:
+- Irritating, non-productive cough
+- Burning substernal discomfort, aggravated by coughing or deep
+inspiration.
+- Dyspnoea
+- Blood-tinged sputum
+- Intestinal phase:
+- Usually no symptoms, but high worm burden may cause:
+- Abdominal Pain
+- Features of small bowel obstruction.
+- Features of perforation, Intussusception, Volvulus
+- Biliary tree occlusion: biliary colic, cholecystitis, cholangitis,
+pancreatitis, intrahepatic abscess
+- Effects of migration of an adult worm up the oesophagus:
+- Coughing
+- Oral expulsion of the worm
+・ Hookworm
+- Most are asymptomatic.
+- Maculo-papular dermatitis
+- Mild transient pneumonitis
+- Epigastric pain, often with post-prandial accentuation
+- Diarrhoea
+- Weakness
+- Shortness of breath
+- Skin depigmentation
+- Anaemia and protein deficiency
+・ Enterobiasis
+- Perianal pruritus, worse at night owing to the nocturnal migration of the
+female worms.
+- Skin excoriation and bacterial superinfection
+- Abdominal pain
+- Weight loss
+- Vulvo-vaginitis
+- Pelvic/perineal granulomas
+・ Trichuriasis
+- Light infections are asymptomatic.
+- Heavy infections may cause:
+- Abdominal pain and anorexia
+- Bloody or mucoid diarrhoea
+- Rectal prolapse.
+- Growth retardation
+・ Strongyloidiasis
+Distinguished from other round worms by its ability to replicate in the human
+host.
+Can thus persist for decades without further exposure of the host to exogenous
+infective larvae
+- Acute strongyloides
+- Initial sign is localized pruritus and erythematous rash at site of skin
+penetration.
+- Tracheal irritation
+- Dry cough
+- Mid-epigastric abdominal pain
+- Nausea
+- Diarrhoea
+- Gastrointestinal bleeding
+- Repeated autoinfection leads to recurrent serpiginous maculopapular or
+urticarial rash along the buttocks, perineum, and thighs- “larva
+currens”.
+- Chronic strongyloides
+- Generally asymptomatic
+- Recurrent urticaria: buttocks and wrists
+- Mild chronic colitis
+- Weight loss
+- Small bowel obstruction
+- Nephrotic syndrome
+- Cardiac arrythmia
+- Recurrent asthma
+- Arthritis
+- Malabsorption
+・ Hyperinfection syndrome and disseminated strongyloidiasis.
+- Associated with subclinical infection and use of corticosterioids
+- Depressed immunity leads to widespread larvae migration.
+- Hyperinfection syndrome associated with GIT and lung symptoms.
+- In disseminated strongyloidiasis larva invades multiple organs
+- Mortality is high for both conditions.
+・ Trichinellosis
+- In the first week after infection (gut invasion):
+- Diarrhoea
+- Abdominal Pain
+- Constipation
+- Nausea
+- Vomiting
+- In the second week after infection (muscle invasion):
+- Fever
+- Periorbital and facial oedema
+- Haemorrhages (subconjunctival, retinal and nail bed)
+- Maculopapular rash
+- Headache
+- Cough
+- Dyspnoea
+- Dysphagia
+- Tachyarrhythmias
+- Heart failure
+- Encephalitis
+- Pneumonitis
+・ Schistosomiasis
+- See Urology
+
+INVESTIGATIONS OF HELMINTHIASIS
+Investigations
+・ Stool examination for ova and parasites
+・ Urine examination: microscopy
+・ Haematology: eosinophilia and anaemia may be present
+・ Serology and CT scan may be required in some instances.
+
+TREATMENT OF HELMINTHIASIS
+Drug Treatment
+Hookworm
+・ Mebendazole: Adult and child: 100 mg orally every 12 hours for 3 days;
+iron supplementation may be given if anaemia is present.
+・ Albendaozole: Adult and child: 400 mg orally once
+Ascaris
+・ Mebendazole: Adult and child: 100 mg orally every 12 hours for 3 days
+・ Albendaozole: Adult and child: 400 mg orally once
+・ Ivermectin: 150-200 μg/kg orally once
+Trichuris
+・ Mebendazole: Adult and child: 100 mg orally every 12 hours for 3 days
+・ Albendaozole: Adult and child: 400 mg orally for 3 days
+・ Ivermectin: 200 μg/kg/day orally for 3 days
+Enterobius
+・ Pyrantel pamoate: Adult and child: 10 mg/kg orally once; repeat dose 2
+weeks later; several treatments may be necessary
+Trematodes
+・ Praziquantel :
+- Adult 40 mg/kg given orally at once provides up to 80% cure rates
+- Child over 4 years: 20 mg/kg followed after 4 - 6 hours by a further dose
+of 20 mg/kg.
+- Praziquantel is effective in all human cases caused by schistosomes.
+Cestodes
+・ Praziquantel
+- Adult: 40 mg/kg given orally at once
+Or:
+- 20 mg/kg followed by another 20 mg/kg after 4 - 6 hours
+- Child over 4 years: 20 mg/kg followed 4 - 6 hours by a further dose of 20
+mg/kg (20 mg/kg 3 times daily for one day for S. japonicum infections)
+228
+
+Notable Adverse Drug Reactions, Contraindications and caution
+・ Avoid mebendazole in pregnant women.
+・ Adverse effects of praziquantel include abdominal pain, headache,
+dizziness, and skin rashes.
+Prevention
+・ Good personal and food hygiene
+・ Access to safe and potable water
+・ Regular deworming
+・ Adequate cooking of food and meats

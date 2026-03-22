@@ -1,0 +1,138 @@
+{
+  "condition_name": "Antiphospholipid Syndrome",
+  "condition_slug": "antiphospholipid-syndrome",
+  "source": "NSTG 2022",
+  "introduction": "A hyper coagulable disorder manifesting as recurrent venous and arterial thrombosis. Results in adverse effects in pregnancy. Associated with heterogeneous antibodies, anti-cardiolipin antibodies. Anti-B glycoprotein 1 antibodies and lupus anticoagulant. Commonly seen in young females of reproductive age. It may occur in 1-6% of the general population. It may be primary (with no associated disease) or secondary (associated with another systemic disease such as Systemic lupus erythematosus.",
+  "clinical_features": [
+    {
+      "type": "Venous thrombosis",
+      "features": [
+        "Deep venous thrombosis",
+        "Pulmonary Embolism"
+      ]
+    },
+    {
+      "type": "Arterial thrombosis",
+      "features": []
+    },
+    {
+      "type": "Pregnancy loss",
+      "features": [
+        "8%"
+      ]
+    },
+    {
+      "type": "Thrombocytopenia",
+      "features": [
+        "22%"
+      ]
+    },
+    {
+      "type": "Cutaneous",
+      "features": [
+        "Livedo reticularis",
+        "Splinter haemorrhage",
+        "Superficial thrombophlebitis",
+        "Raynaud phenomenon"
+      ]
+    },
+    {
+      "type": "Neurologic",
+      "features": [
+        "Cerebrovascular accident",
+        "Transient ischaemic attack",
+        "Migraines",
+        "Multi infarct dementia"
+      ]
+    },
+    {
+      "type": "Renal",
+      "features": [
+        "Renal artery/vein thrombosis",
+        "Hypertension",
+        "Glomerular thrombosis"
+      ]
+    },
+    {
+      "type": "Pregnancy morbidities",
+      "features": [
+        "Eclampsia/pre eclampsia",
+        "Intrauterine growth retardation",
+        "Small for age birth",
+        "Three or more unexplained recurrent",
+        "Consecutive pregnancy losses before 10 weeks cyesis",
+        "Any unexplained pregnancy loss after 10 weeks cyesis"
+      ]
+    },
+    {
+      "type": "HELLP syndrome",
+      "features": [
+        "Haemolysis, Elevated liver enzymes, and Low platelet count"
+      ]
+    },
+    {
+      "type": "Pulmonary",
+      "features": [
+        "Pulmonary embolism",
+        "Pulmonary hypertension"
+      ]
+    },
+    {
+      "type": "Other",
+      "features": [
+        "Valvular heart disease",
+        "Renal thrombotic microangiopathy"
+      ]
+    }
+  ],
+  "investigations": [
+    "FBC and ESR",
+    "Serology: Anti-B2 glycoprotein antibodies IgG, IgM, IgA",
+    "Anti-cardiolipin antibodies(aCL) IgG, IgM, IgA",
+    "Lupus anticoagulant(LAC)",
+    "Antinuclear antibody(ANA)",
+    "Antibodies to phospholipids( many are not yet in clinical use) eg phosphatidylserine, phosphatidic acid, phosphatidylinositol",
+    "ECHO, Doppler US scan",
+    "CT angiogram",
+    "Brain CT scan"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Smoking cessation",
+      "Avoidance of supplemental oestrogen",
+      "Control of hypertension",
+      "Close monitoring during pregnancy"
+    ],
+    "drug": [
+      "Low dose aspirin 75 mg - 325 mg daily",
+      "Tabs hydroxychloroquine 200 mg - 400 mg daily",
+      "For venous events: Unfractionated heparin or low molecular weight heparin (e.g enoxaparin 20 - 80 mg/dL subcutaneously every 12 hours)",
+      "Tabs warfarin INR target 2 - 3 if single event; INR 3 - 4 if recurrent venous thrombosis. NOT TO BE USED IN PREGNANCY because of teratogenicity",
+      "Factor Xa inhibitors (e.g. rivaroxaban 15 mg twice daily for three weeks and then 20 mg daily to prevent recurrence)",
+      "For arterial event: Tabs warfarin, INR target (2 - 3) at moderate (3 - 4) at high",
+      "Pregnancy morbidity prevention: Tabs aspirin 75 - 150 mg daily, Unfractionated or low molecular weight heparin (e.g enoxaparin 20 - 80 mg/dL subcutaneously every 12 hours depending on aPL titre",
+      "Tabs hydroxychloroquine 200 mg daily",
+      "Catastrophic APS (CAPS): IV heparin for 7 - 10 days",
+      "IV Pulse methylprednisolone 500 - 1000 mg daily for 3 days",
+      "IV immune globulins 0.4 g/kg body weight for 4-5 days",
+      "Plasmapheresis",
+      "IV cyclophosphamide 500 - 750 mg/m2",
+      "IV rituximab 500 mg - 1 g day 1 and day 15"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Thrombosis from Protein C and S deficiency",
+    "Antithrombin III deficiency",
+    "Factor V Leiden mutation",
+    "Malignancy (Lymphoproliferative disorder)",
+    "Thrombotic thrombocytopenic purpura"
+  ],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

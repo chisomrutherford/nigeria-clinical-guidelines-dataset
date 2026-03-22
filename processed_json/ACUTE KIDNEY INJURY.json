@@ -1,0 +1,83 @@
+{
+  "condition_name": "Acute Kidney Injury",
+  "condition_slug": "acute-kidney-injury",
+  "source": "NSTG 2022",
+  "introduction": "Acute kidney injury is defined as a sudden clinical and/or laboratory manifestation of abnormal kidney function occurring within 48 hours or 7 days of kidney injury. A reduction in urine output documented as less than 0.5 ml/kg/hour for more than 6 hours. Absolute increase in serum creatinine of more than or equal to 0.3 mg/dl (26.5 μgmol/L) occurring within 48 hours of an insult to the kidneys. A percentage increase in serum creatinine of more than or equal to 50% (1.5 fold from baseline) which is known or presumed to have occurred within 7 days.",
+  "clinical_features": [
+    {
+      "type": "Asymptomatic Features",
+      "features": [
+        "Asymptomatic"
+      ]
+    },
+    {
+      "type": "Symptomatic Features",
+      "features": [
+        "Reduction in urine output (oliguria)",
+        "Features of uraemia",
+        "Fluid retention leading to oedema"
+      ]
+    },
+    {
+      "type": "Systemic Features",
+      "features": [
+        "Gastrointestinal system: Nausea and vomiting, Hiccups, Diarrhoea, Epigastric pain and rarely haematemesis.",
+        "Chest: Central chest pain of pericarditis, Breathlessness, Pulmonary oedema.",
+        "Central nervous system: Tremors, Derangement of sleep rhythm, Drowsiness, Seizures, Stupor or coma.",
+        "Skin: Dryness and pruritus.",
+        "Haemopoietic system: Anaemia (pallor), Bleeding diathesis."
+      ]
+    }
+  ],
+  "investigations": [
+    "Urine Examination (Volume / microscopy /Urinalysis / Electrolytes)",
+    "Serum chemistry (e.g. creatinine, urea, K)",
+    "Haematology including serology",
+    "Imaging (e.g. USS, IVU, RUCG etc.)",
+    "Renal biopsy"
+  ],
+  "treatment": {
+    "goals": [
+      "Maintenance of fluid homeostasis",
+      "Control of biochemical abnormalities",
+      "Maintenance of nutrition",
+      "Treat the underlying cause",
+      "Dialysis where indicated"
+    ],
+    "non_drug": [
+      "Maintenance of fluid homeostasis: Entails strict regulation of fluid intake to insensible loss (500 - 1200 ml/day).",
+      "Replacement of fluids totaling volume of urine and other documented losses in the previous 24 hours.",
+      "Avoid potassium containing fluids.",
+      "Maintenance of nutrition: High calorie low protein diet is recommended in acute or oliguric phase.",
+      "High calorie normal protein is recommended in recovery phase.",
+      "Parenteral hyperalimentation is seldom necessary in prolonged cases."
+    ],
+    "drug": [
+      "Control of biochemical abnormalities: Hyperkalaemia treatment using Glucose-Insulin Infusion or Glucose Infusion, 10% Calcium gluconate, Dialysis or use of ion exchange resin like kayexelate."
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": [
+      "Dialysis where indicated. Types include: Daily haemodialysis, Extended daily dialysis, Slow low efficient dialysis, Acute peritoneal dialysis, Intermittent peritoneal dialysis, Haemofiltration or haemodiafiltration."
+    ]
+  },
+  "differential_diagnoses": [
+    "Acute exacerbation of chronic kidney disease.",
+    "End-stage Renal Failure"
+  ],
+  "complications": [
+    "Pulmonary oedema",
+    "Infections",
+    "Electrolyte abnormalities: Hyperkalaemia, Hypokalaemia, Hyponatraemia"
+  ],
+  "prevention": [
+    "Avoidance of nephrotoxins in all forms.",
+    "Provision of pipe borne water.",
+    "Prompt treatment of accident victims.",
+    "Prompt treatment of infections.",
+    "Good maternal, child and reproductive health care",
+    "Adequate hydration during contrast investigations"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

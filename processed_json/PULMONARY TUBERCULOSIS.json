@@ -1,0 +1,96 @@
+{
+  "condition_name": "Pulmonary Tuberculosis",
+  "condition_slug": "pulmonary-tuberculosis",
+  "source": "NSTG 2022",
+  "introduction": "Tuberculosis (TB) is one of the oldest diseases known to affect humans. It is caused by bacteria of the mycotuberculosis complex which includes M. tuberculosis, M. bovis, and M. africanum. M. tuberculosis is the most common cause of tuberculosis worldwide. Transmission is by droplet infection. Nigeria ranks 11th among the high burden countries of TB in the world. The Federal government of Nigeria established the National Tuberculosis and Leprosy Control Program (NTBLCS) in 1993 with the objective to reduce the prevalence of TB and Leprosy to a level at which they no longer constitute a public health problem in the country. Almost every organ can be affected. The lung parenchyma are affected in more than 80% of the cases. This can be either as primary pulmonary disease (occurs mainly in childhood) or post-primary pulmonary disease. Those at risk of acquiring tuberculosis include contacts of patients with smear-positive pulmonary disease, immunocompromised individuals, health workers, and people living in overcrowded conditions.",
+  "clinical_features": [
+    {
+      "type": "Symptoms",
+      "features": [
+        "Persistent cough",
+        "Weight loss",
+        "Drenching night sweats",
+        "Chest pain (dull or pleuritic)",
+        "Haemoptysis",
+        "Anorexia"
+      ]
+    },
+    {
+      "type": "Signs",
+      "features": [
+        "Physical examination may be normal",
+        "Crepitations usually in the upper zone (earliest physical sign)",
+        "Physical signs of consolidation, cavitation and fibrosis develop later",
+        "Pallor and finger clubbing",
+        "Erythema nodosum and phlyctenular conjunctivitis (Primary PTB)"
+      ]
+    }
+  ],
+  "investigations": [
+    "Bacteriologic examination: Sputum AFB X 3 (spot, morning, spot)",
+    "Sputum mycobacterial culture and drug susceptibility testing/Gene Xpert MTB-RIF Assay",
+    "Radiologic Examination: Chest X-ray",
+    "Tuberculin skin test (low sensitivity and low specificity)",
+    "Haematologic - FBC and ESR",
+    "High Resolution CT",
+    "Fibre-optic bronchoscopy with bronchoalveolar lavage and trans-bronchial biopsy"
+  ],
+  "treatment": {
+    "goals": [
+      "Cure the disease",
+      "Prevent death from active TB or its late effects",
+      "Prevent relapse of TB",
+      "Decrease transmission of TB",
+      "Prevent the development of acquired drug resistance"
+    ],
+    "non_drug": [
+      "Contact tracing",
+      "Health education of the patient"
+    ],
+    "drug": [
+      "6 months regimen",
+      "Initial Intensive Phase: 2 months using Rifampicin, isoniazid, pyrazinamide and ethambutol",
+      "Continuation Phase: 4 months using Isoniazid and rifampicin",
+      "Pyridoxine 10mg is added to prevent peripheral neuropathy",
+      "Fixed dose combinations or loose tablets"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Rifampicin: Drug interactions, hypersensitivity, hepatitis, fever",
+      "Isoniazid: Hypersensitivity, polyneuropathy",
+      "Ethambutol: Optic neuritis, hypersensitivity",
+      "Pyrazinamide: Hepatitis, gout, hypersensitivity",
+      "Pill burden",
+      "Drug interaction",
+      "Potential interactions with rifampicin and antiretroviral agents",
+      "Rifabutin may be used in place of rifampicin but it's not easily available and expensive",
+      "Efavirenz in place of nevirapine",
+      "Immune reconstitution syndrome",
+      "Increased incidence of drug resistance cases"
+    ],
+    "supportive_measures": [
+      "Care and management in DOTs centres"
+    ]
+  },
+  "differential_diagnoses": [
+    "Pneumonia",
+    "Carcinoma of the bronchus",
+    "Lung abscess due to Klebsiella pneumoniae",
+    "Pulmonary infarction"
+  ],
+  "complications": [
+    "Lung collapse",
+    "Bronchiectasis",
+    "Chronic Obstructive Pulmonary Disease",
+    "Pleural effusion",
+    "Cor pulmonale",
+    "Destructive lung syndrome",
+    "Lung abscess",
+    "Acute Respiratory Distress Syndrome",
+    "Spontaneous Pneumothorax",
+    "Haemorrhage/Mycetoma"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

@@ -1,0 +1,191 @@
+THYROTOXICOSIS
+Introduction
+This refers to the clinical, physiological and biochemical manifestation of the
+effect of excess thyroid hormone on tissues. There is a female preponderance
+due to the role of autoimmunity in the aetiology.
+Aetiology
+・ Graves' disease (commonest cause)
+・ Toxic nodule
+・ Toxic multi-nodular goitre
+・ Pituitary thyrotroph adenoma
+・ Trophoblastic tumours producing HCG with thyrotrophic activity
+・ Pituitary thyroid hormone resistance syndrome producing excess TSH and
+resultant excess T3 and T4
+・ Thyroid cancers (rarely)
+- Thyroiditis (sub-acute or postpartum)
+・ Iodine induced by drugs such as amiodarone
+・ Radiographic contrast media
+・ Iodine prophylaxis programmes
+・ Extra-thyroidal sources of thyroid hormone excess
+・ Factitious hyperthyroidism
+・ Struma ovarii: TSH-induced
+
+CLINICAL FEATURES OF THYROTOXICOSIS
+・ A goitre may or may not be present
+・ May be diffuse or nodular
+・ Heat intolerance
+・ Dermatological:
+- Increased sweating and pruritus,
+- Warm and moist skin,
+- Pretibial myxoedema
+- Pigmentation
+- vitiligo
+- Palmar erythema
+- Onycholysis
+- Hair loss
+・ Cardiorespiratory:
+- Palpitation
+- Dyspnoea on exertion
+- Angina
+- Cardiac failure
+- Increased pulse pressure
+- Tachycardia
+- Atrial fibrillation
+・ Gastrointestinal:
+- Weight loss despite increased appetite (hyperphagia)
+- Increased stool frequency
+・ Neuromuscular:
+- Tremors
+- Nervousness
+- Irritability
+- Emotional liability and psychosis
+- Muscle weakness and proximal myopathy
+- Hyperkinesia
+- Hyperreflexia
+- Insomnia
+・ Reproductive:
+- Loss of libido
+- impotence
+- Amenorrhoea/ oligomenorrhoea
+- Infertility and spontaneous abortions
+・ Ocular:
+- Lid lag/lid retraction
+- Grittiness, excessive lacrimation
+- Exophthalmos
+- diplopia
+- Papilloedema
+・ Others:
+- Increased thirst
+- Polyuria
+- Fatigue and apathy
+- Triad of Proptosis, Nail changes (onycholyis) and Skin changes)
+strongly suggest Graves' disease.
+
+DIFFERENTIAL DIAGNOSES OF THYROTOXICOSIS
+Differential Diagnoses
+・ Active tuberculosis – weight loss, cough if in heart failure
+・ Advanced retroviral disease –weight loss, hyperdefecation, skin changes
+・ Malnutrition-weight loss, proptosis
+・ Cancer cachexia- weight loss
+・ Malabsorption syndrome- weight loss
+・ Neuropsychiatric disorders- tremors, pressure of speech and talkativeness
+even frank psychosis.
+・ Poorly controlled Diabetes mellitus-weight loss, loss of libido,
+hyperphagia.
+
+COMPLICATIONS OF THYROTOXICOSIS 
+Complications
+・ Hyperthyroid crisis (thyroid storm)
+・ Tracheal compression.
+・ Cardiac failure
+・ Loss of visual acuity
+・ Infertility
+・ Periodic paralysis
+
+INVESTIGATIONS OF THYROTOXICOSIS
+Investigations
+・ Diagnostic
+- Thyroid Function Test with free T4 and T3 which are both expected to
+be high and TSH suppressed.
+- Thyroid antibodies-
+- Thyroid Peroxidase Antibodies which is elevated in most cases of
+autoimmune thyroid disease,
+- Thyroglobulin antibody elevated in most cases of thyroid diseases,
+- TSH Receptor antibodies especially Thyroid Stimulating
+Immunoglobulin specifically in Grave's disease.
+- Radio-labelled thyroid scan with iodine 123 especially if diagnosis is
+not certain
+・ Ancillary
+- FBC and ESR
+- Electrolyte, Urea and Creatinine
+- Fasting blood sugar
+- ECG and Echocardiography
+
+TREATMENT OF THYROTOXICOSIS
+Treatment Goals
+・ Achieve normal metabolic rate by attaining normal serum T3, T4 and TSH
+Levels
+・ Prevent Complications
+Drug Treatment
+・ Antithyroid drugs
+- Carbimazole
+- Adult: starting dose 30 - 60 mg orally in divided doses daily
+- Maintenance: 10 - 15 mg orally, daily
+- Child:
+- Neonate, initially 250 μg/kg orally 8 hourly until euthyroid, then
+adjust as necessary
+- 1 month - 12 years: initially 250 μg/kg (maximum 10 mg 8 hourly)
+until euthyroid then adjust as necessary
+- 12 - 18 years: initially 10 mg every 8 hours until euthyroid then
+adjusted as necessary
+- Higher initial doses occasionally required, particularly in
+thyrotoxic crisis
+- Child and carers to inform doctor immediately if sore throat, mouth
+ulcers, bruising, fever, malaise or non-specific illness develops
+- Propylthiouracil (preferred in pregnancy)
+– Adult: starting dose 300 - 450 mg orally in divided doses daily
+– Maintenance: 100 - 150 mg orally in 2 or 3 divided doses daily
+– Child
+- Neonate, initially 2.5 - 5 mg/kg orally every 12 hours until
+euthyroid, then adjusted as necessary
+- 1 month - 1 year: initially 2.5 mg/kg 8 hourly until euthyroid;
+- 1 - 5 years: 20 mg/kg 8 hourly until euthyroid;
+- 5 - 12years: initially 50 mg 8 hourly until euthyroid;
+- 12 - 18 years: initially 100 mg 8 hourly until euthyroid
+- Higher doses occasionally required particularly in thyrotoxic crisis
+- Duration of treatment usually is 18 - 24 months
+・ Beta - adrenergic blocking drugs
+- Propranolol 80 - 160 mg orally, daily in divided doses
+- Symptoms and signs of hyperthyroidism due to adrenergic stimulation
+may respond to these agents
+・ Iodine is used in:
+- The emergency management of thyroid storm
+- Thyrotoxic patients undergoing emergency surgery
+- For the preoperative preparation of thyrotoxic patients selected for
+subtotal thyroidectomy
+- Aqueous iodide oral solution (Lugol's solution):
+- Iodine 5%, potassium iodide 10% in purified water; total iodine 130
+mg/mL
+- Adult: 2 - 3 drops of saturated potassium iodide solution orally 3 to 4
+times daily (300 - 600 mg/day)
+- Child:
+- Neonate: 0.1 - 0.3 mL orally every 8 hours; 1 month
+- 18 years: 0.1 - 0.3 mL every 8 hours in thyrotoxic crisis:
+- Child 1 month - 1 year: 0.2 - 0.3 mL 8 hourly; Dilute with milk or
+water
+・ Use of steroids in autoimmune cases of thyrotoxicosis.
+・ Radioactive sodium iodine
+- Used in patients who are past child bearing age
+- Dosage difficult to gauge; the response of the gland is unpredictable
+- Up to 25% of patients given enough radioactive iodine to achieve
+euthyroidism, may develop hypothyroidism within one year
+- High incidence of recurrence of hyperthyroidism if smaller doses are
+used
+Surgery
+Indications includes:
+・ Patients < 21 years who should not receive radio iodine
+・ Persons who cannot tolerate other agents because of hypersensitivity, or for
+other reasons
+・ Patients with very large goitres for aesthetic reasons, those with
+compressive symptoms or signs
+・ Some patients with toxic adenoma and multinodular goitres
+Supportive Measures
+・ Appropriate care of any organ or system involved e.g. eye care, and
+treatment of heart failure.
+・ Thyroid storm would require judicious intravenous fluid use,
+corticosteroids and treatment of the precipitating cause
+Notable Adverse Drug Reactions, Contraindications and Caution
+Carbimazole and propylthiouracil
+・ May cause severe bone marrow suppression (including pancytopenia and
+agranulocytosis)
+・ They are contraindicated in breastfeeding mothers

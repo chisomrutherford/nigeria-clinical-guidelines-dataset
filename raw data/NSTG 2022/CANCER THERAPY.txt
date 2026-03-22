@@ -1,0 +1,165 @@
+CANCER THERAPY
+Introduction
+Cancer is abnormal and rapid cell growth with the potential to invade near or
+distant organs. It is the 2 nd leading cause of death globally. Common adult
+cancers occur in the lung, breast, colon and rectum, liver, cervix, prostate and
+the ovaries. Some childhood cancers are leukaemias, lymphomas, Wilm's
+tumour, neuroblastoma, rhabdomyosarcoma and retinoblastoma. This section
+focuses mainly on adult tumours.
+Risk factors
+Genetics, family history, occupational exposures (radiation exposure and
+hydrocarbons) tobacco, obesity, alcohol, certain infections
+Classification
+・ Based on tissue of origin
+- Carcinomas are derived from epithelial cells
+- Sarcomas are derived from mesenchymal cells (bone, cartilage, muscle,
+fat, nerve, etc.)
+- Lymphomas / Leukaemias are derived from blood forming cells
+- Blastomas are derived from embryonic cells
+- Germ cell tumours are derived from pluripotent cells
+
+CLINICAL FEATURES OF CANCER THERAPY 
+Clinical Features
+・ Local: as lumps or ulcers
+・ Regional: lymph nodes, satellite nodules, skin involvement, infiltration of
+surrounding tissues or structures
+・ Systemic: evidence of wider metastasis or dissemination; non-specific
+paraneoplastic syndromes, etc.
+・ Emergency: local or metastatic Complications
+Any unusual feelings of ill-health, unexpected bleedings, unexplained weight
+loss, should trigger a suspicion of cancer.
+Investigation
+Tissue diagnosisis the hallmark of diagnosis, and it must be confirmed prior to
+initiation of treatment.
+・ Cytology : From body fluid or discharge or cell scrapings/shavings; fine
+needle aspiration biopsy/cytology (FNAB/C) of solid tumours
+・ Histopathology: Core tissue obtained from specialized needles (e.g. Tru cut
+needle for solid tumours, Vim Silverman needle, Menghini needle),
+incisional/wedge biopsy, excision biopsy.
+NOTE: Tissue specimens obtained from patients should be subjected to
+pathological assessment. Surgical specimen from any patient should not be
+DISCARDED without histopathological assessment.
+・ Immunohistochemistry: Specialized studies to further characterize cancers
+e.g. breast cancer.
+・ Others: FBC, Electrolyte, Urea and Creatinine, LFT, Plain x-ray, USS,
+Endoscopy, Radionuclide bone scan, CT scan, MRI, Tumour markers like
+CEA, CA 19-9
+
+TREATMENT IN CANCER THERAPY 
+Treatment
+Undertaken by a multi-disciplinary team. This team includes surgical
+oncologists, medical oncologists, radiation oncologists, radiologists,
+pathologists, nurse oncologists, psycho-oncologists, genetic counselors, etc.
+Others:
+Specific treatment modalities
+Local/Loco-regional
+・Surgery
+- Simple excision: complete tumour excision; risk of local recurrence
+is high, therefore NOT advised
+- Wide excision: complete tumour excision with minimum of 2cm
+tumour-free margin in all planes around the tumour
+- Radical excision: complete tumour excision with loco-regional
+control of lymph nodes
+- Resection of metastasis (metastatectomy) e.g. localized liver, lung
+and brain metastases
+Oncologic emergencies
+・ Relief of obstruction, perforation, bleeding, fistula, etc
+・ Palliative operations: e.g. tumour debulking (neo-adjuvant chemotherapy
+allows more definitive resection), bypass surgeries like use of stents,
+gastro-enterostomies, etc.
+・ Reconstruction and rehabilitation
+・ Radiotherapy
+・ Neo-adjuvant (tumour debulking prior to surgery)
+・ Adjuvant (post-surgery)
+・ Localized metastasis
+・ Palliation
+・ Pain control
+・ Bleeding control
+Systemic:
+・Chemotherapy
+- For locally advanced or metastatic tumours
+- Tissue diagnosis must be established prior to use of chemotherapy
+- Neo-adjuvant or adjuvant use
+- Appropriate use of combination therapy
+- Calculate tolerable doses based on body surface area.
+- Supportive therapy include anti-emetics, anxiolytics, intravenous fluid
+hydration, etc.
+- Functional status and quality of life should be weighed against the
+benefit of chemotherapy
+- Objective tumour response should be measured using Response
+Evaluation Criteria In Solid Tumours (RECIST): complete response,
+partial response, stable disease, progressive disease. Assess tumour
+response after every two cycles of chemotherapy.
+・ Endocrine/Hormonal therapy
+- Anti-oestrogens (e.g. tamoxifen) in breast cancer; oestrogens in
+prostate cancer
+- Neo-adjuvant, adjuvant, others
+・ Biologic response modifiers
+・ Interferons, cytokines, growth factors, immune based interventions,
+monoclonal antibodies
+
+TREATMENT OF COMPLICATION OF CANCER 
+Treatment of complications of cancer
+・ Complications can arise from cancer or its treatment. It is still pertinent to
+refer cancer patients for specialist care as much as it is feasible.
+・ Pain:Analgesic ladder, antidepressants, anxiolytics, bisphosphonates (for
+bone metastasis and pain), radiotherapy, palliative care team
+・ Fungating malignant ulcers e.g. breast, soft tissue sarcoma, etc.: topical
+dressing with metronidazole and honey, topical dressing with formalin-
+soaked gauze for multiple-site bleeding, antibiotics if there is evidence of
+systemic infection
+・ Malignant pleural effusion and/or widespread lung parenchyma metastasis:
+drainage of effusion by thoracocentesis under aseptic conditions; closed
+thoracostomy tube drainage (CTTD) if massive with tetracycline-induced
+pleurodesis; breathing support with bronchodilators, steroids,
+supplemental oxygen, opioid analgesics and a course of antibiotics
+・ Brain metastasis: steroids to reduce cerebral oedema, anticonvulsants if
+indicated, whole-brain radiation therapy. Refer for neurosurgical
+evaluation, solitary metastasis may be resectable.
+・ Spinal metastasis: steroids to reduce inflammatory oedema,
+immobilisation if spinal collapse is imminent, urgent radiation therapy to
+prevent spinal collapse. Urgent surgical decompression may relieve spinal
+cord compression, followed with radiation therapy. Pay attention to or refer
+for sphincteric (urinary and faecal) dysfunction and control
+・ Long bone metastasis and pathological fracture: analgesics, orthopaedic
+stabilisation and fixation, radiotherapy
+・ Limb lymphoedema associated with breast cancer: arm elevation, rubber
+ball squeeze, mild diuretics in early phases, multilayer bandaging or elastic
+garments, pneumatic compression and massage, control of co-morbidities
+like hypertension and diabetes mellitus, mild NSAIDs for lymphangitis,
+meticulous skin care and prevention of infection
+Palliative/Supportive/Terminal care
+・ Involve palliative care team social workers, family support teams where
+available and as early as indicated
+・ Comprehensive end-of-life care addressing physical, psychosocial,
+spiritual and existential needs and concerns of patients.
+・ Delivered at home or in hospital, ambulatory clinic, hospice or palliative
+care unit
+
+Prognosis
+・ Depends on tissue type, grade and immunohistochemistry; stage at
+presentation; adequacy of treatment
+Screening and Early Detection
+・ Screening: To identify individuals at risk of specific cancers when they are
+yet to occur or manifest. Generally, yearly for every one above 40 years of
+age
+- Earlier and more frequently in those with specific risk factors e.g.
+family history, genetic predisposition, etc.
+- Early detection: To identify those already with cancer
+- Examples of screening/early detection modalities:
+- Breast: mammogram, breast ultrasound, clinical breast examination,
+breast self-examination, genetic testing e.g. BRCA
+- Colo-rectal: faecal occult blood test, colonoscopy, barium enema,
+digital rectal examination (DRE)
+- Cervical: pap smear, HPV
+- Prostate: prostate-specific antigen, DRE
+Cancer Risk Prevention Strategies
+・ Avoid tobacco smoking, chewing, snuffing, or passive smoking
+・ Dietary modification e.g. more fruits, vegetables and plant-based food;
+regular physical activity
+・ Control of infections e.g. vaccination (e.g. HBV, HPV), Prevention, prompt
+treatment
+・ Reduce exposure to ionizing radiation e.g. sunscreen and protective
+clothing for albinos
+・ Avoid occupational exposure to chemicals
+・ Genetic risk assessment and counselling

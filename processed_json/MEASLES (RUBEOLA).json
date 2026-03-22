@@ -1,0 +1,95 @@
+{
+  "condition_name": "Measles (Rubeola)",
+  "condition_slug": "measles-rubeola",
+  "source": "NSTG 2022",
+  "introduction": "An acute viral infection caused by an RNA virus of the genus Morbillivirus in the family Paramyxoviridae. Only one serotype is known and endemic throughout the world. A major contributor to childhood mortality, 79% reduction in deaths from measles due to the global push to improve vaccine coverage. A major cause of preventable blindness. Transmission is by droplet infection during the prodromal stage. Incubation period: 9 - 11 days. Time of exposure to appearance of rash: about 14 days.",
+  "clinical_features": [
+    {
+      "type": "Incubation period",
+      "features": [
+        "Mild fever; 10 - 11 days"
+      ]
+    },
+    {
+      "type": "Prodromal stage",
+      "features": [
+        "3 - 5 days",
+        "Low to moderate grade fever",
+        "Dry cough",
+        "Coryza",
+        "Conjunctivitis",
+        "Koplik spots",
+        "Photophobia"
+      ]
+    },
+    {
+      "type": "Final stage",
+      "features": [
+        "Temperature rises abruptly as the rash appears.",
+        "Rash begins from the upper lateral part of the neck, behind the ears, along the hairline and posterior parts of the cheek then spreads to the rest of the body.",
+        "Rash fades in the same pattern in 3 - 4 days.",
+        "Associated lymphadenopathy"
+      ]
+    }
+  ],
+  "investigations": [
+    "Isolation of the virus by tissue culture",
+    "ELISA: first IgM and later IgG response",
+    "Demonstration of Warthin Finkeldy giant cells in smears of the nasal mucosa",
+    "FBC",
+    "Lumbar puncture"
+  ],
+  "treatment": {
+    "goals": [
+      "Relieve symptoms",
+      "Hydrate adequately",
+      "Treat secondary bacterial infection",
+      "Prevent complications"
+    ],
+    "non_drug": [
+      "Humidification of the room for those with croup",
+      "Protection from strong light for those with photophobia",
+      "Nutrition",
+      "Fluids"
+    ],
+    "drug": [
+      "If RTI is present, administer antibiotics",
+      "Those in final stage with fever need antipyretics",
+      "Some children require supplemental vitamin A: 100,000 IU stat for age 6 months - 1 year; 200,000 IU stat for age above 1year; Repeat on days 2 and 14 for those with ophthalmologic evidence of vitamin A deficiency",
+      "Specific treatment of complications: Use of dexamethasone for Croup"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Vitamin A may cause features of pseudotumour cerebri: Nausea, vomiting, drowsiness, bulging fontanelle, diplopia, papilloedema and cranial nerve palsies"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Rubella",
+    "Roseola infantum",
+    "Infections from Echovirus, Coxsackie Virus and Adenovirus",
+    "Infectious mononucleosis",
+    "Toxoplasmosis",
+    "Meningococcaemia",
+    "Drug rashes"
+  ],
+  "complications": [
+    "Diarrhoea",
+    "Otitis media",
+    "Pneumonia",
+    "Laryngo-tracheobronchitis",
+    "Malnutrition",
+    "Encephalitis",
+    "Flaccid paralysis",
+    "Seizures or Blindness",
+    "Subacute sclerosing panencephalitis"
+  ],
+  "prevention": [
+    "Isolation precaution from the 5th day of exposure until 5 days after appearance of the rash",
+    "Measles vaccine at 9 months",
+    "Vaccine may be given at 6 months for measles post-exposure, and in outbreak prophylaxis",
+    "Post-exposure prophylaxis: Passive immunization with immune globulin within 6 days of exposure"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

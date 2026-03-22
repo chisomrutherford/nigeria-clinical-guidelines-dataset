@@ -1,0 +1,51 @@
+{
+  "condition_name": "Bacillary Dysentery",
+  "condition_slug": "bacillary-dysentery",
+  "source": "NSTG 2022",
+  "introduction": "An important cause of diarrhoea, caused by pathogenic species of Shigella A-D (dysenteri, flexneri, boydii and sonnei).",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Mucoid bloody diarrhoea.",
+        "Abdominal pain",
+        "Tenesmus",
+        "Pyrexia"
+      ]
+    }
+  ],
+  "investigations": [
+    "Stool microscopy, culture and sensitivity",
+    "Full Blood Count"
+  ],
+  "treatment": {
+    "goals": [
+      "Eradicate bacterial pathogens",
+      "Supportive care"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Ciprofloxacin 500 mg - 1 g orally 12 hourly for 5 days",
+      "Azithromycin 500 mg daily for 3 days for resistant strains",
+      "Cotrimoxazole for children: 6 weeks – 6 months: 120 mg every 12 hours, 6 months – 6 years: 240 mg every 12 hours, 6 years – 12 years: 480 mg every 12 hours, 12 years - 18 years: 960 mg every 12 hours"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Ciprofloxacin causes tendinitis especially in children and so is contraindicated in pregnancy and in children <18 years"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Septicaemia/bacteraemia",
+    "Severe rectal bleeding",
+    "Intestinal perforation",
+    "Reiter's syndrome"
+  ],
+  "prevention": [
+    "Personal and communal hygiene.",
+    "Potable water, sanitary disposal of faeces."
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

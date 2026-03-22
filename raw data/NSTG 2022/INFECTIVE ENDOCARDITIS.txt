@@ -1,0 +1,140 @@
+INFECTIVE ENDOCARDITIS 
+Introduction
+A microbial infection of the endocardium and diseased heart valves (rheumatic
+heart disease, congenital heart disease, shunts and prosthetic valves).
+May be acute or sub-acute. Some acute cases occur in normal valves in
+intravenous drug users, or may be part of systemic illness. Sub-acute form
+usually occurs on diseased valves
+Causative organisms include: Streptococci, Staphylococci, Enterococci;
+Haemophilus, Actinobacillus, Cardiobacterium, Eikenella, and Kingella
+species ('Hacek' Organisms)
+
+CLINICAL FEATURES OF INFECTIVE ENDOCARDITIS
+• Acute:
+- High fever with rigors
+- Delirium
+- Shock
+- Development of new murmurs
+- Severe cardiac failure
+- Abscesses may form in many parts of the body (e.g. brain)
+• Subacute:
+- Low-grade fever
+- Signs of carditis
+- Finger clubbing
+- Arthralgia
+- Splenomegaly
+- Osler's nodules
+- Janeway lesions
+- Roth spots
+
+DIFFERENTIAL DIAGNOSES OF INFECTIVE ENDOCARDITIS
+Differential Diagnoses
+• Myocarditis
+• Rheumatic heart disease
+
+COMPLICATIONS OF INFECTIVE ENDOCARDITIS
+• Cardiac failure
+• Destruction of heart valves
+• Systemic embolism (could be infective)
+
+INVESTIGATIONS FOR INFECTIVE ENDOCARDITIS
+• FBC and differentials
+• Urinalysis; urine microscopy
+• Blood cultures X 3 (the yield is higher at the time of pyrexia)
+• Chest radiography
+
+• ECG
+• Echocardiography
+
+TREATMENT OF INFECTIVE ENDOCARDITIS
+Treatment Goals
+• Stop the infection
+• Treat cardiac failure
+• Prevent coagulation disorders
+Non-drug Treatment
+• Bed rest
+• Low salt diet
+Drug Treatment
+Initiate therapy (culture results awaited) with:
+• Benzylpenicillin: 7.2 g daily by slow intravenous injection or intravenous
+infusion in 6 divided doses for 4 -6 weeks. May be increased up to 14.4 g
+daily if necessary (e.g. in endocarditis)
+Plus
+• Gentamicin: 60 - 80 mg intravenously 12 hourly for 2 weeks
+Following bacteriological confirmation, institute appropriate antimicrobial
+therapy
+• Staphylococci:
+- Flucloxacillin: 250 mg - 2 g intravenously every 6 hours for 4 - 6 weeks
+- Vancomycin: 1 g intravenously 12 hourly; Gentamicin 60-80 mg
+intravenously 12 hourly for 2 weeks
+• Enterococci:
+- Amoxicillin 2 g intravenously 4 hourly; intravenously Gentamicin 60-
+80 mg 12 hourly
+• Candida
+- Systemic antifungals:
+- Amphotericin B: 0.8 - 1 mg/kg/day IV for at least 6 weeks
+Plus
+- Flucytocine: 25 mg/kg/day in 6 hourly
+Notable Adverse Drug Reactions, Contraindications and Caution
+• Penicillin: rashes, anaphylaxis
+• Gentamicin: nephropathy
+• Monitor patients on gentamicin and vancomycin carefully
+Prevention
+Prophylactic antibiotics for patients at risk who are undergoing:
+· Dental procedures under local or no anaesthesia
+· For those who have NOT had endocarditis, and have NOT received more
+than a single dose of penicillin in the last one month:
+- Amoxicillin:
+- Adult: 3 g orally 1 hr before procedure
+- Child:
+- Under 5 years: 750 mg orally 1 hour before procedure
+- 5- 10 years: 1.5 g
+
+• For penicillin-allergic patients or patients who have received more than a
+single dose of a penicillin in the previous one month:
+- Azithromycin
+- Adult: 500 mg orally one hour before procedure
+- Child:
+- Under 5 years: 200 mg orally
+- 5 - 10 years: 300 mg
+• Patients who have had endocarditis:
+- Amoxicillin plus gentamicin intravenously as for procedures under
+general anaesthesia (see below)
+• Dental procedures under general anaesthesia, and no special risk:
+- Amoxicillin
+- Adult: 1 g intravenously at induction of anaesthesia; mg orally 6 hours
+later
+- Child:
+- Under 5 years: a quarter of adult dose
+- 5 - 10 years: half adult dose
+Or:
+- Adult: 3 g orally 4 hours before induction, then 3g as soon as possible
+after the procedure
+- Child:
+- Under 5 years: a quarter of adult dose
+- 5 - 10 years: half adult dose
+• Special risk, e.g. previous infective endocarditis, or patients with prosthetic
+valves:
+- Amoxicillin plus gentamicin intravenously
+- Adult: 1 g amoxicillin plus 120 mg gentamicin at induction then oral
+amoxicillin 500 mg 6 hours after procedure
+- Child:
+- Under 5 years: a quarter of adult dose of plus 2 mg/kg gentamicin
+intravenously at induction
+- 5 - 10 years: half adult dose for amoxicillin; 2 mg/kg gentamicin
+• Patients who are penicillin-allergic or have received more than a single
+dose of a penicillin in the last one month
+- Vancomycin
+- Adult: 1 g intravenously over at least 100 minutes
+- Child under 10 years: Vancomycin 20 mg/kg
+Plus
+- Gentamicin
+- Adult: 120 mg intravenously - Given at induction or 15 minutes before
+procedure
+- Child under 10 years: Vancomycin 20 mg/kg
+
+· Genito-urinary tract manipulation
+- As for special risk patients undergoing dental procedures under general
+anaesthesia
+· Obstetrics, gynaecological and gastrointestinal procedures
+- As for genitourinary tract manipulation

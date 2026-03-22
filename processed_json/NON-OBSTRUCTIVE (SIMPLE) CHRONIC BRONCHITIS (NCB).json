@@ -1,0 +1,76 @@
+{
+  "condition_name": "Non-Obstructive (Simple) Chronic Bronchitis (NCB)",
+  "condition_slug": "non-obstructive-simple-chronic-bronchitis-ncb",
+  "source": "NSTG 2022",
+  "introduction": "Chronic bronchitis denotes chronic or recurrent bronchial mucus hyper secretion resulting in chronic expectoration of sputum. For clinical or epidemiological purposes, the term is applied to patients who have coughed up sputum on most days during at least three consecutive months in two successive years. Non-obstructive Chronic bronchitis: In this condition there is Chronic or recurrent mucoid hyper secretion sufficient to cause expectoration but there is no air flow obstruction. Between 10 -25% of adult population are affected by NCB. It tends to be common in men. It is not well understood why some of these persons progress to chronic obstructive airway disease and some do not. NCB has a generally good prognosis. With smoking cessation and vigorous treatment early in the disease process, the disease may be reversed. The exact cause of the illness is not known. More common in urban or industrial areas. Some inhaled irritants play a role in persistence and aggravation of symptoms and pathology. These include, inhaled tobacco smoke, air pollutant, dusts, powder and noxious fumes. Viral or bacterial infection may precipitate, or aggravate disease. Although history of heavy smoking is common, disease may be observed in non-smokers. Pathologically, there is hypertrophy and hyperplasia of mucus secreting glands relative to wall thickness. There are diffuse inflammatory changes of bronchial epithelium with ulceration, neutrophil infiltration, loss of cilia, bacterial invasion and area of squamous metaplasia. These changes interfere with muco-ciliary function.",
+  "clinical_features": [
+    {
+      "type": "Symptoms",
+      "features": [
+        "Most striking features are impressive history of cough with sputum production for many years",
+        "Initially cough present during cold seasons, especially in the morning",
+        "Over the years cough increases in frequency, severity and duration until cough is present all year round",
+        "Sputum is usually scanty, mucoid and more in the mornings and occasionally blood stained"
+      ]
+    },
+    {
+      "type": "Signs",
+      "features": [
+        "Patient may be overweight",
+        "Patient may not be in respiratory distress and respiratory rate may be normal",
+        "Palpation of chest may reveal local tenderness over recently fractured rib",
+        "Percussion notes resonant over the lungs",
+        "Liver dullness and cardiac dullness normally preserved",
+        "Breath sound is vesicular",
+        "Positive signs are almost all referable to bronchial secretions",
+        "Transient basal rales may be noted on inspiration. May clear completely with cough",
+        "Finger clubbing is not commonly observed in pure chronic bronchitis"
+      ]
+    }
+  ],
+  "investigations": [
+    "Spirometry may reveal no abnormality in lung function, since there is no airflow obstruction",
+    "Chest Xray does not show any characteristic abnormality in simple chronic bronchitis",
+    "Bronchography may reveal irregular narrowed or distorted bronchi. There is however, no need for routine bronchography in chronic bronchitis.",
+    "Sputum examination; In early stages, sputum may be mucoid. Sputum M/C/S may be necessary to detect bacterial infection",
+    "Arterial blood gas studies may be unnecessary in straightforward uncomplicated NCB."
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Lifestyle modifications",
+      "Reduction of bronchial irritation",
+      "Smoking cessation",
+      "Avoidance of dusty and smoke laden environment",
+      "Physiotherapy - Postural drainage may be of value in patients with increased sputum production"
+    ],
+    "drug": [
+      "Treatment of respiratory infections",
+      "Purulent sputum should be treated with amoxicillin 500 mg 8 hourly for seven days.",
+      "In the absence of response, a sputum culture and sensitivity is done and antibiotics changed to sensitive antibiotics",
+      "Mucolytics",
+      "Mucolytic expectorants appear to improve quality of life and decreases cough. Iodinated glyceryl at a dose of 60 mg four times daily for 1 to 8 weeks can be used"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Maculopapular reactions may occur in patients taking amoxicillin"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Asthma",
+    "Bronchiectasis",
+    "Pulmonary TB",
+    "Bronchogenic Ca"
+  ],
+  "complications": [
+    "Mucopurulent relapses due to secondary bacterial infection",
+    "Progression to chronic obstructive airway disease"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": [
+    "NCB has a generally good prognosis",
+    "With smoking cessation and vigorous treatment early in the disease process, the disease may be reversed"
+  ]
+}

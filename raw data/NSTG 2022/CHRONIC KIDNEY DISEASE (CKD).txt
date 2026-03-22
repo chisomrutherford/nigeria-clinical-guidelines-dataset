@@ -1,0 +1,202 @@
+CHRONIC KIDNEY DISEASE (CKD)
+Introduction:
+CKD is defined as a structural and functional abnormality of the kidneys
+persisting for 3 months or more and manifesting as markers of kidney damage
+or reduction in glomerular filtration rate (GFR). Markers of kidney damage
+include persistent microalbuminuria or overt albuminuria or haematuria.
+Structural abnormalities include abnormalities on imaging or on histology.
+CKD is also defined as GFR less than 60ml/min or presence of markers of
+kidney disease for 3 months or more.
+CKD is quite common in clinical practice as 12-26% of Nigerians have covert
+or overt CKD as revealed in community studies
+Markers of kidney disease include:
+・ Persistent proteinuria - Dipstick positive proteinuria or microalbuminuria
+・ Persistent Haematuria - by dipstick and/or urine microscopy
+・ Abnormal renal imaging - by various techniques such as ultrasonography,
+Computerised Tomography Scan, intravenous urography or plain
+radiograph, renal scintigraphy.
+・ Abnormal renal histology
+
+
+STAGING OF CHRONIC KIDNEY DISEASE AND DIAGNOSTIC CRITERIA 
+
+# Table 8.2: Staging of Chronic Kidney Disease (CKD)
+
+| Stage | Description | GFR (ml/min/1.73m²) |
+|---|---|---|
+| 1 | Kidney damage with normal or increased GFR | ≥90 (with kidney damage) |
+| 2 | Kidney damage with mild decrease in GFR | 60 – 89 |
+| 3a | Mild to Moderate decrease in GFR | 45 – 59 |
+| 3b | Moderate to severe decrease in GFR | 30 – 44 |
+| 4 | Severe decrease in GFR | 15 – 29 |
+| 5 | Kidney failure | <15 (or dialysis) |
+
+CLINICAL FEATURES OF CHRONIC KIDNEY DISEASE 
+Clinical Features
+・ Asymptomatic
+・ Younger patients may present with peri-orbital swelling early in the disease
+process
+・ Swelling which may then progressively worsen over time and lead to
+ascites and anasarca.
+・ Hypertension develops in majority of patients with co-existing Congestive
+cardiac failure or cerebrovascular disease.
+・ Reduction in urine output (oliguria)
+・ Features of uraemia: Gastrointestinal system - nausea, vomiting, hiccups,
+diarrhoea, epigastric pain and rarely haematemesis.
+・ Chest: central chest pain of pericarditis or breathlessness with development
+of pulmonary oedema.
+・ Central nervous system: Tremors, derangement of sleep rhythm,
+drowsiness, seizures and stupor or coma.
+・ Skin: Dryness and pruritus
+・ Haemopoietic system: Anaemia (pallor) and bleeding diathesis
+Diagnostic criteria
+See definition and table 8.1
+Differential Diagnoses
+・Severe acute kidney injury with cortical necrosis
+・ Poisoning with multiple organ involvement.
+・ Chronic Congestive cardiac failure (Cardio-renal syndrome)
+
+COMPLICATIONS OF CHRONIC KIDNEY DISEASE 
+Complications
+・ Anaemia
+・ CKD Mineral and Bone Disease
+・ Congestive cardiac failure
+・ Cerebrovascular disease
+・ Peripheral vascular disease
+・ Malnutrition
+
+INVESTIGATIONS OF CHRONIC KIDNEY DISEASE 
+Investigations
+・ Urine Examination (Volume / microscopy /Urinalysis / Electrolytes);
+Serum chemistry (e.g. creatinine, urea, K):
+- Allow estimation of GFR using various formulae and staging of the
+CKD
+- For planning or initiation of renal replacement therapy
+- To monitor treatment outcomes or improvement.
+・Haematology including serology:
+- To assess the full blood count, clotting profile and monitor response to
+treatment with oral or parenteral iron and erythropoietin stimulating
+agents
+- Serological tests for HBV, HCV and HIV are necessary to be able to
+isolate infectious patients while applying general precautions in the
+management of all patients.
+・Imaging (e.g. USS, IVU, RUCG etc.):
+- Renal ultrasonography remains the simplest non-invasive diagnostic
+tool for patients with CKD.
+- Provides information on size, shape, preservation of cortical thickness
+and cortico-medullary differentiation as well as echogenicity of the
+kidneys, which are usually deranged in patients with advanced CKD.
+- Other structural abnormalities like polycystic kidney disease or
+hydronephrosis may be discovered and may suggest need for other
+imaging modalities particularly in patients with obstructive uropathy.
+・Renal biopsy
+- Renal biopsy is mandatory in patients that present with some
+conditions. These include
+- Any evidence of glomerular disease
+- Nephrotic range proteinuria
+- Sub-nephrotic range proteinuria with or without haematuria
+- RBC cast
+- Presence of persistent microscopic haematuria
+- Suspicion of connective tissue disease
+- Presence of familial type of nephrotic syndrome
+- Determine the prognosis and response to therapy.
+
+TREATMENT OF ACUTE KIDNEY INJURY 
+Treatment Goals
+・ Counselling to discourage use of nephrotoxins in whatever form and ensure
+good compliance.
+・ Good Blood Pressure control.
+・ Reduction of proteinuria and ensuring maximum renoprotection
+・ Maintenance of fluid homeostasis
+・ Control of biochemical abnormalities
+・ Maintenance of nutrition
+・ Maintenance of haemoglobin between 11-12g/L
+・ Maintenance of normal calcium-phosphate homeostasis
+・ Treatment of any complicating infection
+・ Treat the underlying cause (more useful if discovered early)
+・ Dialysis where indicated
+
+Treatment
+・ Stage the disease
+- Take appropriate measures depending on the stage:
+- Stage 1 – 2: Where the cause of CKD is known, treat underlying cause
+and institute measures to retard progression.
+- Stage 1-2: Where cause is unknown, refer to Nephrologist.
+- Stage 3-5: Refer to Nephrologist.
+・ Treatment of hypertension:
+Combination of different groups of antihypertensive drugs is the rule but
+should include maximal doses of either ACEI or ARBs to achieve target BP.
+Blood Pressure Targets:
+- Proteinuria < 1 g/24 hours -------- 130/80 mmHg
+- Proteinuria >1 g/24 hours -------- 120/75 mmHg
+- CKD with diabetes -------- 120/75 mmHg
+- In children -------- Less than 9t0h percentile for the age, sex and height.
+・Anaemia is the commonest haematological complication of CKD and
+worsens with deterioration of renal function. All CKD patients should be
+screened for anaemia at time of diagnosis and thereafter, at least every 3
+months.
+- Targets for anaemia treatment:
+- Predialysis: Hb - 11 – 12 g/dl, serum ferritin 100-500 ng/ml, TSAT ≥
+20%
+- Dialysis: Hb - 11 – 12 g/dl, serum ferritin 200 – 500 ng/ml, TSAT ≥ 20%
+- In all patients, avoid Hb level > 13 g/dl because of risk of
+haemoconcentration and its effect on morbidity and increased
+cardiovascular mortality.
+Treatment of anaemia:
+・ In predialysis patients and patients receiving peritoneal dialysis or home
+haemodialysis, optimize iron balance before epoetin therapy using oral
+iron. If poor response (TSAT is < 20% and serum ferritin < 100 ng/ml for 4
+weeks), switch to parenteral iron.
+- Dose of oral iron: Ferrous sulphate 200 mg or ferrous gluconate 600 mg
+three times daily (approx. 65mg elemental iron) or 2-6 mg /kg /day of
+elemental iron for paediatric patients
+- Dose of parenteral iron: Iron sucrose intravenously 200 mg weekly for
+5 weeks (total of 1000 mg) or Iron dextran intravenously 250 mg
+weekly for 4 weeks. For patients in whom adherence may be difficult,
+total dose infusion should be considered as it has been found to be
+effective and safe.
+・For patients on in-center haemodialysis, start with parenteral iron at 100 mg in
+the last 30-60 minutes of the dialysis session to a total of 1000 mg. In cases
+of poor or inadequate dialysis, higher doses may be given to ensure
+achieving 1000 mg within 4 weeks.
+- Test dose of iron dextran should be administered before the full dose.
+- For patients that have received blood transfusions, check iron stores
+(serum ferritin) before giving supplemental iron because of risk of iron
+overload.
+・Erythropoiesis Stimulating Agents (ESAs)
+- These should be administered preferably after iron deficiency has been
+corrected and BP controlled.
+· Short-acting ESAs – erythropoetin alpha and erythropoetin beta.
+· Intermediate-acting ESAs – darbepoetin alfa
+· Long-acting ESAs – CERA
+・ Control of biochemical abnormalities
+- To maintain good calcium phosphate homeostasis:
+- Dietary phosphate intake should be limited in patients with
+hyperphosphataemia. Phosphate-binding agents are required in the
+treatment of hyperphosphataemia.
+- For choice of phosphate binder, it is reasonable to take into account the
+following:
+- Serum calcium
+- CKD stage,
+- Presence of other components of CKD-MBD
+- Concomitant therapies
+- Side-effect profile of the drug.
+- The dose of calcium-based phosphate binders should be restricted
+in the presence of arterial calcification and/or adynamic bone
+disease. In such instances the use of non-calcium based phosphate
+binders (e.g. Sevelamer HCl, lanthanum carbonate etc) could be
+used.
+- Hypocalcaemia, is treated with calcium salts and active vitamin D
+analogues. Calcium intake should however, be restricted in patients
+with hypercalcemia, soft tissue calcification, low PTH and in
+patients with adynamic bone disease.
+- Calcitriol or vitamin D analogs, or calcimimetics, or a combination
+of calcimimetics and calcitriol or vitamin D analogs may be used to
+lower PTH to two to nine times the upper normal limit for the assay
+in treated patients.
+- Parathyroidectomy is indicated when medical therapy fails.
+・Dialysis
+– Maintenance Haemodialysis (HD) (Twice or Thrice weekly HD),
+– Continuous Ambulatory Peritoneal Dialysis (CAPD)
+- See indications for dialysis above under AKI
+・Kidney Transplantation.

@@ -1,0 +1,51 @@
+{
+  "condition_name": "Jaundice",
+  "condition_slug": "jaundice",
+  "source": "NSTG 2022",
+  "introduction": "Yellowish green discoloration of the skin or sclera (at Serum bilirubin 2-4mg/dl). Jaundice is not a disease condition. It is either a symptom or a sign.",
+  "clinical_features": [
+    {
+      "type": "Aetiology",
+      "features": [
+        "Diseases of the liver and the biliary tract",
+        "Conditions that cause excessive red cells haemolysis: infections, haemoglobinopathies"
+      ]
+    }
+  ],
+  "investigations": [
+    "LFTs",
+    "Abdominal ultrasound scan",
+    "PT/PTTK",
+    "CT/MRI/MRCP"
+  ],
+  "treatment": {
+    "goals": [
+      "Treat underlying cause",
+      "Prevent Complications"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Colestyramine: 3 - 6 g orally 6 hourly in severe obstructive jaundice",
+      "Phenobarbital in neonatal jaundice: 5-8 mg/kg orally daily"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Colestyramine: diarrhoea",
+      "Phenobarbital: dose-dependent respiratory depression"
+    ],
+    "supportive_measures": [
+      "Reassurance and monitoring",
+      "Phototherapy in neonatal jaundice"
+    ]
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "Obstructive jaundice",
+    "ERCP sphincterotomy with stone removal",
+    "Stent insertion",
+    "Pancreatic head/duodenal head realignment"
+  ],
+  "prognosis": null
+}

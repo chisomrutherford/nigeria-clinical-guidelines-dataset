@@ -1,0 +1,74 @@
+{
+  "condition_name": "Drug Safety and Pharmacovigilance",
+  "condition_slug": "drug-safety-and-pharmacovigilance",
+  "source": "NSTG 2022",
+  "introduction": "The use of medicines for treatment, diagnosis, or prevention of disease is inextricably linked to unintended effects. These unintended effects may be adverse to the patients, and therefore, the safe use of medicine should be an important consideration of any clinician.",
+  "clinical_features": [
+    {
+      "type": "Adverse Drug Reaction",
+      "features": [
+        "Response to a medicine that is noxious and unintended and occurs at doses normally used in man for the prophylaxis, diagnosis or therapy of disease, or for the modification of physiologic function"
+      ]
+    },
+    {
+      "type": "Adverse Drug Event",
+      "features": [
+        "Any untoward medical occurrence that may present during treatment with a pharmaceutical product, but which does not necessarily have a causal relationship with the treatment"
+      ]
+    },
+    {
+      "type": "Serious Adverse Event",
+      "features": [
+        "Results in death",
+        "Is life-threatening",
+        "Requires patient hospitalization or prolongs existing hospitalization",
+        "Results in persistent or significant disability/incapacity",
+        "Causes a congenital anomaly or birth defect",
+        "Requires an intervention to prevent permanent impairment or damage"
+      ]
+    },
+    {
+      "type": "Side Effect",
+      "features": [
+        "Any unintended effect of a pharmaceutical product occurring at doses normally used in humans and is related to the pharmacological properties of the drug"
+      ]
+    },
+    {
+      "type": "Pharmacovigilance",
+      "features": [
+        "Detection, assessment, understanding and preventing adverse effects of drug or any other possible drug related problems (WHO 2002)",
+        "Applicable to herbal, traditional and complementary medicines, blood products, biologics, medical devices and vaccines",
+        "Substandard medicines",
+        "Medication errors",
+        "Lack of efficacy reports",
+        "Use of medicines for unapproved indications and inadequate scientific basis",
+        "Case reports of acute and chronic poisoning",
+        "Assessment of drug-related mortality",
+        "Abuse and misuse of medicines",
+        "Adverse interactions of medicines with chemicals, other medicines and food"
+      ]
+    }
+  ],
+  "investigations": [],
+  "treatment": {
+    "goals": [
+      "Improve patient care and safety in relation to the use of medicines and all medical and paramedical interventions",
+      "Improve public health and safety in relation to the use of medicines",
+      "Contribute to the assessment of benefit, harm, effectiveness and risk of medicines, encouraging their safe, rational and more effective (including cost-effective) use",
+      "Promote understanding, education and clinical training in pharmacovigilance and its effective communication"
+    ],
+    "non_drug": [
+      "Reporting of adverse events to a medical product to the National Pharmacovigilance Center housed in NAFDAC",
+      "Report any suspected adverse response to a drug to the hospitals' Adverse Reaction Registry or directly to the National Agency for Food and Drug Administration and Control (NAFDAC), Abuja"
+    ],
+    "drug": [],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

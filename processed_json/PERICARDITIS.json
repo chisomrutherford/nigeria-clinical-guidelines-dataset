@@ -1,0 +1,70 @@
+{
+  "condition_name": "Pericarditis",
+  "condition_slug": "pericarditis",
+  "source": "NSTG 2022",
+  "introduction": "An inflammation of the pericardium, which may arise from viral, bacterial, fungal or protozoal infections. Other causes: metabolic, malignancy, connective tissue disease, radiation, trauma etc. May be acute or chronic.",
+  "clinical_features": [
+    {
+      "type": "Acute pericarditis",
+      "features": [
+        "Chest pain - Retrosternal - Sharp - Radiating to the left shoulder - Made worse by breathing or coughing - Relieved by the upright position",
+        "Low-grade fever",
+        "Pericardial friction rub"
+      ]
+    },
+    {
+      "type": "Chronic pericarditis",
+      "features": [
+        "Insidious onset",
+        "Dyspnoea on exertion",
+        "Leg and abdominal swelling"
+      ]
+    }
+  ],
+  "investigations": [
+    "Electrocardiography",
+    "FBC and differentials",
+    "Chest radiograph",
+    "Echocardiography"
+  ],
+  "treatment": {
+    "goals": [
+      "Relieve distress from pain and tamponade",
+      "Relieve constriction",
+      "Treat the effect on the heart",
+      "Treat complications",
+      "Eradicate the organism (if cause is infection)"
+    ],
+    "non_drug": [
+      "Bed rest"
+    ],
+    "drug": [
+      "NSAIDs - Indomethacin 50 mg orally every 8 hours Or: - Ibuprofen 400 - 800 mg orally every 12 hours",
+      "Steroids - Prednisone 30 mg orally every 8 hours and tapered",
+      "Anti-tuberculous drugs or other antimicrobial agents (if mycobacterium or other microbes are causative)"
+    ],
+    "adverse_reactions_and_cautions": [
+      "NSAIDs/steroids: dyspepsia and upper GI bleeding"
+    ],
+    "supportive_measures": [
+      "Pericardiocentesis",
+      "Pericardiectomy"
+    ]
+  },
+  "differential_diagnoses": [
+    "Endomyocardial fibrosis",
+    "Sarcoidosis",
+    "Amyloidosis"
+  ],
+  "complications": [
+    "Pericardial tamponade",
+    "Constrictive pericarditis"
+  ],
+  "prevention": [
+    "Avoid radiation",
+    "Prevent infection"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

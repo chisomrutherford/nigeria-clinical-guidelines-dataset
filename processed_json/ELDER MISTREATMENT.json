@@ -1,0 +1,97 @@
+{
+  "condition_name": "Elder Mistreatment",
+  "condition_slug": "elder-mistreatment",
+  "source": "NSTG 2022",
+  "introduction": "Acts that cause harm to vulnerable elder persons. Occur deliberately or through neglect, meted out by caregivers or persons held in trust. May occur in home or institutional settings and may affect older persons across all social classes. May affect males as well as females. Diagnosis may be missed if not carefully sought.",
+  "clinical_features": [
+    {
+      "type": "Risk Factors for Suffering Abuse",
+      "features": [
+        "Advanced age",
+        "Disability (physical or mental)",
+        "Lack of financial skills",
+        "Recent bereavement or other personal loss",
+        "Conditions that increase dependence"
+      ]
+    },
+    {
+      "type": "Risk Factors for Committing Abuse",
+      "features": [
+        "Elder dependence",
+        "Family caregiving",
+        "Lone caregiver and stress",
+        "Mental illness",
+        "Physical abuse in the past",
+        "Substance abuse"
+      ]
+    },
+    {
+      "type": "Types of Elder Mistreatment",
+      "features": [
+        "Financial or material neglect: Exploitation, theft of financial documents, forcible transfer of property, etc.",
+        "Neglect or abandonment neglect: Caregiver fails to meet the older person's needs e.g. clothing, hygiene, healthcare, shelter, social stimulation, etc.",
+        "Physical neglect: Injury inflicted through striking, force feeding, use of restraints, etc.",
+        "Psychological neglect: Mental anguish inflicted through insulting statements, threats, social isolation, etc.",
+        "Self-neglect neglect: Acts by older adult that threaten their own wellbeing or safety",
+        "Sexual neglect: Forced sexual activity, touching or fondling without consent"
+      ]
+    },
+    {
+      "type": "Clinical Features of Elder Mistreatment",
+      "features": [
+        "Bruising in unusual locations",
+        "Burns in patterns suggesting intentional injury",
+        "Delay in seeking medical care",
+        "Decubiti",
+        "Dehydration",
+        "Inattention to personal hygiene",
+        "Injury patterns suggesting use of restraints",
+        "Malnutrition",
+        "Traumatic alopecia",
+        "Unexplained fractures",
+        "Unexplained weight loss"
+      ]
+    }
+  ],
+  "investigations": [
+    "As indicated by history and Clinical Features"
+  ],
+  "treatment": {
+    "goals": [
+      "Improve safety",
+      "Improve health status",
+      "Improve overall wellbeing"
+    ],
+    "non_drug": [
+      "Individualized, multi-disciplinary approaches: Assess decision making capacity",
+      "Social work referral",
+      "Comprehensive geriatric assessment",
+      "Other referrals as indicated"
+    ],
+    "drug": [
+      "As indicated by the clinical scenario e.g. analgesia for pain"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Allergic reactions",
+    "Adverse reactions to medications",
+    "Contact dermatitis",
+    "Mental illness",
+    "Senile purpura",
+    "Systemic diseases presenting with features of neglect e.g. diabetes mellitus, malabsorption, urinary tract infection, etc."
+  ],
+  "complications": [
+    "Physical harm",
+    "Psychological harm e.g. living in fear, depression, anxiety, etc.",
+    "Morbidity worsening",
+    "Mortality"
+  ],
+  "prevention": [
+    "Recognize warning signs (in the older adult, caregiver, home or institution) and intervene"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

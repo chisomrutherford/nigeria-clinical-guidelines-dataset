@@ -1,0 +1,126 @@
+MENINGITIS
+Introduction
+An infection of the meninges with the presence of pus and inflammatory cells in
+the cerebrospinal fluid.
+A medical emergency, associated with considerable morbidity and mortality.
+May be bacterial (Pneumococcus, Meningococcus, tubercle bacilli,
+Haemophilus influenzae), viral, fungal, protozoal, neoplastic or chemical.
+Epidemics occur in the Savannah region and are usually caused by Neisseria
+meningitidis.
+
+CLINICAL FEATURES OF MENINGITIS 
+• Neck stiffness and positive Kernig's sign
+• High grade fever
+• Headache
+• Vomiting
+• Photophobia with alteration in level of consciousness
+• If due to Pneumococcal and H. influenzae infection, additional features are
+jaundice, pneumonia and heart failure
+• Meningococcal infection presents additionally with joint pain, joint
+swelling, red eyes and skin rash
+• Tuberculous infection presents with weight loss, cough with blood in
+sputum while those with underlying immunosuppression (HIV infection)
+may manifest severe weight loss, diarrhoea, mouth lesions and skin rash
+Other Presentations
+• Fever of unknown origin (chronic meningitis)
+• Mass lesion with focal neurological deficits (tuberculoma)
+• Stroke-like syndrome: resulting from vasculitis
+• Uncontrolled seizures (status epilepticus)
+• Acute psychosis (Organic Brain Syndrome) and dementia (chronic
+meningitis and pachymeningitis due to syphilis)
+
+DIFFERENTIAL DIAGNOSES OF MENINGITIS 
+• Subarachnoid haemorrhage
+• Cerebral malaria
+• Septicaemia with meningism
+• Tetanus
+• Cerebral venous thrombosis
+
+COMPLICATIONS OF MENINGITIS 
+• Cranial nerve palsies notably blindness and deafness
+• Subdural pus collection (empyema)
+• Stroke (from vasculitis)
+• Epilepsy
+• Syndrome of Inappropriate Anti-Diuretic Hormone secretion (SIADH)
+
+INVESTIGATIONS OF MENINGITIS 
+• Lumbar puncture for CSF analysis
+- To demonstrate presence of inflammatory cells (after exclusion of
+raised intracranial pressure by fundoscopy or CT scan)
+• Full Blood Count and differentials; Blood culture; Erythrocyte
+sedimentation rate
+• Random blood glucose
+• Electrolytes, Urea and Creatinine
+• Chest radiograph; Mantoux test (if tuberculosis is suspected)
+• HIV screening after voluntary counseling
+
+TREATMENF OF MENINGITIS
+Goals of treatment 
+• Eliminate the organism
+• Reduce raised intracranial pressure
+• Correct metabolic derangements
+• Treat any complications.
+Non-drug Treatment
+• Tepid-sponging to reduce fever
+• Attention to calories and fluid/electrolyte balance
+• Physiotherapy (for passive muscle exercises)
+• Nursing care (e.g., frequent turning and bladder care) to prevent decubitus
+ulcers and urinary tract infection
+Drug Treatment
+• Initial therapy will depend on the age of the patient and the causative agent,
+hence should be guided by microbiology results.
+Bacterial infections
+• acute conditions 8 g daily
+- Child: not recommended for use
+• Diazepam (for seizures)
+- Adult: 10 - 20 mg at a rate of 0.5 ml per 30 seconds, repeated, if
+necessary, after 30-60 minutes; may be followed by intravenous
+infusion to a maximum of 3 mg/kg over 24 hours
+- Child: 300-400 μg/kg (maximum 20 mg) by slow intravenous injection
+into a large vein for protracted or frequent recurrent convulsions. (Note:
+Not required in single, short-lived convulsions) Intravenous therapy
+should be continued until the fever has settled and continued for another
+3 days. Thereafter, oral medications can be used for a minimum
+treatment period of 10 -14 days
+• Vancomycin can be used for suspected Methicillin-resistant
+Staphylococcus aureus infection (MRSA)
+• Intravenous penicillin G should be used with caution because of possible
+severe anaphylactic reaction that can lead to sudden death
+Acute cerebral decompression
+• Furosemide
+- Adult: 40 - 80 mg every 8 hours by slow intravenous injection (for a
+maximum of 6 doses)
+- Neonate: 0.5-1 mg/kg every 12 - 24 hours (every 24 hours in neonates
+born before 31 weeks gestation)
+- 1 month - 12 years: 0.5 - 1 mg/kg (maximum 4 mg/kg), repeated every 8
+hours as necessary
+- 12 - 18 years: 20 - 40 mg, repeated every 8 hours as necessary; higher
+doses may be required in resistant cases
+Or:
+• Mannitol 20% solution
+- Adult: 50-200 g by intravenous infusion over 24 hours, preceded by a
+test dose of 200 mg/kg by slow intravenous injection
+- Neonate: 0.5-1 g/kg (2.5-5 mL/kg of 20% solution) repeated if
+necessary 1-2 times after 4-8 hours
+- 1 month - 18 years: 0.5 - 1.5 g/kg (2.5 - 7.5 ml/kg of 20% solution);
+repeat if necessary 1 - 2 times after 48 hours
+Chemoprophylaxis
+Treat contacts during meningococcal epidemics with either ciprofloxacin or
+rifampicin
+• Rifampicin
+- Adult: 600 mg orally every 12 hours for 5 days
+- Child: 10 mg/kg orally every 12 hours for 5 days
+- Under 1 year: 5 mg/kg orally every 12 hours for 5 days
+• Ciprofloxacin
+- Adult: 500 mg orally as a single dose
+- Child 5 - 12 years: 250 mg orally as a single dose
+Notable Adverse Drug Reactions, Contraindications and Caution
+• Diazepam: Must be administered slowly intravenously to avoid respiratory
+depression
+• Mannitol extravasation causes inflammation and thrombophlebitis.
+Contraindicated in congestive cardiac failure and pulmonary oedema
+Prevention
+• Immunization of close contacts against communicable diseases
+- Meningococcus, Haemophilus, Streptococcus (especially for
+homozygous sickle cell anaemia)
+• Chemoprophylaxis (rifampicin or ciprofloxacin)

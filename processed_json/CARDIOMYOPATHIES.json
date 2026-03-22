@@ -1,0 +1,62 @@
+{
+  "condition_name": "Cardiomyopathies",
+  "condition_slug": "cardiomyopathies",
+  "source": "NSTG 2022",
+  "introduction": "Refers to diseases of the heart muscle, characterized by inability of the heart to pump blood efficiently and to maintain normal electrical rythym. Heart muscle eventually become replaced with scar tissue. It could be acquired or inherited.",
+  "clinical_features": [
+    {
+      "type": "Clinical",
+      "features": [
+        "Asymptomatic",
+        "Features of heart failure",
+        "Sudden cardiac death (hypertrophic cardiomyopathy)"
+      ]
+    }
+  ],
+  "investigations": [
+    "Echocardiography",
+    "Electrocardiography (ECG)",
+    "Chest radiography",
+    "B-type Natriuretic peptide"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Septal myectomy – open-heart surgery",
+      "Pacemaker – This small device uses electrical pulses to prompt the heart to beat at a normal rate",
+      "Cardiac resynchronization therapy (CRT) device - This device coordinates contractions between the heart's left and right ventricles",
+      "Left ventricular assist device (LVAD) - This implantable device helps the heart pump blood to the body. An LVAD can be used for long-term therapy or as an interim treatment for those awaiting a heart transplant.",
+      "Implantable cardioverter defibrillator (ICD) - An ICD helps to maintain a normal heartbeat by sending an electric shock to the heart if an arrhythmia, or irregular heartbeat, is detected",
+      "Heart Transplant",
+      "Alcohol septal ablation (nonsurgical procedure) – In this procedure, ethanol (a type of alcohol) is injected through a tube into the small artery that supplies blood to the area of heart muscle thickened by HCM. The alcohol causes these cells to die. The thickened tissue shrinks to a more normal size. The risks and complications of heart surgery increase with age. For this reason, ablation may be preferred to myectomy in older patients with other medical conditions."
+    ],
+    "drug": [
+      "ACE inhibitors",
+      "Angiotensin II receptor blockers",
+      "Beta blockers",
+      "Calcium channel blockers",
+      "Anti-arrythmic drugs",
+      "Diuretics",
+      "Electrolyte replacement",
+      "Anticoagulants",
+      "Corticosteroids"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Causes of heart failure"
+  ],
+  "complications": [
+    "Sudden cardiac death",
+    "Thromboembolism",
+    "Arrhythmias"
+  ],
+  "prevention": [
+    "You cannot prevent inherited types of cardiomyopathy. But you can take steps to lower your risk for conditions that may lead to (or complicate) cardiomyopathy, such coronary heart disease, high blood pressure and heart attack",
+    "Cardiomyopathy can be precipitated by an underlying disease or condition. Treating that initial problem early enough may help prevent the complications presented by cardiomyopathy. For example, to control the underlying conditions of high blood pressure, high blood cholesterol and diabetes"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

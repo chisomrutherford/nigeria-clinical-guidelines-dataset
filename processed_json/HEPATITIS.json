@@ -1,0 +1,71 @@
+{
+  "condition_name": "Hepatitis",
+  "condition_slug": "hepatitis",
+  "source": "NSTG 2022",
+  "introduction": "Diffuse inflammation of the liver that can be caused by infective agents, drugs, alcohol, autoimmune and toxins",
+  "clinical_features": [
+    {
+      "type": "Acute hepatitis",
+      "features": [
+        "Mild-to-moderate jaundice",
+        "Vague right upper quadrant discomfort",
+        "Fever With or without mild fever",
+        "Hepatomegaly."
+      ]
+    },
+    {
+      "type": "Chronic hepatitis",
+      "features": [
+        "General malaise/Fatigue",
+        "Re-occurence of jaundice."
+      ]
+    }
+  ],
+  "investigations": [
+    "Liver Function Tests",
+    "Serologic markers of Hepatitis A, B, C, D and E",
+    "Viral load",
+    "Abdominal ultrasonography",
+    "Prothrombin time",
+    "HIV Screening"
+  ],
+  "treatment": {
+    "goals": [
+      "Provide supportive measures",
+      "Prevent progression to chronic phase"
+    ],
+    "non_drug": [
+      "High carbohydrate and Normal protein diet",
+      "Discontinuation of hepatotoxic medication",
+      "Bed rest"
+    ],
+    "drug": [
+      "Pegylated interferon alfa -2b: 180μg sc. weekly for 48 weeks for Chronic Hepatitis B",
+      "Oral Tenofovir 300 mg daily for Chronic Hepatitis B",
+      "Pegylated interferon alfa-2b: 180 microgram subcutaneously weekly for 48 weeks for Chronic Hepatitis C",
+      "Ribavirin: 400 mg orally twice daily for adults with body weight less than 65 kg for Chronic Hepatitis C",
+      "Ribavirin: 400 mg in the morning and 600 mg in the evening for adults weighing 65-85 kg for Chronic Hepatitis C",
+      "Ribavirin: 600 mg twice daily for adults weighing over 85 kg for Chronic Hepatitis C",
+      "Peg IFN + Ribavirin + Sofosbuvir for 12 weeks for Chronic Hepatitis C (For all genotypes)",
+      "Treatment of HBV is effective for HDV."
+    ],
+    "adverse_reactions_and_cautions": [
+      "Interferon alpha 2b and Ribavirin reduce haematopoiesis",
+      "Flu-like illness",
+      "Leucopenia",
+      "Psychiatric-like symptoms",
+      "Development of early resistance if therapy exceeds one year"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Liver failure",
+    "Bleeding tendencies.",
+    "Cirrhosis/Liver cancer"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

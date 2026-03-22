@@ -1,0 +1,96 @@
+{
+  "condition_name": "Psoriasis",
+  "condition_slug": "psoriasis",
+  "source": "NSTG 2022",
+  "introduction": "A chronic inflammatory skin disease characterized by increased epidermal proliferation and epidermal thickening. Affects people of all ages in all countries. Cause remains largely unknown but has been attributed to genetic, climatic, nutritional, ecological, and immunological factors. Characterized by erythematous lesions with silvery white scales.",
+  "clinical_features": [
+    {
+      "type": "Lesions",
+      "features": [
+        "Sharp borders",
+        "Erythema",
+        "Increased scales",
+        "Candle sign",
+        "Auspitz sign",
+        "Eruptive lesions may be pruritic or asymptomatic",
+        "Lesions begin as small scaly macules; patterns include guttate, follicular, nummular, geographic, erythrodermic, annular, gyrate, serpinginous",
+        "Favoured sites: knees, elbows, scalp, palms, soles, nails",
+        "Intertriginous regions involved (inverse psoriasis)",
+        "May involve other organs, e.g., MSS in psoriatic arthritis",
+        "Chronic course (waxes and wanes)",
+        "HIV/AIDS can lead to onset or worsening"
+      ]
+    }
+  ],
+  "investigations": [
+    "Histopathology"
+  ],
+  "treatment": {
+    "goals": [
+      "To retard epidermal proliferation",
+      "Reduce inflammation",
+      "Prevent complications"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Corticosteroid ointments (Hydrocortisone for face and flexures; Betamethasone or clobetasol for scalp, hands, feet)",
+      "Dithranol ointment 0.1% - 2%",
+      "Coal tar solutions and baths",
+      "Urea 10% cream or ointment",
+      "Salicylic acid 3% - 5%",
+      "Tazarotene 0.05% and 0.1% gels",
+      "Tacrolimus ointment 0.1% or 0.03%",
+      "Intra-lesional corticosteroid injections of triamcinolone",
+      "Fluocinolone acetonide 0.01% in oil",
+      "UVB light therapy",
+      "PUVA (psoralen plus UVA)",
+      "Methotrexate",
+      "Cyclosporine",
+      "Systemic antibiotics to eliminate streptococcal pharyngitis"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Coal tar: contraindicated in inflamed, broken or infected skin; causes irritation, photosensitivity",
+      "Dithranol: irritant; contraindicated in hypersensitivity, face, acute eruptions",
+      "Urea: avoid application to face or broken skin",
+      "Steroids: may cause adrenal suppression, tachyphylaxis, rebound effects, atrophy",
+      "Salicylic acid: risk of salicylate toxicity",
+      "UVL: risk of skin cancer, cataracts, skin aging",
+      "Methotrexate: may cause blood disorders, liver damage, GIT issues, renal failure",
+      "Cyclosporine: nephrotoxic, risk of malignancies and lymphoproliferative disorders",
+      "Tacrolimus: see Atopic eczema"
+    ],
+    "supportive_measures": [
+      "Diet: fish oils rich in Q-3 polyunsaturated fatty acids",
+      "Patient education",
+      "Emotional support"
+    ]
+  },
+  "differential_diagnoses": [
+    "Pityriasis lichenoides et varioliformis",
+    "Pityriasis rosea",
+    "Secondary syphilis",
+    "Seborrhoeic dermatitis",
+    "Lupus erythematosus",
+    "Nummular dermatitis",
+    "Lichen planus",
+    "Small plaque parapsoriasis",
+    "Tinea corporis",
+    "Pityriasis rubra pilaris",
+    "Candidiasis",
+    "Intertrigo",
+    "Hailey-Hailey disease",
+    "Tinea unguium",
+    "Trachyonychia"
+  ],
+  "complications": [
+    "Erythroderma",
+    "Arthritis mutilans"
+  ],
+  "prevention": [
+    "Avoid exacerbating factors e.g. abrasions, scratches, harsh fibre bathing sponges, and the drugs listed",
+    "Prevent streptococcal sore throat and treat promptly when it occurs"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

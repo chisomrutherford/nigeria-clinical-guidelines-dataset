@@ -1,0 +1,46 @@
+{
+  "condition_name": "Scleritis/Episcleritis",
+  "condition_slug": "scleritis-episcleritis",
+  "source": "NSTG 2022",
+  "introduction": "Inflammation of the sclera and episclera which is usually self-limiting but relapses may occur. It is also usually unilateral and associated with collagen disorders.",
+  "clinical_features": [
+    {
+      "type": "clinical",
+      "features": [
+        "Dull, deep-seated pain in the eye",
+        "Localized conjunctival congestion"
+      ]
+    }
+  ],
+  "investigations": [
+    "Investigate for collagen diseases"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [],
+    "drug": [
+      "Topical steroids or NSAIDs for the duration of symptoms",
+      "Treat arthritis if active"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Avoid prolonged use of steroids"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Pterygium",
+    "Phlyctenular conjunctivitis",
+    "Trauma to the eye"
+  ],
+  "complications": [
+    "Thinning of the sclera",
+    "Anterior staphyloma",
+    "Scleral perforation"
+  ],
+  "prevention": [
+    "No real preventive measures available"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

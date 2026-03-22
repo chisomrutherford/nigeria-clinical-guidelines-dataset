@@ -1,0 +1,74 @@
+{
+  "condition_name": "Neonatal Jaundice",
+  "condition_slug": "neonatal-jaundice",
+  "source": "NSTG 2022",
+  "introduction": "This refers to the yellowish discolouration of the sclera, skin and mucous membranes as a result of excessive accumulation of bilirubin in the blood. It is clinically visible at total serum bilirubin (TSB) level of 5 mg/dL (85 μmol/L). Close to 60% of term and 80% of preterm infants develop jaundice within the first week of life. Jaundice can be physiologic or pathological.",
+  "clinical_features": [
+    {
+      "type": "Physiologic jaundice",
+      "features": [
+        "Usually a diagnosis of exclusion",
+        "Appears after 36 hours of life",
+        "Peaks at the 5th day of life with total serum bilirubin (TSB) of 12 mg/dL (205 micromol/L) for term babies or 15 mg/dL (255 micromol/L) for preterm babies",
+        "Conjugated bilirubin of > 2 mg/dL (34 micromol/L)",
+        "Jaundice clears spontaneously by the 7th day of life for the term infants and between the 10th and 14th days for the preterm infants"
+      ]
+    },
+    {
+      "type": "Pathological jaundice",
+      "features": [
+        "Jaundice observed within the first 24 hours of life",
+        "Jaundice lasting more than 14 days in term infants and 21 days in the preterm infants (this is known as Prolonged Jaundice)",
+        "Jaundice with TSB >12 mg/dL (205 micromol/L)",
+        "Jaundice with fever and other signs of sickness",
+        "Conjugated bilirubin more than 2 mg/dL (34 micromol/L) or deep yellow urine"
+      ]
+    },
+    {
+      "type": "Clinical assessment",
+      "features": [
+        "Note of risk factors: preterm birth, history of jaundice in siblings, history of exclusive breastfeeding, small size <2.5 kg at birth, evidence of haemolysis, sepsis",
+        "Examine the baby close to the window or under very bright light",
+        "Examine the sclera for yellowish discolouration",
+        "Other examination sites include the gum, the tip of the nose, the upper chest wall, the lower abdominal wall, the palms and soles. Apply slight pressure to these sites for up to 10 seconds and observe yellowish discolouration"
+      ]
+    }
+  ],
+  "investigations": [
+    "Serum bilirubin (only TSB is essential in the first week of life; split bilirubin – total, unconjugated and conjugated- is only required in cases of prolonged jaundice)",
+    "Trans-cutaneous Bilirubin (TcB) estimation is reliable as it correlates well with serum bilirubin except in severe cases of hyperbilirubinaemia",
+    "Blood typing (for mother and baby)",
+    "Full Blood Count",
+    "Peripheral blood film examination",
+    "Coomb's test",
+    "G6PD assay or screening",
+    "Thyroid Function Tests",
+    "Hepatobiliary scan"
+  ],
+  "treatment": {
+    "goals": [
+      "The goal of treatment is to rapidly reduce serum bilirubin levels and prevent bilirubin encephalopathy."
+    ],
+    "non_drug": [
+      "Blue light phototherapy delivering irradiance from a distance of not more than 30 cm from the baby in a cot or incubator. Important steps during phototherapy: (a) infant should be nursed naked except for diaper (b) infant must be blind-folded (c) body temperature to be monitored 4-hourly (d) turning of infant every 2 - 4 hours (e) TSB must be monitored 12-hourly and at worst, on a daily basis.",
+      "Double-volume Exchange Blood Transfusion (EBT) using 160 - 170 mL/kg of compatible fresh whole blood fresh. This procedure should be carried out over at least 2 hours using a three-way valve. Infants undergoing EBT should be maintained on phototherapy to minimise rebound hyperbilirubinaemia.",
+      "All babies with visible jaundice within the first 24 hours of life must have phototherapy until a diagnosis is made.",
+      "Intensive phototherapy is achieved with further reduction of the distance between baby and light source and increased irradiance from multiple directions. The use of Bili-blanket serves this purpose well especially when it is combined with the conventional phototherapy.",
+      "Phototherapy should be continued until Total Serum Bilirubin is 3-5 mg/dl lower than the threshold range for the age or until the jaundice has cleared significantly.",
+      "Breastfeeding should be increased during care for jaundice. If this is difficult, intravenous fluid should be administered with extra 10mL/kg added to the daily maintenance fluid requirement. Both caloric intake and hydration enhance the excretion of bilirubin."
+    ],
+    "drug": [
+      "Phenobarbitone is not recommended because it is slow-acting and not effective for jaundice cases characterized by rapidly rising TSB."
+    ],
+    "adverse_reactions_and_cautions": [
+      "Without obvious sepsis, antibiotics are not indicated in the treatment of neonatal jaundice. If fever is present, results of relevant tests should guide treatment. Note: Ceftriaxone and sulphur-containing antibiotics or antimalarial drugs should be avoided because of the risk of displacement of bilirubin from albumin-binding sites."
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

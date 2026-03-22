@@ -1,0 +1,104 @@
+ANTIPHOSPHOLIPID SYNDROME
+Introduction
+A hyper coagulable disorder manifesting as recurrent venous and arterial
+thrombosis. Results in adverse effects in pregnancy. Associated with
+heterogeneous antibodies, anti-cardiolipin antibodies . Anti-B glycoprotein 1
+2
+antibodies and lupus anticoagulant. Commonly seen in young females of
+reproductive age.It may occur in 1-6% of the general population. It may be
+primary (with no associated disease) or secondary (associated with another
+systemic disease such as Systemic lupus erythematosus
+Pathophysiology
+Poorly understood. Antiphospholipid antibodies (aPL) are produced due to
+chronic immune stimulation either from autoimmune disease, medication,
+infection or neoplasm. It affects platelets, increasing production of adhesion
+modules on endothelial cells thereby causing thrombosis.
+
+CLINICAL FEATURES OF ANTIPHOSPHOLIPID SYNDROME
+Clinical Features
+Patient typical present in 4 ways :
+・ Venous thrombosis (VTE) either deep venous thrombosis ) Pulmonary
+Embolism
+・ Arterial thrombosis
+・ Pregnancy loss – 8%
+・ Thrombocytopenia – 22%
+Other may include:
+・ Cutaneous - Livedo reticularis, Splinter haemorrhage superficial
+thrombophlebitis, Raynaud phenomenon
+・ Neurologic - Cerebrovascular accident, transient ischaemic attack,
+migraines, multi infarct dementia
+・ Renal - Renal artery/vein thrombosis, hypertension, glomerular
+thrombosis
+・ Pregnancy morbidities- Eclampsia/pre eclampsia, intrauterine growth
+retardation; small for age birth; three or more unexplained recurrent;
+consecutive pregnancy losses before 10 weeks cyesis; any unexplained
+pregnancy loss after 10 weeks cyesis
+・ Haemolysis, Elevated liver enzymes, and Low platelet count (HELLP)
+syndrome
+・ Pulmonary - Pulmonary embolism, pulmonary hypertension
+・ Valvular heart disease, renal thrombotic microangiopathy
+
+Diagnosis
+・ Catastrophic APS - History of APS/ and or antiphospholipid antibodies
+・ 3 or more new organ thromboses
+・ Biopsy confirmation of microthrombi
+・ Exclusion of other causes of multiple organ thrombosis
+
+DIFFERENTIAL DIAGNOSES OF ANTIPHOSPHOLIPID SYNDROME
+Differential Diagnoses
+• Thrombosis from Protein C and S deficiency
+• Antithrombin III deficiency
+• Factor V Leiden mutation
+• Malignancy (Lymphoproliferative disorder)
+• Thrombotic thrombocytopenic purpura
+
+INVESTIGATION OF ANTIPHOSPHOLIPID SYNDROME
+Investigations
+・ FBC and ESR
+・ Serology
+- Anti-B2 glycoprotein antibodies IgG, IgM, IgA
+- Anti-cardiolipin antibodies(aCL) IgG, IgM, IgA
+- Lupus anticoagulant(LAC)
+- Antinuclear antibody(ANA)
+- Other Antibodies to phospholipids( many are not yet in clinical use) eg
+phosphatidylserine, phosphatidic acid, phosphatidylinositol
+・ ECHO, Doppler US scan , CT angiogram and Brain CT scan
+
+TREATMENT OF ANTIPHOSPHOLIPID SYNDROME
+Non-drug Treatment
+• Smoking cessation
+• Avoidance of supplemental oestrogen
+• Control of hypertension
+• Close monitoring during pregnancy
+Drug Treatment
+• Low dose aspirin 75 mg - 325 mg daily. Some studies have demonstrated
+superiority of aspirin 150 mg over the 75 mg
+• Tabs hydroxychloroquine 200 mg - 400 mg daily
+・For venous events:
+- Unfractionated heparin or low molecular weight heparin (e.g
+enoxaparin 20 - 80 mg/dL subcutaneously every 12 hours)
+- Tabs warfarin INR target 2 - 3 if single event; INR 3 - 4 if recurrent
+venous thrombosis. NOT TO BE USED IN PREGNANCY because of
+teratogenicity
+- Factor Xa inhibitors (e.g. rivaroxaban 15 mg twice daly for three weeks
+and then 20 mg daily to prevent recurrence)
+・For arterial event
+- Tabs warfarin
+- INR target (2 - 3) at moderate (3 - 4) at high
+・Pregnancy morbidity prevention
+- Tabs aspirin 75 - 150 mg daily
+- Unfractionated or low molecular weight heparin (e.g enoxaparin 20 - 80
+mg/dL subcutaneously every 12 hours depending on aPL titre
+- Tabs hydroxychloroquine 200 mg daily
+・Catastropic APS (CAPS)
+- Life threatening situation developing from APS and characterised by
+thrombosis at multiple organ sites. Resultant ischaemic changes of the
+kidneys, lungs, heart, and brain commonly and intestinal, spleen,
+páncreas less commonly. CAPS is precipitated by infections, surgery,
+postpartum period, medications, malignancies, SLE flares
+- IV heparin for 7 - 10 days
+- IV Pulse methylprednisolone 500 - 1000 mg daily for 3 days
+- IV immune globulins 0.4 g/kg body weight for 4-5 days
+- Plasmapheresis
+- IV cyclophosphamide 500 - 750 mg/m2
+- IV rituximab 500 mg - 1 g day 1 and day 15

@@ -1,0 +1,105 @@
+{
+  "condition_name": "Benign Prostatic Hyperplasia",
+  "condition_slug": "benign-prostatic-hyperplasia",
+  "source": "NSTG 2022",
+  "introduction": "Benign Prostatic Hyperplasia is a non-cancerous enlargement of the prostate causing clinical symptoms. Its increase in size impacts on the urethra and partially or completely obstructs urine outflow. A common cause of lower urinary tract obstruction among elderly males and pathological enlargement occurs usually after the age of 40. Symptoms are due to mechanical obstruction (static cause) or spasm of the smooth muscles in the prostate and around the bladder neck.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Lower Urinary Tract Symptoms (LUTS)",
+        "Filling/Storage Symptoms",
+        "Daytime frequency",
+        "Urgency",
+        "Urgency incontinence",
+        "Nocturia",
+        "Voiding/Emptying Symptoms",
+        "Poor stream",
+        "Excessive straining",
+        "Hesitancy",
+        "Intermittency",
+        "Terminal dribbling",
+        "Acute retention of urine",
+        "Post-micturition Symptoms",
+        "Feeling of incomplete emptying of the bladder",
+        "Post-micturition dribbling of urine",
+        "Other Symptoms",
+        "Haematuria",
+        "Swelling of the lower abdomen"
+      ]
+    },
+    {
+      "type": "Signs",
+      "features": [
+        "Mass in the lower abdomen",
+        "Digital Rectal Examination (DRE): Anatomic enlargement of the prostate, firm, smooth-surfaced, with median groove and lateral sulci present.",
+        "Signs of progressive renal failure in severe longstanding obstruction"
+      ]
+    }
+  ],
+  "investigations": [
+    "FBC and ESR",
+    "Urinalysis, urine microscopy, culture and sensitivity",
+    "Serum electrolytes, urea, and creatinine",
+    "Prostate Specific Antigen (PSA)",
+    "Transrectal ultrasound (TRUS)",
+    "Abdominal ultrasound",
+    "X-rays – Chest, Abdomen (KUB)",
+    "Uroflowmetry",
+    "Uterocystoscopy"
+  ],
+  "treatment": {
+    "goals": [
+      "To relieve obstruction and treat complication"
+    ],
+    "non_drug": [
+      "In severe symptoms (IPSS>19) and associated Complications"
+    ],
+    "drug": [
+      "In mild to moderate symptoms (IPSS <19) - α-1 adrenergic blockers: Alfuzosin 10 mg nocte (preferable in reproductive age)",
+      "5α - reductase inhibitors: Finasteride 5 mg daily"
+    ],
+    "adverse_reactions_and_cautions": [
+      "α -1 adrenergic blockers: retrograde ejaculation, dizziness, hypotension and syncopal attacks. So should be taken at bedtime",
+      "5α - reductase inhibitors: loss of libido, erectile dysfunction, gynaecomastia"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Prostate Cancer",
+    "Bladder Cancer",
+    "Bladder neck stenosis/ contracture",
+    "Bladder neck dysnerrgia",
+    "Urinary Tract Infection",
+    "Urethral stricture",
+    "External sphincter dyssynergia",
+    "Bladder calculus",
+    "Prostatitis",
+    "Neurological Diseases",
+    "Bladder wall diseases, especially chronic schistosomiasis and tuberculosis of the bladder."
+  ],
+  "complications": [
+    "Urinary retention",
+    "Recurrent Urinary Tract Infection",
+    "Bladder calculus",
+    "chronic renal insufficiency & Acute renal failure",
+    "Haematuria",
+    "Obstructive uropathy"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "Open prostatectomy",
+    "Transurethral resection of the prostate",
+    "Transurethral incision of the bladder neck",
+    "Transurethral Vaporization of the Prostate",
+    "Transurethral laser surgery",
+    "Urethral catheterization (Size 16 or 14 FG)",
+    "Prostatic urethral stents",
+    "Balloon dilatation of the prostatic urethra",
+    "Transurethral or transrectal hypothermia",
+    "Transurethral thermotherapy",
+    "Interstitial therapies"
+  ],
+  "prognosis": null
+}

@@ -1,0 +1,86 @@
+{
+  "condition_name": "Gout",
+  "condition_slug": "gout",
+  "source": "NSTG 2022",
+  "introduction": "Crystalline inflammatory disease, due to monosodium urate monohydrate crystals deposition in joints and tissues. Due either to excessive uric acid production from intrinsic purine metabolism or extrinsic (dietary). Also due to decrease renal excretion of uric acid and resultant accumulation in the blood. Commonly seen in males (40 years and above) and post-menopausal females. Four major types:\n• Asymptomatic\n• Acute\n• Inter critical\n• Chronic tophaceous\nIt could be either primary (no identifiable cause) or secondary. Secondary causes: dehydration, fasting, renal impairment, hypertension, malignancies such as lymphoma, leukaemia, psoriasis, sickle cell disease, use of cytotoxic agents, excessive alcohol intake especially beer Low dose aspirin, Drugs such as pyrazinamide, diuretics.",
+  "clinical_features": [
+    {
+      "type": "Acute Gout",
+      "features": [
+        "Usually mono–articular, occasionally polyarticular (in elderly persons and in renal failure)",
+        "Sudden onset of pain and swelling",
+        "Pain and swelling maximal within 24-48 hours",
+        "Tendency to start at night or early hours of the morning",
+        "Usually follows binge of alcohol or consumption of offal of animal meat",
+        "Recurrent painful episodes",
+        "Affects big toe (podagra), but also large joints – forefoot, ankles, knees, wrists commonly in African blacks.",
+        "There may be associated fever, vomiting, diaphoresis, rigors"
+      ]
+    },
+    {
+      "type": "Chronic Tophaceous Gout",
+      "features": [
+        "Follows long standing attacks of acute gout, usually up to 7 years",
+        "Tophi deposit in the skin, ear lobes, over joints",
+        "Tophi may also deposit in the kidneys and brain"
+      ]
+    }
+  ],
+  "investigations": [
+    "Serum uric acid - may be normal in acute gout",
+    "Haematocrit, white blood cell count, ESR, lipid profile",
+    "Creatinine, urea, eGFR - to exclude the usually associated renal impairment",
+    "Cholesterol, triglycerides – usually elevated and co-existing with gout",
+    "Plasma glucose (high serum uric acid may be a component of metabolic syndrome)",
+    "Musculoskeletal ultrasound scan, radiographs, Dual energy computerized tomography"
+  ],
+  "treatment": {
+    "goals": [
+      "Treatment of pain",
+      "Lower serum uric acid to below 6 mg/100mL"
+    ],
+    "non_drug": [
+      "Dietary control – avoid offals, salmon, sea food, red meat, fructose drinks",
+      "Avoid alcohol especially beer, wine",
+      "Reduce weight",
+      "Control cholesterol level",
+      "Avoid tight shoes",
+      "Rest affected joints",
+      "Avoid surgical operation of tophi",
+      "Apply cold/ice compress during acute attacks"
+    ],
+    "drug": [
+      "NSAIDs at higher doses above normal e.g: Naproxen: 500mg 2-3 times daily, Diclofenac: 75 mg twice daily",
+      "Colchicine quite effective in acute attacks; loading dose of 1 mg followed 1 hour later by 0.5 mg on day 1 then continue with 0.5 mg twice a day for 1-2 weeks",
+      "Prednisolone – 40 mg daily for 1 week then taper quickly and stop",
+      "Intra articular steroids",
+      "Biologic anti-interleukin 1: rilonacept, canakinumab, anakinra",
+      "Allopurinol: xanthine oxidase inhibitor – gradual increase from 100 mg daily up to 600 mg daily",
+      "Probenecid: dose of 500 mg to 2 g daily in two divided doses. Not recommended in patients with renal impairment",
+      "Febuxostat: 40 - 120 mg/day, especially indicated in patients with renal impairment.",
+      "Lesinurad: 200 mg daily + febuxostat or lesinurad 200 mg daily + allopurinol",
+      "Pegloticase, a pegylated uricase 8 mg via IV infusion over 120 minutes every 2 weeks. Care must be taken to prevent anaphylaxis",
+      "Sulfinpyrazone – uricosuric agent (recommended in patients with renal pathology)"
+    ],
+    "adverse_reactions_and_cautions": [
+      "NSAIDs: dyspepsia, peptic ulcer disease, gastrointestinal haemorrhage, renal insufficiency, hepatotoxicity, heart failure (especially elderly persons)",
+      "Allopurinol: elevated liver enzymes, allopurinol hypersensitivity syndrome – liver failure, renal failure, eosinophilia, hypersensitivity skin"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Septic arthritis",
+    "osteoarthritis",
+    "rheumatoid arthritis",
+    "gonococcal arthritis",
+    "traumatic synovitis",
+    "pseudogout",
+    "osteomyelitis",
+    "reactive arthritis"
+  ],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

@@ -1,0 +1,73 @@
+{
+  "condition_name": "Pityriasis Rosea",
+  "condition_slug": "pityriasis-rosea",
+  "source": "NSTG 2022",
+  "introduction": "A common, mild, inflammatory exanthem. Tends to be seasonal. More common during the fall, winter and spring in temperate countries. In Nigeria however, it is more during the early part of the rainy season (though cases are seen throughout the year) and the Harmattan season. Common among siblings or other family/household members. The seasonal clustering and household concurrence are suggestive of an infective origin. Increasingly regarded as a delayed reaction to a viral infection (most likely Human Herpes Virus Type 7).",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Largely a disease of adolescents and young adults, but it has been described all age groups",
+        "Rarely, there is an observable prodrome of pharyngitis, malaise and mild headache",
+        "The initial lesion in 20 - 80% of cases ('herald patch') is often larger than the later lesions and precedes the general eruption by 1 - 30 days",
+        "Often found on the trunk, but may appear on the face or extremities",
+        "Oval lesions with a collarette of scales",
+        "May be diagnosed as 'ringworm' before the other lesions appear",
+        "Other lesions consist of multiple erythematous macules progressing to small, red papules on the trunk",
+        "Sun-exposed areas are spared",
+        "Papules enlarge and become oval with long axes parallel to each other, and following lines of cleavage: the so-called 'Christmas tree' pattern",
+        "Pruritus is mild or absent",
+        "Some lesions may be atypical: vesicular, crusted, purpuric, follicular, lichenoid, and psoriasiform",
+        "A variant, inverse pityriasis rosea also occurs",
+        "Believed to be commoner in blacks",
+        "Affects the face, neck, distal extremities and the flexures",
+        "Use of ampicillin early in the course of the eruption causes an explosive exacerbation of eruptions which become more inflammatory and urticarial",
+        "A similar explosive eruption also occurs with the use of topical and/or oral herbal medicines (Agbo)",
+        "Lesions may become impetiginized",
+        "The disease persists for about 6 weeks, but may last for 3 – 4 months",
+        "Healing may occur with post inflammatory hyper/hypopigmentation",
+        "Recurrences are uncommon (about 1%) but the lesions are usually mild and localized"
+      ]
+    }
+  ],
+  "investigations": [
+    "Non-specific",
+    "VDRL",
+    "If secondary syphilis is suspected (e.g. lesions on palms and soles with/without lymphadenopathy)"
+  ],
+  "treatment": {
+    "goals": [
+      "To relieve symptoms (if any)",
+      "Reassure patients about the harmless, self-limiting nature of the eruption"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Urea cream is useful as a hydrating agent: apply twice daily",
+      "Oral antihistamine",
+      "If pruritus is bothersome (see urticaria)",
+      "If complicated by ampicillin exanthematic eruption Triamcinolone acetonide 40 mg intramuscularly as a single dose",
+      "Antibiotics: If lesions are impetiginized",
+      "Erythromycin 500 mg orally every 6 hours for 14 days"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Antihistamine; Triamcinolone: see urticaria"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Secondary syphilis",
+    "Exanthematic or pityriasis rosea-like drug eruptions",
+    "Lichen planus",
+    "Guttate psoriasis",
+    "Tinea corporis",
+    "Tinea versicolor",
+    "Seborrhoeic dermatitis",
+    "Viral exanthems",
+    "Pityriasis lichenoides chronica"
+  ],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

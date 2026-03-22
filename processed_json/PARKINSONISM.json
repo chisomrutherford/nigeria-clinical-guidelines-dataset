@@ -1,0 +1,84 @@
+{
+  "condition_name": "Parkinsonism",
+  "condition_slug": "parkinsonism",
+  "source": "NSTG 2022",
+  "introduction": "A common neurodegenerative disease that results from deficiency of the neurotransmitter dopamine, in the striato-nigral pathway. The idiopathic variety is called Parkinson's disease while parkinsonism is used for secondary cases.",
+  "clinical_features": [
+    {
+      "type": "Classical disease",
+      "features": [
+        "Rest tremors: coarse, distal tremors described as pill-rolling type",
+        "Rigidity",
+        "Slowness of movement",
+        "Loss of arm swinging when walking",
+        "Retropulsion, propulsion",
+        "Postural instability with frequent falls",
+        "Gait changes: shuffling gait with flexed posturing"
+      ]
+    },
+    {
+      "type": "Parkinsonism Plus Syndromes",
+      "features": [
+        "Parkinsonism with Amyotrophic Lateral Sclerosis (ALS)",
+        "Parkinsonism with spinocerebellar degeneration",
+        "Multi-system atrophy - Parkinsonism with postural hypotension (Shy-Dragger Syndrome)",
+        "Progressive supranuclear palsy",
+        "Cortico-basal ganglionic degeneration",
+        "With brain stem and cerebellar degeneration (Olivo-ponto-cerebellar syndrome)",
+        "With Dementia – Dementia with Lewy Body characterized by fluctuating confusion, visual hallucination and phenothiazine sensitivity."
+      ]
+    }
+  ],
+  "investigations": [
+    "Diagnosis is essentially clinical",
+    "Neuro-imaging: CT scan/MRI for exclusion of possible differentials"
+  ],
+  "treatment": {
+    "goals": [
+      "Replace dopamine",
+      "Ensure mobility and avoidance of falls"
+    ],
+    "non_drug": [
+      "Physiotherapy for postural adjustment"
+    ],
+    "drug": [
+      "L-dopa/carbidopa (dose expressed as levodopa): 50 mg orally every 6 - 8 hours increased by 100 mg once or twice weekly depending on response",
+      "Trihexyphenidyl (benzhexol) 1 mg orally daily, increased gradually (usually 5 - 15 mg in 3 - 4 divided doses up to a maximum of 20 mg)",
+      "Bromocriptine : First week: 1 - 1.25 mg orally nocte, Second week: 2 - 2.25 mg nocte, Third week: 2.5 mg twice daily, Fourth week: 2.5 mg three times daily; increasing by 2.5 mg every 1 - 2 weeks according to response (usual range is 10 - 40 mg daily)",
+      "Ropinirole: 1 - 3 mg orally once daily (in resistant cases)"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Dopamine replacement drugs: dyskinesia, neuropathic pain",
+      "Advisable to start with small doses and gradually increase",
+      "Need for dosage and timing adjustments when side effects manifest",
+      "Dopa-agonists: postural hypotension; may cause vomiting",
+      "Caution is advised to avoid falls",
+      "Anticholinergic drugs: constipation; memory problems and double vision.",
+      "Their use is contraindicated in the presence of glaucoma and prostatic enlargement"
+    ],
+    "supportive_measures": [
+      "Physiotherapy for postural adjustments",
+      "Antidepressants such as amitriptyline for pain (which could be quite incapacitating) especially with dopamine-replacement drugs"
+    ]
+  },
+  "differential_diagnoses": [
+    "Multi-infarct dementia",
+    "Alzheimer's disease",
+    "Normal pressure hydrocephalus",
+    "Brain tumour",
+    "Benign essential tremor",
+    "Depression and Creutzfeldt-Jakob disease"
+  ],
+  "complications": [
+    "Recurrent falls with attendant complications e.g. fractures, subdural haematoma",
+    "Dementia",
+    "Depression"
+  ],
+  "prevention": [
+    "Avoid identified causative agents where feasible",
+    "Timely and appropriate treatment to prevent/reduce complications"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

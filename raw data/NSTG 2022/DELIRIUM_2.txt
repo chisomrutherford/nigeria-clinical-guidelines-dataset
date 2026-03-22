@@ -1,0 +1,168 @@
+DELIRIUM 
+(Please see Appendix VII for screening tool - Confusion 
+Assessment Method)
+
+Introduction
+Acute onset disorder of attention and cognitive function; fluctuating course. 
+Common in the elderly and potentially 
+reversible. May occur in home settings but more common during 
+hospitalization. More prevalent postoperatively and 
+in Intensive Care Units. Up to 80% of terminally ill patients may be delirious 
+before death
+
+AETIOLOGY OF DELIRIUM 
+There is/are usually an underlying cause(s)
+•  Cardiovascular diseases
+   -  Arrhythmias
+   -  Heart failure
+   -  Shock
+   -  Myocardial infarction
+•  Environmental
+   -  Emotional stress
+   -  ICU admission
+Lack of sensory stimulation
+Physical restraints
+Sleep deprivation
+Infections
+ -Respiratory system
+ - Skin
+ - Urinary tract infections
+ - Etc.
+Medications
+ -Alcohol (toxicity or withdrawal)
+ -Drugs: Anticholinergic, Anti-inflammatory agents including corticosteroids, Benzodiazepines, Cardiovascular medicines (e.g. antihypertensives, digoxin, diuretics), H₂-receptor antagonists, Lithium, Opioid analgesics, Tricyclic antidepressants
+ -Polypharmacy
+Metabolic disturbances
+
+ - Acid-base imbalance
+ - Acute blood loss
+ - Adrenal dysfunction
+ - Dehydration and Electrolyte imbalance
+ - End-organ failure
+ - Hyperglycaemia/hypoglycaemia, Hyper/hypocalcaemia, Hypoalbuminaemia,
+ - Hypoxia
+ -Thyroid dysfunction
+
+Neurologic
+CNS infections, Head trauma, Seizures, Stroke, Subdural haematoma, Transient Ischaemic Attacks
+Tumours
+
+Miscellaneous
+ - Constipation
+ - Fever
+ - Hypothermia
+ - Multiple procedures e.g. bladder catheterization, nasogastric tube insertion, etc., Pain, Post-operative state
+ - Physical restraints
+ -Urinary retention
+
+Surgery
+    Cardiac
+    Orthopaedic
+    Prolonged cardiopulmonary bypass
+
+RISK FACTORS FOR DELIRIUM
+- Cognitive status
+- Cognitive impairment/dementia
+- Depression
+- Previous delirium
+• Co-morbidities
+  - Anaemia,
+  - HIV infection
+  - Hypoalbuminaemia and Metabolic derangements (see above)
+  - Multiple co-morbidities, Neurologic disease (encephalitis, meningitis, stroke, Parkinson's disease, etc.)
+  - Severe and Terminal illness
+  - Trauma
+• Decreased oral intake
+  - Dehydration
+  - Malnutrition
+• Demographic
+  - Age ≥60 years
+  - Low educational attainment
+  - Male sex
+• Functional status
+  - Functional dependence
+  - Gait instability
+  - History of falls
+  - Immobility
+  - Reduced physical activity
+  - Sensory impairment
+
+CLINICAL FEATURES OF DELIRIUM 
+Diagnosing delirium (Confusion Assessment Method)
+• Delirium is present if the following 2 are present:
+  I. Acute deterioration in cognition, fluctuating over time
+  II. Inattention
+  Plus one or the other of:
+  III. Disorganized thinking
+  IV. Altered level of consciousness (agitation, coma, drowsiness, hyper-alertness, irritability, stupor)
+• Three forms present clinically:
+  - Hyperactive, hyper alert
+  - Hypoactive, hypo alert, lethargic
+  - Mixed – combining features of the above 2 forms
+
+DIFFERENTIAL DIAGNOSES OF DELIRIUM 
+• Dementia
+• Depression
+• Mania
+• Organic psychosis e.g. schizophrenia
+
+COMPLICATIONS OF DELIRIUM 
+Adverse outcomes of hospitalization outcomes:
+• Increased length of hospital stay: functional decline, immobility, pressure ulcers, deep vein thrombosis, pulmonary embolism, etc.
+•  Complications associated with underlying causes
+•  Increased risk of dementia
+•  Worsening of pre-existing cognitive impairment
+•  Mortality
+
+INVESTIGATIONS OF DELIRIUM 
+•  Depending on the history and Clinical Features:
+   -  FBC,
+   -  Electrolyte, urea and creatinine
+   -  Serum Ca
+   -  LFT
+   -  Blood glucose
+   -  Blood culture
+   -  Urinalysis and urine culture
+   -  Chest X-ray
+   -  Thyroid function tests
+
+   TREATMENT OF DELIRIUM 
+Treatment Goals:
+•  Return patient to baseline cognitive functioning
+
+Non-drug Treatment
+Should be directed at underlying cause(s)/risk factors:
+•  Agitation: ensure safety; use physical restraints only as a last resort to 
+   prevent self-harm; allow family participation – even if only to sit by
+•  Cognitive impairment: sensory orientation, family presence, increase 
+   nursing attention, calendars, clocks, newspapers, familiar music, games, 
+   etc.
+•  Dehydration: rehydrate
+•  Hearing loss: hearing aids
+•  Immobility: ambulate out of bed as soon and as frequently as possible, 
+   involve in self-care as much as possible, minimize tethers (IV lines, 
+   nasogastric tubes, urinary catheters, etc.), physiotherapy
+•  Medications: taper and discontinue unnecessary medicines (see Beer's list 
+   of potentially inappropriate medicines), consider renal and liver function in 
+   relation to medications, use alternatives, avoid medicines with long half 
+   lives
+•  Sleep deprivation: avoid sedatives, sleep protocol (back massage, 
+   soothing music, minimize vital sign checks/procedures, reschedule 
+   medication regimen to exclude night time if possible, caffeine-free drinks; 
+   maintain sleep-wake cycle)
+•  Visual impairment: provide glasses or other appropriate visual aids
+
+Drug Treatment
+•  Haloperidol: 0.25-1 mg every 20-30 minutes as loading dose until patient is 
+   calmer; divide loading dose by 2 and give every 12 hours; taper over 2-3 
+   days. Maximum daily dose 3-5 mg; doses above 5 mg per day not 
+   beneficial; increase harm
+•  Lorazepam: 0.25 - 0.5 mg starting dose
+
+Notable Adverse Drug Reactions, Contraindications and Caution
+• Haloperidol should not be given by the intravenous route because of the risk of QTc prolongation. Obtain ECG prior to the first dose if possible
+• Caution with haloperidol if patient is taking other medicines that prolong Qtc
+
+Prevention
+• Identify potential risk factors and avoid or mitigate them
+Depression (Please see appendix for screening tool - Geriatric Depression Scale)

@@ -1,0 +1,84 @@
+{
+  "condition_name": "Prostatitis",
+  "condition_slug": "prostatitis",
+  "source": "NSTG 2022",
+  "introduction": "An inflammation of the prostate or pain in the prostate, similar to that caused by an inflammation. Classified into: ・ Acute bacterial prostatitis ・ Chronic bacterial prostatitis ・ Chronic non-bacterial prostatitis ・ Prostatodynia Risk factors: ・ Ductile reflux ・ Urinary tract infection ・ Indwelling urethral catheterization ・ Penetrating anal sex ・ Sexually transmitted infections",
+  "clinical_features": [
+    {
+      "type": "Acute prostatitis",
+      "features": [
+        "Fever",
+        "Chills",
+        "Malaise",
+        "Nausea",
+        "Dysuria",
+        "Frequency",
+        "Haematuria",
+        "Urethral discharge",
+        "Hot, boggy, swollen and very tender prostate"
+      ]
+    },
+    {
+      "type": "Chronic prostatitis",
+      "features": [
+        "Dysuria",
+        "Frequency",
+        "Urgency",
+        "Haematuria",
+        "Poor stream",
+        "Urethral discharge",
+        "Low back pain",
+        "Perineal pain",
+        "Haemospermia",
+        "Painful ejaculation",
+        "Enlarged, tender, firm prostate"
+      ]
+    }
+  ],
+  "investigations": [
+    "FBC and ESR",
+    "Urinalysis",
+    "Urine microscopy, culture and sensitivity",
+    "Prostatic massage: microscopy, culture and sensitivity (chronic prostatitis only)",
+    "Trans-rectal ultrasound",
+    "Biopsy: culture and histology",
+    "Urethrocystoscopy (chronic prostatitis only)"
+  ],
+  "treatment": {
+    "goals": [
+      "To eradicate causative organisms",
+      "Control pain"
+    ],
+    "non_drug": [
+      "Prostatic massage (chronic prostatitis only)",
+      "Physiotherapy",
+      "Sitz baths"
+    ],
+    "drug": [
+      "Ciprofloxacin 500 mg orally every 12 hours for 28 days",
+      "Cotrimoxazole 960 mg orally every 12 hours for 28 days",
+      "Non-steroidal anti-inflammatory drugs (e.g. diclofenac, ibuprofen)",
+      "Steroids (e.g. prednisolone, dexamethasone)",
+      "Alpha blockers (e.g. prazosin)",
+      "Hormonal therapy (e.g. finasteride)"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Benign prostatic hypertrophy",
+    "Cystitis",
+    "Urethral stricture",
+    "Prostate cancer"
+  ],
+  "complications": [
+    "Prostatic abscess",
+    "Prostatic calculi",
+    "Infertility",
+    "Septicaemia"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

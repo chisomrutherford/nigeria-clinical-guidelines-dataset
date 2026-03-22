@@ -1,0 +1,59 @@
+{
+  "condition_name": "Bacterial Vaginosis",
+  "condition_slug": "bacterial-vaginosis",
+  "source": "NSTG 2022",
+  "introduction": "A clinical syndrome resulting from replacement of the normal hydrogen peroxide-producing Lactobacillus sp. in the vagina by high concentrations of anaerobic bacteria, such as Gardnerella vaginalis, Mycoplasma hominis and Mobiluncus curtisii. Predisposing factors are the use of antiseptic/antibiotic vaginal preparations or vaginal douching",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Malodorous and increased white vaginal discharge: homogenous, low in viscosity, and uniformly coats vaginal walls (fishy-smelling discharge particularly noticeable after sexual intercourse)",
+        "No pruritus or inflamed vulvae"
+      ]
+    }
+  ],
+  "investigations": [
+    "Homogeneous milky discharge with pH > 4.5 (pH > 6.0 highly suggestive)",
+    "Wet mount of the discharge – clue cells (normal vaginal epithelial cells studded with bacteria, giving the cells a granular appearance)",
+    "Whiff test - addition of several drops of 10% KOH to a sample of vaginal discharge (Fishy odour is indicative of a positive test)"
+  ],
+  "treatment": {
+    "goals": [
+      "Eliminate the organisms"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Recommended regimen: Metronidazole 400 mg orally, every12 hours for 7 days",
+      "Alternative regimen: Metronidazole 2 g orally, as a single dose",
+      "Metronidazole 0.75% gel 5 g intravaginally, twice for 7 days",
+      "Recommended regimen for pregnant women: Metronidazole 200 orally, every 8 hours for 7 days, after the first trimester or 2g orally as a single dose"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Metronidazole: see Trichomoniasis",
+      "Advise to return if symptoms persist as re-treatment may be needed",
+      "Metronidazole: Causes a disulfiram-like reaction with alcohol",
+      "Avoid high doses in pregnancy and breast feeding",
+      "May cause nausea, vomiting, unpleasant taste, furred tongue, and gastrointestinal disturbances",
+      "Generally, not recommended for use in the first trimester of pregnancy"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Gonorrhoea"
+  ],
+  "complications": [
+    "Acute salpingitis",
+    "Premature rupture of membranes",
+    "Preterm delivery and low birth weight"
+  ],
+  "prevention": [
+    "Reduce or eliminate predisposing factors (antiseptic/antibiotic vaginal preparations or vaginal douching)",
+    "Treat symptomatic pregnant women",
+    "Screen pregnant women with a history of previous pre-term delivery to detect asymptomatic infections",
+    "Retreat pregnant women with recurrence of symptoms",
+    "Counselling, Compliance, Condom use and Contact treatment"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

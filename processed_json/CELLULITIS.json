@@ -1,0 +1,53 @@
+{
+  "condition_name": "Cellulitis",
+  "condition_slug": "cellulitis",
+  "source": "NSTG 2022",
+  "introduction": "A rapidly spreading, poorly localized / diffuse erythematous inflammation of the soft tissues particularly associated with streptococcal infection to break down fibrin and ground substance, lyse cellular debris and enhanced spread of infection.",
+  "clinical_features": [
+    {
+      "type": "General",
+      "features": [
+        "Diffuse, tense, painful swelling of the involved soft tissues",
+        "Malaise",
+        "Elevated temperature"
+      ]
+    },
+    {
+      "type": "Specific",
+      "features": [
+        "Ludwig's angina - This is a surgical emergency! - It causes airway obstruction, which can quickly result in asphyxia - Suppuration and abscess formation may occur later if treatment is neglected or delayed"
+      ]
+    }
+  ],
+  "investigations": [
+    "M/C/S (blood and swab)"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Decompression and drainage of the swelling to reduce pressure (oral drain may also be placed)",
+      "Intravenous fluid resuscitation",
+      "Nutritional support",
+      "Secure the airway by tracheostomy if necessary"
+    ],
+    "drug": [
+      "Aggressive antibiotic treatment - Injection co-amoxiclav - Adult: 1000/2000 mg intravenously every 8 hours for 5 days - Child: - Neonate and premature infants, 25 mg/kg every 12 hours for 5 days - Infants up to 3 months, 25 mg/kg every 8 hours for 5 days - 3 months to 12 years, 25 mg/kg every 8 hours for 5 days increased to 25 mg/kg every 6 hours in more severe infections",
+      "Injection gentamicin: - Adult: 3 - 5 mg/kg daily in divided doses every 8 hours for 5 days - Child: - up to 2 weeks: 3 mg/kg every 12 hours for 5 days - 2 weeks - 12 years: 2 mg/kg every 8 hours for 5 days"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Gentamicin may cause significant ototoxic and nephrotoxic effects"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Extension towards the eyes, and risk of cavernous sinus thrombosis: cellulitis affecting maxillary teeth",
+    "Respiratory difficulty: cellulitis affecting mandibular teeth"
+  ],
+  "prevention": [
+    "Early treatment of carious teeth"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

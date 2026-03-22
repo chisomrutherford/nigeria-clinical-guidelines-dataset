@@ -1,0 +1,140 @@
+BLOOD TRANSFUSION
+Introduction
+Blood transfusion is the administration of blood for therapy. It is potentially
+hazardous: blood should be given only if the dangers of not transfusing
+outweigh those of transfusion.
+Indication(s) must be clearly established. Transfusion of whole blood or red
+cell concentrates is important in the treatment of acute blood loss and of
+anaemia.
+Types of blood transfusion
+Autologous blood transfusion: Transfusion of the patient's own blood to
+him/her
+Safest blood for patients
+The three main types are:
+• Pre-deposit autologous transfusion
+• Immediate pre-operative phlebotomy with haemodilution
+• Intra-operative blood salvage
+Types of blood components
+• Red cell concentrate
+• Platelet concentrate (A. platelet rich plasma (PRP) B. Single donor platelet)
+Exchange transfusion:
+To remove deleterious material from the blood, for example, in Sickle cell
+disease, severe jaundice resulting from haemolytic disease of the newborn
+Alternatives to red cell transfusion:
+• Perfluoro chemicals such as Fluosol-DA
+• Polymerised haemoglobin solutions with good intravascular recovery
+Indications for blood transfusion
+• Symptomatic anaemias: Recurrent haemorrhage, haemolysis, bone
+marrow failures, pure red cell aplasia, severe anaemia of chronic disorders,
+haematological malignancies (e.g. leukaemia, lymphoma), chemotherapy
+complicated by anaemia
+• Prevention or treatment of shock:
+• Clinical situations in which there is need to restore and/or maintain
+circulatory volume e.g. trauma, haemorrhage
+• To maintain the circulation (as in extracorporeal or cardiac by-pass shunts)
+• Whole blood preparations: Should be limited to correction or prevention of
+hypovolaemia in patients with severe acute blood loss
+• Fresh Blood: Justified by the recognition that there is a relatively rapid loss
+of platelets, leucocytes and some coagulation factors with liquid storage.
+• There is also progressive increase in the levels of undesirable products such
+as potassium, ammonia, and hydrogen ions
+Erythrocyte preparations
+Four types are in common use:
+• Packed red blood cells
+• Washed red blood cells
+• Leucocyte-reduced red blood cells
+• Frozen red blood cells
+Washed red blood cells: Obtained from liquid-stored blood by saline washing
+using a continuous-flow cell separator or from frozen erythrocytes extensively
+washed to remove the cytoprotective agents
+Leucocyte-reduced red blood cells: Best prepared bypassing whole blood or
+packed cells through specifically designed filters
+Three main reasons for the use of leucocyte-reduced red blood cells:
+• To prevent non-haemolytic febrile reactions to white cell and platelet
+antibodies in recipients exposed to previous transfusions or pregnancies
+• To prevent sensitization of patients with aplastic anaemia who may be
+candidates for bone marrow transplantation
+• To minimize risk of transmission of viruses such as HIV or
+cytomegalovirus
+Transfusion therapy
+• Informed consent should be obtained from patients except in life-
+threatening emergencies
+• The risks and benefits of the proposed transfusion therapy should be
+discussed with the patient and documented in the patient's medical records
+• Blood for emergencies:
+There may be no time available to type, select and cross-match compatible
+blood which is a rare occurrence, except for
+• Trauma
+• Unexpected intra-operative haemorrhage
+• Massive gastro-intestinal bleeding
+• Ruptured aneurysm
+Uncross-matched or partially cross-matched blood is administered; routine
+cross-match should be carried out retrospectively to identify any
+incompatibility
+
+COMPLICATIONS OF BLOOD TRANSFUSIONS 
+Complications of blood transfusion
+• Immunological:
+- Sensitization to red cell antigens
+- Haemolytic transfusion reactions
+- Immediate
+- Delayed
+- Reactions due to white cell and platelet antibodies
+- Febrile transfusion reactions
+- Post-transfusion purpura
+- Reactions due to white cell and plasma protein antibodies
+- Urticaria
+- Anaphylaxis
+• Non-immunological:
+- Transmission of disease, Reactions due to bacteria and bacterial
+pyrogens, Circulatory overload, Thrombophlebitis, Air embolism,
+Transfusion haemosiderosis, Complications of massive transfusion
+
+TESTS OF COMPATIBILITY FOR BLOOD TRANSFUSIONS 
+Tests of Compatibility
+A minimum of three major procedures must be carried out:
+• Determine the recipient's ABO and Rhesus groups
+• Select compatible donor blood
+• Cross-match donor cells against recipient's serum
+• Donor blood should be screened for infective agents: HIV, hepatitis B, and
+C viruses
+
+INVESTIGATIONS OF ANAEMIAS 
+Other Investigations
+• Haemoglobin concentration, haematocrit
+• Red cell indices: MCH, MCV, MCHC
+• Total leucocyte and differential counts
+• Reticulocyte count
+• Erythrocyte sedimentation rate
+• Platelet count
+
+TREATMENT OF ANAEMIAS 
+Treatment Goals
+• To raise haemoglobin concentration and other blood parameters to normal
+levels
+• To prevent blood transfusion complications
+Non-drug Treatment
+• Transfusion of red blood cells, platelet concentrates or platelet rich plasma
+as required
+• Provision of fresh frozen plasma or other blood products as necessary
+
+
+Drug Treatment
+• Furosemide 40 mg on administration of one unit of blood
+• In children, IV furosemide 1-2mg/kg
+• In the event of transfusion reactions, stop the transfusion immediately and
+administer the following:
+• Promethazine 25 mg intramuscularly or intravenously
+• Epinephrine 0.5 mL of 1:1000 solutions to be administered subcutaneously
+• Hydrocortisone sodium succinate 100 mg injection intravenously
+Supportive Measures
+• Appropriate nutrition
+• Adequate hydration
+Notable Adverse Drug Reactions, Contraindications and Caution
+• Furosemide: dehydration and hypersensitivity
+• Promethazine: drowsiness, hypersensitivity
+Prevention
+• Avoid/prevent accidents
+• Prompt treatment of illnesses that could be complicated by anaemia
+• Regular medical check-ups
+Haemostasis and Bleeding Disorders – refer for specialist care

@@ -1,0 +1,55 @@
+{
+  "condition_name": "Acute Bronchitis",
+  "condition_slug": "acute-bronchitis",
+  "source": "NSTG 2022",
+  "introduction": "An inflammation of the bronchial tubes. Commonly caused by a variety of viruses, same as those that are responsible for common cold. Primary bacterial aetiology may also occur. Acute bronchitis can last from a few days to 10 days but the associated cough may last for several weeks after the infection has cleared up. Bronchitis lasting up to 90 days is still usually classified as acute bronchitis.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Cough",
+        "Sputum production",
+        "Sputum may be clear, yellow or greenish",
+        "Wheezing",
+        "Muscle and backache",
+        "Low grade fever",
+        "Shortness of breath in severe cases",
+        "Chest pain especially while coughing"
+      ]
+    }
+  ],
+  "investigations": [
+    "Chest x-ray",
+    "Sputum tests",
+    "Quality sputum for culture and tests for evidence of allergy",
+    "Pulmonary function tests"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [],
+    "drug": [
+      "Antibiotics - Amoxicillin 500 mg PO 8 hourly for 5 – 7 days",
+      "Macrolide e.g. erythromycin 500 mg 8 hourly 5 – 7 days",
+      "Co-trimoxazole 960mg 12 hourly 5 – 7 days"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Cotrimoxazole: Nausea, Skin rashes, rarely Stevens-Johnson syndrome"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Cough-variant asthma",
+    "Mycoplasma pneumonia",
+    "Chlamydia pneumonia",
+    "Bordetella pertussis"
+  ],
+  "complications": [
+    "Pneumonia",
+    "Acute respiratory failure",
+    "Repeated bouts of acute bronchitis over time may lead to COP"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

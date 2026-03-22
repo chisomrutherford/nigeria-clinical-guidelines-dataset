@@ -1,0 +1,128 @@
+{
+  "condition_name": "Cancer Therapy",
+  "condition_slug": "cancer-therapy",
+  "source": "NSTG 2022",
+  "introduction": "Cancer is abnormal and rapid cell growth with the potential to invade near or distant organs. It is the 2nd leading cause of death globally. Common adult cancers occur in the lung, breast, colon and rectum, liver, cervix, prostate and the ovaries. Some childhood cancers are leukaemias, lymphomas, Wilm's tumour, neuroblastoma, rhabdomyosarcoma and retinoblastoma. This section focuses mainly on adult tumours.",
+  "clinical_features": [
+    {
+      "type": "Local",
+      "features": [
+        "lumps or ulcers"
+      ]
+    },
+    {
+      "type": "Regional",
+      "features": [
+        "lymph nodes",
+        "satellite nodules",
+        "skin involvement",
+        "infiltration of surrounding tissues or structures"
+      ]
+    },
+    {
+      "type": "Systemic",
+      "features": [
+        "evidence of wider metastasis or dissemination",
+        "non-specific paraneoplastic syndromes"
+      ]
+    },
+    {
+      "type": "Emergency",
+      "features": [
+        "local or metastatic complications",
+        "unusual feelings of ill-health",
+        "unexpected bleedings",
+        "unexplained weight loss"
+      ]
+    }
+  ],
+  "investigations": [
+    "Tissue diagnosis is the hallmark of diagnosis, and it must be confirmed prior to initiation of treatment",
+    "Cytology: From body fluid or discharge or cell scrapings/shavings; fine needle aspiration biopsy/cytology (FNAB/C) of solid tumours",
+    "Histopathology: Core tissue obtained from specialized needles (e.g. Tru cut needle for solid tumours, Vim Silverman needle, Menghini needle), incisional/wedge biopsy, excision biopsy",
+    "Immunohistochemistry: Specialized studies to further characterize cancers e.g. breast cancer",
+    "FBC",
+    "Electrolyte",
+    "Urea and Creatinine",
+    "LFT",
+    "Plain x-ray",
+    "USS",
+    "Endoscopy",
+    "Radionuclide bone scan",
+    "CT scan",
+    "MRI",
+    "Tumour markers like CEA, CA 19-9"
+  ],
+  "treatment": {
+    "goals": [
+      "Undertaken by a multi-disciplinary team",
+      "Specific treatment modalities"
+    ],
+    "non_drug": [
+      "Involve palliative care team social workers, family support teams where available and as early as indicated",
+      "Comprehensive end-of-life care addressing physical, psychosocial, spiritual and existential needs and concerns of patients",
+      "Delivered at home or in hospital, ambulatory clinic, hospice or palliative care unit"
+    ],
+    "drug": [
+      "Chemotherapy",
+      "Endocrine/Hormonal therapy",
+      "Biologic response modifiers",
+      "Interferons",
+      "cytokines",
+      "growth factors",
+      "immune based interventions",
+      "monoclonal antibodies"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Adverse reactions due to treatment can lead to complications; referral to specialist care is advised"
+    ],
+    "supportive_measures": [
+      "Anti-emetics",
+      "Anxiolytics",
+      "Intravenous fluid hydration",
+      "Functional status and quality of life should be weighed against the benefit of chemotherapy",
+      "Pain control",
+      "Bleeding control"
+    ]
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Pain",
+    "Fungating malignant ulcers",
+    "Malignant pleural effusion and/or widespread lung parenchyma metastasis",
+    "Brain metastasis",
+    "Spinal metastasis",
+    "Long bone metastasis and pathological fracture",
+    "Limb lymphoedema associated with breast cancer"
+  ],
+  "prevention": [
+    "Screening and early detection",
+    "Avoid tobacco smoking, chewing, snuffing, or passive smoking",
+    "Dietary modification",
+    "Control of infections e.g. vaccination (e.g. HBV, HPV)",
+    "Reduce exposure to ionizing radiation",
+    "Avoid occupational exposure to chemicals",
+    "Genetic risk assessment and counselling"
+  ],
+  "other_investigations": [
+    "Screening: To identify individuals at risk of specific cancers when they are yet to occur or manifest. Generally, yearly for every one above 40 years of age",
+    "Examples of screening/early detection modalities",
+    "Breast: mammogram, breast ultrasound, clinical breast examination, breast self-examination, genetic testing e.g. BRCA",
+    "Colo-rectal: faecal occult blood test, colonoscopy, barium enema, digital rectal examination (DRE)",
+    "Cervical: pap smear, HPV",
+    "Prostate: prostate-specific antigen, DRE"
+  ],
+  "definitive_treatment": [
+    "Surgery",
+    "Radiotherapy",
+    "Pain control",
+    "Resection of metastasis (metastatectomy)",
+    "Palliative operations",
+    "Reconstruction and rehabilitation"
+  ],
+  "prognosis": [
+    "Depends on tissue type, grade and immunohistochemistry",
+    "Stage at presentation",
+    "Adequacy of treatment"
+  ]
+}

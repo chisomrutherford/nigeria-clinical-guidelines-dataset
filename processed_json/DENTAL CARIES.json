@@ -1,0 +1,49 @@
+{
+  "condition_name": "Dental Caries",
+  "condition_slug": "dental-caries",
+  "source": "NSTG 2022",
+  "introduction": "A progressive breakdown of teeth exposed to the carbohydrate and bacterial plaque",
+  "clinical_features": [
+    {
+      "type": "Clinical Features of Dental Caries",
+      "features": [
+        "Cavity formation in affected tooth",
+        "Starts as a white spot",
+        "Pain on exposure of the cavity to thermal changes or food particles"
+      ]
+    }
+  ],
+  "investigations": [
+    "Periapical radiographs",
+    "Bitewing radiographs",
+    "Electric pulp testers",
+    "Thermal test"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Excision of lesion followed by: Amalgam filling, Glass Ionomer Cement (GIC) composite and Atraumatic Restorative Technique (ART) for enamel caries",
+      "Amalgam filling, GIC for dentine caries",
+      "Root Canal Therapy, pulp capping pulpotomy, pulpectomy for pulpal involvement"
+    ],
+    "drug": [
+      "Analgesics pre-operatively: paracetamol 1g 4-6 hourly orally to a maximum of 4 g daily"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Pulpitis; If not treated can cause apical periodontitis and dento alveolar abscess"
+  ],
+  "prevention": [
+    "Oral health education",
+    "Regular scaling and polishing",
+    "Systemic and topical fluoride application",
+    "Fissure sealants",
+    "Routine dental check-ups"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

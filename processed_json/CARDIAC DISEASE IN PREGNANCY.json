@@ -1,0 +1,103 @@
+{
+  "condition_name": "Cardiac Disease in Pregnancy",
+  "condition_slug": "cardiac-disease-in-pregnancy",
+  "source": "NSTG 2022",
+  "introduction": "A rare but potentially serious clinical entity. Occurs in about 1 – 4% of all pregnancies. Incidence and prevalence of all heart disease varies from place to place. Rheumatic heart disease is more commonly found in less affluent societies while congenital heart disease now accounts for approximately 50% of cardiac diseases in pregnancy in the UK.",
+  "clinical_features": [
+    {
+      "type": "Severity of heart disease",
+      "features": [
+        "Class 1: No limitation of physical activity",
+        "Class 2: Slight to moderate limitation of physical activity: ordinary day-to-day activities cause dyspnoea",
+        "Class 3: Marked limitation of activity. Minimal exertion causes dyspnoea",
+        "Class 4: Symptoms at rest; unable to carry out any physical activity without dyspnoea; orthopnoea may be present"
+      ]
+    },
+    {
+      "type": "Other features",
+      "features": [
+        "Palpitations",
+        "Nasal stuffiness",
+        "Dizziness; light headedness; syncope",
+        "Epigastric or sub-xiphoid pain; bloating, heartburn",
+        "Heat intolerance, sweating and flushing",
+        "Plethoric facies",
+        "Oedema (legs; occasionally hands and face); Varicose veins",
+        "Bounding pulses and capillary pulsations",
+        "Capillary telangiectasia Prominent jugular venous pulsations",
+        "Lateral displacement of cardiac apex",
+        "Sinus tachycardia; ectopic beats, Third heart sound",
+        "Widely split S and S heart sounds1, Murmurs",
+        "Crepitations"
+      ]
+    }
+  ],
+  "investigations": [
+    "Echocardiography (Doppler)",
+    "Electrocardiography",
+    "Plethymography",
+    "CT scan",
+    "Cardiac catherization",
+    "Pulmonary artery catherization",
+    "Serial blood cultures (if infective endocarditis is suspected)",
+    "FBC",
+    "Serum Electrolyte, Urea and Creatinine",
+    "Urinalysis",
+    "Blood Glucose",
+    "Bedside crude clotting time"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Fully evaluate patient in conjunction with a cardiologist",
+      "Surgically correct any defect that is amenable",
+      "Counsel on risk of maternal death, possible reduction of maternal life expectancy, risk of foetus developing congenital heart disease, foetal growth restriction, possibility of pre-term labour, need for frequent hospital attendance, possible admission, need for intensive maternal and foetal monitoring in labour",
+      "Joint management with the cardiologist",
+      "Extreme vigilance: most features of cardiac failure are present in pregnancy",
+      "Watch for and treat respiratory or urinary tract infection aggressively",
+      "Monitor for anaemia, obesity, multiple gestations for intensive care",
+      "Examine for ankle and sacral oedema, pulse rate and rhythm, blood pressure, jugular venous pressure, basal crepitations, SFH measurement",
+      "Competent dental care: full inspection, advise on oral hygiene, dental treatment under antibiotic cover",
+      "Elastic stockings or tights to prevent pooling of blood in the veins of lower limb",
+      "Termination of pregnancy and sterilization in severe debilitating cases",
+      "Foetal surveillance: ultrasound scan for cardiac anomaly at 22 weeks",
+      "Either delivery for maternal or foetal indications",
+      "Careful fluid balance",
+      "Avoid supine position",
+      "Epidural anaesthesia by senior anaesthetist",
+      "Shorten 2 stage with low cavity forceps delivery",
+      "Oxytocin for third stage, avoid ergometrine",
+      "Oxygen available and used if needed"
+    ],
+    "drug": [
+      "Heparin safer in pregnancy than warfarin which is teratogenic",
+      "Prophylactic antibiotics to prevent bacterial endocarditis"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": [
+      "Elastic stockings or tights to prevent pooling of blood",
+      "Avoid supine position",
+      "Oxygen available if needed"
+    ]
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Maternal mortality in various conditions (25 - 50% in Eisenmenger's syndrome; 5% in tetralogy of Fallot; 1% in rheumatic heart disease)",
+    "Congestive cardiac failure: greatest risk post-partum",
+    "Foetal complications: Rheumatic heart disease causing intrauterine growth restriction, pre-term delivery, cyanotic congenital heart disease, poor outcomes with foetal loss up to 40%",
+    "Uncorrected coarctation of aorta leading to foetal growth restriction, pre-maturity, small for gestation age, intrauterine growth restriction, intrauterine fetal death, 10 - 15% chance of baby having congenital heart disease"
+  ],
+  "prevention": [
+    "Pre-pregnancy counselling on risks",
+    "Competent dental care under antibiotic cover",
+    "Adequate antenatal, intrapartum and postpartum care",
+    "Early detection and management of pregnancy-induced hypertension"
+  ],
+  "other_investigations": [
+    "Chest radiograph is better avoided in pregnancy"
+  ],
+  "definitive_treatment": [
+    "Surgically correct any amenable defect"
+  ],
+  "prognosis": []
+}

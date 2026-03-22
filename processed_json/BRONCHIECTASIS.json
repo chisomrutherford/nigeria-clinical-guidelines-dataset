@@ -1,0 +1,85 @@
+{
+  "condition_name": "Bronchiectasis",
+  "condition_slug": "bronchiectasis",
+  "source": "NSTG 2022",
+  "introduction": "An abnormal and permanent dilatation of medium sized airway due to damage of their walls. Usually arises from repeated bacterial or viral infections which result in inflammation and destruction of the structural components of the bronchial tree. May be focal or diffuse.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Persistent or recurrent cough",
+        "Purulent fetid sputum",
+        "Haemoptysis",
+        "Pleuritic chest pain",
+        "With or without a history of preceding pneumonic illness",
+        "Digital clubbing",
+        "Crepitations, rhonchi and wheezes",
+        "Cor pulmonale and right ventricular failure in chronically hypoxic patients"
+      ]
+    }
+  ],
+  "investigations": [
+    "Chest radiograph: cystic spaces with air-fluid levels",
+    "Bronchography: saccular, cylindrical or varicose bronchial dilatations",
+    "CT scan (of the chest)",
+    "Bronchoscopy: biopsies of endobronchial lesion",
+    "Sputum microscopy, culture, Ziehl Nielson microscopy",
+    "Ventilatory function test: obstructive pattern"
+  ],
+  "treatment": {
+    "goals": [
+      "Eliminate underlying pathology",
+      "Improve mucus clearance",
+      "Control infection",
+      "Reverse airflow obstruction"
+    ],
+    "non_drug": [
+      "Cessation of cigarette smoking"
+    ],
+    "drug": [
+      "Empirical antibiotics in acute exacerbations",
+      "Amoxicillin - Adult: 500mg – 1 g orally every 8 hours for 5 – 7 days",
+      "Amoxicillin - Child: 40 mg/kg orally in 3 divided doses daily",
+      "Cotrimoxazole - Adult: 960 mg orally every 12 hours for 5 – 7 days",
+      "Cotrimoxazole - 6 weeks to 5 months: 120 mg orally",
+      "Cotrimoxazole - 6 months – 5 years: 240 mg",
+      "Cotrimoxazole - 6 - 12 years: 480 mg",
+      "Appropriate antibiotics as soon as culture results are available",
+      "Bronchodilators",
+      "Salmeterol - Adult: 2 puffs (50 μg) twice daily (Can be doubled in severe airway obstruction)",
+      "Salmeterol - Child: same as adult dose (for children > 4years)",
+      "Salbutamol - Adult: 1 – 2 puffs (100 – 200 μg) 3 – 4 times daily",
+      "Salbutamol - Child: usually 100 μg (1 puff) may be increased to 200 μg with more severe symptoms."
+    ],
+    "adverse_reactions_and_cautions": [
+      "Prescribers / dispensers should consult product literature to confirm the strength of various aerosol preparations.",
+      "Salbutamol: palpitations, tremors, nervous tension, muscle cramps, sleep disturbances, tachycardia, peripheral vasodilation, hypotension"
+    ],
+    "supportive_measures": [
+      "Supplemental oxygen",
+      "Postural drainage or suction"
+    ]
+  },
+  "differential_diagnoses": [
+    "Pulmonary tuberculosis",
+    "Lung abscess",
+    "Chronic bronchitis",
+    "Bullous emphysema"
+  ],
+  "complications": [
+    "Massive haemoptysis",
+    "Lung abscess",
+    "Mycotic abscess",
+    "Pulmonary amyloidosis",
+    "Ventilatory failure",
+    "Cor pulmonale and right ventricular failure"
+  ],
+  "prevention": [
+    "Avoidance of smoking",
+    "Timely and effective treatment of bacterial infections",
+    "Respiratory care during childhood measles"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

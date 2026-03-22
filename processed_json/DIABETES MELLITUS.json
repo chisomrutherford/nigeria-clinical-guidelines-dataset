@@ -1,0 +1,95 @@
+{
+  "condition_name": "Diabetes Mellitus",
+  "condition_slug": "diabetes-mellitus",
+  "source": "NSTG 2022",
+  "introduction": "A common metabolic disorder associated with acute and long-term complications affecting the eyes, kidneys, feet, nerves, brain, heart and blood vessels. Its classification has been revised by the WHO and is based on aetiology: Type 1, Type 2, Secondary diabetes, Gestational diabetes: appears for the first time in pregnancy.",
+  "clinical_features": [
+    {
+      "type": "General",
+      "features": [
+        "No symptoms in many individuals",
+        "Passage of large amounts of urine",
+        "Thirst and excessive drinking of water",
+        "Unexplained weight loss",
+        "Blurred vision",
+        "Recurrent boils",
+        "Recurrent itching of the vulva",
+        "Symptoms related to chronic complications (e.g. 'pins and needles' sensation or numbness in the hands or feet, foot gangrene, poor vision)"
+      ]
+    },
+    {
+      "type": "Type 1 Diabetes",
+      "features": [
+        "Patients present at a young age (usually teens or twenties); earlier presentation may also occur.",
+        "Presents with rapid onset of severe symptoms e.g. thirst, polyuria and weight loss."
+      ]
+    },
+    {
+      "type": "Type 2 Diabetes",
+      "features": [
+        "Commonest form of diabetes globally as well as locally.",
+        "Most patients present with the classical symptoms.",
+        "Some patients present asymptomatically and identified at screening.",
+        "The patients usually do not seek medical attention early because of the insidious nature of the disease.",
+        "Many present at diagnosis with features of diabetic complications."
+      ]
+    },
+    {
+      "type": "Gestational Diabetes",
+      "features": [
+        "Glucose intolerance first diagnosed in pregnancy",
+        "Must be distinguished from existing diabetes in women who become pregnant",
+        "Associated with poor pregnancy outcomes if not promptly and appropriately managed."
+      ]
+    }
+  ],
+  "investigations": [
+    "Fasting or random blood glucose",
+    "Urine ketones and protein",
+    "FBC and Electrolyte, Urea and Creatinine",
+    "Fasting blood lipid profile",
+    "Glycated haemoglobin (HbA1c)",
+    "ECG"
+  ],
+  "treatment": {
+    "goals": [
+      "Adequate management of hyperglycaemia",
+      "Prevention of hypoglycaemia",
+      "Management of co-morbidities",
+      "Prevention and treatment of acute and chronic complications by achieving and maintaining the following: Fasting blood glucose between 4 - 6 mmol/L, 2-hour post-meal blood glucose between 4 - 8 mmol/L, Glycated haemoglobin 6.5 % or less, Weight reduction in overweight and obese individuals, Blood pressure less than 130/80 mmHg, LDL-cholesterol less than 2.5 mmol/L"
+    ],
+    "non_drug": [
+      "Education aims to empower patients for self-care by providing adequate knowledge of diabetes and its sequelae and ensuring effective diabetes education by the health team.",
+      "Dietary modification with increasing physical activity is crucial for Type 2 diabetes management, focusing on individualized, balanced, and culturally appropriate diets.",
+      "Regular physical activity, both aerobic (e.g., walking, running) and anaerobic (e.g., lifting weights), is essential for managing Type 2 diabetes."
+    ],
+    "drug": [
+      "Oral antidiabetic agents: All type-2 diabetic patients should be commenced on metformin therapy, except where contraindications exist.",
+      "If glycaemic targets are not met within 3 months, a sulphonylurea or other antidiabetic agents should be added.",
+      "Thiazolidinediones may be used alone or in combination with metformin or a sulphonylurea.",
+      "Avoid metformin and long-acting sulphonylureas in individuals with poor kidney and liver function.",
+      "Oral anti-diabetic medications are not for Type 1 diabetes patients and should not be used during pregnancy and breastfeeding.",
+      "Insulin is used in Type 1 diabetes, secondary failure of oral anti-diabetic medication in Type 2 diabetes, pregnancy, and other conditions needing strict glucose control."
+    ],
+    "adverse_reactions_and_cautions": [
+      "Hypoglycaemia is a potential side-effect with insulin and all sulphonylureas.",
+      "Metformin and thiazolidinediones when used alone do not induce hypoglycaemia.",
+      "Avoid metformin and long-acting sulphonylureas such as glibenclamide in individuals with poor kidney and liver function.",
+      "Sulphonylureas are best taken 15-30 minutes before meals.",
+      "Gliclazide is short-acting and preferred in the elderly and those with mild kidney disease.",
+      "Individuals with Type 2 diabetes not responding to maximum tolerable doses of a sulphonylurea, metformin or a thiazolidinedione alone, could be given combined oral therapy with two or three oral anti-diabetic medications.",
+      "Secondary failure of oral glucose-lowering agents is common (5-10% of patients annually)."
+    ],
+    "supportive_measures": [
+      "Referral to an endocrinologist should be considered if more than 30 units of insulin is required per day."
+    ]
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": [
+    "Subsequent monitoring involves blood glucose, self-monitoring records at home, periodic fasting or random tests during clinic reviews, glycated haemoglobin (HbA1c) at least three times a year, blood lipid tests annually, blood urea, electrolytes and creatinine annually, and urine protein annually."
+  ],
+  "definitive_treatment": null,
+  "prognosis": null
+}

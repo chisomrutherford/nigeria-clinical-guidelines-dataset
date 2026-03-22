@@ -1,0 +1,87 @@
+{
+  "condition_name": "Acute Epiglottitis",
+  "condition_slug": "acute-epiglottitis",
+  "source": "NSTG 2022",
+  "introduction": "Epiglottitis is inflammation of the epiglottis and adjacent supraglottic structures. It can progress rapidly to life-threatening airway obstruction if not treated. The condition is commonest in children. Pathogens in children include H. influenza type B, types A, F, Streptococci and Staph. aureus. The commonest is H. influenza type B. In adults a wide range of pathogens, including viruses, bacteria, fungi are involved but H. influenza type B appears to be the most common. In immunocompromised hosts, epiglottitis may be caused by Pseudomonas aeruginosa and Candida spp. Non-infectious causes include, thermal injury, corrosive ingestion, foreign body ingestion. Rarely may occur as a result of graft-versus-host disease in transplantation.",
+  "clinical_features": [
+    {
+      "type": "Common presentation in children",
+      "features": [
+        "Difficulty with breathing",
+        "Stridor",
+        "Hoarse voice",
+        "Pharyngitis",
+        "Fever",
+        "Sore throat",
+        "Tenderness of anterior neck",
+        "Cough",
+        "Difficulty swallowing"
+      ]
+    },
+    {
+      "type": "Adult presentation usually less fulminant",
+      "features": [
+        "Sore throat",
+        "Fever",
+        "Muffled voice",
+        "Drooling",
+        "Stridor",
+        "Hoarseness",
+        "Difficulty swallowing",
+        "Difficulty breathing"
+      ]
+    }
+  ],
+  "investigations": [
+    "Radiograph (lateral neck x-ray)",
+    "“Thumb sign” appearance of the enlarged epiglottitis",
+    "Ultrasound",
+    "Microbiology"
+  ],
+  "treatment": {
+    "goals": [
+      "Safeguard airway",
+      "Control infection"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Amoxicillin/Clavulanic acid: Adult 625 mg - 1g 12 hourly for 7 - 10 days, Children 80-90 mg/kg 12 hourly (high dose)",
+      "Cefuroxime: Adult 250 mg orally every 12 hours for 5 – 10 days, Child: 125 mg orally every 12 hours for 5 – 10 days",
+      "Ceftriaxone: Adult 500mg – 1 g 12 hourly IM/IV for 5 – 10 days, Child: neonate, infuse over 60mins, 20 – 50 mg/kg daily, Child under 50 kg: 20 -50 mg/kg daily by deep IM injection or by IV injection over 2 – 4 minutes or by IV infusion; up to 80 mg/kg daily in severe infections"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Cefuroxime: avoid in pregnancy and in patients with renal impairment",
+      "Ceftriaxone: rashes, fever, GIT disturbances",
+      "Dose reduction in the elderly patients with renal impairment"
+    ],
+    "supportive_measures": [
+      "Oxygen",
+      "Steam inhalation",
+      "Nasotracheal intubation may be necessary (Caution: laryngeal spasm during intubation)",
+      "Maintain adequate caloric intake and hydration"
+    ]
+  },
+  "differential_diagnoses": [
+    "Laryngotracheitis or spasmodic croup",
+    "Uvulitis",
+    "Bacterial tracheitis",
+    "Peritonsillar or retropharyngeal abscesses",
+    "Foreign body lodged in the larynx",
+    "Angioedema",
+    "Upper airway congenital anomalies",
+    "Diphtheria"
+  ],
+  "complications": [
+    "Airway obstruction",
+    "Epiglottic abscess",
+    "Secondary infection",
+    "Necrotizing epiglottitis (rare, in immunodeficiency)",
+    "Death"
+  ],
+  "prevention": [
+    "Haemophilus influenza vaccine: Child 2 months – 18 years: 0.5 mls, Should be part of childhood immunization"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

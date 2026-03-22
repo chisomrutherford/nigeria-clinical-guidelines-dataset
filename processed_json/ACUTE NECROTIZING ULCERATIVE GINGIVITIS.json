@@ -1,0 +1,63 @@
+{
+  "condition_name": "Acute Necrotizing Ulcerative Gingivitis",
+  "condition_slug": "acute-necrotizing-ulcerative-gingivitis",
+  "source": "NSTG 2022",
+  "introduction": "A polymicrobial, endogenous infection",
+  "clinical_features": [
+    {
+      "type": "clinical",
+      "features": [
+        "Crater ulcers starting at the tips of the interdental papillae",
+        "Ulcers spread along gingival margins",
+        "Gingival soreness and bleeding",
+        "Foul breath",
+        "Metallic taste",
+        "Increased salivation",
+        "Cervical lymphadenopathy and fever in advanced cases"
+      ]
+    }
+  ],
+  "investigations": [
+    "Smears from ulcers show predominantly spirochaetes and gram-negative fusiform bacteria"
+  ],
+  "treatment": {
+    "goals": [
+      "Treat infection",
+      "Restore oral health"
+    ],
+    "non_drug": [
+      "Oral hygiene (debridement) is essential"
+    ],
+    "drug": [
+      "Metronidazole - Adult: 200 mg orally 8 hourly for 3 days",
+      "Metronidazole - Child: 1-3 years: 50 mg orally every 8 hours for 3 days",
+      "Metronidazole - Child: 3-7 years: 100 mg every 12 hours for 3 days",
+      "Metronidazole - Child: 7-10 years: half adult dose"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Metronidazole: nausea, vomiting, unpleasant taste; disulfiram-like reaction with alcohol"
+    ],
+    "supportive_measures": [
+      "Ascorbic acid - Adult: not less than 250 mg orally daily (in divided doses)",
+      "Ascorbic acid - Child: 1 month - 4 years: 125 - 250 mg in 1-2 divided doses",
+      "Ascorbic acid - Child: 4-12 years: 250-500 mg daily in 1-2 divided doses",
+      "Ascorbic acid - Child: 12-18 years 500 mg - 1 g daily in 1-2 divided doses",
+      "Ferrous sulphate - Adult: 200 mg orally three times daily taken before food",
+      "Ferrous sulphate - Child 6-12 years: half adult dose"
+    ]
+  },
+  "differential_diagnoses": [
+    "Primary herpetic gingivo-stomatitis",
+    "HIV-associated acute ulcerative gingivitis",
+    "Gingival ulceration in acute leukaemia or aplastic anaemia"
+  ],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "Rehabilitation of the mouth",
+    "Once the acute phase has subsided, oral hygiene should be brought to as high a standard as possible to lessen the risk of recurrence",
+    "Sequestrectomy"
+  ],
+  "prognosis": null
+}

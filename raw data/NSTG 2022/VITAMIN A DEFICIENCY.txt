@@ -1,0 +1,113 @@
+VITAMIN A DEFICIENCY 
+Introduction 
+Vitamin A was the first fat-soluble vitamin to be discovered. It comprises a family of compounds called the retinoids. In nature, the active retinoids occur in 3 forms - Alcohol (retinol), aldehyde (retinal or retinaldehyde) and acid (retinoic acid).
+In the human body, retinol is the predominant form, and 11-cis-retinol is the active form.
+Retinol-binding protein (RBP) binds vitamin A and regulates its absorption and metabolism Vitamin A is essential for:
+Vision (especially dark adaptation), Immune response, Epithelial cell growth and repair, Bone growth. Reproduction. Maintenance of the surface linings of the eyes and Embryonic development
+Deficiency of vitamin A is found among malnourished children, the elderly, and chronically ill populations in the United States, but it is more prevalent in developing countries.
+Among the first signs of vitamin A deficiency (VAD) are:
+▪ Abnormal dark adaptation
+▪ Dry skin and dry hair
+▪ Broken fingernails
+▪ Decreased resistance to infections
+*Epidemiology*
+▪ Each year 250,000 - 500,000 children become blind because of VAD
+▪ Improving the vitamin A status of children (aged 6 - 59 months) with deficiencies can reduce rates of death from measles by 50%; from diarrhoea by 33%, and from of all causes of mortality by 23%
+*Pathophysiology*
+*Vitamin A deficiency may be secondary to:*
+▪ Decreased ingestion
+▪ Defective absorption and altered metabolism
+▪ Increased requirements
+▪ An adult liver can store up to a year's reserve of vitamin A, whereas a child's liver may have enough stores to last only several weeks
+▪ Serum retinol concentration reflects an individual's vitamin A status
+▪ Because serum retinol is homeostatically controlled, its levels do not drop until the body's stores are significantly limited
+▪ The serum concentration of retinol is affected by several factors:
+  - Synthesis of retinol binding protein in the liver
+· Infection
+· Nutritional status
+· Adequate levels of other nutrients such as zinc and iron
+
+Recommended Daily Allowance
+■ Infant (1 year or younger) 375 µg
+■ Child 1 - 3 years 400 µg
+■ Child 4 - 6 years 500 µg
+■ Child 7 - 10 years 700 µg
+■ All males older than 10 years 1000 µg
+■ All females older than 10 years 800 µg
+
+AETIOLOGY OF VITAMIN A DEFICIENCY 
+■ Malnutrition (the commonest cause of VAD in this part of the world)
+■ Inadequate intake
+■ Measles infection
+■ Increased risk of deficiency in: Fat malabsorption, Cystic fibrosis, Tropical
+   sprue, Pancreatic insufficiency
+■ Inflammatory bowel disease, cholestasis, small bowel bypass surgery,
+   vegans, refugees, recent immigrants
+■ Alcoholism, toddlers and pre-school children living below the poverty line
+
+CLINICAL FEATURES OF VITAMIN A DEFICIENCY 
+■ VAD may be asymptomatic
+■ Increased risk of respiratory and diarrhoeal infections
+■ Decreased growth rate
+■ Retarded bone development
+■ Increased fatigue as a manifestation of VAD anaemia
+■ Bitot spots
+■ Poor dark adaptation (nyctalopia)
+■ Dry skin, Dry hair, pruritus, broken fingernails, Keratomalacia
+■ Xerophthalmia
+■ Follicular hyperkeratosis (phrynoderma) from blockage of hair follicles
+   with plugs of keratin
+■ Excessive deposition of periosteal bone secondary to reduced osteoclastic
+   activity
+■ Anaemia
+■ Keratinization of mucous membranes
+
+DIFFERENTIAL DIAGNOSES OF VITAMIN A DEFICIENCY 
+■ Cataract
+■ Refractive errors
+■ Zinc deficiency
+
+COMPLICATIONS OF VITAMIN A DEFICIENCY 
+■ Blindness
+■ Corneal ulceration
+
+INVESTIGATIONS OF VITAMIN A DEFICIENCY 
+■ Serum retinol: Costly but is a direct measure. A value of less than 0.7mg/L
+   in children younger than 12 years is considered low
+- Serum RBP: Easier and less expensive to perform than retinol. Less accurate because levels are affected by serum protein concentrations; types of RBP cannot be differentiated
+- Serum zinc: Useful because zinc deficiency interferes with RBP production
+- Iron panel: Useful because iron deficiency can affect the metabolism of vitamin A
+- Serum albumin: Levels are indirect measures of levels of vitamin A
+- Full Blood Count with differentials: If anaemia, infection, or sepsis is a possibility
+- Serum electrolytes
+- Liver function tests: To evaluate nutritional status
+- Radiographs of the long bones: To evaluate bone growth and excessive deposition of periosteal bone
+- Clinical testing for dark-adaptation threshold
+
+TREATMENT OF VITAMIN A DEFICIENCY 
+Treatment Goals
+- Reduce morbidity
+- Prevent Complications
+- Treat Complications
+
+Non-drug Treatment
+- Eat foods rich in vitamin A: Liver, Beef, Chicken, Eggs, Whole milk; fortified milk, Carrots, Mangoes, Orange fruits, Sweet potatoes, Spinach, Green vegetables
+- At least 5 servings of fruits and vegetables per day is recommended to provide a comprehensive distribution of carotenoids
+
+Drug Treatment
+Daily oral supplements of vitamin A
+- Adult: all ages 3,000 microgram (10,000 IU) orally once daily. Severe disease: 60,000 microgram (200,000 IU) orally for a minimum of 2 days has been shown to reduce child mortality rates by 35 - 70%
+- Child:
+  - Less than, or 3 years: 600 microgram (2,000 IU) orally once daily
+  - 4 - 8years: 900 microgram (3,000 IU) orally once daily
+  - 9-13 years 1,700 microgram (5,665 IU) orally once daily
+  - 14 - 18 years: 2,800 microgram (9,335 IU) orally once daily
+
+Notable Adverse Drug Reactions, Contraindications and Caution
+- Risk of teratogenicity increases in pregnant women at doses >800 µg/day (not recommended at these doses)
+- Contraindicated in: Documented hypersensitivity, hypervitaminosis A
+- Parenteral vitamin A in infants of low birth weight may be associated with: Thrombocytopenia, Renal dysfunction, Hepatomegaly, Cholestasis, Ascites, Hypotension, Metabolic acidosis (E-Ferol syndrome)
+
+Prevention
+- Eat foods rich in vitamin A, in adequate amounts
+- Family and community health education

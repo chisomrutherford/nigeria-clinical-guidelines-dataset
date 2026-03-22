@@ -1,0 +1,62 @@
+{
+  "condition_name": "Amoebiasis",
+  "condition_slug": "amoebiasis",
+  "source": "NSTG 2022",
+  "introduction": "A common parasitic infection of the gastrointestinal system caused by the protozoan Entamoeba histolytica Acquired through faeco-oral transmission.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Mucoid/bloody diarrhoea",
+        "Abdominal pain",
+        "Fever/chills"
+      ]
+    }
+  ],
+  "investigations": [
+    "Fresh Stool Microscopy for cysts and trophozoites",
+    "Serology",
+    "Chest radiograph",
+    "Abdominal ultrasound scan"
+  ],
+  "treatment": {
+    "goals": [
+      "Eradicate the protozoa",
+      "Supportive care"
+    ],
+    "non_drug": [
+      "Ultrasound-Guided Aspiration, to prevent spontaneous rupture."
+    ],
+    "drug": [
+      "Metronidazole - Adult: 800 mg 8 hourly for 5 days - Child: 30 mg/kg/day in 3 divided doses for 5 days",
+      "Tinidazole - Adult: 2 g daily orally for 3 days (with food) - Child: 50-60 mg/kg daily for 3 days",
+      "Secnidazole - Adult: 1.5 g – 2 g statim",
+      "Metronidazole - Adult: 800 mg 8 hourly for 10 days - Child: 50 mg/kg/day in 3 divided doses for 7-10 days",
+      "Tinidazole - Adult: 2 g daily orally for 3 days (with food) - Child: 50-60 mg/kg daily for 5 days",
+      "Diloxanide furoate - Adult: 500 mg every 8 hours for 10 days - Child: over 25 kg: 20 mg/kg orally every 8 hours for 10 days - under 25 kg ( I month – 12 years) 6.6 mg/kg every 8 hours for 8 - 10 days - 12 years - 18 years: 500 mg every 8 hours for 10 days"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Metronidazole is contraindicated in the first trimester of pregnancy.",
+      "Avoid alcohol with the use of metronidazole"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Amoebic Liver Abscess (ALA)",
+    "Intracranial space-occupying lesion",
+    "Rupture:Hepatobronchial amoebiasis, Lungs Abscess, Peritoneal Abscess",
+    "Amoeboma",
+    "Anal ulceration",
+    "Amoebic cutis",
+    "Chronic carrier"
+  ],
+  "prevention": [
+    "Personal and communal hygiene",
+    "Potable water, sanitary disposal of faeces",
+    "Screen of food handlers"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

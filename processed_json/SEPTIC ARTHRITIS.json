@@ -1,0 +1,61 @@
+{
+  "condition_name": "Septic Arthritis",
+  "condition_slug": "septic-arthritis",
+  "source": "NSTG 2022",
+  "introduction": "Septic arthritis is accompanied by articular manifestation due to presence of pathogen within a joint. Mostly due to bacteria, but can also be due to fungal, viral, or protozoan agent, rickettsia. Two major entities: gonococcal and non-gonococcal. Staphylococcus aureus is the commonest organism but other organisms as well viz Streptococci, pseudomonas, anaerobes. Joint infection mostly as a result of haematogenous seeding during a bacteriaenic episode. May also occur secondary to penetrating cutaneous trauma. Uncommonly iatrogenic from local corticosteroid joint injection. Risk factors include extremes of life (very young and persons above 80yrs), therapies with immunosuppressive or cytotoxic agents, immunosuppression due to HIV, chronic renal failure, hypogammaglobulinaemia, diabetes mellitus, previous intra-articular steroid, osteoarthritis, alcoholism, intravenous drug use, haemoglobinopathies, trauma to the joint, rheumatoid arthritis, SLE.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Usually mono-articular",
+        "Acutely swollen joint",
+        "Joint hot to touch, extremely painful",
+        "Tenderness on palpation and movement",
+        "High fever",
+        "Rigors, diaphoresis"
+      ]
+    }
+  ],
+  "investigations": [
+    "Haematocrit, white blood cell count and differentials",
+    "Joint aspirate – microscopy, culture and sensitivity",
+    "Blood culture",
+    "ESR, CRP",
+    "X-ray of affected joints",
+    "CT, MRI"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "NSAIDs",
+      "Surgical: daily needle aspiration, open drainage, arthroscopic debridement with lavage"
+    ],
+    "drug": [
+      "Antibiotic treatment depending on bacteria isolated",
+      "Cloxacillin or flucloxacillin - 25 mg/kg up to 1 g by IV every 6 hours",
+      "Vancomycin - for MRSA 0.5 - 2 g/day orally divided every 6 - 8 hours",
+      "Ceftriaxone1-2 g once daily (IM or IV) for suspected gonococcus or meningococcus"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": [
+      "Intravenous therapy for 10 -14 days and then oral antibiotics for up to 6 weeks"
+    ]
+  },
+  "differential_diagnoses": [
+    "Gout and pseudogout",
+    "Reactive arthritis, haemarthrosis – possibly from aspirin",
+    "Osteoarthritis",
+    "Intra articular injury",
+    "Osteonecrosis",
+    "Metastatic carcinoma",
+    "Fracture around the joint"
+  ],
+  "complications": [
+    "Septicaemia",
+    "Joint ankylosis"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

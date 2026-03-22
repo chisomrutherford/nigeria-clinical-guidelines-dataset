@@ -1,0 +1,43 @@
+{
+  "condition_name": "Cutaneous Squamous Cell Carcinoma",
+  "condition_slug": "cutaneous-squamous-cell-carcinoma",
+  "source": "NSTG 2022",
+  "introduction": "This is the second most common skin cancer, mostly located in the head and neck region.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Shallow ulcers with elevated margins, pain, bleeding",
+        "Local invasion or distant metastases"
+      ]
+    }
+  ],
+  "investigations": [
+    "Wedge biopsy for histopathological analysis",
+    "Plain x-ray",
+    "CT scan",
+    "MRI"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [],
+    "drug": [],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Recurrent bleeding",
+    "joint stiffness",
+    "muscle weakness",
+    "perineural invasion"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "Surgical excision with clear margins",
+    "radiotherapy",
+    "chemotherapy"
+  ],
+  "prognosis": null
+}

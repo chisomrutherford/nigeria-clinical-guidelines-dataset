@@ -1,0 +1,110 @@
+{
+  "condition_name": "Snake Bite",
+  "condition_slug": "snake-bite",
+  "source": "NSTG 2022",
+  "introduction": "A neglected tropical disease. In Africa, snake bite often occurs among farmers who walk unshod, and occasionally occur around homes when snakes are accidentally stepped upon.",
+  "clinical_features": [
+    {
+      "type": "General",
+      "features": [
+        "Depends on the type of snake, location of bite and promptness of intervention",
+        "Local effects include Pain, swelling, bruising, tender enlargement of regional lymph nodes",
+        "Systemic effects:",
+        "Early anaphylactoid symptoms",
+        "Transient hypotension with syncope",
+        "Angioedema and urticaria",
+        "Abdominal colic",
+        "Diarrhoea",
+        "Vomiting",
+        "Late persistent or recurrent hypotension",
+        "Electrocardiograph abnormalities",
+        "Spontaneous systemic bleeding",
+        "Coagulopathy",
+        "Adult respiratory distress syndrome",
+        "Acute renal failure"
+      ]
+    },
+    {
+      "type": "Viperidae and Crotalidae",
+      "features": [
+        "Local and systemic bleeding, impairment of organ function, reduction of cardiac output, inhibition of peripheral nerve impulses",
+        "Multisystem effects: Rhabdomyolysis, Haemolysis, Blood vessel damage"
+      ]
+    },
+    {
+      "type": "Elapidae",
+      "features": [
+        "Neurotoxic effects"
+      ]
+    },
+    {
+      "type": "Complications",
+      "features": [
+        "Snake bite wounds may become secondarily infected with: Clostridium tetani, causing tetanus, Clostridium welchii, causing gas gangrene"
+      ]
+    }
+  ],
+  "investigations": [
+    "FBC and differentials",
+    "Test for haemostasis (20 Minute Whole Blood Clotting Test)",
+    "Electrolytes and Urea",
+    "Blood clotting profile",
+    "Arterial blood gas estimation",
+    "Chest radiograph",
+    "Wound and blood cultures"
+  ],
+  "treatment": {
+    "goals": [
+      "Neutralize envenomation",
+      "Limit systemic effects",
+      "Local wound care",
+      "Prevent onset of Complications"
+    ],
+    "non_drug": [
+      "Move the victim to safety from area where they may have been bitten",
+      "Reassure the patient (only 50% of the bites by venomous snakes cause envenoming)",
+      "Remove constricting clothing, rings, shoes, bracelets, bands from the bitten limb",
+      "Immobilize the whole patient, especially the bitten limb, using a splint or sling",
+      "Transport the patient to the hospital as quickly and passively as possible",
+      "Avoid harmful practices: never attempt to suck out or aspirate the poison, do not make incisions, never attempt to catch the snake, a tight arterial tourniquet should never be used)",
+      "Assess and observe the patient for at least 24 hours",
+      "Identification of the snake would help in the choice of anti-venom (where specific anti-venoms are available)",
+      "Wound debridement and fasciotomy for compartment syndrome may become necessary"
+    ],
+    "drug": [
+      "Intravenous fluid administration to maintain circulation: use colloids or crystalloids as clinically appropriate",
+      "Anti-venom: Usually polyvalent anti-venoms are used, but where specific species are identified, a monospecific anti-venom may be used",
+      "No dose difference between adult and child in terms of dosage. Contents of the anti-venom vial diluted in sodium chloride 0.9% intravenous infusion, and infused intravenously over 30 minutes",
+      "Prophylactic antibiotics as appropriate",
+      "Tetanus prophylaxis"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Early reactions (3 - 60 minutes): Cough, tachycardia, itching, urticarial, fever, nausea, vomiting, headache",
+      "Treatment of anaphylaxis with antihistamines (H blockers), epinephrine (adrenaline) and corticosteroids",
+      "Pyrogenic reactions; due to pyrogen contamination of anti-venom during manufacture - begins 1-2 hours after treatment and characterized by fever and chills",
+      "Tepid sponging and administration of paracetamol are useful",
+      "Late reactions: Occurs 5 - 24 days (average 7 days) following anti-venom - Characterized by itching, urticaria, fever, arthralgia, periarticular swellings, proteinuria and sometimes neurological symptoms",
+      "Antihistamines are used for milder attacks, but in severe cases, including those with neurological symptoms, a short course of prednisolone should be used"
+    ],
+    "supportive_measures": [
+      "Cardiopulmonary resuscitation may be necessary: clearing of the airway, oxygen administration by face mask or nasal cannula, intravenous access to allow treatment of shock with intravenous fluids"
+    ]
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Local and systemic bleeding",
+    "Impairment of organ function",
+    "Reduction of cardiac output",
+    "Inhibition of peripheral nerve impulses",
+    "Rhabdomyolysis",
+    "Haemolysis",
+    "Blood vessel damage",
+    "Neurotoxic effects",
+    "Secondary infection with Clostridium tetani",
+    "Secondary infection with Clostridium welchii"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

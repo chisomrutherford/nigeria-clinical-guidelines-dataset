@@ -1,0 +1,67 @@
+{
+  "condition_name": "Pancreatitis",
+  "condition_slug": "pancreatitis",
+  "source": "NSTG 2022",
+  "introduction": "Inflammation of the pancreas could be acute or chronic",
+  "clinical_features": [
+    {
+      "type": "Acute pancreatitis",
+      "features": [
+        "Epigastric pain which may radiate to the back.",
+        "Nausea, vomiting, abdominal distension, severe abdominal tenderness with features of hypovolaemia in severe cases",
+        "Cullen's sign",
+        "Grey-Turner's sign"
+      ]
+    }
+  ],
+  "investigations": [
+    "Serum amylase.",
+    "Serum lipase.",
+    "Alanine aminotransferase (ALT).",
+    "Abdominal USS",
+    "Plain Abdominal X-ray",
+    "CT scan.",
+    "ERCP, after recovery",
+    "Magnetic Resonance Cholangiopancreatography (MRCP)."
+  ],
+  "treatment": {
+    "goals": [
+      "Relieve pain",
+      "Treatment and Prevention of Complications",
+      "Address precipitant eg gallstones, drugs etc."
+    ],
+    "non_drug": [],
+    "drug": [
+      "Analgesics",
+      "Paracetamol 500mg tds.",
+      "Ibuprofen 400mg bd",
+      "Codeine sulphate"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Avoid narcotic analgesics"
+    ],
+    "supportive_measures": [
+      "Bed rest",
+      "Nil per oral (NPO).",
+      "Hydration",
+      "Fluid intake/output",
+      "Nasogastric tube suctioning.",
+      "Prevent, identify and treat Complications"
+    ]
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Hypovolaemic shock",
+    "Multiple organ failure syndrome",
+    "Acute renal and respiratory failure",
+    "Abscess",
+    "Phlegmons",
+    "Gastrointestinal bleeding",
+    "Electrolyte imbalance (hypo & hypercalcaemia)",
+    "Pancreatic pseudocysts"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

@@ -1,0 +1,45 @@
+{
+  "condition_name": "Coronary Artery Disease",
+  "condition_slug": "coronary-artery-disease",
+  "source": "NSTG 2022",
+  "introduction": "A condition due to imbalance in oxygen demand and supply resulting predominantly from atherosclerotic disease of the coronary artery. Its incidence is on the rise in Nigeria as a result of epidemiologic transition from communicable to non-communicable diseases.",
+  "clinical_features": [
+    {
+      "type": "Risk Factors",
+      "features": [
+        "Diabetes mellitus",
+        "Hypertension",
+        "Cigarette smoking",
+        "Obesity",
+        "Dyslipidaemia",
+        "Advanced aging",
+        "Male gender",
+        "Sedentary lifestyle",
+        "Stressful lifestyle"
+      ]
+    },
+    {
+      "type": "Pathogenesis",
+      "features": [
+        "Atherosclerosis is the major underlying pathogenic factor",
+        "Epicardial coronary artery stenosis: ≤ 60% occlusion is compensated for at rest",
+        "60%-90% occlusion causes ischaemia when there is increased oxygen demand",
+        "90% occlusion results in ischaemia even at rest"
+      ]
+    }
+  ],
+  "investigations": [],
+  "treatment": {
+    "goals": [],
+    "non_drug": [],
+    "drug": [],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

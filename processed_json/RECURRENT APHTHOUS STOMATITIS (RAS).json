@@ -1,0 +1,66 @@
+{
+  "condition_name": "Recurrent Aphthous Stomatitis (RAS)",
+  "condition_slug": "recurrent-aphthous-stomatitis-ras",
+  "source": "NSTG 2022",
+  "introduction": "Recurrent Aphthous Stomatitis is the most common ulcerative disease affecting the oral mucosa. It occurs mostly in healthy individuals and has atypical clinical presentation in immunocompromised individuals. The aetiology of RAS is still unknown, but several local, systemic, immunologic, genetic, allergic, nutritional, and microbial factors, as well as immunosuppressive drugs, have been proposed as causative agents.",
+  "clinical_features": [
+    {
+      "type": "Minor",
+      "features": [
+        "Gender predilection: M=F",
+        "Age of onset (yrs): 5–19",
+        "Number of ulcers: 1–5",
+        "Size of ulcers (mm): <10",
+        "Duration (days): 4–14",
+        "Recurrence (months): 1–4",
+        "Site predilection: Floor mouth",
+        "Permanent scarring: Unusual"
+      ]
+    },
+    {
+      "type": "Major",
+      "features": [
+        "Gender predilection: M=F",
+        "Age of onset (yrs): 10–19",
+        "Number of ulcers: 1–10",
+        "Size of ulcers (mm): >10",
+        "Duration (days): >30",
+        "Recurrence (months): <1",
+        "Site predilection: Lips, palate",
+        "Permanent scarring: Common"
+      ]
+    },
+    {
+      "type": "Herpetiform",
+      "features": [
+        "Gender predilection: M>F",
+        "Age of onset (yrs): 20–29",
+        "Number of ulcers: 10–100",
+        "Size of ulcers (mm): 1–2 (larger if coalesced)",
+        "Duration (days): <30",
+        "Recurrence (months): <1",
+        "Site predilection: Pharynx, floor mouth"
+      ]
+    }
+  ],
+  "investigations": [],
+  "treatment": {
+    "goals": [],
+    "non_drug": [],
+    "drug": [
+      "Triamcinolone acetonide in dental paste 0.1%; Disp. 5-g tube; Sig. coat the lesion with a thin film after each meal and at bedtime.",
+      "Dexamethasone oral solution or elixir 0.5 mg/5 ml; disp. 240 ml; Sig. rinse with 1 teaspoon (5 ml) for 2 min, four times a day and expectorate. Do not eat or drink for 30 min after rinsing",
+      "Fluocinonide 0.05% gel; Disp. 15-g tube; Sig. Apply a thin layer to the ulcer after meals and at bedtime"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Prolonged use of topical steroids (longer than 2 weeks of continuous use) may result in mucosal atrophy and secondary candidiasis and may increase the potential for systemic absorption. It may be necessary to prescribe antifungal therapy with steroids use in some patients"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

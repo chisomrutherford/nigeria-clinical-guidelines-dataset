@@ -1,0 +1,71 @@
+{
+  "condition_name": "Peripheral Vascular Disease",
+  "condition_slug": "peripheral-vascular-disease",
+  "source": "NSTG 2022",
+  "introduction": "Chronic and progressive disease due to the atherosclerotic narrowing of the peripheral blood vessels. Commonly affects the peripheral arteries of the legs. Others peripheral vessels that may be affected are that of stomach, arms or head.",
+  "clinical_features": [
+    {
+      "type": "features",
+      "features": [
+        "Hair loss on the feet and legs and brittle toenails",
+        "Intermittent claudication",
+        "Numbness in the legs.",
+        "Sores or ulcers on the legs and feet that take a long time to heal",
+        "Difficulty in finding a pulse in the leg or foot.",
+        "Erectile dysfunction"
+      ]
+    }
+  ],
+  "investigations": [
+    "Ankle Brachial Index(ABI)",
+    "A pulse volume record",
+    "A vascular ultrasound"
+  ],
+  "treatment": {
+    "goals": [
+      "To reduce cardiovascular risk",
+      "To manage symptoms",
+      "To prevent limb loss."
+    ],
+    "non_drug": [
+      "Lifestyle modifications (cessation of smoking, exercise, healthy diet, care of feet)",
+      "Management of conditions, such as diabetes and high blood pressure"
+    ],
+    "drug": [
+      "Antiplatelet: Low-dose aspirin 81 to 325 mg/day",
+      "Clopidogrel 75 mg daily is an alternative",
+      "Anticoagulant: heparin and warfarin are anticoagulant medications.",
+      "Phosphodiesterase III inhibitor: Cilostazol: 100 mg twice daily",
+      "Pentoxifylline: (To improves blood flow to the extremities)",
+      "Antihypertensives may to prevent strokes and heart attacks"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Headache, diarrhoea, and dizziness."
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Deep venous thrombosis (DVT)",
+    "Lumbar (intervertebral) disk disorders",
+    "Mechanical back pain",
+    "Septic thrombophlebitis",
+    "Superficial thrombophlebitis"
+  ],
+  "complications": [
+    "Amputation",
+    "Poor wound healing.",
+    "Restricted mobility due to pain or discomfort.",
+    "Severe pain in the affected extremity.",
+    "Stroke"
+  ],
+  "prevention": [
+    "Advice against smoking, high cholesterol and high blood pressure"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "Revascularisation",
+    "Angioplasty",
+    "Artery by pass graft"
+  ],
+  "prognosis": null
+}

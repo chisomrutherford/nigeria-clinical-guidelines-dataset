@@ -1,0 +1,82 @@
+{
+  "condition_name": "Chronic Lymphocytic Leukaemia",
+  "condition_slug": "chronic-lymphocytic-leukaemia",
+  "source": "NSTG 2022",
+  "introduction": "Neoplastic proliferations of mature lymphocytes. The diseases involve the blood bone marrow and other tissues. Characterized by accumulation of small mature-looking CD5+ B lymphocytes in the blood, marrow and lymphoid tissues. B-cell disorders are more common B-cell CLL is more common in males than females • Accounts for 60% of cases • Rarely diagnosed below the age of 40 years",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Asymptomatic (30% of cases)",
+        "Symptoms of anaemia",
+        "Lymph node enlargement (painless)",
+        "Rare: pyrexia, sweating or weight loss",
+        "Severe chest infection/pneumonia",
+        "Splenomegaly (50% of cases)",
+        "Hepatomegaly (not frequent)"
+      ]
+    }
+  ],
+  "investigations": [
+    "Cell morphology:",
+    "Size",
+    "Nuclear: cytoplasmic (N: C) ratio",
+    "Regularity or irregularity of the nuclear outline",
+    "Characteristics of the cytoplasm (presence and length or absence of azurophil granules)",
+    "Degree of nuclear chromatin condensation and its pattern",
+    "Prominence, frequency and localization of the nucleolus",
+    "As for anaemia and other leukaemias"
+  ],
+  "treatment": {
+    "goals": [
+      "Induce remission to achieve complete remission",
+      "Maintain disease-free state"
+    ],
+    "non_drug": [
+      "Appropriate nutrition",
+      "Adequate hydration",
+      "Maintenance of electrolyte balance",
+      "Bone marrow transplant",
+      "Red cell and platelet concentrate transfusion as required"
+    ],
+    "drug": [
+      "Allopurinol 100 mg orally every 8 hours",
+      "Chlorambucil 5 mg/ml orally on days 1 to 3",
+      "Prednisolone 75 mg orally on day 1; 50 mg orally on day 2 and 25 mg orally on day 3",
+      "Repeat every 2 weeks",
+      "Fludarabine 25 - 30 mg intravenously over 30 minutes on days 1-5",
+      "Repeat every 4 weeks",
+      "Combination chemotherapy Cyclophosphamide 400 mg/m2",
+      "Vincristine 1.4 mg/m2",
+      "Prednisolone 100 mg orally days 1 - 5 Repeat every 3 weeks",
+      "Fludarabine 30 mg/m2 intravenously over 30 minutes on days 1 - 3",
+      "Cyclophosphamide 250 - 300 mg/m2 intravenously over 30 minutes on days 1 - 3",
+      "Repeat every 4 weeks"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Same as for other leukaemias"
+    ],
+    "supportive_measures": [
+      "Appropriate nutrition",
+      "Adequate hydration"
+    ]
+  },
+  "differential_diagnoses": [
+    "Low grade non-Hodgkin's lymphomas with frequent blood and bone marrow involvement (leukaemia / lymphoma syndromes)",
+    "Tuberculosis",
+    "Viral infections",
+    "Toxoplasmosis"
+  ],
+  "complications": [
+    "Richter transformation",
+    "Progression of disease"
+  ],
+  "prevention": [
+    "Avoid chemicals on body (e.g. benzene)",
+    "Avoid ionizing radiation (X rays)",
+    "Early detection and treatment"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

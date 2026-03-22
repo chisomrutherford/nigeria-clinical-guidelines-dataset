@@ -1,0 +1,45 @@
+{
+  "condition_name": "Hyperglycemia in a Child",
+  "condition_slug": "hyperglycemia-in-a-child",
+  "source": "NSTG 2022",
+  "introduction": "Random blood glucose of >8.0 mmol/L. Preterm infants particularly when treated with 10% dextrose infusion or total parenteral nutrition are prone to it. Hypothermia, sepsis, post-operative cases, neonatal diabetes (transient or persistent) are also associated.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Persistent dehydration with glycosuria",
+        "Transient diabetes is suspected among infants with wasting or intra-uterine growth restriction who develop hyperglycaemia whilst on enteral feeds."
+      ]
+    }
+  ],
+  "investigations": [],
+  "treatment": {
+    "goals": [
+      "Target blood glucose 100 - 180 mg/dL (5.5 - 9.9 mmol/L)"
+    ],
+    "non_drug": [
+      "Reduce the concentration of dextrose in infusion.",
+      "Calculate the GIR glucose rate; if > 12 mg/kg/min: Reduce GIR and rate of flow"
+    ],
+    "drug": [
+      "Insulin 0.05 - 0.1 IU/kg/hour should be commenced if RBG remains above 10 mmol/L with glycosuria despite reduction of glucose concentration in infusion.",
+      "Starting dose of insulin infusion 0.05-0.1 U/kg/hr"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Avoid hypoglycaemia",
+      "Do not flush insulin infusion"
+    ],
+    "supportive_measures": [
+      "Blood glucose > 180 mg/dL (>10 mmol/L) with glucometer then recheck",
+      "Confirm with a whole blood measurement in the laboratory",
+      "Assess infant for possible underlying cause and treat, including sepsis, excess glucose intake, other illnesses, exogenous corticosteroids or inotropes",
+      "Initially glucose should be monitored every 30 min for first hour, hourly thereafter, once glucose stabilized measure 4hourly"
+    ]
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

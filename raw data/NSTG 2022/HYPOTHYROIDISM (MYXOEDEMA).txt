@@ -1,0 +1,93 @@
+HYPOTHYROIDISM (MYXOEDEMA)
+Introduction
+A state of subnormal concentration of thyroid hormones in the circulation is
+called hypothyroidism. The extreme form of hypothyroidism is referred to as
+myxoedema.
+Aetiology
+May be primary or secondary
+・ Primary hypothyroidism more common
+- Probably an autoimmune disease; may occur as a sequel to Hashimoto's
+thyroiditis
+- Post therapeutic hypothyroidism (medical or surgical)
+・ Secondary hypothyroidism:
+- Occurs when there is failure of the hypothalamic-pituitary axis due to
+- Deficient secretion of TRH from the hypothalamus
+Or:
+- Lack of secretion of TSH from the pituitary
+
+CLINICAL FEATURES OF HYPOTHYROIDISM 
+Usually quite subtle, with an insidious onset
+・ Adults:
+- Dull facial expression, slow speech and poor memory
+- Puffiness of the hands, feet and face
+- Lethargy and fatigue
+- Thinning, dryness and loss of hair
+- Hypothermia
+- Bradycardia,reduced systolic and increased diastolic blood pressure
+- Weight gain
+- Decreased reflexes
+- Constipation
+- Menstrual abnormalities
+・ Infants:
+- Mental and physical retardation
+- If not corrected, cretinism
+
+DIFFERENTIAL DIAGNOSES OF HYPOTHYROIDISM 
+・ Endogenous depression
+・ Reactive depression
+
+COMPLICATIONS OF HYPOTHYROIDISM 
+・ Myxoedema coma in adults and cretinism in the young
+
+INVESTIGATIONS OF HYPOTHYROIDISM 
+・ Total serum T3 and T4 levels
+・ TSH stimulation test
+・ TRH test
+
+TREATMENT OF HYPOTHYROIDISM 
+Treatment Goals
+・ Establish cause
+・ Establish the severity of hypothyroidism
+・ Restore normal body functions
+・ Prevent Complications
+Drug Treatment
+Replacement therapy
+・ Levothyroxine sodium (thyroxine sodium)
+- Adult: initially 20 - 100 μg (50 μg for those over 50 years) orally, daily,
+preferably before breakfast. Adjusted in steps of 50 μg every 3 - 4 weeks
+until TSH normalises (usually 100 - 200 μg daily)
+- Child:
+- 1 month - 2 years: initially 15 μg/kg orally once daily, adjusted in steps
+of 25 μg daily every 2 - 4 weeks until metabolism normalizes
+- 2 - 12 years: initially 5 - 10 μg/kg once daily adjusted in steps of 25 μg
+daily every 2 - 4 weeks until metabolism normalizes
+- 12 - 18 years: initially 50 - 100 μg once daily, adjusted in steps of 50 μg
+daily every 3 - 4 weeks until metabolism normalizes (usual dose 100 -
+200 μg daily
+Or:
+・ Liothyronine sodium (1-tri-iodothyronine sodium)
+- Adult initially 10 - 20 μg orally daily, gradually increased to 60 μg daily
+in 2 to 3 divided doses Small initial doses in the elderly
+- In hypothyroid coma: 5 - 20 μg by slow intravenous injection, repeated
+every 12 hours (up to every 4 hours if necessary)
+Alternatively:
+- 50 μg by slow intravenous injection initially then 25 μg every 8 hours,
+reducing to 25 μg daily
+- Child 12 - 18 years: 10 - 20 μg orally daily, gradually increased to 60 μg
+daily in 2 - 3 divided doses
+In hypothyroid coma
+- 1 month - 12 years: 2 - 10 μg by slow intravenous injection every 8
+hours (up to every 4 hours if necessary);
+- Reduce to 1 - 5 μg in patients with cardiovascular disease
+- 12 - 18 years: 5 - 20 μg, repeated every 12 hours (up to every 4 hours if
+necessary)
+- Reduce to 10 - 20 μg in patients with cardiovascular disease
+Supportive Measures
+・ Treat anaemia, constipation and other complications as appropriate
+・ Immediate mechanical ventilation in myxoedema coma
+Notable Adverse Drug Reactions, Contraindications and Caution
+・ Thyroxine should not be used alone for long term replacement therapy
+・ Monitor serum levels of hormones to ensure that patients are not exposed to
+cardiac risks
+Prevention
+・ Iodinated salt to prevent iodine deficiency

@@ -1,0 +1,92 @@
+{
+  "condition_name": "Meningitis",
+  "condition_slug": "meningitis",
+  "source": "NSTG 2022",
+  "introduction": "An infection of the meninges with the presence of pus and inflammatory cells in the cerebrospinal fluid. A medical emergency, associated with considerable morbidity and mortality. May be bacterial (Pneumococcus, Meningococcus, tubercle bacilli, Haemophilus influenzae), viral, fungal, protozoal, neoplastic or chemical. Epidemics occur in the Savannah region and are usually caused by Neisseria meningitidis.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features of Meningitis",
+      "features": [
+        "Neck stiffness and positive Kernig's sign",
+        "High grade fever",
+        "Headache",
+        "Vomiting",
+        "Photophobia with alteration in level of consciousness",
+        "If due to Pneumococcal and H. influenzae infection, additional features are jaundice, pneumonia and heart failure",
+        "Meningococcal infection presents additionally with joint pain, joint swelling, red eyes and skin rash",
+        "Tuberculous infection presents with weight loss, cough with blood in sputum while those with underlying immunosuppression (HIV infection) may manifest severe weight loss, diarrhoea, mouth lesions and skin rash"
+      ]
+    },
+    {
+      "type": "Other Presentations",
+      "features": [
+        "Fever of unknown origin (chronic meningitis)",
+        "Mass lesion with focal neurological deficits (tuberculoma)",
+        "Stroke-like syndrome: resulting from vasculitis",
+        "Uncontrolled seizures (status epilepticus)",
+        "Acute psychosis (Organic Brain Syndrome) and dementia (chronic meningitis and pachymeningitis due to syphilis)"
+      ]
+    }
+  ],
+  "investigations": [
+    "Lumbar puncture for CSF analysis",
+    "Full Blood Count and differentials",
+    "Blood culture",
+    "Erythrocyte sedimentation rate",
+    "Random blood glucose",
+    "Electrolytes, Urea and Creatinine",
+    "Chest radiograph",
+    "Mantoux test (if tuberculosis is suspected)",
+    "HIV screening after voluntary counseling"
+  ],
+  "treatment": {
+    "goals": [
+      "Eliminate the organism",
+      "Reduce raised intracranial pressure",
+      "Correct metabolic derangements",
+      "Treat any complications."
+    ],
+    "non_drug": [
+      "Tepid-sponging to reduce fever",
+      "Attention to calories and fluid/electrolyte balance",
+      "Physiotherapy (for passive muscle exercises)",
+      "Nursing care (e.g., frequent turning and bladder care) to prevent decubitus ulcers and urinary tract infection"
+    ],
+    "drug": [
+      "Initial therapy will depend on the age of the patient and the causative agent, hence should be guided by microbiology results.",
+      "Diazepam (for seizures)",
+      "Vancomycin for suspected Methicillin-resistant Staphylococcus aureus infection (MRSA)",
+      "Intravenous penicillin G with caution due to possible severe anaphylactic reaction",
+      "Furosemide for acute cerebral decompression",
+      "Mannitol 20% solution for acute cerebral decompression",
+      "Rifampicin for chemoprophylaxis during meningococcal epidemics",
+      "Ciprofloxacin for chemoprophylaxis during meningococcal epidemics"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Diazepam: Must be administered slowly intravenously to avoid respiratory depression",
+      "Mannitol extravasation causes inflammation and thrombophlebitis. Contraindicated in congestive cardiac failure and pulmonary oedema"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Subarachnoid haemorrhage",
+    "Cerebral malaria",
+    "Septicaemia with meningism",
+    "Tetanus",
+    "Cerebral venous thrombosis"
+  ],
+  "complications": [
+    "Cranial nerve palsies notably blindness and deafness",
+    "Subdural pus collection (empyema)",
+    "Stroke (from vasculitis)",
+    "Epilepsy",
+    "Syndrome of Inappropriate Anti-Diuretic Hormone secretion (SIADH)"
+  ],
+  "prevention": [
+    "Immunization of close contacts against communicable diseases - Meningococcus, Haemophilus, Streptococcus",
+    "Chemoprophylaxis (rifampicin or ciprofloxacin)"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

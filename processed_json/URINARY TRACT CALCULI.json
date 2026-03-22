@@ -1,0 +1,77 @@
+{
+  "condition_name": "Urinary Tract Calculi",
+  "condition_slug": "urinary-tract-calculi",
+  "source": "NSTG 2022",
+  "introduction": "Occurrence of stone(s) in the kidney, ureter, bladder or urethra. Incidence in Nigeria is 7 - 34 per 100,000. Stones are different with respect to their composition (oxalate stones, phosphate stones, uric acid stones and cystine stones)・ Factors promoting stone formation: - Obstruction to urine outflow - Infection in the urinary tract - Crystallization on foreign bodies - Dehydration - Change in pH - In-born errors of metabolism",
+  "clinical_features": [
+    {
+      "type": "Renal and ureteric stones",
+      "features": [
+        "Sudden onset loin pain radiating to the groin",
+        "Haematuria",
+        "Nausea and vomiting"
+      ]
+    },
+    {
+      "type": "Stones in the bladder",
+      "features": [
+        "Frequency",
+        "Urgency",
+        "Difficulty in passing urine"
+      ]
+    },
+    {
+      "type": "Stones in the urethra",
+      "features": [
+        "Urinary retention"
+      ]
+    }
+  ],
+  "investigations": [
+    "Urinalysis",
+    "Urine culture",
+    "Serum calcium, phosphate and albumin",
+    "Intravenous urography (IVU)",
+    "Ultrasonography",
+    "Computerized tomography (non-contrast enhanced)"
+  ],
+  "treatment": {
+    "goals": [
+      "Relieve symptoms",
+      "Remove stones",
+      "Prevent recurrence"
+    ],
+    "non_drug": [
+      "Increased fluid intake",
+      "Endoscopic Short Wave Lithotripsy (ESWL)",
+      "Endoscopic removal of stones",
+      "Open surgical removal"
+    ],
+    "drug": [
+      "Analgesics",
+      "Antibiotics to treat infections",
+      "Thiazide diuretics",
+      "Hydrochorothiazide 5 mg orally daily",
+      "Potassium citrate 60 mEq orally daily",
+      "Allopurinol 100 mg orally daily"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Acute pyelonephritis",
+    "Renal tumour",
+    "Acute appendicitis",
+    "Other causes of urinary obstruction e.g. enlarged prostate, urethral strictures"
+  ],
+  "complications": [
+    "Recurrent and intractable urinary tract infection",
+    "Secondary hydronephrosis",
+    "Progressive renal failure",
+    "Periurethral abscess/urethral fistula"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

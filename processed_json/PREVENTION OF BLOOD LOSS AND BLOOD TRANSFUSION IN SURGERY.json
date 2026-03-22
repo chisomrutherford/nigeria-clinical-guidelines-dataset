@@ -1,0 +1,61 @@
+{
+  "condition_name": "Prevention of Blood Loss and Blood Transfusion in Surgery",
+  "condition_slug": "prevention-of-blood-loss-and-blood-transfusion-in-surgery",
+  "source": "NSTG 2022",
+  "introduction": "Blood transfusion is the introduction of whole blood or blood components into the bloodstream of an individual. It should be used appropriately because its use is not without complications and untoward effects. Several techniques and maneuvers are available to help minimize blood loss at surgery, and hence minimize blood transfusion.",
+  "clinical_features": [],
+  "investigations": [],
+  "treatment": {
+    "goals": [],
+    "non_drug": [],
+    "drug": [],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": [
+      "Elevation of site of surgery",
+      "Pressure (digital and sponge)",
+      "Electrocautery",
+      "Clipping and ligature",
+      "Surgical glues (e.g. fibrin glue)",
+      "Tourniquets (elastic bandage or pneumatic, useful in limbs)"
+    ]
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Immune reactions",
+    "ABO incompatibility",
+    "Rhesus incompatibility",
+    "Febrile reactions",
+    "Allergic reactions",
+    "Reactions to plasma proteins",
+    "Hyperkalaemia",
+    "Citrate toxicity (hypocalcaemia)",
+    "Bacteraemia",
+    "Transfusion of parasites (e.g. malaria)",
+    "Transfusion of viruses (HIV, Hepatitis B, C, D)",
+    "Volume overload",
+    "Air embolism",
+    "Hypothermia",
+    "Massive blood transfusion complications",
+    "Volume overload",
+    "Transfusion of old blood",
+    "Electrolyte derangements (potassium and calcium)",
+    "Transmission of infections",
+    "Haemosiderosis",
+    "Post transfusion purpura"
+  ],
+  "prevention": [
+    "Screening for communicable diseases before transfusion",
+    "Adequate grouping and cross-matching before transfusion",
+    "Store blood at appropriate temperature",
+    "Use blood fractions whenever possible",
+    "Use autologous blood whenever possible",
+    "Adequate evaluation before transfusion"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "Replacement of lost blood volume",
+    "Improvement of oxygen carrying capacity",
+    "Replacement of clotting factors"
+  ],
+  "prognosis": null
+}

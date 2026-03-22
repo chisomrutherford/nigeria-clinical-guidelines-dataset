@@ -1,0 +1,43 @@
+GASTRITIS
+Introduction
+Inflammation of the gastric mucosa which may be acute or chronic. The most
+important risk factors for acute gastritis include drugs (NSAIDs) and alcohol.
+While H. pylori infection is the most important risk factor for chronic gastritis.
+
+CLINICAL FEATURES OF GASTRITIS 
+• Upper abdominal burning pain or discomfort that mimics peptic ulcer
+disease (PUD). See PUD.
+Complications
+• Acute gastritis: Upper gastrointestinal (GI) haemorrhage
+• Chronic gastritis: peptic ulcer disease; gastric cancer
+
+INVESTIGATIONS OF GASTRITIS 
+• Upper GI Endoscopy (macroscopic diagnosis).
+• Histology of gastric biopsy for definitive diagnosis
+
+TREATMENT OF GASTRITIS 
+Treatment Goals
+• Eliminate pain.
+• Address offending agent.
+• Prevent progression to PUD or gastric cancer
+Drug Treatment
+Acute Gastritis
+• Antacids
+- Magnesium trisilicate 1 - 2 tablets or suspension 10 mL orally three
+times daily or as required
+Or:
+• H receptor antagonist:
+- Ranitidine 150 mg orally once daily as required
+Or:
+• Proton pump inhibitors
+- Omeprazole 20 mg orally once daily as required
+Type A gastritis
+• Endoscopic surveillance every 2 - 3 years for early detection of cancer
+Type B gastritis
+• Eradication of H.pylori using triple therapy with
+- Clarithromycin 500 mg orally twice daily
+- Amoxicillin 1g orally every twice daily
+- Omeprazole 20 mg orally twice daily
+- All for 10 – 14 days
+Prevention
+• Avoid risk factors (NSAIDs, alcohol, etc)

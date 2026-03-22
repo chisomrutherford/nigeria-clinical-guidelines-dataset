@@ -1,0 +1,101 @@
+{
+  "condition_name": "Bipolar Disorders",
+  "condition_slug": "bipolar-disorders",
+  "source": "NSTG 2022",
+  "introduction": "A type of mood disorder in which there is (typically) alternation of a depressive phase and a manic or hypomanic phase. Experienced by about 1% of the adult population, at some point in their lifetime About equal incidence between males and females May be precipitated by psychosocial stress; strong genetic vulnerability often present",
+  "clinical_features": [
+    {
+      "type": "Depressive phase",
+      "features": [
+        "Low mood",
+        "loss of interest",
+        "reduced activity or energy",
+        "impaired appetite and sleep",
+        "ideas of worthlessness or hopelessness",
+        "suicidal ideation",
+        "other depressive symptoms and signs (psychological and somatic)"
+      ]
+    },
+    {
+      "type": "Manic or hypomanic phase",
+      "features": [
+        "Elation",
+        "increased activity or energy",
+        "euphoria",
+        "irritability",
+        "expansive mood",
+        "disturbed sleep",
+        "grandiosity",
+        "disinhibition",
+        "other manic or hypomanic symptoms and signs"
+      ]
+    }
+  ],
+  "investigations": [
+    "To rule out organic/medical causes",
+    "FBC and Electrolyte, Urea and Creatinine"
+  ],
+  "treatment": {
+    "goals": [
+      "Reduce risk to self and others",
+      "Normalize mood",
+      "Return to full functional status",
+      "Prevent recurrence"
+    ],
+    "non_drug": [
+      "Cognitive-behavioural therapy as sole treatment in mild cases, and adjunct in all others",
+      "Electroconvulsive therapy (ECT)",
+      "An effective and essentially safe treatment for severe and acute presentations",
+      "A course of 8-12 treatments are usually needed"
+    ],
+    "drug": [
+      "Lithium: 1st line drug following established diagnosis",
+      "Adult: initially 1 - 1.5 g daily, Prophylaxis: initially 300 - 400 mg daily",
+      "Measure serum lithium concentration regularly (every three months on established regimens)",
+      "Adjust dosage to achieve serum levels of 0.6 - 1.2 mEq/L",
+      "Child: not recommended",
+      "Sodium valproate",
+      "Adult: 750 mg - 2 g orally/day",
+      "Child: Neonate: initially 20 mg/kg orally once daily; usual maintenance dose 10 mg/kg, every 12 hours",
+      "Child (1 month - 12 years): initially 5 - 7.5 mg/kg every 12 hours, usual maintenance dose 12.5 -15 mg/kg, every 12 hours (up to 30 mg/kg twice daily)",
+      "Child (12 - 18 years): initially 300 mg every 12 hours, increased in steps of 200 mg daily at 3-day intervals; usual maintenance dose 0.5 - 1 g, twice daily (maximum 1.5 g daily)",
+      "Carbamazepine",
+      "Adult: 600 - 1,800 mg orally daily",
+      "Child (1 month - 12 years): initially 5 mg/kg orally at night or 2.5 mg/kg twice daily, increased as necessary by 2.5 - 5 mg/kg every 3 - 7 days. Maintenance dose 5 mg/kg 2 - 3 times daily, increased slowly to usual maintenance of 400 - 600 mg, 2 - 3 times daily",
+      "Antidepressants - TCAs or SSRIs may be indicated in depressive phase",
+      "Antipsychotics",
+      "Haloperidol 1.5 to 3 mg orally 2 - 3 times daily (may be indicated in acute manic phase)",
+      "Child (2 - 12 years): initially 12.5 - 25 μg/kg orally twice daily, adjusted according to response to maximum 10 mg daily",
+      "Child (12 - 18 years): initially 0.5 - 3 mg daily, adjusted according to response to lowest effective maintenance dose (as low as 5 - 10 mg daily)"
+    ],
+    "adverse_reactions_and_cautions": [
+      "More likely with doses above recommended upper limits",
+      "Lithium: Gastrointestinal disturbances, Tremors, Confusion, Myoclonic twitches",
+      "Carbamazepine: Hypersensitivity reactions",
+      "Transient memory impairment is common following ECT"
+    ],
+    "supportive_measures": [
+      "Psychotherapy and social intervention for patient and relatives/caregivers"
+    ]
+  },
+  "differential_diagnoses": [
+    "Schizo-affective disorder",
+    "Schizophrenia",
+    "Organic mood/affective disorder (including effects of drug abuse)"
+  ],
+  "complications": [
+    "Social and personal consequences of inappropriate behaviour (e.g. unplanned pregnancy, drug and alcohol abuse, sexually-transmitted infections, etc.)",
+    "Suicide and Homicide",
+    "Increased risk of morbidity (reduce life expectancy) (e.g. trauma and accidents)",
+    "Poor performance at school or work",
+    "Financial or legal issues",
+    "Increased mortality"
+  ],
+  "prevention": [
+    "No primary preventive measures are clearly delineated",
+    "Adherence to therapy with mood stabilizers until discontinuation is considered prudent (this is individually determined)"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

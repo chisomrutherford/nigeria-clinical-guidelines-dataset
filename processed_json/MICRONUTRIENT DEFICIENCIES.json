@@ -1,0 +1,57 @@
+{
+  "condition_name": "Micronutrient Deficiencies",
+  "condition_slug": "micronutrient-deficiencies",
+  "source": "NSTG 2022",
+  "introduction": "Deficiencies of minerals (iron, iodine, zinc, calcium, phosphorus, magnesium, copper, potassium, sodium, chloride, fluoride etc); folic acid and vitamins, are prevalent globally with high rates in under-developed countries, especially sub-Saharan Africa.",
+  "clinical_features": [
+    {
+      "type": "Mineral Deficiencies",
+      "features": [
+        "Iron: anaemia",
+        "Iodine: goitre",
+        "Zinc, copper: manifestations of enzyme and insulin deficiencies",
+        "Calcium: rickets, osteomalacia",
+        "Phosphorus and fluoride: teeth and bone abnormalities"
+      ]
+    },
+    {
+      "type": "Vitamin Deficiencies",
+      "features": [
+        "Vitamin A: keratomalacia, corneal xerosis, night blindness",
+        "Vitamin B1 (thiamine): beri-beri",
+        "Vitamin B2 (riboflavin): scrotal and vulval dermatoses, angular stomatitis, scars, Magenta tongue, cheilosis",
+        "Vitamin B3 (niacin): scarlet and dry tongue, pellagra",
+        "Vitamin C (Ascorbic acid): scurvy, petechiae and musculo-skeletal haemorrhages",
+        "Vitamin D: rickets, epiphyseal enlargement, muscle wasting, bossing of skull bone, 'thoracic rosary', persistently open anterior fontanelle, genu valgum or varum"
+      ]
+    }
+  ],
+  "investigations": [
+    "Blood, urine and stool tests"
+  ],
+  "treatment": {
+    "goals": [
+      "Ensure adequate intake",
+      "Prevent Complications"
+    ],
+    "non_drug": [
+      "Food supplementation",
+      "Treat underlying diseases"
+    ],
+    "drug": [
+      "Administration of specific nutrients"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [
+    "Nutritional counseling",
+    "Adequate intake of locally available, nutritious foods",
+    "Prophylactic therapies for malaria"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

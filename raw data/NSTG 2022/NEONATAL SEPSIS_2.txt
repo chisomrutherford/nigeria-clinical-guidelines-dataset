@@ -1,0 +1,35 @@
+NEONATAL SEPSIS 
+Introduction
+A clinical syndrome resulting from bacterial blood stream infection with active
+proliferation of the organisms.
+Early-Onset sepsis manifests within the first 72 hours of life or at most 7 days of
+life while Late-Onset sepsis manifests after 7 days of life.
+Terminologies
+▪ Early-Onset sepsis is presumed when risk factors for sepsis are present but
+the infant has no clinical feature suggestive of sepsis.
+▪ In probable sepsis, an infant has clinical and/or laboratory features
+suggestive of sepsis without bacteriological confirmation.
+▪ Sepsis is latent when Clinical Features are present with laboratory features
+such as deranged full blood count or elevated serum C-Reactive Proteins
+and serum Interleukins but without positive blood culture.
+▪ Sepsis is confirmed when blood culture is positive in addition to clinical
+manifestations.
+
+CLINICAL FEATURES OF NEONATAL SEPSIS
+Clinical Features
+▪ Non-specific features include fever, vomiting, poor feeding, poor activity
+▪ More specific features include hypothermia, convulsions, jaundice,
+
+INVESTIGATIONS OF NEONATAL SEPSIS 
+▪ A lumbar tap for cerebrospinal fluid analysis is mandatory. Skip it if the infant has cardio-respiratory instability. Inability to carry out this important investigation must not be a reason to delay empirical antibiotic therapy. Meningitis is diagnosed with cell count greater than 30/mm³, pleocytosis with polymorphonuclear cells, protein greater than 150 mg/dL and glucose less than 50% of simultaneously assayed blood glucose.
+▪ Neuro-imaging studies are required if: (a) Fever persists or recurs (b) Seizures recur after initial control (c) Occipitofrontal circumference is increasing. It will be necessary to exclude subdural and intra-cerebral collections.
+
+TREATMENT OF NEONATAL SEPSIS 
+▪ The empirical antibiotic therapy should be tailored to the local pattern of bacterial aetiology of neonatal meningitis.
+▪ Staphylococcus aureus, Streptococcus pneumoniae and the Gram-negative bacilli are frequently encountered in Nigeria. Therefore, the recommended antibiotics include a combination of intravenous third generation cephalosporin: ceftriaxone 50 mg/kg 12-hourly or cefotaxime 50 mg/kg 6-hourly and gentamicin 2.5 mg/kg 12-hourly.
+▪ Intravenous ampicillin 50 mg/kg 6-hourly may be useful in places where resistance of organisms to the drug is not remarkable and in known cases of Listeria monocytogenes infection.
+▪ The duration of antibiotic therapy is 14 days for Gram-positive organisms and 21 days for Gram-negative organisms.
+▪ Phenobarbitone is recommended through the intravenous route for seizures; 15 mg/kg loading dose followed up with 2.5 mg/kg 12-hourly maintenance doses. The loading dose could be repeated at 10 mg/kg when seizures are difficult to control.
+▪ Fluid therapy: The current body of evidence is not in favour of fluid restriction for all infants. Critically-ill infants tend to be dehydrated from poor feeding or vomiting and fluid restriction is likely to be harmful – risk of shock and renal shut-down – In such babies. More important is the need to avoid over-hydration (in lieu of the risk of cerebral oedema) and that could be achieved by stringent administration of not more than the recommended maintenance fluid requirement.
+▪ Corticosteroids: Unlike in older infants and children, corticosteroids are presently not recommended for use in neonatal meningitis for lack of evidence of usefulness.
+▪ Support care: Fluid and caloric balance, blood transfusion for severe anaemia, oxygen therapy and ventilators supports for hypoxaemia.

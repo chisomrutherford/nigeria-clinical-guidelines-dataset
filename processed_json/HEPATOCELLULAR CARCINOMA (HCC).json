@@ -1,0 +1,60 @@
+{
+  "condition_name": "Hepatocellular Carcinoma (HCC)",
+  "condition_slug": "hepatocellular-carcinoma-hcc",
+  "source": "NSTG 2022",
+  "introduction": "The most common primary liver malignancy. HCC has a huge burden on West Africa due to the high endemicity of a number of risk factors like hepatitis B, C, and HIV. In Nigeria, middle aged individuals, mainly males, are more commonly affected and they present late.",
+  "clinical_features": [
+    {
+      "type": "Elective",
+      "features": [
+        "Painful right hypochondrial mass",
+        "weight loss",
+        "early satiety",
+        "fatigue",
+        "ascites"
+      ]
+    },
+    {
+      "type": "Emergency",
+      "features": [
+        "Coagulopathy",
+        "encephalopathy",
+        "acute abdomen (rupture and haemorrhage)"
+      ]
+    }
+  ],
+  "investigations": [
+    "Liver biopsy",
+    "Abdominopelvic USS",
+    "Abdominal CT",
+    "LFT",
+    "Serum proteins",
+    "Electrolyte, Urea and Creatinine",
+    "Tumour markers (α-fetoprotein, des-gamma-carboxy prothrombin, C-reactive protein)",
+    "FBC"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [],
+    "drug": [],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [
+    "Hepatitis B screening and vaccination",
+    "Abdominal USS/CT",
+    "Serological markers: α-fetoprotein"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "Liver resection - early stages, solitary lesions",
+    "arterial ligation for non-resectable lesions",
+    "Systemic chemotherapy",
+    "percutaneous ethanol injection",
+    "radiotherapy",
+    "radiofrequency ablation"
+  ],
+  "prognosis": null
+}

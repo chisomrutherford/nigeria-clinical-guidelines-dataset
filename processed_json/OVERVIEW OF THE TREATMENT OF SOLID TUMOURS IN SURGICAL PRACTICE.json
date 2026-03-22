@@ -1,0 +1,48 @@
+{
+  "condition_name": "Solid Tumours in Surgical Practice",
+  "condition_slug": "solid-tumours-in-surgical-practice",
+  "source": "NSTG 2022",
+  "introduction": "Cancer incidence is increasing all over the world but most especially in low-and medium-income countries. Cancer is now one of the leading causes of death from non-communicable diseases. Effective modern treatment of cancer is best accomplished when different modalities of treatment like surgery, use of drugs, ionizing radiation and symptomatic palliation are brought together to complement each other.",
+  "clinical_features": [
+    {
+      "type": "Palliative Surgery",
+      "features": [
+        "Alleviates distressing symptoms when cure is not evident",
+        "Surgical relief of obstructing gastrointestinal tumours or urinary tract tumours",
+        "Toilet mastectomies when tumour does not respond to systemic treatments",
+        "Palliative limb amputations for non-resectable soft tissue sarcoma",
+        "May require emergency procedures like laparotomies for perforated tumours, or emergency surgery for bleeding malignancies"
+      ]
+    }
+  ],
+  "investigations": [],
+  "treatment": {
+    "goals": [],
+    "non_drug": [],
+    "drug": [
+      "Drugs as adjuvants to surgery",
+      "Use of cytotoxic chemotherapy",
+      "Hormonal manipulation",
+      "Immunotherapy",
+      "Use of newer targeted drugs for selective destruction of cancer cells",
+      "Balancing efficacy and toxicities"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [
+    "Surgery for precancerous conditions like orchidectomy to prevent testicular cancer",
+    "Prophylactic removal of predisposed organs in hereditary diseases like germline BRCA mutations"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "Surgery as primary treatment for organ confined tumours",
+    "Surgery with curative intent or palliative symptoms",
+    "Combination of surgery with systemic drugs/radiotherapy for complete cure",
+    "Complete removal with margin of normal tissue in organ confined tumours",
+    "Organs preserving surgeries like partial nephrectomies, breast conserving surgeries"
+  ],
+  "prognosis": null
+}

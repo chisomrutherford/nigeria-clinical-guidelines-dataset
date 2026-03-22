@@ -1,0 +1,55 @@
+{
+  "condition_name": "Cholera",
+  "condition_slug": "cholera",
+  "source": "NSTG 2022",
+  "introduction": "An acute severe diarrhoeal illness of worldwide importance. It is caused by Vibrio cholerae bacilli (classical and El Tor species)",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Diarrhoea (Rice water stool)",
+        "Vomiting"
+      ]
+    }
+  ],
+  "investigations": [
+    "Stool microscopy, culture and sensitivity",
+    "Urea, Electrolytes and Creatinine",
+    "Complete Blood Count"
+  ],
+  "treatment": {
+    "goals": [
+      "Hydration.",
+      "Eradicate organism.",
+      "Prevent spread."
+    ],
+    "non_drug": [],
+    "drug": [
+      "Intravenous Fluids.",
+      "Electrolyte replacement.",
+      "Oral Rehydration Therapy",
+      "Tetracycline: Adult: 500 mg orally every 6 hours for 5 days",
+      "Doxycycline: Adult: 200 mg orally once daily for 5 days, Child: 12 - 18 years, 200 mg on first day, then 100 mg daily, Severe infections, 200 mg orally daily",
+      "Erythromycin: Adult and child over 8 years: 250 - 500 mg orally every 6 hours for 5 days or 500 mg - 1 g every 12 hours, Child: Up to 2 years: 125 mg every 6 hours, 2 - 8 years: 250 mg every 6 hours, Doses doubled in severe infection",
+      "Co-trimoxazole: Adult: 960 mg orally every 12 hours for 5 days, Child: 6 weeks - 12 years: 24 mg/kg every 12 hours, 6 weeks - 6 months: 120 mg every 12 hours, 6 months - 6 years: 240 mg every 12 hours, 6 years - 12 years: 480 mg every 12 hours, 12 years - 18 years: 960 mg every 12 hours"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": [
+      "Monitor fluid intake and output (vomitus, urine and stool)"
+    ]
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Hydropaenia/Hypovolaemic shock with multiple end organ failure leading to death",
+    "Dyselectrolytetaemia",
+    "Hypokalaemia"
+  ],
+  "prevention": [
+    "Personal and communal hygiene",
+    "Potable water, sanitary disposal of faeces",
+    "Cholera vaccine"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

@@ -1,0 +1,79 @@
+{
+  "condition_name": "Frailty",
+  "condition_slug": "frailty",
+  "source": "NSTG 2022",
+  "introduction": "A physiological state characterized by increased vulnerability to stressors, Caused by decreased physiologic reserves. An endpoint of multiple disease processes",
+  "clinical_features": [
+    {
+      "type": "Symptoms",
+      "features": [
+        "Anorexia",
+        "Fatigue",
+        "Inactivity",
+        "Weakness",
+        "Weight loss"
+      ]
+    },
+    {
+      "type": "Signs",
+      "features": [
+        "Abnormalities of gait and balance",
+        "Deconditioning (loss of physical functioning)",
+        "Osteopenia",
+        "Sarcopenia (decreased skeletal muscle mass, strength and exercise tolerance, thermoregulation, energy expenditure, etc.)",
+        "Slow gait speed (Timed Up and Go test ≥15 seconds)",
+        "Under nutrition"
+      ]
+    },
+    {
+      "type": "Fried's phenotypic criteria for diagnosis of frailty",
+      "features": [
+        "Reduced physical activity",
+        "Self-reported exhaustion/poor endurance",
+        "Slow gait",
+        "Weakness",
+        "Weight loss"
+      ]
+    }
+  ],
+  "investigations": [
+    "Full blood count",
+    "Electrolytes, urea and creatinine",
+    "Liver function tests",
+    "Thyroid function tests",
+    "Serum calcium and albumin",
+    "Urinalysis"
+  ],
+  "treatment": {
+    "goals": [
+      "Return patient to baseline status"
+    ],
+    "non_drug": [
+      "Should be tailored to address clinical presentation"
+    ],
+    "drug": [
+      "Should be tailored to address clinical presentation"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Acute illnesses",
+    "Dependency",
+    "Disability",
+    "Falls",
+    "Hospitalizations"
+  ],
+  "complications": [],
+  "prevention": [
+    "Identify patients who are pre-frail and intervene to return to robustness",
+    "Exercise (endurance and muscle strengthening; stretching and balance exercises)",
+    "Nutrition (healthy food; supplements as indicated)",
+    "Reduce chronic disease prevalence",
+    "Treat sarcopenia",
+    "Promote healthy aging"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

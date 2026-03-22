@@ -1,0 +1,64 @@
+{
+  "condition_name": "Anxiety Disorder",
+  "condition_slug": "anxiety-disorder",
+  "source": "NSTG 2022",
+  "introduction": "Generalized anxiety disorder (GAD) is characterized by persistent and exaggerated worry about things (health, family, work etc.) and tension, even when there is little or no cause for anxiety. A chronic disorder affecting about 2 - 3% of the population.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Pre-occupations: often of diverse nature, poor concentration",
+        "Muscle aches, headaches and irritability",
+        "Sweating, fatigue and insomnia",
+        "Shortness of breath, weakness or tiredness and tremors"
+      ]
+    }
+  ],
+  "investigations": [
+    "To exclude medical/physical cause(s)",
+    "Use psychological questionnaires to confirm diagnosis"
+  ],
+  "treatment": {
+    "goals": [
+      "Achieve remission of symptoms",
+      "Prevent relapse"
+    ],
+    "non_drug": [
+      "Cognitive-behavioural therapy"
+    ],
+    "drug": [
+      "Diazepam 10 - 20 mg orally daily",
+      "Fluoxetine 20 - 60 mg orally daily",
+      "Mirtazapine 15 – 30 mg orally daily"
+    ],
+    "adverse_reactions_and_cautions": [
+      "The risk of dependence (and withdrawal syndromes) limits the utility of benzodiazepines for treatments of long duration"
+    ],
+    "supportive_measures": [
+      "Relaxation techniques",
+      "Exercise",
+      "Life style changes (regular exercise, balanced diet etc.)",
+      "Acupuncture",
+      "Psychotherapy"
+    ]
+  },
+  "differential_diagnoses": [
+    "Medical causes of suggestive symptoms and signs (e.g. hyperthyroidism)"
+  ],
+  "complications": [
+    "Chronicity",
+    "Co-morbid depression",
+    "Substance use disorders",
+    "Insomnia",
+    "Poor quality of life",
+    "Problems at school or work",
+    "Medical morbidity (e.g. hypertension)"
+  ],
+  "prevention": [
+    "Avoid undue and extreme stress",
+    "Avoid psycho-active substances"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

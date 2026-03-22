@@ -1,0 +1,83 @@
+{
+  "condition_name": "Chancroid (Ulcus Molle, Soft Chancre)",
+  "condition_slug": "chancroid",
+  "source": "NSTG 2022",
+  "introduction": "An infectious disease caused by Haemophilus ducreyi, a small gram-negative bacillus. Common in the tropics, especially in Africa, the Far East, and the Caribbean. Persons may present with chancroid outside endemic regions; sporadic outbreaks of infection occur in Europe and North America.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Incubation period is about 3 - 7 days",
+        "Begins as a small, tender papule, changing into a pustule which rapidly progresses to a painful ulcer with a bright red areola",
+        "Neither the edge nor base of the ulcer is indurated (unlike syphilis)",
+        "The ulcer feels soft, hence the name 'soft sore' (ulcus molle)",
+        "With superimposed bacterial infection, it often feels indurated",
+        "The ulcers may be multiple due to auto-inoculation",
+        "Sites of predilection in men are the prepuce, frenulum, glans or shaft of the penis",
+        "In women the labia, fourchette, vestibule, clitoris, cervix, or perineum are favoured sites",
+        "Lesions may cause dyspareunia, pain on voiding or defaecation and vaginal discharge",
+        "Women may be asymptomatic carriers",
+        "About 7 - 14 days after the appearance of the ulcer, a bubo appears",
+        "A mass of glands matted together, often adherent to the overlying skin",
+        "The glands above the inguinal ligament are usually affected, and often there is a unilateral enlargement",
+        "Central softening is often found and if untreated the bubo may rupture and discharge through a fistula",
+        "The combination of a painful genital ulcer and suppurative inguinal adenopathy is almost pathognomonic of chancroid",
+        "Patient may present with bubo, the initial ulcer having healed",
+        "Atypical lesions have been reported in HIV-infected individuals",
+        "More extensive, or multiple lesions sometimes accompanied by systemic manifestations such as fever and chills"
+      ]
+    }
+  ],
+  "investigations": [
+    "Microscopy, culture and sensitivity of discharge from ulcer",
+    "Serological tests e.g. complement fixation (CF); microimmuno-fluorescence (MIF) test; PCR"
+  ],
+  "treatment": {
+    "goals": [
+      "Same as for Gonorrhoea"
+    ],
+    "non_drug": [
+      "Keep ulcerative lesions clean",
+      "Aspirate fluctuant lymph nodes through the surrounding healthy skin, preferably from a superior approach to prevent persistent dripping and sinus formation"
+    ],
+    "drug": [
+      "Ciprofloxacin 500 mg orally every 12 hours for 3 days",
+      "Erythromycin 500 mg orally every 6 hours for 7 days",
+      "Azithromycin 1 g orally as a single dose",
+      "Ceftriaxone, 250 mg by intramuscular injection, as a single dose"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Ciprofloxacin and ceftriaxone (see gonorrhoea)",
+      "Erythromycin and azithromycin (see chlamydia)"
+    ],
+    "supportive_measures": [
+      "Follow-up until there is clear evidence of improvement or cure",
+      "In HIV-infected patients, treatment may appear to be less effective. Follow-up weekly until there is clear evidence of improvement",
+      "Chancroid and HIV infection are closely associated and therapeutic failure is likely to be seen with increasing frequency"
+    ]
+  },
+  "differential_diagnoses": [
+    "Syphilis",
+    "Herpes",
+    "Granuloma inguinale",
+    "Lymphogranuloma venereum",
+    "Fixed drug eruption",
+    "Erythema multiforme",
+    "Behcet's disease",
+    "Trauma",
+    "Tuberculous ulcer",
+    "Cancers"
+  ],
+  "complications": [
+    "Progressive ulceration and amputation of the phallus, particularly in HIV patients"
+  ],
+  "prevention": [
+    "Counselling",
+    "Compliance",
+    "Condom use",
+    "Contact treatment"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

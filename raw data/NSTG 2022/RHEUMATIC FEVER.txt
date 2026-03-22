@@ -1,0 +1,104 @@
+RHEUMATIC FEVER
+Introduction
+A result of abnormal reaction of antibodies developed against antigens of group
+A β- haemolytic streptococcus.
+Infection is usually of the throat; occasionally the skin in a sensitized
+individual. Antigen-antibody complex damages the heart (endocardium,
+myocardium and pericardium).
+Commonest streptococcal strains in Africa are C and G
+
+CLINICAL FEATURES OF RHEUMATIC FEVER 
+Duckett-Jones' diagnostic criteria
+• Major:
+- Carditis
+- Sydenham's chorea
+- Erythema marginatum
+- Subcutaneous nodules
+- Arthritis (migratory polyarthritis)
+
+• Minor:
+- Fever
+- Leucocytosis
+- Arthralgia
+- Raised ESR
+- Raised ASO titre (> 200 IU)
+- Prolonged PR interval
+Supporting evidence of antecedent group A streptococcal infection: Positive
+throat culture or rapid streptococcal antigen
+Diagnoses
+· Two major criteria
+Or
+· One major plus 2 (or more) minor criteria
+
+DIFFERENTIAL DIAGNOSES OF RHEUMATIC FEVER
+• Malaria
+• Viral infection
+• Pyrexia of undetermined origin
+• Connective tissue disease
+
+COMPLICATIONS OF RHEUMATIC FEVER 
+• Rheumatic heart disease
+• Arrhythmias
+• Cardiac failure
+
+INVESTIGATIONS OF RHEUMATIC FEVER
+• FBC and differentials
+• ASO titre
+• ESR
+• Electrocardiograph
+• Echocardiography
+• Chest radiograph
+• Throat swab for microscopy, culture and sensitivity
+
+TREATMENT OF RHEUMATIC FEVER 
+Treatment Goals
+• Relieve symptoms
+• Treat the bacterial throat infection
+• Reduce or abolish inflammatory process
+• Treat cardiac failure if present
+Non-drug Treatment
+• Bed rest
+Drug Treatment
+• Antibiotics
+- Penicillin V
+- Adult: 500 mg orally every 6 hours, increased up to 1g 6 hourly in
+severe infections
+- Child:
+- 1 month - 1 year: 62.5 mg orally every 6 hours increased in severe
+infection to ensure at least 12.5 mg/kg/dose
+- 1 - 6 years: 125 mg every 6 hours increased in severe infection to ensure
+at least 12.5 mg/kg/dose
+- 6 - 12 years: 250 mg every 6 hours, increased in severe infection to
+ensure at least 12.5 mg/kg/dose
+- 12 - 18 years: 500 mg every 6 hours, increased in severe infection up to
+1 g/dose
+Or
+- Erythromycin
+- Adult and child over 8 years: 250 - 500 mg orally every 6 hours or 500
+mg - 1 g every 12 hours; up to 4 g daily in severe infections
+- Child:
+- Up to 2 years: 125 orally mg every 6 hours
+- 2 - 8 years: 250 mg every 6 hours; doses doubled for severe infections
+• Salicylates
+- Aspirin (acetylsalicylic acid)
+- Adult: 300 mg - 1 g orally every 4 hours after food; maximum dose in
+acute conditions 8 g daily
+- Child: not recommended for use
+• Steroids (if salicylates are ineffective)
+- Prednisolone
+- Initially, up to 10 - 20 mg orally daily; up to 60 mg daily in severe
+disease (preferably taken in the morning after breakfast); dose can often
+be reduced within a few days, but may need to be continued for several
+weeks or months. Maintenance 2.5 -15 mg orally daily
+• Prophylaxis against rheumatic fever
+- Benzathine penicillin 720 mg (1.2 million units) intramuscularly 3 - 4
+weekly until the age of 25 years or for life
+Notable Adverse Drug Reactions, Contraindications and Caution
+• Penicillin: anaphylactic reaction
+• Salicylates; steroids: peptic ulceration
+• Cushingoid effects are increasingly likely with doses of prednisolone
+above 7.5 mg daily
+Prevention
+• Good sanitation
+• School surveys - identify carriers of streptococcus and treat
+• Secondary prevention and prophylaxis against endocarditis

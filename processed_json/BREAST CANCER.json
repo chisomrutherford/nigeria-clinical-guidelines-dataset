@@ -1,0 +1,55 @@
+{
+  "condition_name": "Breast Cancer",
+  "condition_slug": "breast_cancer",
+  "source": "NSTG 2022",
+  "introduction": "A malignant epithelial neoplasm of the breast. It is the most commonly diagnosed cancer in women and is the leading cause of new cases of female cancers in Nigerian women.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Breast: breast lump, bloody nipple discharge, breast or nipple ulceration",
+        "Axilla: armpit swelling, upper limb lymphoedema",
+        "Metastatic: respiratory (cough, breathlessness), liver (abdominal swelling, jaundice), bones (bone pain, pathological fracture), brain (seizures), spine (paraparesis or paraplegia), etc."
+      ]
+    }
+  ],
+  "investigations": [
+    "FNAC/core needle biopsy/incisional or excision biopsy: For histopathological and immunohistochemical analyses",
+    "Chest x-ray, abdominal USS, bone scan, with or withoutCT chest/abdomen: For Staging",
+    "Others: FBC, LFT, Electrolyte, Urea and Creatinine"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [],
+    "drug": [
+      "Chemotherapy - Neoadjuvant (locally advanced, locoregionally advanced, metastatic)",
+      "Adjuvants",
+      "Combination chemotherapy (depending on immunohistochemistry, performance index, etc.). Examples: EC, AC, FEC, Docetaxel, Capecitabine, etc.",
+      "Radiotherapy - Hormonal therapy: dictated by immunohistochemistry",
+      "Tamoxifen: for premenopausal women, 20 mg daily for at least 5 years; for postmenopausal women with shifting to aromatase inhibitors later",
+      "Aromatase inhibitors: for postmenopausal women;",
+      "Anastrozole 1 mg daily",
+      "Letrozole 2.5 mg daily",
+      "Exemestane 25 mg daily",
+      "Trastuzumab for HER2 positive tumours"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": [
+      "Lifestyle modifications (reduce exposure to estrogen, quit alcohol and smoking, etc)",
+      "Monthly breast self-examination",
+      "Clinical breast examination",
+      "Periodic imaging e.g. mammogram, chest x-ray, abdominal USS, bone scan"
+    ]
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "Surgery",
+    "Lumpectomy/wide excision/quadrantectomy PLUS breast irradiation",
+    "Mastectomy (Simple mastectomy with axillary clearance, modified radical mastectomy)",
+    "Breast reconstruction (early or late)"
+  ],
+  "prognosis": null
+}

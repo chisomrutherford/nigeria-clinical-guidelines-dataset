@@ -1,0 +1,498 @@
+HUMAN IMMUNODEFICIENCY VIRUS (HIV) INFECTION
+Introduction
+Human Immunodeficiency Virus (HIV) is a retrovirus, which infects primarily
+CD4 T cells (T helper cells)
+and leads to progressive destruction of the immune system with a consequent
+myriad of opportunistic infections and the development of certain
+malignancies.
+Acquired Immuno Deficiency Syndrome (AIDS) is defined as the presence of
+an AIDS-defining illness (see table 1) with a positive antibody test for HIV.
+HIV transmission
+Sexual transmission through vaginal and anal sex is the commonest route
+globally and in Nigeria, accounting for about 80%.
+Other routes of transmission
+・ Transfusion of infected blood and blood products, use of contaminated
+instruments, sharing needles, tattooing and occupational exposures.
+・ Mother-to-child transmission of HIV: from an infected mother to her baby
+during pregnancy, at delivery and, after birth through breast-feeding
+
+CLINICAL COURSE OF HUMAN IMMUNODEFICIENCY VIRUS (HIV) INFECTION
+Clinical Course
+Acute (Primary):
+This occurs 1-4 weeks after infection during which infected people experience
+transient flu-like symptoms, which may include:
+・ Mild fever
+・ Muscle aches and pains
+・ Fatigue
+・ Enlargement of lymph nodes
+・ Sore throat
+・ Fever
+・ Skin rash
+This stage is difficult to diagnose by standard laboratory assays.
+・ Seroconversion: Usually occurs within 4 weeks. Patients develop antibody
+response, which is detectable by a positive HIV Ab test.
+・Asymptomatic Infection: The individual feels well despite on-going viral
+replication. Usually last a variable amount of time and is marked by a
+gradual decline in CD4 cell counts.
+Early Symptomatic Infection:
+・ Generalized lymphadenopathy.
+・ Weight loss
+・ Night sweats
+・ Pruritic skin rash
+・ Unexplained fever
+・ Chronic diarrhoea
+・ Oral candidiasis
+・ Oral hairy leukoplakia
+・ Herpes zoster
+・ Pneumococcal infections
+・ Pulmonary Tuberculosis
+Late Disease/AIDS defining Illness:
+This period is marked by the appearance of opportunistic infections and
+neoplasms.
+Opportunistic infections:
+・ Pulmonary/extra-pulmonary tuberculosis and Disseminated TB.
+・ Pneumocystis jiroveci (carinii) pneumonia.
+・ Cryptococcal meningitis
+・ Recurrent bacterial pneumonia
+・ Candida oesophagitis
+・ CNS toxoplasmosis
+・ Kaposi sarcoma
+・ Non-Hodgkin's lymphoma
+・ Disseminated/extra-pulmonary coccidiomycosis, cryptococcosis or
+histoplasmosis.
+・ Chronic (> 1month) intestinal cryptosporidiosis or isosporiasis
+・ Disseminated extra-pulmonary mycobacteria (non-tuberculous)
+・ Progressive multifocal leukoencephalopathy (PML)
+・ Recurrent salmonella septicaemia
+・ HIV wasting syndrome
+
+STAGING OF HIV/AIDS
+Staging of HIV/AIDS
+WHO Staging System for HIV Infection and Disease in Adults and Adolescents
+・ Clinical Stage I:
+- Asymptomatic
+- Generalised lymphadenopathy
+- Performance scale 1: asymptomatic, normal activity
+・ Clinical Stage II:
+- Weight loss < 10% of body weight
+- Minor muco-cutaneous manifestations (seborrhoeic dermatitis,
+prurigo, fungal nail infections, recurrent oral ulcerations, angular
+cheilitis)
+- Herpes zoster within the last five years
+- Recurrent upper respiratory tract infections (i.e. bacterial sinusitis)
+- And/or performance scale 2: symptomatic, normal activity
+
+・ Clinical Stage III:
+- Weight loss > 10% of body weight Unexplained chronic diarrhoea, > 1-
+month Unexplained prolonged fever (intermittent or constant)
+- >1month Oral candidiasis (thrush), Oral hairy leucoplakia, Pulmonary
+tuberculosis, within the past year Severe bacterial infections (i.e.
+pneumonia, pyomyositis)
+- And/or performance scale 3: bedridden < 50% of the day during last
+month
+・ Clinical Stage IV:
+- HIV wasting syndrome.
+- Pneumocystis carinii pneumonia
+- Toxoplasmosis of the brain
+- Cryptosporidiosis with diarrhoea > 1 month
+- Cryptococcosis, extra-pulmonary Cytomegalovirus disease of an organ
+other than liver, spleen, or lymph node (e.g., retinitis)
+- Herpes simplex virus infection, mucocutaneous (>1 month) or visceral
+- Progressive multifocal leucoencephalopathy
+- Any disseminated endemic mycosis
+- Candidiasis of oesophagus, trachea, bronchi
+- Atypical mycobacteriosis, disseminated or lungs.
+- Non-typhoid salmonella septicaemia
+- Extra-pulmonary tuberculosis
+- Lymphoma
+- Kaposi sarcoma 2
+- HIV encephalopathy
+- And/or performance scale 4: bedridden > 50% of the day during last
+month
+- 1: Weight loss of > 10% plus either unexplained chronic diarrhoea > 1
+month, or chronic weakness and unexplained prolonged fever > 1
+month.
+- 2: Clinical findings of disabling cognitive and/or motor dysfunction
+interfering with activities of daily living, progression over weeks or
+months in absence of concurrent illness or condition other than HIV
+infection that could explain the finding.
+Differential Diagnoses:
+・ Tuberculosis
+・ Malignancies
+・ Diabetes mellitus
+・ Other wasting syndromes
+Complications:
+
+See table 10.1
+
+# Table 10.1: Complications of HIV Disease at Different CD4 Cells Cut-offs
+
+| CD4 Count (cells/mms) | Infectious Complications | Non-infectious Complications |
+|---|---|---|
+| > 500 | Acute HIV, candidal vaginitis | Persistent generalized lymphadenopathy (PGL), Guillain-Barré syndrome, myopathy, aseptic meningitis |
+| 200 – 500 | Pneumococcal and other bacterial pneumonias, pulmonary TB, Herpes zoster, oropharyngeal candidiasis, oral hairy leukoplakia, Kaposi sarcoma | Cervical cancer, anaemia, lymphomas |
+| < 200 | Miliary/extra-pulmonary TB, pneumocystis carinii pneumonia (PCP), disseminated histoplasmosis and coccidiomycosis, progressive multifocal leukoencephalopathy (PML) | Wasting, peripheral neuropathy, progressive polyradiculopathy, HIV-associated dementia, cardiomyopathy |
+| < 100 | Disseminated herpes simplex, toxoplasmosis, crytococcosis, cryptosporidium, chronic microsporidiosis, and oesophageal candidiasis | |
+| < 50 | Disseminated cytomegalovirus (CMV), disseminated Mycobacterium avium complex (MAC) | Central nervous system lymphomas |)
+
+INVESTIGATIONS OF HIV/AIDS
+Investigations
+・ Full Blood Count and differentials
+・ VDRL (or RPR)
+・ Tuberculin test (PPD)
+・ Gene Xpert
+・ Sputum smears for TB
+・ Renal function tests: Electrolytes, Urea and Creatinine
+・ Urinalysis
+・ Blood glucose
+・ Liver function tests
+・ Lipid studies (fasting triglycerides, LDL, HDL)
+・ HBV, HCV serology
+・ Cervical (PAP) smears
+・ CD4 T cell counts.
+・ Chest X-ray
+・ HIV RNA level (viral load)
+・ HIV DNA (paediatric diagnosis <18 months of age)
+・ Genotype and phenotype assays for resistance testing
+・ Pregnancy assessment, family planning and counselling services, where
+required
+
+TREATMENT OF HIV 
+Treatment Goals
+・ Clinical: prevent disease progression
+・ Immunological: restore immunity
+・ Virological: control or suppress viral replication
+・ Public health: reduce infectivity.
+Criteria for initiating ART based on Nigerian ART guidelines
+・ The current national guidelines recommend initiation of ART in all persons
+testing positive for HIV including children, adolescents, adults, pregnant
+and breastfeeding women, regardless of clinical and immunological stages
+of the disease.
+Drug Treatment
+・ Recommended first-line ART regimens for adults, adolescents, pregnant
+and breastfeeding women, and children1.
+Table 10.2: Recommended first-line ARV regimen for ART naive adults
+and adolescents.
+
+# Table 10.2: Recommended First-line ARV Regimen for ART Naive Adults and Adolescents
+
+| Population | Preferred First-line Regimen | Alternative First-line |
+|---|---|---|
+| **Adults** | TDF + 3TC + DTG | TDF+3TC (or FTC)+ EFV, AZT+3TC+EFV, TDF+3TC (or FTC)+EFV (400mg), AZT+3TC+NVP, TDF+3TC (or FTC)+NVP, ABC+3TC+DTG |
+| **Adolescents (10 – 19 years)** | TDF + 3TC + DTG* | TDF+3TC (or FTC)+EFV, TDF+3TC (or FTC)+EFV (400mg), AZT+3TC+NVP or EFV, ABC+3TC (or FTC)+DTG, ABC+3TC (or FTC)+EFV (400mg), TDF+3TC (or FTC)+NVP, ABC+3TC (of FTC)+NVP |
+| **Children (3 – 10 years)** | ABC⁺+3TC+DTG, ABC+3TC+EFV** or TDF+3TC+DTG (for children weighing >30kg) | ABC+3TC+NVP, AZT+3TC+NVP, TDF+3TC (or FTC)+EFV, TDF+3TC (or FTC)+NVP |
+| **Children (<3 years)** | ABC + 3TC + LPV/ror, AZT + 3TC + LPV/r | ABC + 3TC + NVP, AZT + 3TC + NVP, ABC + 3TC + RAL, AZT + 3TC + RAL |
+| **Pregnant and breastfeeding women** | TDF + 3TC (or FTC) + EFV or TDF + 3TC + DTG‡ | AZT + 3TC + EFV (or NVP) TDF + 3TC (or FTC) + NVP |
+
+---
+
+**Key:**
+- **3TC**: lamivudine
+- **ABC**: abacavir
+- **AZT**: zidovudine
+- **DTG**: dolutegravir
+- **EFV**: efavirenz
+- **LPV/r**: lopinavir/ritonavir
+- **NRTI**: nucleoside reverse-transcriptase inhibitor
+- **NVP**: nevirapine
+- **RAL**: raltegravir
+- **TDF**: tenofovir disoproxil fumarate
+- **FTC**: emtricitabine
+
+
+ABC + 3TC + EFV- may be considered in cases of impaired renal function and
+osteoporosis (TDF induced or post- menopausal).
+Initiation of DTG in pregnancy in ARV naïve pregnant women should be
+started after the first trimester. Effective contraception should be offered to
+adult women and adolescent girls of childbearing age or potential. DTG can be
+prescribed for adult women and adolescent girls of childbearing age or
+potential who wish to become pregnant or who are not otherwise using or
+accessing consistent and effective contraception if they have been fully
+informed of the potential increase in the risk of neural tube defects (at
+conception and until the end of the first trimester.
+*For adolescents with weight > 30 kg, DTG in fixed dose TLD can be used.
+**EFV is only indicated for use in children >3 years of age and >10 kg.
++ In case of ABC hypersensitivity reactions, do not ever re-use in-patient.
+Dosing schedule for DTG by weight band for children up to 6yrs weighing
+<30 kg.
+・15 - 19 kg (20 mg once daily)
+・20 - 29 kg (25 mg once daily)
+
+# Table 10.3: Recommendations for ART in HIV+ Children with Active TB
+
+| Considerations | Time of Initiation of ART* | Preferred ART Regimen |
+|---|---|---|
+| **Active TB diagnosed, not yet on HAART** | Start anti-TB treatment. Start ART within 2 weeks after commencing anti-TB treatment | **Children <3 years and PMTCT exposure to NNRTI:** Use Triple NRTI (AZT + 3TC + ABC) **Children <3 years and no PMTCT exposure to NNRTI:** Initiate NVP-based regimen and increase NVP dose to 200 mg/m² per day, OR Triple NRTI (AZT + 3TC + ABC) **Children >3 years:** Standard 1st line AZT + 3TC + EFV° is preferred. Consider 1st line alternatives if preferred regimen not applicable. |
+| **Active TB diagnosed, already on HAART** | If <3 years and on NVP-based regimen | Continue regimen but increase NVP to maximum dose (200 mg/m²/day) |
+| | If >3 years and on NVP-based regimen | Substitute: Replace NVP with EFV |
+| | If on LPV/r-based regimen | Increase dose of Ritonavir to make 1:1 ratio with LPV |
+
+---
+
+**Notes:**
+- Administration of CPT is important in children with TB/HIV co-infection.
+- Regimen assumed to contain Rifampin.
+- Careful clinical monitoring with lab support is recommended where NVP is used with rifampicin. This combination should only be used if there are no other options.
+- EFV is not currently recommended for children <3 years.
+
+
+Monitoring Response to ART and diagnosis of Treatment Failure
+Clinical and laboratory monitoring of patient on ART is critical to achieving the
+treatment goals. Through this, treatment response and possible toxicity of
+ARVs are monitored and patients that are eligible for drug switch are easily
+detected.
+
+# Table 10.4: Recommended and Desirable Laboratory Tests During Monitoring of ART
+## Laboratory Tests after the Initial Baseline Investigations and During Follow-up on ART
+
+| Phase of HIV Management | Recommended | Desirable (if feasible) |
+|---|---|---|
+| **Receiving ART** | CD4 cell count (every 6 months); HIV viral load (at 6 months after initiating ART and every 12 months thereafter) | Urine dipstick for glycosuria and serum creatinine for TDF |
+| **Treatment Failure** | CD4 cell count; HIV viral load | HBV (HBsAg) serology^f (before switching ART regimen if this testing was not done or if the result was negative at baseline) |
+
+
+
+Table 10.5: WHO definitions of clinical, immunological and virological
+failure for the decision to switch ART regimens
+# Table 10.5: WHO Definitions of Clinical, Immunological and Virological Failure for the Decision to Switch ART Regimens
+
+| Failure | Definition | Comments |
+|---|---|---|
+| **Clinical Failure** | **Adults and adolescents:** New or recurrent clinical event indicating severe immunodeficiency (WHO clinical stage 4 condition) after 6 months of effective treatment. **Children:** New or recurrent clinical event indicating advanced or severe immunodeficiency (WHO clinical stage 3 and 4 clinical condition with exception of TB) after 6 months of effective treatment | The condition must be differentiated from Immune Reconstitution Inflammatory Syndrome occurring after initiating ART. For adults, certain WHO clinical stage 3 conditions (pulmonary TB and severe bacterial infections) may also indicate treatment failure. |
+| **Immunological Failure** | **Adults and adolescents:** CD4 count falls to the baseline (or below), OR persistent CD4 levels below 100 cells/mm³, OR 50% decline from on-therapy CD4 cell peak level. **Children younger than 5 years:** Persistent CD4 levels below 200 cells/mm³ or <10%. **Older than 5 years:** Persistent CD4 levels below 100 cells/mm³ | Without concomitant or recent infection to cause a transient decline in the CD4 cell count. A systematic review found that current WHO clinical and immunological criteria have low sensitivity and positive predictive value for identifying individuals with virological failure. The predictive value would be expected to be even lower with earlier ART initiation and treatment failure at higher CD4 cell counts. |
+| **Virological Failure** | Plasma viral load above 1000 copies/ml based on two consecutive viral load measurements after 3 months, with adherence support | The optimal threshold for defining virological failure and the need for switching ART regimen has not been determined. An individual must be taking ART for at least 6 months before it can be determined that a regimen has failed. Assessment of viral load using DBS and point-of-care technologies should use a higher threshold*. Blips are a transient increase in viral load between 50 and 1,000 copies/ml and can occur during periods of inter-current infections. |
+
+
+Notable Adverse Drug Reactions, Caution, and Contraindications
+Dolutegravir (DTG)
+・ CNS symptoms: insomnia, fatigue, headache, depression, abnormal
+dreams, dizziness, suicidal ideation, suicidal tendencies- CNS symptoms
+associated with older age, co-administration with ABC and higher plasma
+drug level.
+・ GI symptoms- Increased serum lipase, diarrhoea, abdominal distress and
+pain, flatulence, nausea and vomiting.
+・ Hepatic- Increased serum AST, hyperbilirubinaemia, hepatitis
+・ Hypersensitivity reactions
+・ Limit daily dose of metformin to 1000 mg when used with DTG & monitor
+glycemic control.
+・ Avoid co-administration of DTG with carbamazepine, nevirapine,
+phenytoin, phenobarbitone, rifampicin, dofetilide
+Nevirapine (NVP)
+・ Life-threatening skin rash (Stevens-Johnson syndrome); occurs in < 5% of
+patients, usually within 8 weeks of treatment.
+・ DRESS syndrome (Drug Rash, Eosinophilia, and Systemic Symptoms):
+manifests as fever, athralgia, etc
+・ Hepatitis and jaundice reported
+
+Efavirenz (EFV)
+・ Morbilliform rash may appear; usually not life-threatening.
+・ CNS side effects in about 50% of patients (usually self-limiting)
+- Hallucinations
+- Insomnia
+- Abnormal dreams
+- Somnolence
+- Amnesia
+- Abnormal thinking
+- Confusion
+- Euphoria
+For these reasons, EFV is contraindicated in patients who already have
+psychiatric manifestations.
+· Foetal abnormalities observed in animal models; efavirenz should not be
+used in pregnant women or women who might become pregnant while
+on therapy
+Zidovudine (ZDV)
+・ Bone marrow suppression resulting in:
+・ Anaemia with macrocytosis
+・ Thrombocytopaenia
+・ Leucocytopaenia
+・ Gastro-intestinal intolerance is fairly common: hypersalivation, nausea,
+abdominal discomfort.
+Stavudine (d4T)
+・ Peripheral neuropathy presenting with painful sensations in the lower
+limbs more than the upper limbs
+・ Lactic acidosis with hepatic steatosis
+・ Stop treatment or switch to a drug less toxic to mitochondria (worse when
+d4T is used in combination with ddI)
+・ Peripheral fat atrophy
+・ Ascending motor weakness resembling Guillain-Barre syndrome.
+Lamivudine (3TC)
+・ No major side effect but class side effects may occur.
+Didanosine (ddI)
+・ Dose-related pancreatitis; worse when combined with hydroxycarbamide
+(hydroxyurea)
+・ Peripheral neuropathy; worse if combined with d4T.
+・ Lactic acidosis (a class adverse effect)
+Tenofovir (TDF)
+・ Infrequent; not more than what is observed in placebos in controlled trials.
+・ Renal insufficiency and bone demineralization
+Abacavir (ABC)
+・ Life-threatening hypersensitivity in 3 - 9% of patients
+・ Lactic acidosis with or without hepatic steatosis
+
+Indinavir (IDV)
+・ Class-specific events
+・ Nephrolithiasis with or without haematuria in 10 - 28% of patients; (fluid
+intake should be increased)
+・ Alopecia
+Nelfinavir (NFV)
+・ Diarrhoea: 10 - 30% of patients; (should be managed with agents such as
+loperamide)
+・ Fat accumulation
+・ Hyperlipidaemia
+Lopinavir/ritonavir (LPV/r)
+Well tolerated except for occasional class adverse reactions:
+・ Gastrointestinal
+・ Hepatic transaminitis especially in patients with hepatitis B or C
+・ Hyperlipidaemia
+・ Fat accumulation
+
+Saquinavir (SQV)
+GIT intolerance in 5 - 30% leading to:
+・ Nausea
+・ Abdominal pain
+・ Diarrhoea
+Amprenavir (AMP)
+・ Class adverse effects
+・ GIT intolerance; oral paraesthesia in 28% of patients
+Oral solution contains propylene glycol which may precipitate:
+・ Seizures
+・ Stupor
+・ Tachycardia
+・ Hyperosmolality
+・ Lactic acidosis
+・ Renal failure
+・ Haemolysis
+Oral solution is contraindicated in children below 4 years; should be changed
+to capsules as soon as possible.
+Ritonavir (RTV)
+· Class side effects
+· Perversion of taste
+· Circumoral and peripheral paraesthesia
+· Hepatotoxicity
+· Aesthenia
+Atazanavir (ATV)
+・ Unconjugated hyperbilirubinaemia
+・ Gastrointestinal effects
+・ No effect on lipids
+
+Refer to standard texts for possible drug-drug interactions in all cases
+Prevention
+Prevention of Mother-To-Child Transmission (PMTCT)
+・ ART should be initiated in all HIV pregnant and breast-feeding women
+regardless of WHO clinical stage and at any CD4+ cell count and continued
+for life. This is also regardless of gestational age.
+Drug of choice
+・ Preferred first-line regimen: TDF+3TC + EFV.
+・ Alternative first-line Regimens
+・ AZT + 3TC + EFV(Recommended alternative to TDF for pregnant and
+breastfeeding women)
+・ AZT + 3TC + NVP(For pregnant women who cannot tolerate EFV)
+・ TDF + 3TC + NVP(For pregnant women who cannot tolerate AZT and
+EFV)
+Prophylaxis for HIV exposed infants
+・ All infants born to HIV mothers are exposed and should receive post-
+exposure prophylaxis.
+・ Infants delivered to HIV positive mothers who are stable on ART should
+receive Nevirapine prophylaxis.
+・ Infants born to mothers with HIV who are at high risk of acquiring HIV
+should receive dual prophylaxis with AZT (twice daily) and NVP (once
+daily) for the first 6 weeks of life, whether they are breastfed or formula fed.
+・ Breastfed infants who are at high risk of acquiring HIV should continue
+infant prophylaxis for an additional 6 weeks (total of 12 weeks of infant
+prophylaxis) using AZT (twice daily) and NVP (once daily).
+・ Cotrimoxazole prophylaxis is recommended for HIV-exposed infants from
+6 weeks of age and should be continued until HIV infection has been
+excluded by an age-appropriate HIV test 12 weeks after complete cessation
+of breastfeeding.
+Table 10:6 NVP Dosing for Infants HIV Prophylaxis
+Infanta ge Dailydosin g
+Birtht o6 w eeks:
+Birthw eight < 2,500g 10mg( 1 m l)o nce daily
+Birthw eight ≥ 2 ,500g 15mg( 1.5 ml)o nce daily
+>6w eeksto 6 m onths* 20mg( 2 m l)o nce daily
+>6months to9months* 30mg(3 ml)oncedaily
+>9months to12months* 40mg(4 ml)oncedaily
+*Dosing beyond 6 weeks of age should be considered in special situations.
+** For the duration of therapy, refer to the Integrated National Guideline on
+HIV Prevention, Treatment and Care of Nigeria
+239
+
+# Table 10.6: NVP Dosing for Infants HIV Prophylaxis
+
+| Infant Age | Daily Dosing |
+|---|---|
+| **Birth to 6 weeks:** Birth weight <2,500 g | 10 mg (1 ml) once daily |
+| **Birth to 6 weeks:** Birth weight ≥2,500 g | 15 mg (1.5 ml) once daily |
+| >6 weeks to 6 months* | 20 mg (2 ml) once daily |
+| >6 months to 9 months* | 30 mg (3 ml) once daily |
+| >9 months to 12 months* | 40 mg (4 ml) once daily |
+
+---
+
+**Notes:**
+- \* Dosing beyond 6 weeks of age should be considered in special situations.
+- \*\* For the duration of therapy, refer to the Integrated National Guideline on HIV Prevention, Treatment and Care of Nigeria.
+
+Post-exposure prophylaxis
+・ Evaluate the risk of exposure and potential eligibility of post-exposure
+prophylaxis.
+・ Offer prophylaxis as soon as possible, within 1 hour and at the latest within
+72 hours of the exposure.
+Recommended drug regimen for post-exposure prophylaxis
+・ It is recommended that a three-drug ARV regimen should be used for PEP.
+TDF + 3TC (or FTC) is recommended as the preferred backbone regimen
+for HIV PEP for adults and adolescents.
+・ DTG or EFV are recommended as the preferred third drug for HIV PEP for
+adults and adolescents. However, where available, LPV/r, RAL, or DRV/r,
+can be considered as alternative options.
+・ If the source person is known to be on a second-line regimen or has failed
+first-line regimen, the preferred prophylaxis regimen should be “a second-
+line regimen”. If the source person on the second-line regimen has a
+detectable viral load, the prophylaxis should be a third line regimen.
+・ Children above 30kg should receive TDF/3TC/DTG or EFV.
+・ In children <10 years or less than 30kg, AZT + 3TC is recommended as the
+preferred backbone regimen for HIV PEP.
+・ Alternative backbone regimen for this age category will include ABC +
+3TC or TDF + 3TC (or FTC). DTG is recommended as the preferred third
+drug for HIV PEP for children < 10 years.
+・ An age-appropriate alternative regimen can be identified from LPV/r,
+ATV/r, RAL, DRV/r.
+・ Regimen must be continued for at least 28 days or until the result of the HIV
+status of the source person is known to be negative.
+・ Nevirapine should never be used for PEP as the risk of fatal hepatotoxicity
+outweighs the risk of HIV infection.
+Sexual Assault
+・ This should be initiated as soon as possible (and up to 72 hours post-
+assault) to optimize the potential benefit.
+Pre-Exposure Prophylaxis (PrEP)
+・ PrEP is the preemptive use of antiretroviral (ARV) drugs to reduce the
+probability of HIV negative individuals acquiring HIV infection especially
+persons who engage in high-risk activity.
+・ PrEP should be offered only to the category of individuals listed below:
+- Serodiscordant couples
+- Commercial sex workers
+- Injecting drug users
+- Individuals who engage in anal sex on a prolonged and regular basis
+・ Before initiating PrEP
+- Confirm HIV negative status.
+- Screen and treat for chronic hepatitis B infection.
+- Client should have normal renal function.
+・ Recommend drugs for PrEP.
+
+- Preferred daily oral dose regimen is TDF+ FTC (Truvada) given as one
+tablet daily
+- Alternate regimen is a daily dose of TDF.
+- These drugs are to be taken indefinitely until the individual no longer
+qualifies as high risk for HIV.
+Behavioural interventions
+・ Mechanisms with established merit:
+A: Abstinence
+B: Be faithful (mutual fidelity to infected partner)
+C: Consistent and correct use of male and female condoms
+D: Delay onset of sexual activity
+E: Examine yourself
+F: Find out your status
+- Screening and treatment of sexually transmitted infections
+- Encourage Partner Disclosure and Voluntary
+- Confidential Couple Counselling (VCCCT)
+- Promote the rights and protection of children and infusion women.

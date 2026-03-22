@@ -1,0 +1,59 @@
+{
+  "condition_name": "Male Infertility",
+  "condition_slug": "male-infertility",
+  "source": "NSTG 2022",
+  "introduction": "Failure to achieve conception after one year of regular, unprotected sexual intercourse in a couple trying to achieve pregnancy. Male factor is responsible for about 50% of infertile unions.",
+  "clinical_features": [
+    {
+      "type": "History",
+      "features": [
+        "Duration of infertility",
+        "Ability to have erection, penetration and ejaculation Family history of infertility",
+        "History of systemic disease e.g. diabetes mellitus, hypertension, chronic liver disease and tuberculosis",
+        "History of sexually transmitted infections and urinary tract infections",
+        "History of genital trauma",
+        "History of surgery: herniorraphy, orchidopexy, urethral surgeries, etc"
+      ]
+    },
+    {
+      "type": "Signs",
+      "features": [
+        "Gynaecomastia",
+        "Epispadias, hypospadias, penile deformities",
+        "Absence of testis, small sized testis, varicocoeles, hard and irregular epididymis"
+      ]
+    }
+  ],
+  "investigations": [
+    "Semen analysis x 3",
+    "Hormone profile (LH, FSH, testosterone, and prolactin)",
+    "Scrotal ultrasound",
+    "Trans-rectal ultrasound",
+    "Testicular biopsy",
+    "Vasography"
+  ],
+  "treatment": {
+    "goals": [
+      "To improve semen quality and restore reproductive capability"
+    ],
+    "non_drug": [
+      "Varicocoelectomy",
+      "Vasovasotomy",
+      "Epididymo-vasotomy",
+      "Transurethral resection of obstructed ejaculatory duct",
+      "Intra-uterine insemination",
+      "In vitro fertilization",
+      "Gamete intra-fallopian tube transfer",
+      "Intra-cytoplasmic sperm injection"
+    ],
+    "drug": [],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

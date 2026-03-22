@@ -1,0 +1,69 @@
+{
+  "condition_name": "Hypothyroidism (Myxoedema)",
+  "condition_slug": "hypothyroidism-myxoedema",
+  "source": "NSTG 2022",
+  "introduction": "A state of subnormal concentration of thyroid hormones in the circulation is called hypothyroidism. The extreme form of hypothyroidism is referred to as myxoedema.",
+  "clinical_features": [
+    {
+      "type": "Adults",
+      "features": [
+        "Dull facial expression, slow speech and poor memory",
+        "Puffiness of the hands, feet and face",
+        "Lethargy and fatigue",
+        "Thinning, dryness and loss of hair",
+        "Hypothermia",
+        "Bradycardia, reduced systolic and increased diastolic blood pressure",
+        "Weight gain",
+        "Decreased reflexes",
+        "Constipation",
+        "Menstrual abnormalities"
+      ]
+    },
+    {
+      "type": "Infants",
+      "features": [
+        "Mental and physical retardation",
+        "If not corrected, cretinism"
+      ]
+    }
+  ],
+  "investigations": [
+    "Total serum T3 and T4 levels",
+    "TSH stimulation test",
+    "TRH test"
+  ],
+  "treatment": {
+    "goals": [
+      "Establish cause",
+      "Establish the severity of hypothyroidism",
+      "Restore normal body functions",
+      "Prevent Complications"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Levothyroxine sodium (thyroxine sodium) for adults and children with specific dosages",
+      "Liothyronine sodium (1-tri-iodothyronine sodium) for adults and children with specific dosages"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Thyroxine should not be used alone for long term replacement therapy",
+      "Monitor serum levels of hormones to ensure that patients are not exposed to cardiac risks"
+    ],
+    "supportive_measures": [
+      "Treat anaemia, constipation and other complications as appropriate",
+      "Immediate mechanical ventilation in myxoedema coma"
+    ]
+  },
+  "differential_diagnoses": [
+    "Endogenous depression",
+    "Reactive depression"
+  ],
+  "complications": [
+    "Myxoedema coma in adults and cretinism in the young"
+  ],
+  "prevention": [
+    "Iodinated salt to prevent iodine deficiency"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

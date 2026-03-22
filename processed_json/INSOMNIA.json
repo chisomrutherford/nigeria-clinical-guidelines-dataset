@@ -1,0 +1,58 @@
+{
+  "condition_name": "Insomnia",
+  "condition_slug": "insomnia",
+  "source": "NSTG 2022",
+  "introduction": "Difficulty in falling asleep or staying asleep. May be primary and unrelated to any physical or mental disorder. May relate to a mental disorder, medical or physical conditions. May be an adverse effect of medication (or psychoactive substances). A common, often chronic problem; tends to increase with age.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Early insomnia: difficulty in initiating sleep",
+        "Middle insomnia: difficulty in going back to sleep after waking up at night",
+        "Terminal insomnia: early awakening, commonly 2 hours or more before desiring to do so"
+      ]
+    }
+  ],
+  "investigations": [
+    "Mainly of the presumed underlying cause(s)"
+  ],
+  "treatment": {
+    "goals": [
+      "To improve sleep, especially quality (sleep satisfaction) and quantity (duration of sleep)",
+      "To remove underlying/associated factors",
+      "Avoid sedatives: use for only short periods when indicated"
+    ],
+    "non_drug": [
+      "Sleep hygiene",
+      "Behavioural modifications to enhance relaxation",
+      "Avoid habits and lifestyles that promote insomnia",
+      "Improve environmental/sleeping conditions"
+    ],
+    "drug": [
+      "Short-acting benzodiazepines for early insomnia",
+      "Longer-acting benzodiazepines e.g. Diazepam at low doses: 2.5 - 10 mg for no more than 2 - 3 weeks for middle insomnia"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Benzodiazepines: dependence and rebound insomnia"
+    ],
+    "supportive_measures": [
+      "Relaxation therapy: a useful adjunct for the most common forms of insomnia"
+    ]
+  },
+  "differential_diagnoses": [
+    "Useful to consider possible aetiological factors: medical, mental, situational, environmental",
+    "Pain is a common factor"
+  ],
+  "complications": [
+    "Deteriorating physical and/or mental health",
+    "Decline in overall wellbeing and quality of life"
+  ],
+  "prevention": [
+    "Reduced stress exposure",
+    "Caution with alcohol and psychoactive substances, such as coffee, kolanut",
+    "Discourage misuse of \"sleeping pills\" e.g., bromazepam, diazepam"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

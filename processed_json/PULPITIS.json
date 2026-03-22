@@ -1,0 +1,86 @@
+{
+  "condition_name": "Pulpitis",
+  "condition_slug": "pulpitis",
+  "source": "NSTG 2022",
+  "introduction": "Inflammation of the dental pulp. The single most important disease process affecting the dental pulp. Accounts for virtually all pulpal disease of any clinical significance",
+  "clinical_features": [
+    {
+      "type": "General",
+      "features": [
+        "Pain which is difficult to localize",
+        "May radiate to the adjacent jaw and occasionally to the face, ear or neck",
+        "May be triggered by cold or hot stimulants",
+        "May be triggered by a recumbent position",
+        "Occasionally triggered by mastication when food particles get into a carious cavity"
+      ]
+    },
+    {
+      "type": "Reversible Pulpitis",
+      "features": [
+        "The pulp can recover with removal of stimulus",
+        "Pain lasts for only a few moments after removal of the initiating stimulus"
+      ]
+    },
+    {
+      "type": "Irreversible Pulpitis",
+      "features": [
+        "The pulp cannot recover even after removal of stimulus",
+        "Characterized by pain which lingers for at least one minute after removal of stimulus",
+        "May be spontaneous"
+      ]
+    }
+  ],
+  "investigations": [
+    "Electric pulp tester",
+    "Cold or hot water bath",
+    "Ethyl chloride spray",
+    "Hot gutta percha sticks",
+    "Ice sticks"
+  ],
+  "treatment": {
+    "goals": [
+      "Exclude the pulp from the stimulus (or stimuli) in reversible pulpitis",
+      "Remove the pulp in irreversible pulpitis"
+    ],
+    "non_drug": [
+      "Indirect pulp capping",
+      "Direct pulp capping",
+      "Conventional filling using amalgam, composite or GIC",
+      "Desensitization with strontium chloride",
+      "Root canal therapy",
+      "Extraction"
+    ],
+    "drug": [
+      "Paracetamol - Adult: 500 mg - 1 g orally every 4 - 6 hours (to a maximum of 4 g) for 5-7 days",
+      "Paracetamol - Child (every 4-6 hours): 13 and above: same as adult dosing",
+      "Paracetamol - 6 - 12 years: 250-500 mg",
+      "Paracetamol - 1 - 5 years: 125-250 mg",
+      "Paracetamol - 3 months - 1 year: 62.5 mg",
+      "NSAIDs may be required in some patients"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Aspirin and other NSAIDs",
+      "Gastrointestinal haemorrhage, allergic reactions",
+      "Do not prescribe for patients with peptic ulcer disease",
+      "May exacerbate symptoms in asthmatics",
+      "Aspirin is contraindicated in children less than 16 years as it may precipitate Reye's syndrome"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Reversible pulpitis",
+    "Irreversible pulpitis",
+    "Pulpal necrosis",
+    "Apical periodontitis",
+    "Periapical abscess",
+    "Cellulitis"
+  ],
+  "prevention": [
+    "Prevent dental caries (the most important cause of pulpitis)",
+    "Seek prompt dental attention"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

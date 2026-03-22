@@ -1,0 +1,57 @@
+{
+  "condition_name": "Acute Peri-Apical Abscess",
+  "condition_slug": "acute-peri-apical-abscess",
+  "source": "NSTG 2022",
+  "introduction": "A localized collection of pus in the peri-apical region of a tooth contained within the alveolar bone.",
+  "clinical_features": [
+    {
+      "type": "Clinical features",
+      "features": [
+        "Painful swelling at the root of tooth",
+        "Sinus (may be present)",
+        "Tooth is tender to biting or percussion",
+        "Tooth may be mobile"
+      ]
+    }
+  ],
+  "investigations": [
+    "Radiographs (periapical)"
+  ],
+  "treatment": {
+    "goals": [
+      "Relieve symptoms",
+      "Eliminate the infection"
+    ],
+    "non_drug": [
+      "Drain abscess using local anaesthesia by root canal extirpation if tooth is to be retained",
+      "Otherwise extract the involved tooth",
+      "Treat residual infection"
+    ],
+    "drug": [
+      "Amoxicillin - Adult: 250 mg orally every 8 hours for 5 to 7 days",
+      "Amoxicillin - Child up to 10 years: 125 mg every 8 hours for 5-7 days, doubled in severe infections",
+      "Metronidazole - Adult: 200 mg orally every 8 hours for 3 - 7 days",
+      "Metronidazole - 1 - 3 years: 50 mg orally 8 hourly for 3 - 7 days",
+      "Metronidazole - 3-7 years: 100 mg 8 hourly",
+      "Metronidazole - 7-10 years: 100 mg 8 hourly for 3-7 days",
+      "Clindamycin - Adult: 150 - 300 mg every 6 hours; up to 450 mg every 6 hours in severe infections",
+      "Clindamycin - Child: 1 month – 18 years 3 - 6 mg/kg (max. 450 mg) every 6 hours",
+      "Clindamycin - Neonate Under 14 days 3-6 mg/kg 3 times daily",
+      "Clindamycin - Neonate 14-28 days 3-6 mg/kg (max. 450 mg) 4 times daily",
+      "Clindamycin - By deep intramuscular injection or by intravenous infusion, 0.6-2.7 g daily (in 2-4 divided doses) life threatening infection, up to 4.8 g daily; single doses above 600 mg by intravenous infusion only; single doses by intravenous infusion not to exceed 1.2 g"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Discontinue immediately if diarrhoea or colitis develops; monitor liver and renal function if treatment exceeds 10 days, and in neonates and infants; avoid rapid intravenous administration; avoid in acute porphyria"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Infected radicular cyst",
+    "Periodontal abscess"
+  ],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

@@ -1,0 +1,48 @@
+{
+  "condition_name": "Foreign Bodies in the Ear",
+  "condition_slug": "foreign-bodies-in-the-ear",
+  "source": "NSTG 2022",
+  "introduction": "A common presentation in ENT emergency practice; commoner in children than adults. Children may inadvertently insert various objects (beads, plastic toys, seeds etc) into their ears while playing. Live insects may also crawl into the ear in adults/children.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "May be asymptomatic",
+        "Mild pain; sensation of blockage in older children",
+        "Object usually seen with good light in the ear canal"
+      ]
+    }
+  ],
+  "investigations": [
+    "Ear Endoscopy",
+    "Xray of petromastoid",
+    "CT Scan of petromastoid"
+  ],
+  "treatment": {
+    "goals": [
+      "Remove object expeditiously without damage to ear structures or causing undue pain to patient"
+    ],
+    "non_drug": [
+      "Removal by ear syringing",
+      "Removal with appropriate hook, or alligator forceps",
+      "Examination and removal under anaesthesia if difficult in the clinic"
+    ],
+    "drug": [],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Impacted wax",
+    "Otitis externa"
+  ],
+  "complications": [
+    "Otitis externa",
+    "Perforation of tympanic membrane from attempts at removal"
+  ],
+  "prevention": [
+    "Vigilant supervision of young children"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

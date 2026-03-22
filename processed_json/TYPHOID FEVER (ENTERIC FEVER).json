@@ -1,0 +1,95 @@
+{
+  "condition_name": "Typhoid Fever (Enteric Fever)",
+  "condition_slug": "typhoid-fever-enteric-fever",
+  "source": "NSTG 2022",
+  "introduction": "A multisystemic illness caused primarily by Salmonella enterica serotype typhi and, to a lesser extent, S. enterica serotypes paratyphi A, B, and C. It is usually spread through contaminated food or water. Once Salmonella typhi bacteria are eaten or drunk, they multiply and spread into the bloodstream. Risk is higher in populations that lack access to safe water and adequate sanitation. Humans are the only reservoir for salmonella. Incidence of chronic carriage is higher among women and persons with biliary abnormalities: gall stones, carcinoma of the gall bladder; also higher in persons with gastrointestinal malignancies.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Incubation period ranges from 3 - 21 days",
+        "High grade fever (38.80 C to 40.50C)",
+        "Chills",
+        "Headache",
+        "Anorexia",
+        "Cough",
+        "Weakness",
+        "Sore throat",
+        "Dizziness",
+        "Muscle pains",
+        "Diarrhoea or constipation",
+        "Abdominal pain",
+        "Rash (rose spots)",
+        "Hepato-splenomegaly",
+        "Epistaxis",
+        "Relative bradycardia"
+      ]
+    }
+  ],
+  "investigations": [
+    "A positive culture is the 'gold standard' for the diagnosis of typhoid fever. Specimens for culture may be obtained from the blood, stool, urine, bone marrow; gastric and intestinal secretions.",
+    "There are no diagnostic tests other than positive cultures.",
+    "Full Blood Count",
+    "Leucopenia, neutropenia, leucocytosis can develop early, especially in children; late if complicated by intestinal perforation or secondary infection",
+    "Liver function tests: values may be elevated.",
+    "Electrocardiography: ST and T wave abnormalities may be present.",
+    "Serological tests",
+    "Widal test gives high rates of false positives and negatives"
+  ],
+  "treatment": {
+    "goals": [
+      "Eliminate S. typhi and S. paratyphi",
+      "Prevent Complications.",
+      "Prevent chronic carrier status."
+    ],
+    "non_drug": [
+      "Nursing care",
+      "Enteral or parenteral nutrition"
+    ],
+    "drug": [
+      "Antibiotics at least 2 - 4 minutes; 2 - 4 g daily in severe infection; may also be given by intravenous infusion",
+      "Neonate, 20 - 50 mg/kg daily by intravenous injection over 60 minutes",
+      "Infant and child under 50 kg: 20 - 50 mg/kg daily; up to 80 mg/kg in severe infection;",
+      "Over 50 kg: adult dose",
+      "Doses of 50 mg/kg and above should be given by intravenous infusion only",
+      "Intramuscular doses over 1 g should be divided between more than one site; single intravenous doses above 1 g should be given by intravenous infusion only",
+      "Ciprofloxacin: Adult: 500 - 750 mg orally every 12 hours",
+      "200 - 400 mg every 12 hours by intravenous infection over 30 - 60 minutes"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Ciprofloxacin: Diarrhoea, nausea, vomiting, abdominal discomfort, headache (which are themselves features of the disease)",
+      "Should be given with caution in pregnancy and during breastfeeding.",
+      "Not recommended for children or adolescents"
+    ],
+    "supportive_measures": [
+      "Parenteral fluid administration",
+      "Treat Complications."
+    ]
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Neuropsychiatric symptoms",
+    "Intestinal perforation",
+    "Gastro-intestinal haemorrhage",
+    "Pancreatitis",
+    "Hepatitis",
+    "Splenic abscesses",
+    "Meningitis",
+    "Nephritis",
+    "Pneumonia",
+    "Osteomyelitis",
+    "Chronic carrier state"
+  ],
+  "prevention": [
+    "Eliminate Salmonella by effective treatment of cases, improved sewage management, improved water treatment and improved food hygiene (production, transit, storage, and utilization)",
+    "Typhoid immunization is recommended for those at risk.",
+    "Not a substitute for scrupulous personal and environmental hygiene",
+    "Identify, and treat chronic carriers with amoxicillin or ciprofloxacin daily for 4 - 6 weeks.",
+    "In patients with urolithiasis and schistosomiasis appropriate treatment should be instituted",
+    "Correct anatomic abnormalities associated with the disease surgically.",
+    "Cholecystectomy may be required in some cases"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

@@ -1,0 +1,48 @@
+{
+  "condition_name": "The Empty Scrotum",
+  "condition_slug": "the-empty-scrotum",
+  "source": "NSTG 2022",
+  "introduction": "A clinical situation in which the testis is absent from the scrotum. May be bilateral or unilateral",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Absence of one or both testes from the scrotum",
+        "Pain from trauma to the testis",
+        "Infertility (in adulthood)",
+        "Atrophic testis",
+        "Inguinal hernia may be present on the affected side"
+      ]
+    }
+  ],
+  "investigations": [
+    "Urinary 17-ketosteroids, gonadotropins",
+    "Serum testosterone",
+    "Ultrasonography",
+    "Computed tomography",
+    "Laparoscopy",
+    "Magnetic Resonance Imaging"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [],
+    "drug": [
+      "Hormone therapy: Human chorionic gonadotropin 1,500 units/week intramuscularly, for a total of 9 injections - Applicable only to special cases"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Torsion of the spermatic cord",
+    "Trauma to the testis",
+    "Malignancy",
+    "Infertility"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "Surgical treatment: In those with undescended testes bring testis down and fix it in the scrotum"
+  ],
+  "prognosis": null
+}

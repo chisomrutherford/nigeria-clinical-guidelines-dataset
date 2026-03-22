@@ -1,0 +1,112 @@
+{
+  "condition_name": "Anaemias",
+  "condition_slug": "anaemias",
+  "source": "NSTG 2022",
+  "introduction": "Anaemia is a reduction in the haemoglobin concentration in the peripheral blood below the normal range expected for the age and sex of an individual. The determination of haemoglobin concentration should always take the state of hydration and altitude of residence of the individual into consideration. Anaemia can be classified on the basis of red cell morphology and aetiology/pathogenesis.",
+  "clinical_features": [
+    {
+      "type": "Common",
+      "features": [
+        "Tiredness",
+        "lassitude",
+        "weakness",
+        "dyspnoea on exertion",
+        "palpitations",
+        "pallor"
+      ]
+    },
+    {
+      "type": "Less common",
+      "features": [
+        "Angina of effort",
+        "faintness",
+        "giddiness",
+        "headache",
+        "ringing in the ears",
+        "high output state congestive cardiac failure"
+      ]
+    }
+  ],
+  "investigations": [
+    "Haematocrit, haemoglobin concentration, red cell indices, reticulocyte count, total leukocyte and differential counts, platelet count",
+    "Erythrocyte sedimentation rate, Blood film examination for morphology of cells, thick and thin films for malaria parasites",
+    "Urine analysis: Colour, pH, clarity, and specific gravity, microscopic examination of fresh urine specimen, protein, glucose, occult blood",
+    "Stool: Colour, consistency, examination for ova and parasites, occult blood",
+    "Plasma: Blood Urea Nitrogen (BUN), Total protein and albumin bilirubin, creatinine (if BUN is abnormal)",
+    "Coombs test for the presence of antibodies to red cells",
+    "Ham's test (acidified serum test)",
+    "Bone marrow aspiration and trephine biopsy",
+    "Haemoglobin electrophoresis",
+    "Sickling test (metabisulphite and solubility)",
+    "Family studies"
+  ],
+  "treatment": {
+    "goals": [
+      "Restore haemoglobin concentration to normal levels",
+      "Prevent/treat Complications"
+    ],
+    "non_drug": [
+      "Bed rest in severe cases: initially necessary, especially when cardiovascular symptoms are prominent",
+      "Treat cardiac failure by standard measures",
+      "Balanced diet with adequate protein and vitamins",
+      "Correct dietary deficiencies (e.g. iron, folic acid)",
+      "Blood transfusion: a very important measure in the treatment of anaemia, but should not be used as a substitute for investigation, or specific treatment of the cause",
+      "Arrest blood loss",
+      "Treat any underlying systemic disorder",
+      "Remove any toxic chemical agent or drug",
+      "Correct anatomical gastro-intestinal abnormalities"
+    ],
+    "drug": [
+      "Haematinics e.g. iron, vitamin B, folic acid",
+      "Oral iron therapy: Ferrous sulphate 200 mg (containing 65 mg of iron) tablet 2-3 times daily",
+      "In children, 4-6mg/kg of elemental iron",
+      "Treat for 3-6 months to correct deficits in haemoglobin",
+      "Parenteral therapy: Iron dextran given as 'total dose' infusion",
+      "By deep intramuscular injection into the gluteal muscle or by slow intravenous injection or by intravenous infusion, calculated according to body weight and iron deficit dose in mL (of 50 mg/mL preparations) = [Patient's wt. in kg X (14 Hb in g/dL)]-10",
+      "Treatment with vitamin B (cobalamin) to replace body stores",
+      "Six 1000 μg intramuscular injections of hydroxocobalamin given at 3 - 7 day intervals",
+      "Maintenance therapy: patients will need to take vitamin Bfor life",
+      "1000 μg hydroxocobalamin intramuscularly once every 1-3 months",
+      "In children, give loading dose of IM Vitamin B 1000 μg; followed by monthly maintenance of 100 μg",
+      "In folate deficiency, 5-10 mg folic acid daily for at least 4 weeks"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Oral iron preparations: Nausea, epigastric pain, diarrhoea, constipation, skin eruptions",
+      "Reduce dosage and frequency of administration to reduce these effects",
+      "Parenteral iron: Local reactions: phlebitis and lymphadenopathy",
+      "Systemic reactions: may be early or late- headache, fever, vomiting; general aches and pains, backache, chest pain, dyspnoea, syncope; death from anaphylaxis",
+      "Test doses are no longer recommended, but caution is needed with every dose of intravenous iron. Patients should be monitored for signs of hypersensitivity during, and for at least 30 minutes after every administration",
+      "Total-dose infusion should be avoided in patients with history of allergy",
+      "Not recommended for children under 14 years",
+      "Avoid in first trimester and use in the second and third trimesters only when the benefit outweighs the potential risks for both mother and foetus",
+      "Anaphylaxis and other Hypersensitivity can occur with parenteral iron and facilities for cardiopulmonary resuscitation must be available",
+      "Discontinue oral iron prior to administration of iron dextran injection",
+      "Oral iron should not be given until 5 days after last injection",
+      "Toxic reactions are very rare and are usually not due to cobalamin itself",
+      "Pharmacologic doses of folic acid produce haematological response in vitamin B deficient patients, but worsen the neurological complications",
+      "Large doses of vitamin B also give haematological response in folate-deficient patients"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Cardiac failure",
+    "Respiratory failure"
+  ],
+  "complications": [
+    "Cardiac failure"
+  ],
+  "prevention": [
+    "Balanced diet",
+    "Prompt treatment of all illnesses"
+  ],
+  "other_investigations": [
+    "Coombs test for the presence of antibodies to red cells",
+    "Ham's test (acidified serum test)",
+    "Bone marrow aspiration and trephine biopsy",
+    "Haemoglobin electrophoresis",
+    "Sickling test (metabisulphite and solubility)",
+    "Family studies"
+  ],
+  "definitive_treatment": [],
+  "prognosis": []
+}

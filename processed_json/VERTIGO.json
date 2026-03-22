@@ -1,0 +1,49 @@
+{
+  "condition_name": "Vertigo",
+  "condition_slug": "vertigo",
+  "source": "NSTG 2022",
+  "introduction": "Vertigo is hallucination of movement (patient feels s/he is moving or the environment is moving) It is a symptom/feature of vestibular organ disfunction. The commonest type is known as benign paroxysmal positional vertigo(BPPV), which results when the otoliths in the posterior semicircular canal is disorganized /reoriented in wrong position. The trigger is usually sudden movement of the head. May also result from excessive wax, infections, tumours of inner ear (acoustic neuroma), head injuries and metabolic causes including cardiovascular disease.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features of Vertigo",
+      "features": [
+        "Sensation of movement(e.g. spinning), exaggerated dizziness",
+        "Nausea, sometimes vomiting, tinnitus(ringing in the ear) may be present."
+      ]
+    }
+  ],
+  "investigations": [
+    "Audiologic tests - Pure Tone Audiogram (PTA), Tympanometry",
+    "Automated Brain Response Audiometry (where possible)",
+    "CT scan in complicated cases",
+    "MRI in suspected inner ear tumours",
+    "Ear Endoscopy"
+  ],
+  "treatment": {
+    "goals": [
+      "Identify cause and treat accordingly"
+    ],
+    "non_drug": [
+      "Canalithic Repositioning Manoeuvres e.g. Epley's manoeuvre, Sermon manoeuvre"
+    ],
+    "drug": [
+      "Labyrinthine sedatives - Beta histine 16 mg twice daily - Cinnarizine 15 - 30 mg twice daily",
+      "Antiemetics - Promethazine - Adult: 25 mg orally at night, increased to 25 mg twice daily if necessary or, 10 - 20 mg 8 - 12 hourly - Child: Not recommended to children under 2 years - 5 - 10 years: 10 - 25 mg orally daily in 1-2 divided doses; - 2 - 5 years: 5 - 15 mg daily in 1 - 2 divided doses"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Meniere's disease",
+    "Vestibulitis",
+    "Acoustic neuroma"
+  ],
+  "complications": [
+    "Poor quality of life",
+    "Suicidal tendencies"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

@@ -1,0 +1,86 @@
+{
+  "condition_name": "Chronic Kidney Disease (CKD)",
+  "condition_slug": "chronic-kidney-disease-ckd",
+  "source": "NSTG 2022",
+  "introduction": "CKD is defined as a structural and functional abnormality of the kidneys persisting for 3 months or more and manifesting as markers of kidney damage or reduction in glomerular filtration rate (GFR). Markers of kidney damage include persistent microalbuminuria or overt albuminuria or haematuria. Structural abnormalities include abnormalities on imaging or on histology. CKD is also defined as GFR less than 60ml/min or presence of markers of kidney disease for 3 months or more. CKD is quite common in clinical practice as 12-26% of Nigerians have covert or overt CKD as revealed in community studies.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Asymptomatic",
+        "Younger patients may present with peri-orbital swelling early in the disease process",
+        "Swelling which may then progressively worsen over time and lead to ascites and anasarca",
+        "Hypertension develops in majority of patients with co-existing Congestive cardiac failure or cerebrovascular disease",
+        "Reduction in urine output (oliguria)",
+        "Features of uraemia: Gastrointestinal system - nausea, vomiting, hiccups, diarrhoea, epigastric pain and rarely haematemesis",
+        "Chest: central chest pain of pericarditis or breathlessness with development of pulmonary oedema",
+        "Central nervous system: Tremors, derangement of sleep rhythm, drowsiness, seizures and stupor or coma",
+        "Skin: Dryness and pruritus",
+        "Haemopoietic system: Anaemia (pallor) and bleeding diathesis"
+      ]
+    }
+  ],
+  "investigations": [
+    "Urine Examination (Volume / microscopy /Urinalysis / Electrolytes)",
+    "Serum chemistry (e.g. creatinine, urea, K)",
+    "Haematology including serology: Full blood count, clotting profile, serological tests for HBV, HCV and HIV",
+    "Imaging (e.g. USS, IVU, RUCG)",
+    "Renal biopsy"
+  ],
+  "treatment": {
+    "goals": [
+      "Counselling to discourage use of nephrotoxins and ensure compliance",
+      "Good Blood Pressure control",
+      "Reduction of proteinuria and ensuring maximum renoprotection",
+      "Maintenance of fluid homeostasis",
+      "Control of biochemical abnormalities",
+      "Maintenance of nutrition",
+      "Maintenance of haemoglobin between 11-12g/L",
+      "Maintenance of normal calcium-phosphate homeostasis",
+      "Treatment of any complicating infection",
+      "Treat the underlying cause",
+      "Dialysis where indicated"
+    ],
+    "non_drug": [
+      "Stage the disease",
+      "Stage 1 – 2: Treat underlying cause and institute measures to retard progression if known",
+      "Stage 3-5: Refer to Nephrologist"
+    ],
+    "drug": [
+      "Antihypertensive drugs including ACEI or ARBs",
+      "Iron supplementation: Ferrous sulphate, Ferrous gluconate",
+      "Parenteral iron: Iron sucrose, Iron dextran",
+      "Erythropoiesis Stimulating Agents (ESAs): erythropoetin alpha, erythropoetin beta, darbepoetin alfa, CERA",
+      "Phosphate binders: Sevelamer HCl, lanthanum carbonate, Calcium salts",
+      "Calcitriol or vitamin D analogs, calcimimetics"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Avoid Hb level > 13 g/dl due to risk of haemoconcentration",
+      "Check iron stores before supplemental iron if received blood transfusions due to risk of iron overload"
+    ],
+    "supportive_measures": [
+      "Combination of different groups of antihypertensive drugs",
+      "Dietary phosphate intake limitation in hyperphosphataemia",
+      "Parathyroidectomy when medical therapy fails",
+      "Dialysis: Maintenance Haemodialysis, Continuous Ambulatory Peritoneal Dialysis",
+      "Kidney Transplantation"
+    ]
+  },
+  "differential_diagnoses": [
+    "Severe acute kidney injury with cortical necrosis",
+    "Poisoning with multiple organ involvement",
+    "Chronic Congestive cardiac failure (Cardio-renal syndrome)"
+  ],
+  "complications": [
+    "Anaemia",
+    "CKD Mineral and Bone Disease",
+    "Congestive cardiac failure",
+    "Cerebrovascular disease",
+    "Peripheral vascular disease",
+    "Malnutrition"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

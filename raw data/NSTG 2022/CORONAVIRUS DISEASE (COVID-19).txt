@@ -1,0 +1,137 @@
+CORONAVIRUS DISEASE (COVID-19)
+Introduction
+Covid -19 is a viral illness caused by the severe acute respiratory syndrome
+coronavirus 2 (SARS-COV-2).
+One of seven coronaviruses known to cause disease in humans. Declared a
+pandemic by WHO in 2019.
+Other common diseases due to coronaviruses include: severe acute
+respiratory syndrome (SARS) and middle east respiratory syndrome (MERS)
+Transmission
+・ From both symptomatic and asymptomatic people
+・ By close contact through respiratory droplets or by direct contact with
+infected persons, or by contact with contaminated objects and surfaces, or
+・ By aerosols, i.e., in enclosed spaces indoors, crowded and inadequately
+ventilated spaces, or
+・ During aerosol-generating procedures
+
+CLINICAL FEATURES OF CORONAVIRUS DISEASE (COVID-19)
+Clinical Features
+・ Fever
+・ Cough
+・ Fatigue
+・ Anorexia
+・ Shortness of breath
+・ Myalgia
+・ Other non-specific symptoms-
+・ Sore throat, nasal congestion, headache, diarrhoea, nausea and vomiting.
+・ Loss of smell (anosmia) or loss of taste (ageusia) preceding the onset of
+respiratory symptoms.
+・ Children might not report fever or cough as frequently as adults.
+・ Clinical severity
+- Mild disease
+- Symptomatic patients meeting the case definition for COVID-19
+without evidence of viral pneumonia or hypoxia.
+- Moderate disease
+- Adolescent or adult with clinical signs of pneumonia (fever, cough,
+dyspnoea, fast breathing) but no signs of severe pneumonia, including
+SpO2 ≥ 90% on room air.
+- Child with clinical signs of non-severe pneumonia (cough or difficulty
+breathing + fast breathing and/or chest indrawing) and no signs of
+severe pneumonia.
+- Fast breathing (in breaths/min): < 2 months: ≥ 60; 2–11 months: ≥ 50;
+1–5 years: ≥ 40
+- Severe disease
+- Adolescent or adult with clinical signs of pneumonia (fever, cough,
+dyspnoea, fast breathing) plus one of the following: respiratory rate >
+30 breaths/min; severe respiratory distress; or SpO2 < 90% on room air.
+- Child with clinical signs of pneumonia (cough or difficulty in
+breathing) + at least one of the following:
+- Central cyanosis or Sp O2 < 90%; severe respiratory distress (e.g. fast
+breathing, grunting, very severe chest in-drawing); general danger
+sign: inability to breastfeed or drink, lethargy or unconsciousness, or
+convulsions (87).
+- Fast breathing (in breaths/min): < 2 months: ≥ 60; 2–11 months: ≥ 50;
+1–5 years: ≥ 40
+- Critical disease
+- Any one of the following
+- Acute respiratory distress syndrome (ARDS)
+- Sepsis
+- Septic shock
+- Acute thromobosis i.e., pulmonary embolism, acute coronary
+syndrome, acute stroke
+- Multisystem inflammatory syndrome temporally associated with
+COVID-19 in children and adults.
+Risk factors associated with severe disease.
+・ Age more than 60 years (increasing with age).
+・ Underlying noncommunicable diseases (NCDs):
+- Diabetes, hypertension, cardiac disease, chronic lung disease,
+cerebrovascular disease, dementia, mental disorders, chronic kidney
+disease, immunosuppression, obesity, and cancer.
+・ In pregnancy,
+- Increasing maternal age, high BMI, non-white ethnicity, chronic
+conditions, and pregnancy specific conditions such as gestational
+diabetes and pre-eclampsia.
+- Smoking.
+Diagnosis
+・ Gold standard is viral nucleic acid (RNA) detection by polymerase chain
+reaction.
+・ Viral antigen detection
+・ Detection of antibodies to the virus (not routinely recommended for
+diagnosis)
+
+INVESTIGATIONS OF CORONAVIRUS DISEASE (COVID-19)
+Investigations
+・ FBC & Differentials
+・ Chest X-ray
+・ Chest CT scan
+・ Renal function tests
+・ Blood gas analysis
+・ C-reative protein, Lactate dehydrogenase, D-dimer and ferritin levels
+・ Clotting profile
+・ Immunological markers
+・ Sputum analysis for respiratory pathogens
+・ Blood culture
+・ Liver function tests
+
+COMPLICATIONS OF CORONAVIRUS DISEASE (COVID-19)
+Complications
+・ Thromboembolism-Stroke, deep venous thrombosis, pulmonary embolism, or acute coronary syndrome
+・ Acute liver injury
+・ Acute kidney injury
+・ Acute cardiac injury
+・ Disseminated intravascular coagulation (DIC)
+・ Sepsis and septic shock
+・ Acute respiratory failure
+・ Secondary infection
+・ Multiorgan failure
+
+TREATMENT OF CORONAVIRUS DISEASE (COVID-19)
+Non-drug Treatment
+・ Implement infection prevention and control measures.
+・ Decide on home-based care or hospital care depending on severity and
+other factors.
+・ Provide supportive care- alleviate symptoms, as necessary.
+・ Manage co-morbidities such as hypertension and diabetes, etc.
+・ For hospitalized patient:
+- Provide supplemental oxygen in cases of hypoxaemia targeting SpO2 ≥
+94%
+- In patients with ARDS or respiratory failure consider non-invasive or
+invasive mechanical ventilation
+- Identify other co-infections and treat according to local guidelines.
+Drug Treatment
+・ Consider corticosteroids (i.e., dexamethasone, hydrocortisone, or
+prednisone) for the treatment of patients with severe and critical COVID-
+19; duration of treatment of 7-10 days.
+・ Dexamethasone 6 mg daily (oral or IV)
+・ Hydrocortisone 160 mg (i.e. 50 mg every 8 hours or 100 mg every 12
+hours),
+・ Prednisolone 40 mg daily
+・ Methylprednisolone 32 mg (8 mg every 6 hours)
+・ Consider thromoboprophylaxis for hospitalized severe and critical
+COVID-19
+- Preferable: Low molecular weight heparin (enoxaparin) SC 40 mg
+every 24 hours.
+・ Manage Complications according to local guidelines.
+Prevention
+・ Non-pharmacological interventions
+・ Vaccination

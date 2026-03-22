@@ -1,0 +1,62 @@
+{
+  "condition_name": "Gastric Cancer",
+  "condition_slug": "gastric-cancer",
+  "source": "NSTG 2022",
+  "introduction": "Classification is based on macroscopy (Ulcerative, polypoidal, infiltrative or schirrhus) and histopathology ( Adenocarcinoma (90%), lymphoma, squamous cell carcinoma, sarcoma, carcinoid)",
+  "clinical_features": [
+    {
+      "type": "Elective",
+      "features": [
+        "dyspepsia",
+        "early satiety",
+        "anorexia",
+        "weight loss",
+        "anaemia, with or without dysphagia",
+        "enlarged nodes (Virchow's node, Sister Mary Joseph node)",
+        "palpable tumour"
+      ]
+    },
+    {
+      "type": "Emergency",
+      "features": [
+        "upper gastrointestinal haemorrhage",
+        "perforation",
+        "gastric outlet obstruction"
+      ]
+    }
+  ],
+  "investigations": [
+    "Oesophagogastroduodenoscopy with biopsy for histopathology"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Fluid and nutritional resuscitation of the patient",
+      "correction of anaemia"
+    ],
+    "drug": [],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": [
+    "Upper GI (Barium) series",
+    "Abdominal CT scan",
+    "Tumour markers like CEA, CA 19-9",
+    "FBC",
+    "LFT and Serum proteins",
+    "Electrolyte, Urea and Creatinine"
+  ],
+  "definitive_treatment": [
+    "Surgical resection of the tumour offers the best hope",
+    "Subtotal resection: preferred to total gastrectomy because of the attendant Complications of the later",
+    "Gastro-jejunostomy: palliative, in advanced cases with gastric outlet obstruction",
+    "Chemotherapy: adjuvant and for inoperable cases",
+    "Targeted therapy",
+    "Radiotherapy",
+    "Palliative care"
+  ],
+  "prognosis": null
+}

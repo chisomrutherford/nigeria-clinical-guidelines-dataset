@@ -1,0 +1,120 @@
+{
+  "condition_name": "Viral Warts (Verrucae)",
+  "condition_slug": "viral-warts-verrucae",
+  "source": "NSTG 2022",
+  "introduction": "Infections caused by human papilloma viruses (HPV); include more than 80 types. Transferred between humans, or from animals to humans. Cause cutaneous tumours which tend to regress spontaneously but may rarely progress into cutaneous malignancies.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Infection may be clinical, subclinical, or latent",
+        "Clinical lesions are visible by gross inspection",
+        "Subclinical lesions may be seen only by aided examination (e.g. the use of acetic acid soaking)",
+        "Latent infection: HPV virus or viral genome is present in apparently normal skin",
+        "Thought to be common, especially in genital warts, and explains in part the failure of destructive methods to eradicate warts",
+        "Incubation period is highly variable; from weeks to years",
+        "Auto-inoculation is the rule",
+        "Lesions may also occur on scratches (Koebner's phenomenon)"
+      ]
+    },
+    {
+      "type": "Common warts",
+      "features": [
+        "Firm growths with rough surface; round or irregular, greyish or brown",
+        "Generally, appear on areas that are frequently injured, such as the fingers, around the nails (periungual warts); knees, face and scalp"
+      ]
+    },
+    {
+      "type": "Plantar warts",
+      "features": [
+        "Develop on the soles of the feet, where they are usually flattened by the pressure of walking",
+        "A reactive callus forms around lesions",
+        "Multiple warts may coalesce, resembling a tile or mosaic floor (mosaic warts)",
+        "May be extremely tender",
+        "Unlike corns and calluses, plantar warts tend to bleed from many tiny spots, like pinpoints when pared down with a blade"
+      ]
+    },
+    {
+      "type": "Filiform warts",
+      "features": [
+        "Long, thin, small growths that usually crop up on the eyelids, face, neck, or lips",
+        "People who chronically use corticosteroids as cosmetic bleaching creams are prone to multiple filiform warts"
+      ]
+    },
+    {
+      "type": "Plane warts",
+      "features": [
+        "More common in children and young adults",
+        "Usually appear in groups as smooth, yellow-brown, small, flat papules; most frequently on the face"
+      ]
+    },
+    {
+      "type": "Genital warts",
+      "features": [
+        "Occur most often on warm, moist surfaces of the body",
+        "In men, usual sites are the end and shaft of the penis, and below the foreskin (if uncircumcised)",
+        "In women, lesions occur on the vulva, vaginal wall, cervix, and skin surrounding the vaginal area",
+        "May develop in the perianal region or rectum",
+        "Especially in homosexual men, and in women who engage in anal sex",
+        "Usually appear 1 - 6 months after infection as soft erythematous papules, which may be greyish if hyperkeratotic",
+        "New lesions develop rapidly and all coalesce, producing a cauliflower-like picture",
+        "May grow rapidly in pregnant women, and immunocompromised patients"
+      ]
+    }
+  ],
+  "investigations": [
+    "Histopathology if in doubt"
+  ],
+  "treatment": {
+    "goals": [
+      "Eradicate the skin lesions",
+      "Prevent Complications"
+    ],
+    "non_drug": [
+      "Liquid nitrogen freeze",
+      "Electro-desiccation",
+      "Laser surgery"
+    ],
+    "drug": [
+      "Salicylic acid with lactic acid plaster",
+      "Podophyllum resin",
+      "Imiquimod 5% cream"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Avoid broken skin for salicylic acid plaster",
+      "Salicylic acid plaster not suitable for anogenital region or large areas",
+      "Avoid normal skin and open wounds for Podophyllum",
+      "Keep Podophyllum away from face",
+      "Podophyllum should not stay on treated skin for more than 6 hours before washing"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Keratoacanthoma",
+    "Squamous cell carcinoma",
+    "Seborrhoeic keratosis",
+    "Hypertrophic lichen planus",
+    "Tuberculosis verrucosa cutis",
+    "Palmoplantar keratoderma",
+    "Arsenical keratoses",
+    "Epidermodysplasia verruciformis",
+    "Syringomas",
+    "Dermatosis papulosanigra",
+    "Lichen planus",
+    "Lichen nitidus",
+    "Condylomata",
+    "Pemphigus vegetans"
+  ],
+  "complications": [
+    "Squamous cell carcinoma of the perianal skin",
+    "Cervical carcinoma from anogenital warts",
+    "Obstructive laryngeal papillomatosis in babies infected through maternal birth canal"
+  ],
+  "prevention": [
+    "Women with genital HPV infection should have routine cervical cytologic screening",
+    "Papanicolaou (PAP) smear to detect cervical dysplasia"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

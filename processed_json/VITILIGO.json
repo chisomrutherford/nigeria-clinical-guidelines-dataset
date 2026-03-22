@@ -1,0 +1,95 @@
+{
+  "condition_name": "Vitiligo",
+  "condition_slug": "vitiligo",
+  "source": "NSTG 2022",
+  "introduction": "A disease characterized by acquired loss of melanocytes, leading to areas of depigmentation. Sometimes associated with uveitis and other autoimmune phenomena. Many autoantibodies can be demonstrated in vitiligo patients; those against melanocytes may rarely be demonstrable Vitiliginous patches often follow a dermatome. A neurochemical mediator responsible for destroying the melanocytes has therefore been suggested There is also an occupational vitiligo. Due to chemically induced depigmentation. Seen among workers who are in contact with para-phenolic compounds or hydroquinones (but this is considered a different disorder)",
+  "clinical_features": [
+    {
+      "type": "General",
+      "features": [
+        "All ages are affected",
+        "The dermatomal type is more common in the paediatric age",
+        "The completely depigmented patches have distinct borders",
+        "A few patients may have inflammatory vitiligo with raised erythematous borders",
+        "Some may have hypopigmented skin between the depigmented and normal skin (trichrome vitiligo)",
+        "The distribution may be generalized (autoimmune type) or segmental (dermatomal type)",
+        "The hairs on the patches eventually turn white (acquired poliosis)",
+        "The generalized type may be symmetrically distributed in the extremities",
+        "Generalized vitiligo continues to spread while new lesions develop for years",
+        "Spontaneous repigmentation may occur",
+        "Favoured sites are extensor surfaces of the extremities, face and peri-orificial surfaces (around the mouth, eyes, nipples, umbilicus, penis, vulva, and anus)",
+        "Focal vitiligo may affect one non-dermatomal site e.g. lips, vulva or penis",
+        "Universal vitiligo applies to cases where the entire body surface is depigmented",
+        "Generalized vitiligo may be associated with hyperthyroidism, hypothyroidism, pernicious anaemia, diabetes mellitus, Addison's disease",
+        "Local loss of pigment may occur around a naevus and melanomas, the so-called halo phenomenon",
+        "Vitiligo-like leucoderma occurs in about 1% of melanoma patients - usually, a good prognostic sign since it suggests an effective immune reaction against the tumour cells",
+        "Segmental vitiligo affects only one part of the body, spreads rapidly and then stabilizes",
+        "It is not associated with autoimmune diseases",
+        "Favoured sites are the trigeminal area or an intercostal nerve distribution (zosteriform pattern)",
+        "Just as with albinism, the interplay between the melanocytes of the eyes, ears, and skin is apparent"
+      ]
+    },
+    {
+      "type": "Vogt-Koyanagi-Harada syndrome",
+      "features": [
+        "Vitiligo of the face, eyelashes, and scalp hair in association with uveitis, dysacoussis, and alopecia areata"
+      ]
+    },
+    {
+      "type": "Chemical vitiligo",
+      "features": [
+        "Affects sites of contact with chemicals",
+        "When chemicals are inhaled or absorbed, the distribution of patches may simulate the generalized autoimmune type"
+      ]
+    }
+  ],
+  "investigations": [
+    "Exclude other autoimmune diseases if clinically suggestive"
+  ],
+  "treatment": {
+    "goals": [
+      "Re-pigmentation",
+      "Improve cosmetic appearance",
+      "Emotional support"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Topical corticosteroids: Hydrocortisone 1% or betamethasone valerate",
+      "Psoralen: 8-methoxypsoralen (MOP) 0.05% - 0.1% with PUVA",
+      "Tacrolimus 0.1% ointment",
+      "Systemic 8-methoxypsoralen",
+      "Systemic corticosteroids: Prednisolone tablets"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Corticosteroids: See Dermatitis and Eczema",
+      "8-MOP: Inadvertent sunburns with blistering",
+      "Systemic psoralen is contraindicated in: Known photosensitivity, porphyria, liver disease, systemic lupus erythematosus",
+      "If systemic therapy is to be used the following should be done before therapy: Ophthalmological examination, Full Blood Count, Liver function tests, Antinuclear Antibody Test",
+      "Acquired ochronosis",
+      "PUVA therapy should be supervised by an experienced dermatologist"
+    ],
+    "supportive_measures": [
+      "Camouflage (cover-up cosmetics)",
+      "Patient education and emotional support"
+    ]
+  },
+  "differential_diagnoses": [
+    "Post-burns depigmentation",
+    "Tertiary stage of pinta",
+    "Morphoea",
+    "Lichen sclerosis",
+    "Pityriasis alba",
+    "Tinea versicolor",
+    "Piebaldism",
+    "Hypomelanosis of Ito"
+  ],
+  "complications": [
+    "Emotional problems due to cosmetic disfigurement"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "Pigmented skin grafted onto vitiliginous patches: Suction blister grafts, Mini-punch grafts, Pure melanocyte cultures, Mixed epidermal cultures"
+  ],
+  "prognosis": null
+}

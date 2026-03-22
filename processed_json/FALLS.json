@@ -1,0 +1,45 @@
+{
+  "condition_name": "Falls",
+  "condition_slug": "falls",
+  "source": "NSTG 2022",
+  "introduction": "A fall is to inadvertently come to rest on the ground or lower level with or without loss of consciousness or injury. The diagnosis excludes falls associated with intrinsic events e.g. seizures, stroke or syncope, or falls from overwhelming environmental hazards. May be an atypical presentation of acute illness in an older adult and a marker of frailty and impaired mobility in older adults.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Patient is found on the ground or at a lower level than he/she was",
+        "Complications arising from fall"
+      ]
+    }
+  ],
+  "investigations": [
+    "Should be tailored to identify underlying causes e.g. anaemia, arrhythmias, electrolyte imbalance, infections, etc.",
+    "Additional Investigations to confirm or rule out Complications as indicated by clinical presentation"
+  ],
+  "treatment": {
+    "goals": [
+      "Eliminate or reduce modifiable predisposing factors"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Specific treatments for underlying conditions and Complications arising from falling"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Economic: Costs of Disability, Dependence, Hospitalization and interventions to treat Complications",
+    "Physical: Dehydration, Dependency, Disability and Fractures, Haemorrhage e.g. subdural haematoma, Hypothermia, Immobility, Increased likelihood of falling again, Self-imposed reduction in physical activity, Severe injuries requiring hospitalization and Skin lacerations",
+    "Psychological: Anxiety, Depression, Fear of falling; falls phobia syndrome, Loss of confidence, Social withdrawal"
+  ],
+  "prevention": [
+    "Vitamin D 800 IU daily plus calcium 1,200 mg for all older adults at risk of falling",
+    "Environmental modification: Adequate lighting, preferably with switches located at entrances to rooms or hallways, Arrange furniture to avoid obstruction, Clean up spills without delay, Light source (e.g. flashlight) to be kept handy in the event of power failure, Non-skid mats in bath tubs, Provide elevated toilet seats, Provide handrails on both sides of bathroom",
+    "Address predisposing factors",
+    "Educate patients on: Proper use of assistive devices, Arising and changing position slowly, Signs and symptoms of hypoglycaemia, Examine eyes regularly, Maintain adequate hydration, Provide frequent, small meals, Encourage rest after meals"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

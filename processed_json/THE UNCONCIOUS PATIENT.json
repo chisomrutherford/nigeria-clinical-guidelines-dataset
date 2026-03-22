@@ -1,0 +1,107 @@
+{
+  "condition_name": "The Unconscious Patient",
+  "condition_slug": "the-unconscious-patient",
+  "source": "NSTG 2022",
+  "introduction": "A clinical state in which an individual is unresponsive to environmental stimuli. Such individuals may also have breathing and circulatory problems. The cause may be neurological, or may be due to other systemic diseases. An easy way of finding the cause is to think in terms of the vowels: Apoplexy (stroke), Epilepsy, Infections e.g. meningoencephalitis, Overdosing with drugs, alcohol intoxication, toxins, Uraemia and other metabolic disorders. Other causes include: head injury; brain tumours (with complications).",
+  "clinical_features": [
+    {
+      "type": "Impaired Consciousness",
+      "features": [
+        "Comatose: no response to stimulus, however painful",
+        "Semi-comatose: some response to pain",
+        "Stuporous: a state deeper than sleep; vigorous stimulation required to stimulate response"
+      ]
+    },
+    {
+      "type": "Respiratory Patterns",
+      "features": [
+        "Cessation of respiration or abnormal ventilatory patterns: Cheyne-Stokes, ataxic, apneustic, gasping etc"
+      ]
+    },
+    {
+      "type": "Stimuli Response",
+      "features": [
+        "Unresponsiveness or variable response to painful stimuli"
+      ]
+    },
+    {
+      "type": "Underlying Causes",
+      "features": [
+        "Stroke: may present with hemiparesis, facial asymmetry, crossed-eye defects, speech defects etc.",
+        "Epilepsy: frothing or tongue biting; abrasions of the extremities; positive past history",
+        "Infections: may present with fever, neck stiffness",
+        "Drug overdosage/toxins: pin-point pupils; respiratory problems; suggestive history",
+        "Uraemia: characteristic fetor; skin rashes; oedema; severe dehydration",
+        "Head trauma: haematoma; subconjuctival haemorrhage",
+        "Bleeding from orifices (if coma is due to trauma or bleeding diathesis)"
+      ]
+    },
+    {
+      "type": "Raised Intracranial Pressure",
+      "features": [
+        "Slow pulse (Cushing's reflex); rising blood pressure; papilloedema"
+      ]
+    }
+  ],
+  "investigations": [
+    "Neuro-imaging: CT scan, MRI",
+    "Random blood glucose",
+    "Urea, Electrolytes and Creatinine",
+    "Electroencephalography",
+    "Cerebrospinal fluid analysis",
+    "Drug levels/toxicology screen",
+    "Full Blood Count",
+    "Blood culture"
+  ],
+  "treatment": {
+    "goals": [
+      "Clear airway and restore breathing",
+      "Nurse in left lateral position and clear secretions by suction",
+      "Maintain circulation",
+      "Eliminate the cause",
+      "Prevent complications (decubitus ulcers, atelectasis, contractures etc.)",
+      "Correct metabolic derangements",
+      "Admit in intensive care unit if facility available and connect to a ventilator with monitor"
+    ],
+    "non_drug": [
+      "Physiotherapy to prevent contractures/deep vein thrombosis, and for passive muscle exercises",
+      "Nursing care (frequent turning and bladder care) to prevent decubitus ulcers and infections"
+    ],
+    "drug": [
+      "Infections: appropriate antibacterial agents",
+      "Epilepsy: use effective parenteral anticonvulsant drugs; diazepam (see epilepsy)",
+      "Renal failure: dialysis",
+      "Appropriate treatment of other metabolic causes"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Diazepam, if required, should be administered slowly intravenously to avoid respiratory depression"
+    ],
+    "supportive_measures": [
+      "Subcutaneous Low Molecular Weight heparin (LMWH) to prevent deep vein thrombosis (see Pulmonary Embolism)"
+    ]
+  },
+  "differential_diagnoses": [
+    "Stroke",
+    "Post-epilepsy state",
+    "Syncope",
+    "Myocardial infarction",
+    "Conversion disorder (hysteria)",
+    "Substance abuse",
+    "Locked-in state",
+    "Minimal conscious state",
+    "Persistent vegetative state",
+    "Akinetic mutism and abulia"
+  ],
+  "complications": [
+    "Cerebral hypoxia/anoxia resulting in brain damage"
+  ],
+  "prevention": [
+    "Accessible, efficient and effective health care service delivery",
+    "Early reporting/detection of ill health",
+    "Adherence to medications and non-drug measures in managing disease states",
+    "Public Health Education; Promote awareness on avoidance of risk factors"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

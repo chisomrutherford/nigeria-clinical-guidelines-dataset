@@ -1,0 +1,109 @@
+ANEMIA IN PREGNANCY 
+Introduction
+Anaemia is the most common complication of pregnancy in sub-Saharan Africa. It is a diminution below normal of the total circulating haemoglobin mass. World Health Organization definition of anaemia. Haemoglobin concentration less than 11 g/dL or a haematocrit less than 33% in peripheral blood
+For practical purposes in developing and tropical countries, a haemoglobin concentration of 10 g/dL or haematocrit of 30% is taken as the lowest cut off limit. Below these levels there may be adverse foetal and maternal outcomes
+Aetiology
+- Physiological - this is as a result of haemo-dilution of pregnancy; where the increase in red cell mass is proportionally less than the plasma increase.
+- Pathological - which can further be classified as:
+  - Nutritional deficiency: Iron, Folic acid, Vitamin B12
+  - Hemorrhagic:
+    - Overt - APH, PPH, Miscarriages
+    - Occult – Intestinal helminthiasis
+  - Hemolytic Anaemia
+  - Hereditary: Thalassemia, Sickle
+  - Acquired: Infections, Malaria, TB, UTI
+  - Bone Marrow Insufficiency: due to neoplasm, chronic kidney disease, etc.
+
+Classification – based on severity
+- Mild - PCV 25 - 29%
+- Moderate - PCV 20 - 24%
+- Severe PCV < 20%
+
+CLINICAL FEATURES OF ANEMIA IN PREGNANCY 
+Clinical Features
+- May be asymptomatic
+- Generalised weakness, lassitude and easy fatiguability
+- Headaches
+- Dyspnea on mild exertion
+- Ankle swelling
+- Pallor
+■ Jaundice may or may not be present  
+■ Pedal oedema  
+■ Tachypnea  
+■ Tachycardia and Haemic murmurs  
+■ Hepatomegaly: not invariable  
+■ Splenomegaly: not invariable  
+· Anaemic heart failure in extreme cases  
+
+COMPLICATIONS OF ANEMIA IN PREGNANCY 
+Complications  
+· Maternal Complications:  
+  · Abortion  
+  · Cardiac failure  
+  · Reduced ability to tolerate blood loss at delivery  
+  · Reduced ability to tolerate anaesthesia  
+  · Diminished resistance to infection  
+  · Preterm labour.  
+  · Precipitate labour may occur  
+  · Death  
+· Foetal Complications:  
+  · Spontaneous abortion  
+  · Intrauterine growth restriction  
+  · Intrauterine foetal death (leading to still birth)  
+  · Prematurity  
+  · Risk of developing anaemia within 2 - 3 months of birth if mother suffered iron deficiency anaemia  
+
+INVESIGATIONS OF ANEMIA IN PREGNANCY 
+Investigations  
+■ FBC and peripheral blood film  
+■ Midstream urine: M/C/S  
+■ Renal function test  
+■ Stool analysis: ova, cysts, parasites, occult blood  
+■ Blood group and cross-match blood  
+■ Haemoglobin genotype  
+■ VDRL  
+■ HIV screening.  
+■ Ultrasound scan (e.g. of abdomen, pelvis).  
+■ Bone marrow biopsy if bone marrow involvement is suspected  
+
+TREATMENT OF ANEMIA IN PREGNANCY 
+Treatment Goals  
+■ Correct haematocrit.  
+■ Treat underlying cause(s) (see causes of anaemia above)  
+■ Foetal surveillance: commonly ultrasound, cardiotocography, foetal kick chart etc.  
+
+Correction of haematocrit:  
+■ Oral haematinics  
+  · For mild and moderate anaemia - Ferrous sulphate 200 mg daily and folic acid 5 mg daily Vitamin C (ascorbic acid) 100 mg three times daily.  
+Here is the extracted text from the page:
+
+Parenteral iron
+Indicated in mild to moderate anaemia, near term, malabsorption of oral iron, or when it causes serious gastroenteritis
+Administration:
+
+Calculate haemoglobin deficit
+For each 1 g/dL deficit, 250 mg of iron dextran injection is required
+Additionally, 50% of the total calculated is added onto the deficit value to take care of the iron stores
+Administer by deep intramuscular injection into the gluteal muscle, Or by slow intravenous injection, Or by intravenous Infusion (after a negative test dose)
+Intramuscular injection
+250 mg daily; after a negative test dose of 25 mg Intravenous
+Intravenous
+If the total calculated dose of iron dextran is less than 1,500 mg, it can be given over 8 hours in one litre of sodium chloride (0.9% Normal Saline)
+If greater than 1,500 mg, it should be given in divided doses daily, not exceeding 1,500 mg/day
+NB: Antihistamine (chlorpheniramine injection), epinephrine and hydrocortisone injection must be available: iron dextran could cause severe anaphylaxis
+Blood transfusion
+
+Consider as from the 37 week for mild anaemia and from the 32 week for moderate anaemia
+Usually, packed cells under furosemide cover
+Indications\
+Severe anaemia irrespective of gestational age
+Cardiac failure
+Moderate anaemia detected in labour or during an abortion, or co-existing with other conditions such as sepsis, renal failure, haemorrhage or eclampsia
+Prevention
+
+Counselling on contraception; adequate spacing of pregnancies.
+Malaria prophylaxis in pregnancy.
+Chemoprophylaxis against helminthiasis.
+Prompt and appropriate treatment of febrile illnesses in pregnancy
+Improvement of the socioeconomic status of the people
+Provision of accessible and affordable maternity care facilities

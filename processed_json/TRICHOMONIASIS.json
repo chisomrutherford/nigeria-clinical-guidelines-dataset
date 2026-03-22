@@ -1,0 +1,66 @@
+{
+  "condition_name": "Trichomoniasis",
+  "condition_slug": "trichomoniasis",
+  "source": "NSTG 2022",
+  "introduction": "Caused by the flagellated protozoan, Trichomonas vaginalis. An extremely common infection, almost always transmitted via sexual contact. Women are far more frequently affected and more likely to have symptoms. Men are more likely to be asymptomatic and serve as carriers.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Vaginal discharge: a white-yellow frothy discharge is characteristic",
+        "Burning sensation",
+        "Dysuria",
+        "Dyspareunia",
+        "The labia are often swollen",
+        "The cervix may have punctuated haemorrhages producing a strawberry-like surface when viewed with a colposcope",
+        "Some men may have dysuria or a minimal urethral discharge and balanoposthitis",
+        "Co-infection with N. gonorrhoeaeis common"
+      ]
+    }
+  ],
+  "investigations": [
+    "Microscopy and culture of vaginal discharge"
+  ],
+  "treatment": {
+    "goals": [
+      "Eliminate the organism in the patient and sexual partner(s)",
+      "Prevent re-infection",
+      "Prevent Complications",
+      "Counsel and screen for possible co-infection with HIV so that appropriate management can be instituted"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Metronidazole 2g orally in a single dose",
+      "Tinidazole 2g orally in a single dose",
+      "Metronidazole 400 mg orally every 12 hours for 7 days",
+      "Tinidazole 500 mg orally every 12 hours for 5 days",
+      "Other 5-nitroimidazoles are also effective, both in single and in multiple dose regimens",
+      "Asymptomatic women with trichomoniasis should be treated with the same regimen as symptomatic women",
+      "Recommended regimens for male urethral infections: same as for women",
+      "Patients not cured with the repeated course of metronidazole may be treated with a regimen consisting of metronidazole 2 g orally daily, together with 500 mg applied intravaginally each night for 3 - 7 days",
+      "Vaginal preparations of metronidazole are available in many parts of the world, but are only recommended for the treatment of refractory infections, not for the primary therapy of trichomoniasis",
+      "Recommended regimen for neonatal infections: Metronidazole 5 mg/kg orally, every 8 hours for 5 days",
+      "Infants with asymptomatic trichomoniasis, or urogenital colonization persisting past the fourth month of life should be treated with metronidazole"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Metronidazole: Causes a disulfiram-like reaction with alcohol",
+      "Avoid high doses in pregnancy and breast feeding",
+      "Metronidazole may cause nausea, vomiting, unpleasant taste, furred tongue, and gastrointestinal disturbances",
+      "Metronidazole generally not recommended for use in the first trimester of pregnancy"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Other causes of vaginal discharge or urethral discharge: see Gonorrhoea"
+  ],
+  "complications": [
+    "Acute salpingitis",
+    "Adverse pregnancy outcomes, particularly premature rupture of membranes, pre-term delivery and low birth weight"
+  ],
+  "prevention": [
+    "Counselling, Compliance, Condom use and Contact treatment"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

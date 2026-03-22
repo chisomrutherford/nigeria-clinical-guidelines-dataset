@@ -1,0 +1,54 @@
+{
+  "condition_name": "Acute Anterior Uveitis",
+  "condition_slug": "acute-anterior-uveitis",
+  "source": "NSTG 2022",
+  "introduction": "Inflammation of the iris and ciliary body. Usually occurs without any associated systemic inflammation and may be recurrent.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Blurring of vision",
+        "Photophobia",
+        "Pain may feature due to ciliary spasms.",
+        "Exudation into anterior chamber",
+        "Flare and cells",
+        "Keratic precipitates on the corneal endothelium",
+        "Subsequent posterior synechiae",
+        "Miosis due to spasm of sphincter pupillae"
+      ]
+    }
+  ],
+  "investigations": [
+    "Chest radiograph to exclude sarcoidosis and tuberculosis",
+    "Spinal radiograph (especially lumbrosacral segment) to exclude ankylosing spondilytis",
+    "Serology for rheumatoid factor, antinuclear antibody, etc"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [],
+    "drug": [
+      "Corticosteroid drops: Betamethasone sodium phosphate 0.1% (1 - 2 hourly until inflammation is controlled, then reduce frequency)",
+      "Subconjunctival injection of steroid if severe",
+      "Atropine sulphate 0.5% or 1%; 1 drop up to 4 times daily"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Avoid atropine drops if there is risk of acute glaucoma"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Infective conjunctivitis",
+    "Acute iritis",
+    "Acute glaucoma"
+  ],
+  "complications": [
+    "Secondary glaucoma",
+    "Secondary cataracts"
+  ],
+  "prevention": [
+    "No real preventive measures"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

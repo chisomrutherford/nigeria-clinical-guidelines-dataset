@@ -1,0 +1,98 @@
+{
+  "condition_name": "Bronchial Asthma",
+  "condition_slug": "bronchial_asthma",
+  "source": "NSTG 2022",
+  "introduction": "A chronic inflammatory disease of the airways that is characterized by hyper-responsiveness of the tracheo-bronchial tree to a multiplicity of stimuli. Manifests physiologically by wide-spread airway narrowing and clinically by paroxysmal attacks of dyspnoea, cough and wheezing. Acute episodes are interspersed with symptom-free periods.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Episodic dyspnoea",
+        "Cough: unproductive, or productive of scanty sputum",
+        "Wheezing",
+        "Tachypnoea",
+        "Tachycardia",
+        "Pulsus paradoxus in severe attacks",
+        "Mildly raised blood pressure",
+        "Rhonchi: inspiratory and expiratory",
+        "Prolonged expiration",
+        "Silent chest (an ominous sign)"
+      ]
+    }
+  ],
+  "investigations": [
+    "Airway reversibility to inhaled β - adrenergic agonist",
+    "Isocapnoeic response to hyperventilation of cold air",
+    "Sputum eosinophilia",
+    "Chest radiograph: hyperinflation"
+  ],
+  "treatment": {
+    "goals": [
+      "Arrest and reverse acute episodes",
+      "Prevent (or at least reduce) frequencies of asthmatic attacks",
+      "Achieve a stable asymptomatic state",
+      "Maintain the best pulmonary function possible"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Nebulised salbutamol (Adult and child over 18 months): 2.5 mg repeated up to 3 times in the 1st hour, and subsequently 4 hourly for the next 24 hours; may be increased to 5 mg if necessary",
+      "Nebulised salbutamol (Child under 18 months): 1.25 - 2.5 mg same procedure as above",
+      "Intravenous aminophylline in patients with life threatening asthma not previously treated with theophylline and without contraindications. Adult: 125 - 250 mg slowly over 20 minutes",
+      "Intravenous aminophylline (Child 1 month - 18 years): by intravenous injection 5 mg/kg (maximum 500 mg), then by intravenous infusion",
+      "Oral or Intravenous steroids where indicated",
+      "Magnesium sulphate: 50 mg/kg single dose given slowly intravenously",
+      "Adequate hydration",
+      "Oxygen",
+      "Intermittent symptoms (Adult & Adolescents 12 years and older): Low dose Inhaled Corticosteroids/Formoterol or low dose Inhaled Corticosteroid (ICS)",
+      "Intermittent symptoms (Children 6 – 11 years): Low dose Inhaled Corticosteroid",
+      "Mild persistent asthma (Adult & Adolescents 12 years and older): Daily low dose ICS, or as-needed low dose ICS-formoterol",
+      "Mild persistent asthma (Children 6 – 11 years): Daily low dose ICS",
+      "Inhaled salbutamol (Adult): 100 - 200 μg (2 – 4 puffs)",
+      "Inhaled salbutamol (Child 1 month - 18 years): 100 - 200 μg (1 - 2 puffs)",
+      "Inhaled corticosteroids: Beclomethasone dipropionate 100 -200 μg 3 – 4 times daily",
+      "Inhaled corticosteroids: Budesonide 100 -200 μg every 12 hours",
+      "Inhaled corticosteroids: Fluticasone 50, 100, 125, 250 μg every 12 hours",
+      "Leukotriene receptor antagonist (LTRA)",
+      "Moderate persistent asthma (Adult & Adolescents 12 years and older): Low dose Inhaled Corticosteroid/Long acting beta agonist (ICS/LABA)",
+      "Moderate persistent asthma (Children 6 – 11 years): Low dose Inhaled Corticosteroid/Long acting beta agonist (ICS/LABA)",
+      "Severe persistent asthma (Adult & Adolescents 12 years and older): High dose ICS-LABA plus add on Tiotropium",
+      "Severe persistent asthma (Children 6 – 11 years): Refer for phenotypic assessment",
+      "Add on options: Anti-IgE or Anti-IL5/5R or Anti-IL4R",
+      "Other options: Oral corticosteroid: Prednisolone (Adult) 40 - 50 mg orally daily, Child: 1 - 2 mg/kg orally once daily"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Consult product literature to confirm the strengths of various aerosol preparations",
+      "Aminophylline: Do not exceed 500 mg in 24 hours because of the risk of cardiac arrhythmias",
+      "Aminophylline: Avoid in elderly or in patients with arrhythmias and hyperthyroidism",
+      "Aminophylline: Exercise caution in hypertensive patients",
+      "Aminophylline: May cause CNS stimulation with insomnia and convulsions",
+      "Steroids: Immunosuppression, metabolic derangements",
+      "Care should be taken in withdrawing steroids"
+    ],
+    "supportive_measures": [
+      "Supplemental oxygen Hydration",
+      "Education on care and precipitating factors"
+    ]
+  },
+  "differential_diagnoses": [
+    "Chronic bronchitis",
+    "Left ventricular failure",
+    "Glottic dysfunction with respiratory obstruction",
+    "Recurrent pulmonary emboli",
+    "Eosinophilic pneumonia",
+    "Carcinoid tumour"
+  ],
+  "complications": [
+    "Spontaneous pneumothorax",
+    "Pneumo-mediastinum",
+    "Atelectasis"
+  ],
+  "prevention": [
+    "Avoid precipitating factors",
+    "Appropriate use of medicines",
+    "Training of patients in the techniques of the proper use of aerosols/spacer devices is important"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

@@ -1,0 +1,146 @@
+{
+  "condition_name": "Human Immunodeficiency Virus (HIV) Infection",
+  "condition_slug": "human-immunodeficiency-virus-hiv-infection",
+  "source": "NSTG 2022",
+  "introduction": "Human Immunodeficiency Virus (HIV) is a retrovirus, which infects primarily CD4 T cells (T helper cells) and leads to progressive destruction of the immune system with a consequent myriad of opportunistic infections and the development of certain malignancies. Acquired Immuno Deficiency Syndrome (AIDS) is defined as the presence of an AIDS-defining illness with a positive antibody test for HIV. HIV transmission primarily occurs through sexual transmission, blood transfusions, contaminated instruments, from mother to child during pregnancy, delivery, and breast-feeding.",
+  "clinical_features": [
+    {
+      "type": "Acute (Primary)",
+      "features": [
+        "Mild fever",
+        "Muscle aches and pains",
+        "Fatigue",
+        "Enlargement of lymph nodes",
+        "Sore throat",
+        "Fever",
+        "Skin rash",
+        "Seroconversion - detectable by a positive HIV antibody test"
+      ]
+    },
+    {
+      "type": "Asymptomatic Infection",
+      "features": [
+        "Gradual decline in CD4 cell counts"
+      ]
+    },
+    {
+      "type": "Early Symptomatic Infection",
+      "features": [
+        "Generalized lymphadenopathy",
+        "Weight loss",
+        "Night sweats",
+        "Pruritic skin rash",
+        "Unexplained fever",
+        "Chronic diarrhoea",
+        "Oral candidiasis",
+        "Oral hairy leukoplakia",
+        "Herpes zoster",
+        "Pneumococcal infections",
+        "Pulmonary Tuberculosis"
+      ]
+    },
+    {
+      "type": "Late Disease/AIDS defining Illness",
+      "features": [
+        "Opportunistic infections",
+        "Neoplasms"
+      ]
+    },
+    {
+      "type": "WHO Staging System",
+      "features": [
+        "Clinical Stage I - Asymptomatic, generalized lymphadenopathy, normal activity",
+        "Clinical Stage II - Weight loss < 10% of body weight, muco-cutaneous manifestations, Herpes zoster, respiratory infections, symptomatic normal activity",
+        "Clinical Stage III - Weight loss > 10%, unexplained chronic diarrhoea or fever, oral candidiasis, pulmonary tuberculosis, severe bacterial infections, bedridden < 50% of the day",
+        "Clinical Stage IV - HIV wasting syndrome, opportunistic infections, neoplasms, bedridden > 50% of the day"
+      ]
+    }
+  ],
+  "investigations": [
+    "Full Blood Count and differentials",
+    "VDRL (or RPR)",
+    "Tuberculin test (PPD)",
+    "Gene Xpert",
+    "Sputum smears for TB",
+    "Renal function tests: Electrolytes, Urea and Creatinine",
+    "Urinalysis",
+    "Blood glucose",
+    "Liver function tests",
+    "Lipid studies (fasting triglycerides, LDL, HDL)",
+    "HBV, HCV serology",
+    "Cervical (PAP) smears",
+    "CD4 T cell counts",
+    "Chest X-ray",
+    "HIV RNA level (viral load)",
+    "HIV DNA (paediatric diagnosis <18 months of age)",
+    "Genotype and phenotype assays for resistance testing",
+    "Pregnancy assessment, family planning and counselling services"
+  ],
+  "treatment": {
+    "goals": [
+      "Prevent disease progression",
+      "Restore immunity",
+      "Control or suppress viral replication",
+      "Reduce infectivity"
+    ],
+    "non_drug": [],
+    "drug": [
+      "TDF + 3TC + DTG",
+      "AZT + 3TC + EFV",
+      "TDF + 3TC (or FTC)+EFV (400mg)",
+      "TDF + 3TC + NVP",
+      "ABC + 3TC + DTG",
+      "ABC + 3TC + EFV",
+      "DTG or EFV for PEP",
+      "Nevirapine prophylaxis for infants"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Dolutegravir (DTG): CNS symptoms, GI symptoms, Hepatic symptoms, Hypersensitivity reactions",
+      "Nevirapine (NVP): Life-threatening skin rash, DRESS syndrome, Hepatitis",
+      "Efavirenz (EFV): Rash, CNS side effects, Contraindicated in pregnancy",
+      "Zidovudine (ZDV): Bone marrow suppression, GI intolerance",
+      "Stavudine (d4T): Peripheral neuropathy, Lactic acidosis, Peripheral fat atrophy",
+      "Lamivudine (3TC): Class side effects",
+      "Didanosine (ddI): Pancreatitis, Peripheral neuropathy, Lactic acidosis",
+      "Tenofovir (TDF): Renal insufficiency, Bone demineralization",
+      "Abacavir (ABC): Hypersensitivity, Lactic acidosis",
+      "Indinavir (IDV): Nephrolithiasis, Alopecia",
+      "Nelfinavir (NFV): Diarrhoea, Fat accumulation, Hyperlipidaemia",
+      "Lopinavir/ritonavir (LPV/r): Gastrointestinal, Hepatic, Hyperlipidaemia",
+      "Saquinavir (SQV): GIT intolerance",
+      "Amprenavir (AMP): Oral paraesthesia, GIT intolerance",
+      "Ritonavir (RTV): Taste perversion, Paraesthesia, Hepatotoxicity",
+      "Atazanavir (ATV): Hyperbilirubinaemia, GIT effects"
+    ],
+    "supportive_measures": [
+      "Mechanical support and prophylaxis for opportunistic infections as dictated by the stage and CD4 count."
+    ]
+  },
+  "differential_diagnoses": [
+    "Tuberculosis",
+    "Malignancies",
+    "Diabetes mellitus",
+    "Other wasting syndromes"
+  ],
+  "complications": [
+    "Acute HIV, candidal vaginitis",
+    "PGL, Guillain-Barré syndrome, myopathy, aseptic meningitis",
+    "Pneumococcal/bacterial pneumonias, pulmonary TB, Herpes zoster",
+    "Cervical cancer, anaemia, lymphomas",
+    "Miliary/extra-pulmonary TB, PCP, disseminated histoplasmosis and coccidiomycosis, PML",
+    "Wasting, peripheral neuropathy, HIV-associated dementia, cardiomyopathy",
+    "Disseminated herpes simplex, toxoplasmosis, cryptococcosis",
+    "Disseminated cytomegalovirus, disseminated Mycobacterium avium complex"
+  ],
+  "prevention": [
+    "ART for pregnant and breastfeeding women",
+    "Nevirapine and AZT for infants",
+    "Cotrimoxazole prophylaxis for HIV-exposed infants",
+    "Three-drug ARV regimen for PEP",
+    "PrEP for high-risk individuals",
+    "Behavioural interventions: Abstinence, fidelity, condom use, delay sexual activity"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

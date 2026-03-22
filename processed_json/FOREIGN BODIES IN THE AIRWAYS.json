@@ -1,0 +1,84 @@
+{
+  "condition_name": "Foreign Bodies in the Airways",
+  "condition_slug": "foreign-bodies-in-the-airways",
+  "source": "NSTG 2022",
+  "introduction": "Children (most commonly) may aspirate pieces of play objects or food items accidentally into the airway. This may present as serious emergency with imminent asphyxia.",
+  "clinical_features": [
+    {
+      "type": "Laryngeal Level",
+      "features": [
+        "Acute upper respiratory tract obstruction with difficulty in breathing and stridor may occur immediately or progressively."
+      ]
+    },
+    {
+      "type": "Post-aspiration",
+      "features": [
+        "Initial dyspnoea and cough may subside if the object passes down, but symptoms may return later."
+      ]
+    },
+    {
+      "type": "Sharp Objects",
+      "features": [
+        "Fish bone or pins may be impacted on the vocal cord leading to oedema and progressive obstruction."
+      ]
+    },
+    {
+      "type": "Severe Cases",
+      "features": [
+        "Stridor, severe cyanosis and imminent asphyxia requiring immediate intervention to prevent a fatal outcome may occur."
+      ]
+    },
+    {
+      "type": "Tracheal/Bronchial",
+      "features": [
+        "Small objects such as seeds may transverse the larynx and become arrested in the trachea or bronchus.",
+        "Vegetables such as peanuts may cause inflammatory reactions such as pneumonitis.",
+        "Two-way stridor often occurs with tracheal foreign bodies."
+      ]
+    },
+    {
+      "type": "Lower Airways",
+      "features": [
+        "In the lower airways objects may remain for long periods, with unexplained chest symptoms."
+      ]
+    }
+  ],
+  "investigations": [
+    "Radiograph of neck and chest"
+  ],
+  "treatment": {
+    "goals": [
+      "To maintain the airway and adequate respiratory function",
+      "Remove the foreign object as expeditiously as possible"
+    ],
+    "non_drug": [
+      "Immediate removal under anaesthesia by direct laryngoscopy or bronchoscopy as appropriate.",
+      "Tracheostomy where necessary to maintain airway"
+    ],
+    "drug": [
+      "Antibiotic prophylaxis if necessary (for 3 days): - Amoxicillin: - Child: 6-12 years: 250 mg orally 12 hourly - under 6 years: 125 mg orally 12 hourly",
+      "Steroids - Hydrocortisone (for pneumonitis): - Child 1 month - 1 year: initially 25 mg by intravenous or intramuscular injection q8hr; - 1 - 6 years: initially 50 mg q8hr; - 6 - 12 years: initially 100 mg q8hr; - 12 - 18 years: initially 100 - 500 mg q8hr, - adjusted in all age groups according to response"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": [
+      "Oxygen",
+      "Steam inhalation/nebulizer"
+    ]
+  },
+  "differential_diagnoses": [
+    "Acute laryngitis",
+    "Acute laryngeal oedema",
+    "Bronchopneumonia",
+    "Pulmonary tuberculosis"
+  ],
+  "complications": [
+    "Life-threatening asphyxia",
+    "Lung collapse and atelectasis"
+  ],
+  "prevention": [
+    "Vigilant supervision of young children"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

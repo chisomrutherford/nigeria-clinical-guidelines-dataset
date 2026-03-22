@@ -1,0 +1,44 @@
+LUNG CANCER
+Introduction
+This refers to tumours originating in the lung parenchyma or within the bronchi.
+Incidence is rising due to increase in smoking in both sexes, with nearly half of
+new cases diagnosed in the low income countries.
+
+Risk factors
+・ Smoking
+・ exposure to asbestos
+・ exposure to heavy chemicals (like radon, nickel, cadmium, chromium,
+silica, and arsenic)
+・ exposure to radiation
+・ COPD
+・ Chronic bronchitis and genetic mutations
+
+CLINICAL FEATURES OF LUNG CANER 
+Clinical Features
+・ Local tumour effects: cough, breathlessness, haemoptysis, chest pain,
+weight loss, Horner syndrome
+・ Distant metastasis: liver, bone, brain
+・ Paraneoplastic syndrome: hypercalcemia, cushings's syndrome,
+hypoglycaemia, acromegaly, gynaecomastia
+
+INVESTIGATIONS OF LUNG CANCER 
+Investigations
+・ Bronchoscopy plus biopsy
+・ Mediastinoscopy
+・ Thoracoscopy or video-assisted thoracoscopy
+・ Radiologic: chest radiograph, contrast-enhanced chest CT, PET-CT
+・ Others: FBC, Electrolyte, Urea and Creatinine, LFT and Serum proteins
+
+TREATMENT OF LUNG CANCER 
+Treatment
+・ Depends on the staging
+- mainstay for stage I disease (wedge resection, segmentectomy,
+lobectomy, pneumonectomy, mediastinal node sampling)
+- Surgery + adjuvant chemotherapy: stages II and III disease
+- Palliative chemotherapy + radiotherapy: for stage IV disease
+- Targeted therapy: in selected cases (eg vascular endothelial growth
+factor inhibitor like bevacizumab)
+Prevention
+・ Avoidance of smoking including secondhand smoke
+・ Reducing occupational exposure to lung carcinogens
+・ Reduction of air pollution

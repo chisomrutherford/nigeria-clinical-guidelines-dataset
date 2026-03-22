@@ -1,0 +1,69 @@
+{
+  "condition_name": "Hyperemesis Gravidarum",
+  "condition_slug": "hyperemesis-gravidarum",
+  "source": "NSTG 2022",
+  "introduction": "A clinical situation in which vomiting in early pregnancy considered to be physiological becomes persistent or severe enough to disturb the patient's health and/or require hospitalization. Occurs in approximately a third to 50% of women, often the first sign of pregnancy, beginning at about the 6 week and stops spontaneously before the 14th week. Cause is essentially unknown, but hypotheses include Hormonal: Increased sensitivity to placental hormones such as hCG, estrogen or progesterone. May be psychogenic: The woman thinks she should have early morning sickness because generations before her have had it. Genetics: may be common in a family",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Persistent and severe vomiting that leads to electrolyte and nutritional derangements, loss of weight (at least loss of 5% of pre-pregnancy weight)"
+      ]
+    }
+  ],
+  "investigations": [
+    "FBC",
+    "Electrolyte, Urea and Creatinine",
+    "Liver function tests",
+    "Midstream urine for M/C/S",
+    "Urinalysis for ketones",
+    "Blood film for malaria parasites",
+    "Ultrasound scan of the pelvis/abdomen to rule out multiple or abnormal pregnancies"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Strict intake-output monitoring",
+      "Intravenous fluid therapy to: Correct electrolyte disturbances, Provide calories, Rehydrate the patient",
+      "Total parenteral nutrition",
+      "In severe cases of persistent and intractable cases with significant maternal complications, termination of pregnancy may be considered"
+    ],
+    "drug": [
+      "Add vitamin B complex to prevent neurological complications",
+      "Anti-emetics: Cyclizine 50 mg orally or Promethazine 25 mg orally, all taken three times daily"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Multiple gestations",
+    "Hydatidiform mole",
+    "Malaria in pregnancy",
+    "Gastrointestinal disorders: Heartburn due to hiatus hernia, Enteritis, Appendicitis, Peptic ulcer disease",
+    "Acute fatty liver of pregnancy",
+    "Urinary tract disorders: pyelonephritis",
+    "Acute polyhydramnios",
+    "Commonly associated with monozygotic twinning and diabetic pregnancies",
+    "Accidents to ovarian cysts e.g. Torsion, haemorrhage, infection and rupture",
+    "Red degeneration in a fibroid"
+  ],
+  "complications": [
+    "Biochemical abnormalities",
+    "Usually sequel to vomiting, starvation and dehydration",
+    "Ketosis",
+    "Electrolyte imbalance (alkalosis and hypokalaemia)",
+    "Vitamin deficiencies",
+    "In neglected or poorly managed cases: severe weight loss, Tachycardia, Hypotension, Oliguria",
+    "Neurologic disorders from vitamin B deficiency",
+    "Retinal haemorrhages",
+    "Jaundice (from hepatic necrosis)",
+    "Oesophageal tears and spontaneous rupture of the oesophagus",
+    "Mendelson's syndrome",
+    "Foetal loss",
+    "Maternal mortality"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

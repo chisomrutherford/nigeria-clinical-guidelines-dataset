@@ -1,0 +1,65 @@
+{
+  "condition_name": "Scabies",
+  "condition_slug": "scabies",
+  "source": "NSTG 2022",
+  "introduction": "An intensely pruritic infestation caused by human mite Sarcoptes scabiei. It is contracted by close contact and rarely via fomites. Occurs commonly in children and inmates of overcrowded institutions such as prisons and boarding houses. Infection of households is common. Sexual intercourse is also another possible method of spread among adults. Sharing a bed or using the same underwear will also suffice to contact the disease.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Severe pruritus worse at night is characteristic",
+        "The typical lesion is the burrow - It is hardly seen because of the marked excoriation and secondary infection on the skin.",
+        "Papulo-pustular eruptions with excoriation and impetiginization",
+        "Characteristic sites of predilection: Interdigital spaces of the fingers, Flexural surfaces of the wrist, Extensor surfaces of the elbows and knees, Anterior axillary area, Nipples, The phallus (especially in adults)",
+        "General immune status and experience with S. scabiei play a role",
+        "In a normal host, the initial infection is asymptomatic for about 3 - 6 weeks during which time the individual is capable of transmitting the disease",
+        "All family or living unit members must therefore be treated, not just those who are itching",
+        "After a reinfestation, symptoms appear within 24 hours"
+      ]
+    },
+    {
+      "type": "Crusted scabies (Norwegian scabies)",
+      "features": [
+        "An uncommon variant of scabies",
+        "Patient fails to mount a resistance and the mites proliferate dramatically",
+        "May be found among HIV/AIDS patients, institutionalized inmates like prisoners, refugees, and psychiatric patients"
+      ]
+    }
+  ],
+  "investigations": [
+    "Burrow scraping on to a glass slide for microscopy",
+    "Video dermatoscopy"
+  ],
+  "treatment": {
+    "goals": [
+      "Treat the infestation",
+      "Treat secondary bacterial infection",
+      "Relieve pruritus"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Tetmosol soap to bathe for 2 – 4 weeks",
+      "Permethrin 5% cream",
+      "Benzyl benzoate 25% in emulsion",
+      "Precipitated sulphur 5 - 10% in petroleum jelly",
+      "Anti-helminthic: Ivermectin",
+      "Antihistamine: Chlorpheniramine",
+      "Topical antipruritic: Crotamiton cream"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Infantile acropustulosis",
+    "Atopic dermatitis",
+    "Papular acral dermatitis of childhood",
+    "Dermatitis herpetiformis"
+  ],
+  "complications": [
+    "Secondary bacterial infection leading to acute glomerulonephritis"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

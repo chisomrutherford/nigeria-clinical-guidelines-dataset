@@ -1,0 +1,88 @@
+{
+  "condition_name": "Ectopic Pregnancy",
+  "condition_slug": "ectopic-pregnancy",
+  "source": "NSTG 2022",
+  "introduction": "Pregnancy in which the conceptus implants either outside the uterus (fallopian tube, ovary or abdominal cavity) or in an abnormal position within the uterus (cornua, cervix, angular and rudimentary horn). The most common surgical emergency in women in many developing countries. A substantial cause of maternal mortality due to: Rapidity with which haemorrhage and shock occur; Pre-rupture diagnosis is elusive, with consequent delay in surgical management.",
+  "clinical_features": [
+    {
+      "type": "Acute Ectopic Gestation",
+      "features": [
+        "Amenorrhoea",
+        "Features of acute abdomen particularly lower abdominal pain, vaginal bleeding or brownish discharge, severe pallor, shoulder tip pain.",
+        "Difficulty with sitting on hard surfaces.",
+        "Features of shock with cardiovascular collapse: hypotension and tachycardia",
+        "The uterus is slightly enlarged with tenderness on one side",
+        "Positive cervical excitation tenderness"
+      ]
+    },
+    {
+      "type": "Sub-acute Ectopic Gestation",
+      "features": [
+        "Slow-leaking ectopic prior to rupture, with most of the signs and symptoms of acute ectopic gestation present but in the mildest form."
+      ]
+    },
+    {
+      "type": "Silent vs. Chronic Ectopic Gestation",
+      "features": [
+        "Asymptomatic",
+        "May just be picked up during a pelvic examination in the course of booking or antenatal clinic, or found on ultrasound for another pelvic pathology"
+      ]
+    }
+  ],
+  "investigations": [
+    "FBC",
+    "Blood grouping and cross matching",
+    "Urinalysis",
+    "Ultrasound scan of the pelvis (preferably trans-vaginal)",
+    "Serum B-hCG (where available) especially in silent cases",
+    "Laparoscopy may be necessary when still in doubt, but the availability of trans-vaginal ultrasound scan may obviate this",
+    "Final arbiter when the diagnosis is in doubt is exploratory laparotomy"
+  ],
+  "treatment": {
+    "goals": [
+      "Depend on the clinical subset, the objective is to preserve maternal life"
+    ],
+    "non_drug": [
+      "Immediate resuscitation (fluids/blood) to stop haemorrhage",
+      "Replacement of lost blood",
+      "Expectant management with monitoring by -hCG levels and vaginal scans; spontaneous resorption can occur provided gestation sac is < 4 cm and hCG is < 1,500 IU"
+    ],
+    "drug": [
+      "Methotrexate: Administered systemically or locally to induce dissolution of trophoblastic tissue.",
+      "Mifepristone (RU-486)",
+      "Hyperosmolar glucose solution",
+      "Potassium chloride",
+      "Prostaglandins"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Auto transfusion during surgery is important in developing countries with inadequate blood banking services but has the disadvantage of possible DIC; the risks of transfusion with donated blood are avoided, use only fresh blood.",
+      "Counsel for contraception and advise to report immediately to the hospital if a pregnancy is suspected so that its site can be confirmed."
+    ],
+    "supportive_measures": [
+      "On discharge: counsel for contraception and advise to report immediately to the hospital if a pregnancy is suspected so that its site can be confirmed."
+    ]
+  },
+  "differential_diagnoses": [
+    "Acute pelvic inflammatory disease",
+    "Ovarian torsion",
+    "Incomplete abortion",
+    "Endometriosis",
+    "Degenerating uterine fibroid",
+    "Acute appendicitis",
+    "Ruptured ovarian cysts"
+  ],
+  "complications": [
+    "Shock",
+    "Sterility (with the loss of both tubes)",
+    "Often requires blood transfusion (with its attendant cost and risk of blood-borne infections)",
+    "5-20% risk of having another ectopic gestation fatality"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "Surgery: Salpingectomy (total or partial) for ruptured ectopic pregnancy",
+    "Partial salpingectomy if the remaining segment of the tube is about 4 cm long; this could be used for reconstructive surgery subsequently",
+    "Salpingostomy for unruptured cases."
+  ],
+  "prognosis": null
+}

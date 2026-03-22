@@ -1,0 +1,178 @@
+TETANUS
+Introduction
+A neurologic disorder characterized by increased muscle tone and spasm that is
+caused by tetanospasmin, a powerful protein toxin elaborated by Clostridium
+tetani. C. tetani is ubiquitous, and therefore affects all ages and sexes,
+especially in low socioeconomic settings.
+The bacteria are found in the soil, inanimate environment, animal faeces and
+occasionally in human faeces. Portals of entry:
+・ Umbilical stump
+・ Female genital mutilation (FGM)
+・ Male circumcision
+・ Abortion sites
+・ Penetrative wounds (e.g., nail puncture or intramuscular injection)
+・ Head injury; scalp wounds
+・ Traditional scarification (e.g. for tribal identity)
+・ Trado-medical incisions
+・ Post-operative surgical sites
+・ Chronic otitis media
+
+CLINICAL FEATURES OF TETANUS 
+Clinical Features
+・ Generalized tetanus.
+- Lock jaw (trismus)
+- Dysphagia
+- Stiffness or pain in the neck, shoulder, and back muscles
+- Risus sardonicus (from facial muscle involvement)
+- Rigid abdomen and sti ffproximal limb muscles
+- Intermittent reflex spasms in response to stimuli (eg, noise, touch)
+- Opisthotonos (ie, flexion and adduction of the arms, clenching of the
+fists, and extension of the lower extremities).
+- Consciousness and sensorium are intact.
+・ Neonatal tetanus (tetanus neonatorum)
+- Poor feeding
+- Irritability
+- Rigidity
+- Spasms
+- Poor prognosis
+・ Localized tetanus
+- Increased tone: spasms are restricted to the muscles near the wound.
+- Prognosis is good
+・ Cephalic tetanus
+- Follows head injury or ear infection.
+- Trismus
+- Dysfunction of one or more cranial nerves, often theth 7 nerve
+- May become generalised
+- Mortality is high.
+Diagnosis
+・ Entirely clinical
+
+DIFFERENTIAL DIAGNOSES OF TETANUS 
+Differential Diagnoses
+・ Alveolar abscess
+・ Strychnine poisoning
+・ Dystonic drug reactions
+・ Hypocalcaemic tetani
+・ Meningitis/encephalitis
+・ Acute abdomen
+
+COMPLICATIONS OF TETANUS 
+Complications
+・ Autonomic dysfunction
+- Labile or sustained hypertension
+- Tachycardia
+- Dysarrhythmias
+- Hyperpyrexia
+- Profuse sweating
+- Peripheral vasoconstriction
+- Cardiac arrest
+- Aspiration pneumonia
+- Fractures
+- Muscle rupture
+- Deep vein thrombophlebitis
+- Pulmonary emboli
+- Decubitus ulcers
+- Rhabdomyolysis
+
+INVESTIGATIONS OF TETANUS 
+Investigations
+・ Wound swab for microscopy, culture, and sensitivity
+・ Cerebrospinal fluid for biochemistry; microscopy, culture, and sensitivity
+most
+・ Full Blood Count; ESR
+・ Urinalysis; urine microscopy, culture, and sensitivity
+・ Blood glucose
+・ Electrocardiography
+・ Serum Electrolytes, Urea and Creatinine
+・ Electromyography
+
+TREATMENT OF TETANUS 
+Treatment Goals
+・ Eliminate the source of toxin
+・ Neutralize unbound toxin.
+・ Prevent muscle spasms.
+
+・ Monitor the patient's condition and provide support (especially respiratory
+support) until recovery.
+Non-drug Treatment
+・ Admit patient to a dark and quiet room or intensive care unit where
+available.
+・ Protect airway.
+・ Explore wounds.
+・ Cleanse and thoroughly debride the wound.
+・ Provide intubation or tracheostomy for hypoventilation.
+・ Physiotherapy
+・ Monitor bowel, bladder and renal function.
+・ Prevent decubitus ulcers.
+Drug Treatment
+・ Antibiotics
+- Metronidazole
+- Adult: 500 mg intravenously, every 6 hours for 10 days
+- Child
+- neonate, initially 15 mg/kg by intravenous infusion then 7.5 mg/kg
+twice daily
+- 1 month - 12 years: 7.5 mg/kg (maximum 400 mg) every 8 hours
+- 12 - 18 years: 400 mg every 8 hours
+Or:
+- Benzylpenicillin (Penicillin G)
+- Adult: 0.6 - 2.4 g daily by slow intravenous injection or infusion in 2 - 4
+divided doses; higher doses in severe infections
+- Child:
+- 1 month - 18 years, 100 mg/kg in 4 divided doses, every 6 hours;
+dose doubled in severe infections (maximum 2.4 g, every 4 hours)
+- 1 - 4 weeks: 75 mg/kg daily in 3 divided doses, every 86 hours; dose
+doubled in severe infection.
+- Preterm neonate and neonate under 7 days: 25 mg/kg, every 12
+hours; dose doubled in severe infection.
+- NB: Metronidazole is preferable as penicillin is a known antagonist
+of gamma-aminobutyric acid (GABA), as is tetanus toxin.
+・ Antitoxin
+- Human tetanus immune globulin (TIG)
+- Adult: TIG 500 units by IM injection or intravenously (IV)—depending
+on the available preparation
+- Administer antitoxin before manipulating the wound
+- In addition, give 0.5 mL of tetanus toxoid by IM injection at a separate
+site.
+- Tetanus disease does not induce immunity; patients without a history of
+primary TT vaccination should receive a second dose 1–2 months after
+the first dose and a third dose 6–12 months later.
+・Control of muscle spasm
+
+- Diazepam
+- Adult: 20 mg intravenously slowly stat and titrate up to 250 mg/day in
+infusion
+- Child: 1 month - 18 years: 100 - 300 μg/kg repeated every 1 - 4 hours by
+slow intravenous injection; could also be administered by intravenous
+infusion or by nasoduodenal tube as follows: 3 - 10 mg/kg over 24
+hours, adjusted according to response.
+Or
+- Phenobarbital (dilute injection, 1 in 10 with water for injection)
+- Adult: 10 mg/kg intravenously at a rate of not more than 100
+mg/minute, up to maximum total dose of 1 g
+- Child: 5 - 10 mg/kg at a rate not more than 30 mg/minute
+・ Treat autonomic dysfunction with vasopressors, chronotropic agents if
+necessary
+・ Hydration: To control insensitive and other fluid losses
+・ Enteral or parenteral nutrition as determined by clinical situation
+・ Treat intercurrent infections.
+Treatment of tetanus-prone wounds
+・ TIG by intramuscular injection, Adult and Child: 250 units,
+・ Increased to 500 units if wound older than 12 hours or there is risk of heavy
+contamination or if patient weighs more than 90 kg.
+・ Second dose of 250 units given after 3–4 weeks if patient is
+immunosuppressed or if active immunization with tetanus vaccine
+contraindicated.
+Notable Adverse Drug Reactions, Contraindications and Caution
+・ Diazepam is adsorbed from plastics of infusion bags and giving sets; causes
+drowsiness and light headedness; hypotension.
+・ Benzyl penicillin: hypersensitivity reactions
+・ Metronidazole: taste disturbances
+・ Phenobarbital: caution in renal and hepatic impairment
+・May cause paradoxical excitement, restlessness, and confusion in the
+elderly; hyperkinesia in children.
+Prevention
+・ Active immunization of all partially or un-immunized adults, those
+recovering from tetanus, all pregnant women, infants and un-immunized
+(missed) children.
+・ Health education
+・ Improvement in socio-economic status

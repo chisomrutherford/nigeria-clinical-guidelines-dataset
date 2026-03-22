@@ -1,0 +1,97 @@
+{
+  "condition_name": "Urticaria and Angioedema",
+  "condition_slug": "urticaria-and-angioedema",
+  "source": "NSTG 2022",
+  "introduction": "An eruption of evanescent wheals or hives which can result from many different stimuli on an immunologic or non-immunologic basis. The most common immunologic mechanism is hypersensitivity mediated by IgE - Another mechanism involves activation of the complement cascade. The activation of cutaneous mast cells and their release of mediators is the unifying feature of most urticaria Mast cells are found in the immediate vicinity of blood vessels. They release preformed mediators (histamine, heparin and various enzymes) as well newly manufactured ones (prostaglandins, leukotrienes). A hive or urticarial lesion is the result of localized oedema in the dermis.",
+  "clinical_features": [
+    {
+      "type": "General",
+      "features": [
+        "May be acute or chronic",
+        "Acute urticaria is of sudden onset and lasts less than 6 weeks",
+        "Chronic urticaria persists for more than 6 weeks with either: - Daily emergence of new wheals (chronic continuous) or - Occasional hive-free periods (chronic recurrent)",
+        "The typical urticarial reaction is similar to the triple response of Lewis - Initial erythema - Next oedema (the hive) - Finally, an erythematous ring surrounding the hive",
+        "Urticarial lesions may: - Vary in size and shape over minutes to hours - Present an orange-skin appearance - Become bullous",
+        "The pruritus associated with urticaria is usually extreme",
+        "Excoriations are extremely unusual because the lesions are almost invariably rubbed, not scratched",
+        "Dermographism is characterized by wheal and erythema after minor stroking of, or pressure on the skin",
+        "Commonly found under pressure areas e.g. the belt line",
+        "May persist for years, but spontaneous regression usually occurs within 2 years"
+      ]
+    },
+    {
+      "type": "Angioedema",
+      "features": [
+        "Angioedema is the involvement of deeper vessels",
+        "Characterized by painless, deep, subcutaneous swelling",
+        "Often involves periorbital, circumoral and facial regions; palms, soles and the genitalia",
+        "May target the gastrointestinal and respiratory tracts, causing abdominal pain, coryza, asthma and respiratory problems",
+        "Respiratory tract involvement may cause airway obstruction",
+        "Anaphylaxis and hypotension may also occur"
+      ]
+    }
+  ],
+  "investigations": [
+    "Suggested by meticulous history and physical examination"
+  ],
+  "treatment": {
+    "goals": [
+      "To alleviate symptoms",
+      "Eliminate and treat cause"
+    ],
+    "non_drug": [
+      "To relieve itching: Tepid or cold tub baths or showers",
+      "Add starch, or sodium bicarbonate, menthol, or magnesium sulphate to bath water",
+      "Do not scrub the body with sponge (it promotes degranulation of cutaneous mast cells)",
+      "Avoid medicines likely to cause urticaria/angioedema",
+      "Eliminate any suspected food",
+      "Counseling"
+    ],
+    "drug": [
+      "Chlorphenamine maleate",
+      "Loratadine",
+      "Doxepin",
+      "Ranitidine hydrochloride",
+      "Systemic corticosteroids such as Prednisolone"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Chlorpheniramine maleate: Patients not to drive or operate machinery",
+      "Ranitidine: Tachycardia, agitation, visual disturbances, alopecia, gynaecomastia and impotence, Caution in hepatic impairment, pregnancy and in breast feeding",
+      "Loratadine: Headache, dry mouth, drowsiness, dizziness and nausea, Caution in the elderly especially if renal function is compromised",
+      "Doxepin: Caution in cardiac disease, Contraindicated in recent myocardial infarction, arrhythmias, glaucoma and severe liver disease, May cause dry mouth, sedation, blurred vision, constipation, nausea, difficulty with micturition"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Gyrate erythemas",
+    "Urticarial vasculitis",
+    "Mastocytosis",
+    "Pityriasis rosea (early lesions)",
+    "Pemphigus",
+    "Pemphigoid",
+    "Erythema multiforme",
+    "Fixed drug eruption",
+    "'Calabar swelling'",
+    "Cellulitis",
+    "Idiopathic scrotal oedema of children",
+    "Melkerson-Rosenthal syndrome",
+    "Cryoglobulinemia",
+    "Immune complex diseases",
+    "Systemic lupus erythematosus and other collagen vascular diseases",
+    "Macroglobulinemia",
+    "Mycoplasma infections (cold hemagglutinins)",
+    "Syphilis",
+    "Familial cold urticaria",
+    "Acquired cold urticaria"
+  ],
+  "complications": [
+    "Emotional distress in chronic cases",
+    "Fatality"
+  ],
+  "prevention": [
+    "Eliminate/avoid any identified/possible causal factor(s)"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

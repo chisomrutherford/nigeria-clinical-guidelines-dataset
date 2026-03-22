@@ -1,0 +1,67 @@
+{
+  "condition_name": "Cancer of the Cervix",
+  "condition_slug": "cancer-of-the-cervix",
+  "source": "NSTG 2022",
+  "introduction": "The second most common malignancy and the leading cause of death among women in developing countries. Seventy-five percent of the patients present in advanced stages; lack of organized screening programmes for detection of the preclinical stages in many countries contributes to the late presentation. Two age groups with highest incidence: 35 - 40 years; 45 - 55 years. Aetiology: Human papilloma virus (HPV) infection. The infection is usually acquired through sexual intercourse.",
+  "clinical_features": [
+    {
+      "type": "Type",
+      "features": [
+        "May be asymptomatic. (Picked up in the early stage by routine PAP smear screening)",
+        "Abnormal vaginal bleeding: Post-coital, Contact, Spontaneous or Inter-menstrual",
+        "Anaemia is a common feature of advanced cases.",
+        "Post-menopausal Vaginal discharge. In advanced disease, the discharge is offensive. Pyometria with uterine enlargement may also occur",
+        "Haemorrhagic, ulcerative or fungating lesion on the cervix, with extension to the vagina wall in advanced stages.",
+        "Vesico-vaginal fistula and/or recto-vaginal fistula in advanced stages"
+      ]
+    }
+  ],
+  "investigations": [
+    "FBC",
+    "Urinalysis",
+    "Blood Group",
+    "Electrolytes and Urea",
+    "Liver function tests",
+    "Midstream urine specimen for microscopy, culture and sensitivity",
+    "Chest radiograph",
+    "HIV screening",
+    "Intravenous urography"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [],
+    "drug": [],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": [
+      "Examination Under Anaesthesia",
+      "Staging and Biopsy"
+    ]
+  },
+  "differential_diagnoses": [
+    "Endometrial cancer",
+    "endometrial hyperplasia",
+    "endometrial polyps",
+    "cervicitis",
+    "cervical polyps",
+    "cervical erosion",
+    "Vaginal lesions: vaginitis, vaginal malignancy",
+    "Iatrogenic vaginal/uterine bleeding: hormonal drugs and IUCD in-situ",
+    "Blood disorders: bleeding dyscrasias, leukaemia"
+  ],
+  "complications": [],
+  "prevention": [
+    "Regular Papanicolaou smear screening",
+    "Visual inspection of the cervix after acetic acid lavage (VIA)",
+    "Visual inspection of the cervix with lugol iodine (VIL)",
+    "HPV vaccines",
+    "Avoidance of multiple sexual partners"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "Surgery",
+    "Radiotherapy",
+    "Surgery plus radiotherapy",
+    "Chemo-radiation"
+  ],
+  "prognosis": null
+}

@@ -1,0 +1,58 @@
+{
+  "condition_name": "Giardiasis",
+  "condition_slug": "giardiasis",
+  "source": "NSTG 2022",
+  "introduction": "A parasitic protozoal infection caused by Giardia lamblia or Giardia intestinalis. Worldwide in distribution but more common in developing countries. Spread is by the faeco-oral route.",
+  "clinical_features": [
+    {
+      "type": "Acute disease",
+      "features": [
+        "watery diarrhoea with abdominal bloating"
+      ]
+    },
+    {
+      "type": "Chronic disease",
+      "features": [
+        "diarrhoea",
+        "steatorrhoea",
+        "weight loss from malabsorption syndrome",
+        "lactose intolerance",
+        "xylose malabsorption",
+        "vitamin B deficiency"
+      ]
+    }
+  ],
+  "investigations": [
+    "Stool microscopy",
+    "Full blood count",
+    "Duodenal aspirate for microscopy"
+  ],
+  "treatment": {
+    "goals": [
+      "Eradicate parasite",
+      "Correct fluid and electrolyte deficits",
+      "Replace malabsorbed nutrients"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Metronidazole (Adult: 2 g orally daily for 3 days; or 400 mg 8 hourly for 5 days; or 500 mg twelve hourly for 7 - 10 days; Child 1-3 years: 500 mg orally daily; 3-7 years: 600-800 mg daily; 7-10 years: 1 g daily for 3 days)",
+      "Tinidazole (Adult: 40 mg/kg orally as a single dose; or 2 g stat, repeat after 1 week, once if necessary; Child: 50 to 75 mg/kg as a single dose, repeat after 1 week)"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": [
+      "Vitamin B supplementation",
+      "Correct fluid and electrolyte deficits"
+    ]
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Diseases related to Vitamin B deficiency"
+  ],
+  "prevention": [
+    "Good Communal and Personal hygiene",
+    "Potable water."
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

@@ -1,0 +1,58 @@
+{
+  "condition_name": "Peptic Ulcer Disease (PUD)",
+  "condition_slug": "peptic-ulcer-disease-pud",
+  "source": "NSTG 2022",
+  "introduction": "Peptic ulcers (gastric, duodenal or lower oesophagus) are defects in the gastrointestinal mucosa that extend through the muscularis mucosa.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Recurrent epigastric pain",
+        "Often radiating to the back",
+        "Worse at night",
+        "Improved by antacids"
+      ]
+    }
+  ],
+  "investigations": [
+    "Occult blood test. Stool microscopy",
+    "Endoscopy",
+    "Barium meal",
+    "Direct/indirect detection of H. pylori"
+  ],
+  "treatment": {
+    "goals": [
+      "Relieve pain",
+      "Promote healing of ulcers",
+      "Eradicate H. pylori",
+      "Prevent/reduce recurrence"
+    ],
+    "non_drug": [],
+    "drug": [
+      "H. pylori eradication",
+      "Triple therapy with: Clarithromycin 500 mg orally every 12 hours for 10 - 14 days",
+      "Plus: Amoxicillin 1g orally every 12 hours for 10-14 days",
+      "Plus: Omeprazole 20 mg orally every 12 hours for 10 - 14 days",
+      "Omeprazole could be substituted with other proton pump inhibitors (PPI) e.g. rabeprazole, rantoprazole or esomeprazole.",
+      "If no improvement with the above regimen, patient should be referred to a Gastroenterologist for further evaluation and therapy."
+    ],
+    "adverse_reactions_and_cautions": [
+      "Gastric irritation, diarrhoea from triple therapy"
+    ],
+    "supportive_measures": [
+      "Regular meals",
+      "Avoidance of provocative factors (NSAIDs, alcohol, spicy foods etc.)"
+    ]
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Upper gastrointestinal bleeding",
+    "Perforation",
+    "Penetration",
+    "Gastric outlet obstruction"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

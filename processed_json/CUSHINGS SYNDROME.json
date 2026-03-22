@@ -1,0 +1,113 @@
+{
+  "condition_name": "Cushing's Syndrome",
+  "condition_slug": "cushings-syndrome",
+  "source": "NSTG 2022",
+  "introduction": "Cushing syndrome is a constellation of features associated with prolonged exposure to inappropriately high levels of plasma glucocorticoids. The most common cause is from exogenous glucocorticoid use. Endogenous causes of Cushing's syndrome are rare.",
+  "clinical_features": [
+    {
+      "type": "General",
+      "features": [
+        "Weight gain",
+        "moon facies",
+        "fat pads",
+        "truncal obesity",
+        "Facial plethora",
+        "red- purple striae ecchymoses",
+        "facial hair",
+        "hirsutism",
+        "male pattern balding in women",
+        "acne",
+        "Acanthosis nigricans",
+        "opportunistic fungal infections",
+        "poor wound healing",
+        "Raised intraocular pressure",
+        "exophthalmos",
+        "Visual field defects",
+        "Muscle weakness especially proximal myopathy",
+        "Menstrual irregularities",
+        "decreased libido",
+        "men- decreased libido and impotence in men",
+        "Lethargy",
+        "depression",
+        "emotional liability",
+        "psychosis",
+        "diabetes mellitus",
+        "loss of height",
+        "pathologic fractures",
+        "hypertension",
+        "reddish purple striae",
+        "plethora",
+        "proximal muscle weakness",
+        "bruising with no obvious trauma",
+        "unexplained osteoporosis"
+      ]
+    }
+  ],
+  "investigations": [
+    "Electrolyte",
+    "Urea and Creatinine",
+    "FBS and FBC",
+    "Urine free cortisol (UFC; at least two measurements)",
+    "Late-night salivary cortisol (two measurements)",
+    "1 mg overnight dexamethasone suppression test (DST)",
+    "Longer low-dose DST (2 mg/day for 48 hours)"
+  ],
+  "treatment": {
+    "goals": [
+      "Exclude known causes of weight gain through history and examination",
+      "Confirm diagnosis and differential diagnoses before initiating treatment",
+      "Remove any underlying cause e.g. iatrogenic Cushing Syndrome",
+      "Reduce the level of plasma cortisol",
+      "Treat any symptoms and complications"
+    ],
+    "non_drug": [
+      "Exclude known causes of weight gain through history and examination",
+      "Confirm diagnosis and differential diagnoses before initiating treatment",
+      "Remove any underlying cause e.g. iatrogenic Cushing Syndrome"
+    ],
+    "drug": [
+      "Mifepristone",
+      "Adrenal steroid inhibitors",
+      "Metyrapone",
+      "Aminoglutethimide"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": [
+      "Surgical resection of the culprit tumour if patient qualifies.",
+      "Radiotherapy for failed surgery or patients not fit for surgery",
+      "Lifelong glucocorticoid replacement with pituitary destruction or bilateral adrenalectomy",
+      "Lifelong mineralocorticoid replacement for patients with bilateral adrenalectomy"
+    ]
+  },
+  "differential_diagnoses": [
+    "Constitutional obesity",
+    "Other causes of weight gain",
+    "Pseudo cushings",
+    "Pregnancy",
+    "Depression",
+    "Bulimia",
+    "Alcoholism"
+  ],
+  "complications": [
+    "Diabetes mellitus",
+    "Osteoporosis and fractures",
+    "Hypopituitarism (compression of other corticotrophs)",
+    "Steroid psychosis",
+    "Hormone replacement"
+  ],
+  "prevention": [],
+  "other_investigations": [
+    "Morning plasma ACTH",
+    "High-Dose DST",
+    "Inferior Petrosal Sinus Sampling and Selective Venous Catheterization",
+    "Imaging: CT/MRI scanning of pituitary and adrenals",
+    "Scintigraphy"
+  ],
+  "definitive_treatment": [
+    "Adrenalectomy or pituitary surgery"
+  ],
+  "prognosis": [
+    "Favourable for adenomas as surgery is curative.",
+    "CS due to carcinoma and adrenal hyperplasia have worse prognosis"
+  ]
+}

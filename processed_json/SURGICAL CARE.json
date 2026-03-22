@@ -1,0 +1,85 @@
+{
+  "condition_name": "Surgical Care",
+  "condition_slug": "surgical-care",
+  "source": "NSTG 2022",
+  "introduction": "Surgical Care are initiatives aimed at reducing or eliminating complications arising from the provision of surgery to patients that need surgical operations. This is generally referred to as perioperative care which consists of preoperative, intra-operative and postoperative care.",
+  "clinical_features": [
+    {
+      "type": "Clinical evaluation",
+      "features": [
+        "History of cough is indicative of Cardiopulmonary disorders such as chest infections, Bronchial asthma, chronic obstructive airways diseases, hypertension, heart failure etc.",
+        "Patient may have metabolic disorders like Diabetic Mellitus etc, Haematologic disorders like the haemoglobinopathies e.g., Sickle cell disease. Other patients may give history of allergy to drugs, talc, elastoplast, antiseptics, etc.",
+        "Drug history like Propranolol, diuretics, steroids and other hormonal agents; prednisolone, oral contraceptives; tricyclic antidepressants, which may interfere with healing process.",
+        "Social habits like cigarette smoking, alcohol use etc may have effects on anaesthetic outcome.",
+        "Previous anaesthetic experience, type and how long ago are important"
+      ]
+    }
+  ],
+  "investigations": [
+    "Chest radiograph: especially for patients 60 years and above, and those with chest infection gives evidence of chest infection and cardiomegaly",
+    "ECG: for patients over 60 years and those with heart disease or hypertension",
+    "Pulmonary function tests may be necessary in patients with obstructive airways disease",
+    "Urine sugar to exclude diabetes mellitus in patients with history of polyuria, polydipsia and polyphagia",
+    "Serum electrolytes and urea",
+    "Haemogram and complete blood count in all patients",
+    "Haemoglobin genotype in patients with suspected haemoglobinopathies",
+    "Clotting profile (PT, KCCT) where there is suspicion of bleeding diathesis e.g., in jaundiced patients",
+    "Other investigations as may be indicated by individual clinical circumstances"
+  ],
+  "treatment": {
+    "goals": [
+      "Prevent avoidable Complications",
+      "Ensure early identification of Complications and prompt treatment",
+      "Prevent avoidable mortality",
+      "Ensure quick recovery and return to activities",
+      "Ensure safe and smooth surgery",
+      "Ensure optimal patient outcomes"
+    ],
+    "non_drug": [
+      "Rehydrate adequately, using appropriate fluids",
+      "Control blood pressure in hypertensives",
+      "Treat chest infections with appropriate antibiotics",
+      "Manage obstructive airways disease",
+      "Correct electrolyte deficits, especially hypokalaemia",
+      "Correct acidosis (by adequate rehydration in patients without renal impairment)",
+      "Correct anaemia by haematinics or blood transfusion when necessary",
+      "Ensure adequate hydration in patients with sickle cell anaemia to avoid sickling and sludging",
+      "Pre-operative nutritional rehabilitation if required",
+      "Evaluate high-risk patients meticulously to ensure optimal fitness for surgery",
+      "Ensure appropriate positioning post-surgery for airway management and reduction of venous pressures",
+      "Close monitoring of cardiopulmonary status post-surgery",
+      "Chest physiotherapy to prevent basal atelectasis and hypostatic pneumonia"
+    ],
+    "drug": [
+      "Control diabetes with soluble insulin during long surgical procedures",
+      "Administer intramuscular vitamin K for suspected bleeding diathesis",
+      "Analgesics for pain management: use multimodal approach with local anaesthetics and opioids",
+      "Use of antibiotics when indicated"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Avoid irrational or indiscriminate use of antibiotics"
+    ],
+    "supportive_measures": [
+      "Ensure airway management post-surgery",
+      "Encourage mobilization and ambulation as early as practicable",
+      "Guide surgical team and peri-operative nursing team for intra-operative care based on WHO's 'Surgical Safety Checklist'",
+      "Close monitoring of all intake and output, as well as fluid and electrolyte balance",
+      "Parenteral nutrition if oral intake is prohibited for more than 48-72 hours",
+      "Monitor and manage all indwelling tubes, catheters and drains to avoid infection",
+      "Consent and pre-operative risk stratification",
+      "Involvement of the surgeon in postoperative care to ensure continuity and avoid poor care",
+      "Use electronic monitors post major surgery where available"
+    ]
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Deep vein thrombosis",
+    "Atelectasis",
+    "Sickling crises in patients with sickle cell anaemia",
+    "Postoperative pyrexia due to malaria, atelectasis, hypostatic pneumonia, wound infection, urinary tract infection"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

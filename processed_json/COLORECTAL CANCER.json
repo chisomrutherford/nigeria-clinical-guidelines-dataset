@@ -1,0 +1,96 @@
+{
+  "condition_name": "Colorectal Cancer",
+  "condition_slug": "colorectal-cancer",
+  "source": "NSTG 2022",
+  "introduction": "Second most frequent cancer in males (after prostate cancer) and 4 inth both sexes (after breast, cervical and prostatic cancers), constituting 5.8% of all new cancer cases in Nigeria.",
+  "clinical_features": [
+    {
+      "type": "Elective",
+      "features": [
+        "change in bowel habits",
+        "abdominal swelling",
+        "abdominal pain",
+        "tenesmus",
+        "weight loss",
+        "anaemia",
+        "secondary haemorrhoids"
+      ]
+    },
+    {
+      "type": "Emergency",
+      "features": [
+        "large bowel intestinal obstruction",
+        "perforation with peritonitis",
+        "lower gastrointestinal haemorrhage",
+        "fistulae (recto-vesical, recto-vaginal)"
+      ]
+    }
+  ],
+  "investigations": [
+    "Colonoscopy and biopsy",
+    "barium enema",
+    "Abdominopelvic USS",
+    "Abdominopelvic CT scan",
+    "Chest X-ray/CT",
+    "IVU",
+    "Cystoscopy",
+    "Haematological tests",
+    "Biochemical tests",
+    "Tumour markers (CEA)",
+    "Electrocardiogram",
+    "Echocardiography",
+    "Digital rectal examination",
+    "Faecal tests (occult blood test, immunochemical test, DNA testing)",
+    "Colonoscopy",
+    "Double contrast barium enema"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [],
+    "drug": [
+      "5-day whole gut lavage",
+      "3-day whole gut lavage",
+      "1-day whole gut lavage",
+      "on-table lavage (in emergency situations)",
+      "Erythromycin",
+      "Neomycin",
+      "Thalazole",
+      "Metronidazole",
+      "5 Fluoro-uracil",
+      "Folinic acid",
+      "Oxaliplatin",
+      "Irinotecan",
+      "Capecitabine"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [
+    "Adenomatous polyps",
+    "familial polyposis coli",
+    "Dietary risk factors",
+    "Obesity",
+    "Sedentary lifestyle",
+    "Schistosomiasis",
+    "uretero-sigmoidostomy"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "right hemicolectomy",
+    "transverse colectomy",
+    "left hemicolectomy",
+    "sigmoid colectomy",
+    "anterior resection",
+    "abdomino-perineal resection with terminal colostomy",
+    "sphincter-saving excision",
+    "abdomino-perineal resection with terminal colostomy, excision plus chemoradiation",
+    "Isolated hepatic metastatectomy",
+    "Emergency surgery for obstruction/perforation (resection +/- colostomy)",
+    "Rx for lower gastrointestinal haemorrhage",
+    "Targeted therapy",
+    "Radiotherapy (Post-surgery, Palliative care, Chemo-radiation for anal carcinoma)"
+  ],
+  "prognosis": null
+}

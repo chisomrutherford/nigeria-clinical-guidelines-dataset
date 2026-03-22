@@ -1,0 +1,73 @@
+{
+  "condition_name": "Pulmonary Oedema",
+  "condition_slug": "pulmonary-oedema",
+  "source": "NSTG 2022",
+  "introduction": "Occurs when there is congestion of the lungs with fluid, usually in a scenario of left-sided cardiac failure. Results in stiffness of the lungs and flooding of the alveoli, with difficulty in breathing. May also follow inflammatory processes. May be acute or chronic",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Difficulty in breathing, with a sensation of drowning",
+        "Cough productive of frothy (sometimes pink) sputum",
+        "Central cyanosis",
+        "Sweating, agitation etc",
+        "Other symptoms of left-sided cardiac failure",
+        "Wide-spread crepitations",
+        "Rhonchi (in severe cases)",
+        "Other signs of left-sided cardiac failure"
+      ]
+    }
+  ],
+  "investigations": [
+    "Chest radiograph",
+    "Electrocardiography",
+    "Echocardiography",
+    "Blood gases",
+    "Urea, Electrolytes and Creatinine",
+    "D-Dimer"
+  ],
+  "treatment": {
+    "goals": [
+      "Relieve oedema",
+      "Relieve discomfort",
+      "Treat underlying cause"
+    ],
+    "non_drug": [
+      "Propped up position",
+      "Bed rest",
+      "Sit on bed with legs hanging down"
+    ],
+    "drug": [
+      "Oxygen: 3 - 5L/min",
+      "Morphine: 10 mg stat",
+      "Loop diuretics: Furosemide: 40 - 120 mg intravenously stat; maintenance with 40 - 500 mg daily in single or divided doses",
+      "Venodilators: Nitrates: Glyceryl trinitrate 0.3-1 mg by mouth or 10-200 microgram/min intravenously",
+      "Vasodilators: Hydralazine 25 - 50 mg 12 hourly; ACEI (Captopril: 6.25-25 mg by mouth)",
+      "Aminophylline 250 - 500 mg or 5 mg/Kg intravenously over 10 minutes"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Diuretics: hypokalaemia",
+      "ACEIs: First dose hypotension, dry cough, hyperkalaemia",
+      "Nitrates: Hypotension",
+      "Aminophylline: Arrhythmias"
+    ],
+    "supportive_measures": [
+      "Nursing care (e.g. nurse in cardiac position)"
+    ]
+  },
+  "differential_diagnoses": [
+    "Pulmonary embolism",
+    "Pneumonia"
+  ],
+  "complications": [
+    "Hypoxaemia",
+    "Coma"
+  ],
+  "prevention": [
+    "Treat cause(s) of cardiac failure or fluid overload (e.g. renal failure)",
+    "Judicious administration of blood and intravenous fluids"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

@@ -1,0 +1,67 @@
+{
+  "condition_name": "Urethral Strictures",
+  "condition_slug": "urethral-strictures",
+  "source": "NSTG 2022",
+  "introduction": "An abnormal narrowing or loss of distensibility of any part of the urethra, as a result of fibrosis. One of the commonest causes of urine retention in tropical Africa. Very rare in females and may result from trauma or inflammation; may be iatrogenic or congenital.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Dysuria",
+        "Frequency",
+        "Urgency",
+        "Poor stream",
+        "Straining",
+        "Hesitancy",
+        "Dribbling",
+        "Examination of the external genitalia may reveal: Urethral indurations, Periurethral or perineal abscess, Urinary fistula"
+      ]
+    }
+  ],
+  "investigations": [
+    "Urinalysis",
+    "Urine microscopy, culture and sensitivity",
+    "Urethroscopy",
+    "Urethrogram",
+    "Uroflowmetry",
+    "Abdominal ultrasound",
+    "Serum Urea, Electrolytes and Creatinine",
+    "Full Blood Count"
+  ],
+  "treatment": {
+    "goals": [
+      "To restore urethral patency"
+    ],
+    "non_drug": [
+      "Serial dilatation/bouginage",
+      "Endoscopic direct visual urethrotomy",
+      "Urethroplasty: excision and end-to-end anastomosis",
+      "Substitution urethroplasty"
+    ],
+    "drug": [],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Benign prostatic hypertrophy",
+    "Prostate cancer",
+    "Bladder calculi",
+    "Bladder neck stenosis"
+  ],
+  "complications": [
+    "Urinary tract infections",
+    "Urethral/bladder calculi",
+    "Urinary retention",
+    "Fournier's gangrene",
+    "Perineal urinary fistulae",
+    "Progressive renal failure"
+  ],
+  "prevention": [
+    "Ensure Prevention of sexually transmitted infections",
+    "Prompt and appropriate treatment of sexually transmitted infections",
+    "Care and attention to asepsis during instrumentation procedures involving the urethra"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

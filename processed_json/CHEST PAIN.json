@@ -1,0 +1,42 @@
+{
+  "condition_name": "Chest Pain",
+  "condition_slug": "chest-pain",
+  "source": "NSTG 2022",
+  "introduction": "A common clinical symptom that may or may not have significant clinical implications",
+  "clinical_features": [
+    {
+      "type": "Differential Diagnosis",
+      "features": [
+        "Sharp, lancinating lateral chest pain, worse with breathing and coughing: pleurisy",
+        "Dull aching lateral chest pain: chest wall pain, pleural effusion",
+        "Central chest pain precipitated by a dry hacking cough: suggestive of tracheitis or tracheobronchitis",
+        "Central chest discomfort/pain with sensation of heaviness or chest compression: suggestive of myocardial ischaemia",
+        "Lateral burning chest pain associated with tenderness on physical contact: Bornholm's disease"
+      ]
+    }
+  ],
+  "investigations": [
+    "Chest radiography",
+    "Electrocardiography",
+    "Echocardiography"
+  ],
+  "treatment": {
+    "goals": [
+      "Treat primary cause",
+      "Relieve pain"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Non narcotic analgesics: Paracetamol - Adult: 1 g orally every 8 hours - Child: 1 - 3 months: 30 - 60 mg every 8 hours - 3 - 12 months: up to 120 mg every 4 - 6 hours - 1 - 5 years: 120 - 250 mg every 4 - 6 hours - 6 - 12 years: 250 - 500 mg every 4 - 6 hours - 12 - 18 years: 500 mg every 4 - 6 hours",
+      "Non-steroidal analgesics: Diclofenac sodium - Adult: 25 - 50 mg orally three times daily depending on severity - Child 6 months - 18 years: 0.3 - 1 mg/kg by mouth or by rectum 3 times daily (maximum total dose 150 mg daily)"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

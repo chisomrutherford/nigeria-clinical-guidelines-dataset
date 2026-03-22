@@ -1,0 +1,50 @@
+{
+  "condition_name": "Jaundice in Pregnancy",
+  "condition_slug": "jaundice-in-pregnancy",
+  "source": "NSTG 2022",
+  "introduction": "Usually indicates a liver/biliary disorder and becomes clinically apparent when the serum bilirubin exceeds 2 - 2.5 mg/dL. Many indicators of liver disease in the non-pregnant state are normal findings in pregnancy such as Spider naevi, Decreased plasma albumin and Increased serum lipids. Prothrombin time, transaminases and bilirubin are unaltered in normal pregnancy, Jaundice occurs in about 1 in 1,500 - 2,000 pregnancies",
+  "clinical_features": [
+    {
+      "type": "Acute yellow atrophy",
+      "features": [
+        "A rare and serious disorder associated with high mortality",
+        "Occurs in the order of 1: 10,000 pregnancies",
+        "Unknown aetiology",
+        "Typically noted in primigravidae, occurring after the 30th week of pregnancy or few days after birth",
+        "The jaundice is classically obstructive",
+        "Onset usually sudden with: Abdominal pain (right upper quadrant), Headaches, Nausea and vomiting, Progressive jaundice, Encephalopathy, Hypertension (not uncommon)"
+      ]
+    }
+  ],
+  "investigations": [
+    "Histology: Perilobular fatty infiltration of the liver cells",
+    "There is no place for liver biopsy because of risk of severe bleeding"
+  ],
+  "treatment": {
+    "goals": [
+      "Early diagnosis is mandatory",
+      "Involvement of a combined team of obstetrician, physician and anaesthetist",
+      "Delivery of the baby as soon as possible (frequently by caesarean section)"
+    ],
+    "non_drug": [],
+    "drug": [],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": [
+      "Transfusion with blood, fresh frozen plasma, platelets as indicated",
+      "Renal dialysis"
+    ]
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Disseminated intravascular coagulopathy",
+    "Hypotension",
+    "Significant risk of maternal and foetal death due to: Maternal liver failure, Metabolic disturbance, Encephalopathy, Overwhelming haemorrhage associated with clotting defects"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": [
+    "Prognosis is good.",
+    "Postnatally, liver function returns to normal over a few weeks and there is no evidence of long-term liver dysfunction"
+  ]
+}

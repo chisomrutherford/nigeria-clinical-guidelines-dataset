@@ -1,0 +1,168 @@
+ANAEMIAS
+Introduction
+Anaemia is a reduction in the haemoglobin concentration in the peripheral
+blood below the normal range expected for the age and sex of an individual. The
+determination of haemoglobin concentration should always take the state of
+hydration and altitude of residence of the individual into consideration.
+Anaemia can be classified on the basis of red cell morphology and
+aetiology/pathogenesis:
+
+CLASSIFICATION OF ANAEMIAS 
+Morphological Classification
+• Macrocytic Megaloblastic:(Folic acid deficiency, Vitamin B12 deficiency,
+Inherited disorders of DNA synthesis etc).
+• Hypochromic-microcytic: (Iron deficiency anaemia, sideroblastic anaemia
+etc)
+• Normochromic-normocytic: (Recent blood loss, Haemolytic anaemias,
+Hypoplastic bone marrow)
+• Chronic Anaemic disorders (Renal disease, Liver disease etc)
+Classification based on aetiology and pathogenesis
+Blood Loss:
+• Acute or Chronic (leads to iron deficiency) Increased red cell destruction
+(haemolytic anaemias)
+• Corpuscular defects (intracorpuscular or intrinsic abnormality)
+• Disorders of the membrane e.g. elliptocytosis, spherocytosis
+• Disorders of metabolism e.g. Glucose-6-Phosphate dehydrogenase
+deficiency, Haemoglobinopathy e.g. sickle cell disease
+• Immunological (Rhesus-incompatibility, mismatched transfusion etc)
+• Infections e.g. malaria, Clostridium welchii, drugs and toxins
+• Others e.g. burns, decreased red cell production
+• Nutritional (due to deficiencies of substances essential for erythropoiesis eg
+Iron, Folate, Vitamin B12, Various deficiencies e.g. protein, ascorbic acid
+etc)
+Bone marrow failure:
+• Primary (idiopathic eg Aplastic anaemia, Pure red cell aplasia)
+• Secondary (Drugs eg phenylbutazone, cytotoxic agents, Chemicals,
+Irradiation etc)
+• Anaemias associated with systemic disorders: Infection, Liver disease,
+Renal disease
+• Connective tissue disease, Cancer (including leukaemia), Marrow
+infiltration etc
+
+CLINICAL FEATURES OF ANAEMIAS 
+Clinical Features
+Depends on the degree of anaemia, severity of the causative disorder and age of
+the patient
+The clinical effects of anaemia are due to anaemia itself and the disorder(s)
+causing it.
+• Common:
+- Tiredness, lassitude, weakness, dyspnoea on exertion, palpitations,
+pallor
+• Less common:
+- Angina of effort, faintness, giddiness, headache, ringing in the ears,
+high output state congestive cardiac failure.
+Differential Diagnoses
+• Cardiac failure
+• Respiratory failure
+Complications
+• Cardiac failure
+
+INVESTIGATIONS OF ANAEMIAS 
+Investigations
+• Haematologic
+- Haematocrit, haemoglobin concentration, red cell indices, reticulocyte
+count, total leukocyte and differential counts, platelet count
+- Erythrocyte sedimentation rate, Blood film examination for
+morphology of cells, thick and thin films for malaria parasites
+- Urine analysis: Colour, pH, clarity, and specific gravity, microscopic
+examination of fresh urine specimen, protein, glucose, occult blood
+- Stool: Colour, consistency, examination for ova and parasites, occult
+blood
+- Plasma: Blood Urea Nitrogen (BUN), Total protein and albumin
+bilirubin, creatinine (if BUN is abnormal)
+• Others:
+- Coombs test for the presence of antibodies to red cells
+- Ham's test (acidified serum test)
+- Bone marrow aspiration and trephine biopsy
+- Haemoglobin electrophoresis
+- Sickling test (metabisulphite and solubility)
+- Family studies
+
+TREATMENT OF ANAEMIAS 
+Treatment Goals
+• Restore haemoglobin concentration to normal levels
+• Prevent/treat Complications
+Non-drug Treatment
+• Bed rest in severe cases: initially necessary, especially when cardiovascular
+symptoms are prominent
+• Treat cardiac failure by standard measures
+• Balanced diet with adequate protein and vitamins
+• Correct dietary deficiencies (e.g. iron, folic acid)
+• Blood transfusion: a very important measure in the treatment of anaemia,
+but should not be used as a substitute for investigation, or specific treatment
+of the cause
+• Arrest blood loss
+• Treat any underlying systemic disorder
+• Remove any toxic chemical agent or drug
+• Correct anatomical gastro-intestinal abnormalities
+Drug Treatment
+• Haematinics e.g. iron, vitamin B, folic acid
+12
+• The specific haematinic indicated should be given alone
+• Response to adequate treatment is important in confirming diagnosis
+Iron deficiency:
+• Oral iron therapy:
+- Ferrous sulphate 200 mg (containing 65 mg of iron) tablet 2-3 times
+daily
+- In children, 4-6mg/kg of elemental iron
+- Treat for 3-6 months to correct deficits in haemoglobin
+• Parenteral therapy:
+- Not necessary unless there is intolerance to oral iron
+- Not commonly used in children
+- Indications for parenteral iron:
+- Anaemia diagnosed in late pregnancy.
+- Correction of anaemia just before an operative procedure
+- Haemorrhage expected to continue unabated
+- Iron preparations:
+- Iron dextran given as "total dose" infusion
+- By deep intramuscular injection into the gluteal muscle or by slow
+intravenous injection or by intravenous infusion, calculated according
+to body weight and iron deficit dose in mL (of 50 mg/mL preparations) =
+[Patient's wt. in kg X (14 Hb in g/dL)]-10
+Notable Adverse Drug Reactions, Contraindications and Caution
+• Oral iron preparations:
+- Nausea, epigastric pain, diarrhoea, constipation, skin eruptions
+- Reduce dosage and frequency of administration to reduce these effects
+• Parenteral iron:
+- Local reactions: phlebitis and lymphadenopathy
+- Systemic reactions: may be early or late- headache, fever, vomiting;
+general aches and pains, backache, chest pain, dyspnoea, syncope;
+death from anaphylaxis
+- Test doses are no longer recommended, but caution is needed with every
+dose of intravenous iron. Patients should be monitored for signs of
+hypersensitivity during, and for at least 30 minutes after every
+administration
+- Total-dose infusion should be avoided in patients with history of allergy
+- Not recommended for children under 14 years
+- Avoid in first trimester and use in the second and third trimesters only
+when the benefit outweighs the potential risks for both mother and
+foetus
+- Anaphylaxis and other Hypersensitivity can occur with parenteral iron
+and facilities for cardiopulmonary resuscitation must be available;
+Discontinue oral iron prior to administration of iron dextran injection
+- Oral iron should not be given until 5 days after last injection
+Megaloblastic anaemia
+Response to therapy is satisfactory if administered dose is limited to the
+minimal daily requirement
+• Treatment with vitamin B (cobalamin) to replace body stores
+12
+- Six 1000 μg intramuscular injections of hydroxocobalamin given at 3 -
+7 day intervals
+• Maintenance therapy: patients will need to take vitamin Bfor life
+12
+- 1000 μg hydroxocobalamin intramuscularly once every 1-3 months
+- In children, give loading dose of IM Vitamin B 1000 μg; followed by
+12
+monthly maintenance of 100 μg
+- In folate deficiency, 5-10 mg folic acid daily for at least 4 weeks
+Notable Adverse Drug Reactions, Contraindications and Caution
+• Toxic reactions are very rare and are usually not due to cobalamin itself
+• Pharmacologic doses of folic acid produce haematological response in
+vitamin B deficient patients, but worsen the neurological complications
+12
+• Large doses of vitamin B also give haematological response in folate-
+12
+deficient patients
+Prevention
+• Balanced diet
+• Prompt treatment of all illnesses

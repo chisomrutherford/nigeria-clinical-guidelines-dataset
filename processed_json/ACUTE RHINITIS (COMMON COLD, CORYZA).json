@@ -1,0 +1,65 @@
+{
+  "condition_name": "Acute Rhinitis (Common Cold, Coryza)",
+  "condition_slug": "acute-rhinitis-common-cold-coryza",
+  "source": "NSTG 2022",
+  "introduction": "An acute inflammation of the nasal mucosa with variable degrees of pharyngitis. Rhinoviruses are the commonest aetiologically important agents followed by the coronaviruses, the parainfluenza, RSV, influenza and adenoviruses in that order. Others include enteroviruses, rubella, varicella and possibly a sizeable group of undiscovered viruses.",
+  "clinical_features": [
+    {
+      "type": "Systemic Complaints",
+      "features": [
+        "Systemic complaints are often absent or modest if present",
+        "Fever is usual"
+      ]
+    },
+    {
+      "type": "Other Features",
+      "features": [
+        "Tickling sensation in the nose associated with itching of the nose and palate",
+        "Occasional vertigo due to associated viral labyrinthitis",
+        "Watery nasal discharge (rhinorrhoea), which may later become purulent",
+        "Sneezing",
+        "Headaches",
+        "Nasal obstruction (usually alternating)"
+      ]
+    }
+  ],
+  "investigations": [],
+  "treatment": {
+    "goals": [
+      "Relieve nasal mucosal oedema and obstruction",
+      "Relieve pain/discomfort",
+      "Treat Complications"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Non-selective sedating antihistamines such as chlorpheniramine for symptoms of rhinorrhea and sneezing",
+      "Chlorpheniramine 4 mg orally every 4 - 6 hours up to a maximum of 24 mg/day, maximum of 12 mg/day in elderly",
+      "Chlorpheniramine dose for children: 1-2 years 1 mg twice daily; 2-6 years 1 mg every 4 -6 hours (max 6 mg/day); 6-12 years 2 mg every 4 -6 hours (max 12 mg/day)",
+      "Analgesics such as Paracetamol for headache, myalgias and occasional fever",
+      "Paracetamol dose: Adults: 1 g three times daily; Child: 1 - 5 years 120 - 250 mg; 6 - 12 years 250 - 500 mg; 12 - 18 years 500 mg 6 hourly (max 4 doses/day)",
+      "Non-steroidal anti-inflammatory drugs like Ibuprofen may improve symptoms in adults with rhinovirus infection",
+      "Nasal sprays containing decongestants like Ephedrine hydrochloride should not be used for more than 5 - 7 days to avoid rebound rhinitis medicamentosa, 1 - 2 drops into each nostril up to 3 - 4 times daily for a maximum duration of 7 days. Applicable to adults and children over 12 years"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Paracetamol: raised liver enzymes, renal papillary necrosis",
+      "Non-steroidal anti-inflammatory drugs: Upper G.I bleeding"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Allergic rhinitis",
+    "Bacterial rhinitis (often supervenes after the viral onset)"
+  ],
+  "complications": [
+    "Superimposed bacterial rhinitis",
+    "Suspect this if symptoms last longer than 7-10days",
+    "Sinusitis (suspect with worsening symptoms with facial pain)",
+    "Lower respiratory infection",
+    "Otitis media",
+    "Obstruction of internal auditory meatus: may cause deafness."
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

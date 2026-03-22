@@ -1,0 +1,60 @@
+{
+  "condition_name": "Kwashiorkor and Marasmus",
+  "condition_slug": "kwashiorkor-and-marasmus",
+  "source": "NSTG 2022",
+  "introduction": "Adequate nutrition is the intake and utilization of energy-giving and body building foods and nutrients in the right proportions to maintain well-being, and productivity. Malnutrition manifests as stunting, underweight, wasting (kwashiorkor and marasmus), obesity as well as deficiencies of micronutrients.",
+  "clinical_features": [
+    {
+      "type": "Kwashiorkor",
+      "features": [
+        "Growth retardation",
+        "muscle wasting",
+        "anaemia",
+        "apathy",
+        "moon face",
+        "lack-luster skin",
+        "easily plucked hair",
+        "pedal oedema",
+        "hypo-pigmented skin patches",
+        "exfoliation",
+        "diarrhoea"
+      ]
+    },
+    {
+      "type": "Marasmus",
+      "features": [
+        "Thin; protruding bones",
+        "hungry-looking 'old-looking face,'",
+        "whimpering cry"
+      ]
+    }
+  ],
+  "investigations": [
+    "Full Blood Count",
+    "ESR",
+    "Stool microscopy",
+    "Urinalysis",
+    "Serum proteins",
+    "Chest radiograph",
+    "Mantoux test"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Nutritional counselling",
+      "Adequate nutrient intake: may require assistance and special preparations e.g. nasogastric feeding",
+      "Periodic growth monitoring"
+    ],
+    "drug": [
+      "May be indicated where there are specific infections/infestations"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

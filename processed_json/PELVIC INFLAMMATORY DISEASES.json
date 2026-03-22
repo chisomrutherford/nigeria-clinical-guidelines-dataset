@@ -1,0 +1,85 @@
+{
+  "condition_name": "Pelvic Inflammatory Diseases",
+  "condition_slug": "pelvic-inflammatory-diseases",
+  "source": "NSTG 2022",
+  "introduction": "Ascending pelvic infection involving the upper genital tract. Usually involves sexually transmitted organisms e.g. Neisseria gonorrhoeae and Chlamydia trachomatis. It may also be caused by organisms endogenous to the lower genital tract. In severe cases, organisms may migrate via the peritoneum to the upper abdomen causing perihepatic adhesions: the so-called \"violin strings\" (Fitz-Hugh-Curtis syndrome).",
+  "clinical_features": [
+    {
+      "type": "Major criteria (the Westrom triad)",
+      "features": [
+        "Lower abdominal pain and tenderness",
+        "Cervical excitation tenderness",
+        "Adnexal tenderness"
+      ]
+    },
+    {
+      "type": "Minor criteria",
+      "features": [
+        "Fever (38 degrees C)",
+        "Leucocytosis",
+        "Purulent vaginal discharge",
+        "Adnexal mass"
+      ]
+    }
+  ],
+  "investigations": [
+    "FBC",
+    "Haemoglobin genotype",
+    "Blood Group",
+    "Electrolyte, Urea and Creatinine",
+    "Midstream urine microscopy, culture and sensitivity",
+    "Endocervical swab",
+    "High vaginal swab culture: to exclude trichomoniasis, bacterial vaginosis",
+    "Urethral swab",
+    "Ultrasound scan: to exclude cyesis, ectopic gestation, adnexal mass (e.g. ovarian mass)"
+  ],
+  "treatment": {
+    "goals": [
+      "Rehydrate adequately",
+      "Eradicate the infecting organism(s)",
+      "Prevent Complications"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Ceftriaxone (or equivalent cephalosporin): 1 g intramuscularly stat",
+      "Doxycycline 100 mg orally every 12 hours for 14 days",
+      "Metronidazole: 400 mg orally every 12 hours for 14 days",
+      "Ceftriaxone/doxycycline/metronidazole",
+      "Clindamycin/gentamicin/metronidazole",
+      "Doxycycline 100 mg orally every 12 hours",
+      "Metronidazole 400 mg orally every 8 hours for 10-14 days"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": [
+      "Admit, re-evaluate and give appropriate intravenous therapy"
+    ]
+  },
+  "differential_diagnoses": [
+    "Acute appendicitis",
+    "Ovarian cyst accident",
+    "Endometriosis",
+    "Urinary tract infections",
+    "Renal disorders (e.g. nephrolithiasis)",
+    "Pelvic adhesions",
+    "Lower lobe pneumonia",
+    "Ectopic gestation"
+  ],
+  "complications": [
+    "Pelvic abscess",
+    "Septicaemia",
+    "Chronic pelvic pain",
+    "Ectopic gestation",
+    "Infertility",
+    "Fitz-Hugh-Curtis syndrome",
+    "Recurrence (about 25% rates)"
+  ],
+  "prevention": [
+    "Encourage the use of barrier contraceptive with spermicides",
+    "Modify risky sexual behaviour: avoid multiplicity of sexual partners",
+    "Contact tracing: to break the existing chain of infection and prevent recurrence",
+    "Prompt diagnosis and treatment to prevent long-term complications"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

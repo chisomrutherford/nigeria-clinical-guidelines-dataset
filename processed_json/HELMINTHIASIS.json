@@ -1,0 +1,108 @@
+{
+  "condition_name": "Helminthiasis",
+  "condition_slug": "helminthiasis",
+  "source": "NSTG 2022",
+  "introduction": "Helminths are parasitic worm infestations that cause variable symptoms in humans. Helminths are broadly classified as Nematodes (round worms), Cestodes (Tapeworms) and Trematodes (Flukes).",
+  "clinical_features": [
+    {
+      "type": "Ascariasis",
+      "features": [
+        "May be asymptomatic.",
+        "Lung phase - migration of parasite larvae through the lungs can lead to: irritating, non-productive cough, burning substernal discomfort, aggravated by coughing or deep inspiration, dyspnoea, blood-tinged sputum.",
+        "Intestinal phase: usually no symptoms, but high worm burden may cause abdominal pain, features of small bowel obstruction, features of perforation, intussusception, volvulus, biliary tree occlusion (biliary colic, cholecystitis, cholangitis, pancreatitis, intrahepatic abscess), effects of migration of an adult worm up the oesophagus (coughing, oral expulsion of the worm)."
+      ]
+    },
+    {
+      "type": "Hookworm",
+      "features": [
+        "Most are asymptomatic.",
+        "Maculo-papular dermatitis",
+        "Mild transient pneumonitis",
+        "Epigastric pain, often with post-prandial accentuation",
+        "Diarrhoea",
+        "Weakness",
+        "Shortness of breath",
+        "Skin depigmentation",
+        "Anaemia and protein deficiency"
+      ]
+    },
+    {
+      "type": "Enterobiasis",
+      "features": [
+        "Perianal pruritus, worse at night due to nocturnal migration of the female worms.",
+        "Skin excoriation and bacterial superinfection",
+        "Abdominal pain",
+        "Weight loss",
+        "Vulvo-vaginitis",
+        "Pelvic/perineal granulomas"
+      ]
+    },
+    {
+      "type": "Trichuriasis",
+      "features": [
+        "Light infections are asymptomatic.",
+        "Heavy infections may cause abdominal pain and anorexia, bloody or mucoid diarrhoea, rectal prolapse, growth retardation."
+      ]
+    },
+    {
+      "type": "Strongyloidiasis",
+      "features": [
+        "Acute strongyloides: localized pruritus and erythematous rash at site of skin penetration, tracheal irritation, dry cough, mid-epigastric abdominal pain, nausea, diarrhoea, gastrointestinal bleeding, recurrent serpiginous maculopapular or urticarial rash (larva currens).",
+        "Chronic strongyloides: generally asymptomatic, recurrent urticaria (buttocks and wrists), mild chronic colitis, weight loss, small bowel obstruction, nephrotic syndrome, cardiac arrhythmia, recurrent asthma, arthritis, malabsorption.",
+        "Hyperinfection syndrome and disseminated strongyloidiasis: associated with subclinical infection and corticosteroid use, widespread larvae migration, high mortality."
+      ]
+    },
+    {
+      "type": "Trichinellosis",
+      "features": [
+        "First week (gut invasion): diarrhoea, abdominal pain, constipation, nausea, vomiting.",
+        "Second week (muscle invasion): fever, periorbital and facial oedema, haemorrhages (subconjunctival, retinal, nail bed), maculopapular rash, headache, cough, dyspnoea, dysphagia, tachyarrhythmias, heart failure, encephalitis, pneumonitis."
+      ]
+    },
+    {
+      "type": "Schistosomiasis",
+      "features": [
+        "See Urology"
+      ]
+    }
+  ],
+  "investigations": [
+    "Stool examination for ova and parasites",
+    "Urine examination: microscopy",
+    "Haematology: eosinophilia and anaemia may be present",
+    "Serology and CT scan may be required in some instances."
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [],
+    "drug": [
+      "Hookworm: Mebendazole - Adult and child: 100 mg orally every 12 hours for 3 days; iron supplementation may be given if anaemia is present.",
+      "Hookworm: Albendazole - Adult and child: 400 mg orally once",
+      "Ascaris: Mebendazole - Adult and child: 100 mg orally every 12 hours for 3 days",
+      "Ascaris: Albendazole - Adult and child: 400 mg orally once",
+      "Ascaris: Ivermectin - 150-200 μg/kg orally once",
+      "Trichuris: Mebendazole - Adult and child: 100 mg orally every 12 hours for 3 days",
+      "Trichuris: Albendazole - Adult and child: 400 mg orally for 3 days",
+      "Trichuris: Ivermectin - 200 μg/kg/day orally for 3 days",
+      "Enterobius: Pyrantel pamoate - Adult and child: 10 mg/kg orally once; repeat dose 2 weeks later; several treatments may be necessary",
+      "Trematodes: Praziquantel - Adult 40 mg/kg given orally at once provides up to 80% cure rates; Child over 4 years: 20 mg/kg followed after 4 - 6 hours by a further dose of 20 mg/kg.",
+      "Cestodes: Praziquantel - Adult: 40 mg/kg given orally at once or 20 mg/kg followed by another 20 mg/kg after 4 - 6 hours; Child over 4 years: 20 mg/kg followed 4 - 6 hours by a further dose of 20 mg/kg."
+    ],
+    "adverse_reactions_and_cautions": [
+      "Avoid mebendazole in pregnant women.",
+      "Adverse effects of praziquantel include abdominal pain, headache, dizziness, and skin rashes."
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [
+    "Good personal and food hygiene",
+    "Access to safe and potable water",
+    "Regular deworming",
+    "Adequate cooking of food and meats"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

@@ -1,0 +1,76 @@
+{
+  "condition_name": "Decubitus (Pressure) Ulcers",
+  "condition_slug": "decubitus-pressure-ulcers",
+  "source": "NSTG 2022",
+  "introduction": "Localized physical manifestation of changes in blood supply to the skin, usually manifesting over bony prominences. It results from pressure or pressure in combination with friction/shear and may occur in institutional or home settings. It is a useful indicator of quality of care.",
+  "clinical_features": [
+    {
+      "type": "Staging of Decubitus (Pressure) Ulcers",
+      "features": [
+        "Stage I: Intact skin; non-blanchable erythema",
+        "Stage II: Ulcer extends through epidermis; no slough",
+        "Stage III: Full thickness loss of tissue; subcutaneous fat may be visible",
+        "Stage IV: Full thickness tissue loss; slough present, may extend to muscle, fascia, joint capsule",
+        "Unstageable/Unclassified: Full thickness tissue loss, depth obscured by slough and/or eschar in the wound bed",
+        "Suspected deep tissue injury: Localized area of discolored skin, initial boggy swelling"
+      ]
+    },
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Skin lesions at different stages",
+        "Erythema around edges of wound; enlarging wound",
+        "Foul odour; friable granulation tissue; increased necrotic tissue",
+        "Increasing pain; marked oedema",
+        "Purulent exudate; tunneling; warmth; wound breakdown"
+      ]
+    }
+  ],
+  "investigations": [
+    "Levine's technique for obtaining wound swabs",
+    "Tissue biopsy"
+  ],
+  "treatment": {
+    "goals": [
+      "Achieve wound healing",
+      "Prevent secondary wound infection"
+    ],
+    "non_drug": [
+      "Remove debris from wound",
+      "Clean wound using 0.9% saline or lactated Ringer's solution",
+      "Remove necrotic tissue",
+      "Close dead spaces in wound",
+      "Adjunct treatment to facilitate wound healing: Electrical therapy, Electromagnetic therapy, Laser therapy, Ultrasound therapy, Vacuum-assisted closure",
+      "Prevent further injury: Avoid pressure on wound, Chair cushions for sitting, Keep heels and other pressure points off pressure, Pressure-reducing mattresses, Reposition every 2 hours",
+      "Support wound healing process: Adequate protein intake, Adequate calorie intake, Avoid exposure to cold, Correct deficiencies e.g. of vitamin C and zinc"
+    ],
+    "drug": [
+      "Analgesia: give appropriate pain medicines 30 minutes before wound procedures",
+      "Antibiotics: Topical and systemic antibiotics detailed for different conditions and bacteria"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Vancomycin may be oto- and nephro-toxic; may also cause blood dyscrasias and other complications. Its use should be restricted to cases of MRSA."
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Arterial ulcers",
+    "Diabetic ulcers",
+    "Venous ulcers"
+  ],
+  "complications": [
+    "Secondary wound infection",
+    "Systemic Inflammatory Response Syndrome",
+    "Osteomyelitis"
+  ],
+  "prevention": [
+    "Address modifiable risk factors e.g. dry skin, immobility, nutritional factors, etc.",
+    "Incidence can be reduced up to 30% with aggressive prevention/intervention strategies",
+    "A multi-disciplinary wound team is an asset",
+    "Pressure relief: Improve mobility, Frequent turning, Pressure-relieving devices",
+    "Nutritional Interventions: Increase daily caloric intake for malnourished patients, Achieve daily protein intake, No routine supplementation with vitamin C or zinc unless deficiency is demonstrated, High serum zinc levels may interfere with healing"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

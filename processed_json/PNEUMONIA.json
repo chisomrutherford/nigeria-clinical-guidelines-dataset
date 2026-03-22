@@ -1,0 +1,136 @@
+{
+  "condition_name": "Pneumonia",
+  "condition_slug": "pneumonia",
+  "source": "NSTG 2022",
+  "introduction": "An inflammation of the lung parenchyma Various bacterial species, fungi and viruses may cause pneumonia The setting in which infection is acquired could be a predictor of the infecting pathogen Bacterial Pneumonia: is defined as bacterial infection of the lung parenchyma associated with recently developed radiological shadowing which may be segmental, lobar or multi lobar. Types • Community Acquired Pneumonia (CAP) • Hospital Acquired pneumonia (HAP) • Ventilator Associated pneumonia (VAP) • Health care associated Pneumonia (HCAP) • Pneumonia in the immunocompromised • Aspiration pneumonia Common bacteria causing CAP: • Streptococcus pneumonia(Most common cause) • Mycoplasma pneumonia • Legionella pneumophilia • Chlamydia pneumonia • Haemophilus influenza • Staphylococcus aureus • Chlamydia psittaci • Coxiella burnetti • Klebsiella pneumonia • Actinomyces israelli • Haemophilus influenzae • Pseudomonas aeruginosa (usually implicated in nosocomial pneumonia)",
+  "clinical_features": [
+    {
+      "type": "Typical pneumonia",
+      "features": [
+        "Sudden onset fever, chills and rigors",
+        "Cough with purulent sputum production",
+        "Pleuritic chest pain",
+        "Breathlessness with short inspiratory efforts"
+      ]
+    },
+    {
+      "type": "Signs",
+      "features": [
+        "Fever",
+        "Herpes labialis",
+        "Tachypnoea"
+      ]
+    },
+    {
+      "type": "Signs of lung consolidation",
+      "features": [
+        "Pleural friction rubs",
+        "Chest signs are very helpful depending on the phase of the inflammatory response",
+        "Dull percussion",
+        "Increased tactile and vocal fremitus",
+        "Bronchial breath sounds",
+        "Whispering pectoriloquy",
+        "Crepitations"
+      ]
+    },
+    {
+      "type": "Signs of severity",
+      "features": [
+        "Confusion",
+        "Urea > 7mmol/L",
+        "Respiratory rate > 30/min",
+        "Systolic BP < 90",
+        "Age ≤ 65years",
+        "In Children: inability to feed or drink, cyanosis, alteration in level of consciousness",
+        "Score 1 point for any of the above features present",
+        "0 or 1- home treatment",
+        "2 - Hospital-supervised treatment",
+        "3 or more- manage in Hospital as severe pneumonia",
+        "4 or 5 – ICU Admission"
+      ]
+    },
+    {
+      "type": "Atypical pneumonia",
+      "features": [
+        "Gradual onset",
+        "Dry cough",
+        "Prominent extra-pulmonary symptoms",
+        "Headache",
+        "Sore throat",
+        "Fatigue",
+        "Myalgia",
+        "Chest crackles or rales"
+      ]
+    }
+  ],
+  "investigations": [
+    "FBC +ESR+ CRP",
+    "Serum Electrolyte, Urea and Creatinine",
+    "LFT",
+    "Blood Culture",
+    "Serology",
+    "Cold agglutinins",
+    "Arterial blood gases/ SPO2",
+    "Sputum gram stain, M/C/S",
+    "Urine pneumococcal and legionella antigen",
+    "Chest X-ray",
+    "Pleural fluid M/C/S"
+  ],
+  "treatment": {
+    "goals": [
+      "Eliminate the infection",
+      "Return to normal lung function"
+    ],
+    "non_drug": [
+      "Oxygen to maintain PaO at or above 8kPa",
+      "IV fluids especially in severe cases",
+      "Antipyretics"
+    ],
+    "drug": [
+      "Co-amoxiclav",
+      "Benzyl penicillin",
+      "Macrolide (azithromycin 500 mg stat, then 250 mg daily, or clarithromycin 500 mg twice daily for up to 14 days)",
+      "Cefuroxime axetil",
+      "Fourth generation Cephalosporins: Cefpodoxime",
+      "Respiratory quinolone (levofloxacin)",
+      "Advanced macrolide+ amoxycillin",
+      "Advanced macrolide+amoxycillin+clavulanic acid",
+      "IV β lactam + advanced macrolide",
+      "IV respiratory quinolones+advanced macrolide",
+      "Penicillin G+advanced macrolide",
+      "Consider Pneumocystis jiroveci in HIV patients: Co-trimoxazole"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Co-amoxiclav: Nausea, diarrhoea, skin rashes, contraindicated in penicillin hypersensitive individuals",
+      "Cefuroxime: Nausea, vomiting, abdominal discomfort, headaches, rarely antibiotic associated colitis",
+      "Macrolides: Similar to those mentioned above but usually milder. Hepatotoxicity and antibiotic associated colitis are quite rare."
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Acute bronchitis",
+    "COPD Exacerbation",
+    "Pulmonary embolism/infarction",
+    "TB",
+    "Pulmonary eosinophilia"
+  ],
+  "complications": [
+    "Empyema thoracis",
+    "Pleural effusion",
+    "Lung abscess",
+    "Lobar collapse",
+    "Deep vein thrombosis and pulmonary embolism",
+    "Pneumothorax",
+    "ARDS",
+    "Multi organ failure",
+    "Hepatitis, pericarditis, myocarditis, meningoencephalitis",
+    "Pyrexia from drug hypersensitivity"
+  ],
+  "prevention": [
+    "Pneumococcal vaccine",
+    "Haemophilus influenzae vaccine"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

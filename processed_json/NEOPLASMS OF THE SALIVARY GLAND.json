@@ -1,0 +1,47 @@
+{
+  "condition_name": "Neoplasms of the Salivary Gland",
+  "condition_slug": "neoplasms-of-the-salivary-gland",
+  "source": "NSTG 2022",
+  "introduction": "The next most common neoplasms of the mouth after squamous cell carcinomas [PSI]. Above 70% develop in the parotid gland and over three-quarters are benign. Women are slightly more frequently affected.",
+  "clinical_features": [
+    {
+      "type": "Benign",
+      "features": [
+        "Generally asymptomatic enlargements"
+      ]
+    },
+    {
+      "type": "Malignant",
+      "features": [
+        "Painful",
+        "Irregular",
+        "Ulcerative",
+        "Metastatic"
+      ]
+    }
+  ],
+  "investigations": [
+    "Sialography",
+    "Postero-anterior view of the skull",
+    "Oblique lateral view of the jaws"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [],
+    "drug": [
+      "Secondary bacterial infections: treat with antibiotics e.g. ciprofloxacin 500 mg orally every 12 hours for 5-7 days",
+      "Adjust doses as appropriate for children"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "Benign and malignant lesions: surgical excision",
+    "Malignant lesions: radiotherapy and chemotherapy in addition to excision"
+  ],
+  "prognosis": null
+}

@@ -1,0 +1,45 @@
+HYPOGLYCEMIA IN A CHILD 
+Introduction
+Whole blood glucose level of < 2.6 mmol/L(<45 mg/dL), irrespective of age and gestational age.(conversion factor: 1mmol/L = 18mg/dL). Most infants
+with mild to moderate hypoglycaemia are asymptomatic.. Normal glucose utilization rate is 4-6mg/kg/minute but high-risk infants require 6-10mg/kg/minute. In the extreme cases of hyperinsulinism, the infants utilize glucose at a rate greater than 10mg/kg/minute.  
+The following predispose to it: prematurity, intra-uterine growth restriction, hypothermia, perinatal asphyxia, polycythaemia, septicaemia, maternal diabetes, in-born errors of metabolism – galactosaemia, glycogen storage diseases – liver diseases, haemolytic disease of the newborn, Beckwith-Wiedemann syndrome, nesidioblastosis and other pancreatic tumours.  
+
+CLINICAL FEATURES OF HYPOGLYCEMIA IN A CHILD  
+▪ Mild cases of hypoglycaemia may be asymptomatic.  
+▪ Symptoms include diaphoresis, irritability, hypotonia, lethargy, apnea and seizures.  
+
+INVESTIGATIONS OF HYPOGLYCEMIA IN A CHILD 
+Investigation  
+▪ Screening for hypoglycaemia is mandatory for all high-risk infants (EGA <37weeks, Weight <2.5kg, SGA, infants of diabetic mothers, infants of mothers on β-blockers, infants with cold-stress).  
+▪ The diagnosis of hypoglycaemia should be confirmed using test strips which are not affected by haematocrit, oxygen saturation or bilirubin level. These modern strips usually provide blood glucose values very close to values obtained by spectrophotometery.  
+
+MANAGEMENT OF HYPOGLYCEMIA IN A CHILD 
+Management  
+▪ Early feeding in the first hour and glucose monitoring in the presence of risk factors is essential, for babies that cannot be fed, intravenous 10% dextrose-in-water should be administered at the maintenance dose (60-80 mL/kg/day for term babies, 70-100 mL/kg/day)on the first day. RBG should be checked at 1hour after commencement of infusion, 3-6 hourly for the first 24 hours and thereafter, 12 hourly.  
+▪ If RBG is < 2.6 mmol/L bolus of 4 mL/kg of 10% dextrose should be administered and maintenance infusion should be done at the rate of 8 mg/kg/minute.  
+▪ Measure blood glucose 30 minutes after the bolus of glucose:  
+▪ If between 45 mg/dL - 150 mg/dL, then measure blood glucose every three or four hours until it is 45 mg/dL or more on two consecutive measurements  
+▪ If it is < 45 mg/dL, repeat correction for hypoglycaemia, ensure IV fluid is going at prescribed rate, there may be need to increase GIR.  
+Ensure feeding is on-going if baby is fit to do so.\  
+Measure blood glucose after 30 minutes:  
+If still less than 45 mg/dL, repeat correction for hypoglycaemia, increase GIR, may go as high as 12 mg/kg/min and repeat blood glucose after 30 minutes,  
+– If still <45 mg/dL (refractory hypoglycaemia), suspect a serious underlying cause, investigate and treat. Consult a paediatric endocrinologist.  
+– If baby requires >12 mg/kg/min of glucose or more than 12.5%  
+dextrose concentration to maintain normoglycaemia, a central venous
+line such as umbilical vein, central line of PICC should be inserted to
+administer the higher concentration of glucose.
+
+If hypoglycaemia persists despite 12 mg/kg/minute, serum insulin
+should be measured and intravenous hydrocortisone 2.5-5 mg/kg
+should be given 12 hourly.
+
+If this step is ineffective, oral diazoxide 1.7-5 mg/kg 8 hourly with oral
+chlorthiazide 10 mg/kg 12 hourly should be administered with close
+monitoring for hypotension and dehydration.
+
+In the extreme cases requiring more than 20 mg/kg/minute of glucose,
+subcutaneous somatostatin octreotide 1 microgram/kg 4 hourly or
+intramuscular glucagon 20 microgram/kg 6 hourly may be effective.
+
+If hypoglycaemia persists with hyperinsulinism, partial
+pancreatectomy is indicated

@@ -1,0 +1,60 @@
+{
+  "condition_name": "Peritonsillar Abscess (Quinsy)",
+  "condition_slug": "peritonsillar-abscess-quinsy",
+  "source": "NSTG 2022",
+  "introduction": "It is a common local complication of acute tonsillitis whereby a virulent streptococcal infection spread beyond the tonsillar capsule into the peritonsillar space, causing, first cellulitis, and later suppuration in the space. More common in adults with tonsillitis.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features of Peritonsillar Abscess (Quinsy)",
+      "features": [
+        "Follows an attack of acute tonsillitis",
+        "Increasing pain, fever and dysphagia",
+        "Trismus- spread of oedema and infection to pterygoid muscles",
+        "Often referred pain to ipsilateral ear",
+        "Difficulty in opening mouth for examination; mouth full of saliva",
+        "Affected tonsil displaced downwards and medially, with swelling above and lateral to it, all inflamed and oedematous"
+      ]
+    }
+  ],
+  "investigations": [
+    "Throat swab",
+    "Full Blood Count with differentials"
+  ],
+  "treatment": {
+    "goals": [
+      "Rapid control of infection",
+      "Relief of pain and discomfort"
+    ],
+    "non_drug": [
+      "Incision and drainage, preferably under local anaesthetic when suppuration is definite"
+    ],
+    "drug": [
+      "Antibiotics - Amoxicillin (Adult: 500 mg -1 g intravenously every 6 hours for 7 days, Child: 50 - 100 mg/kg orally every 8 hours)",
+      "Analgesics - Paracetamol (Adult: 500 mg - 1 g orally every 4 - 6 hours (maximum of 4 g daily) for 5-7 days, Child over 50 kg: same as adult dosing, 6-12 years: 250 - 500 mg, 3 months - 5 years: 125 – 250 mg taken orally 4 - 6 hourly for 5 - 7 days)",
+      "Aspirin (Acetylsalicylic acid) - Adult: 300 - 900 mg orally every 4 - 6 hours when necessary; maximum 4 g daily",
+      "Not recommended in children (risk of Reye's syndrome)"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Aspirin may cause gastrointestinal irritation"
+    ],
+    "supportive_measures": [
+      "Intravenous infusion",
+      "Bed rest"
+    ]
+  },
+  "differential_diagnoses": [
+    "Parapharyngeal abscess",
+    "Retropharyngeal abscess",
+    "Tonsillar tumours"
+  ],
+  "complications": [
+    "Septicaemia",
+    "Parapharyngeal suppuration/abscess"
+  ],
+  "prevention": [
+    "Elective tonsillectomy is advised after an episode of quinsy to prevent further (more severe) attacks"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

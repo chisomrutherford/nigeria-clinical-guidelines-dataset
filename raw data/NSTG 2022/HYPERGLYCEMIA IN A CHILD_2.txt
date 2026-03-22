@@ -1,0 +1,40 @@
+HYPERGLYCEMIA IN A CHILD 
+Introduction
+Random blood glucose of >8.0 mmol/L. Preterm infants particularly when
+treated with 10% dextrose infusion or total parenteral nutrition are prone to it.
+Hypothermia, sepsis, post-operative cases, neonatal diabetes (transient or
+persistent) are also associated.
+
+CLINICAL FEATURES OF HYPERGLYCEMIA IN A CHILD 
+Clinical Features
+▪ Persistent dehydration with glycosuria
+▪ Transient diabetes is suspected among infants with wasting or intra-uterine
+growth restriction who develop hyperglycaemia whilst on enteral feeds.
+
+TREATMENT OF HYPERGLYCEMIA IN A CHILD 
+▪ The concentration of dextrose in infusion should be reduced.
+▪ Insulin 0.05 - 0.1 IU/kg/hour should be commenced if RBG remains above
+10 mmol/L with glycosuria despite reduction of glucose concentration in
+infusion.
+▪ Treat the identified cause if possible.
+
+Table 19.1: Flow table for management of hyperglycaemia
+
+• Blood glucose > 180 mg/dL (>10 mmol/L) with glucometer then recheck
+
+• Confirm with a whole blood measurement in the laboratory
+
+• Assess infant for possible underlying cause and treat
+  • Sepsis
+  • Excess glucose intake
+  • Other illnesses
+  • Exogenous corticosteroids orinotropes
+
+Calculate the GIR glucose rate; if > 12 mg/kg/min: Reduce GIR and rate of flow
+
+• Target blood glucose 100 - 180 mg/dL (5.5 - 9.9 mmol/L)
+• Starting dose of insulin infusion 0.05-0.1 U/kg/hr
+• Avoid hypoglycaemia
+• Initially glucose should be monitored every 30 min for first hour
+• Hourly thereafter, once glucose stabilized measure 4hourly
+• Do not flush insulin infusion

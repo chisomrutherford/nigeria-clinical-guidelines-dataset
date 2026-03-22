@@ -1,0 +1,44 @@
+{
+  "condition_name": "Obesity",
+  "condition_slug": "obesity",
+  "source": "NSTG 2022",
+  "introduction": "A major component of the metabolic syndrome. Being overweight or obese significantly increases the risk of morbidity and mortality from Type 2 diabetes and its co-morbidities.",
+  "clinical_features": [],
+  "investigations": [
+    "Rule out underlying causes: although these may not be common, specific therapy may be available. Clinical presentation may therefore require specific Investigations to exclude conditions such as hypothyroidism, hypercortisolism, male hypogonadism, insulinoma and CNS diseases that affect hypothalamic function"
+  ],
+  "treatment": {
+    "goals": [
+      "To educate patient and care givers",
+      "Achieve an ideal body weight",
+      "Prevent Complications"
+    ],
+    "non_drug": [
+      "Assess dietary intake, level of physical activity, BMI (total body fat) and waist circumference (abdominal fat) on presentation and at regular monitoring",
+      "Assess efficacy of weight loss measures",
+      "Integrate weight control measures into the overall management of diabetes mellitus and co-morbidities if BMI is >25, and Waist circumference is more than 102 cm and 88 cm in men and women respectively",
+      "Educate patients and other family members",
+      "Set realistic Goals",
+      "Use a multi-disciplinary approach to weight control",
+      "Dietary changes and increased level of physical activity are the most economical means to lose weight",
+      "Maintain records of Goals, instructions and weight progress charts",
+      "Surgical intervention may be required in extreme cases"
+    ],
+    "drug": [],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Cardiovascular: Coronary artery disease",
+    "Stroke",
+    "Congestive heart failure",
+    "Pulmonary: Obstructive sleep apnoea, 'Obesity hypoventilation syndrome'",
+    "Endocrine: Insulin resistance and type 2 diabetes mellitus",
+    "Hepatobiliary: Gall stones"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

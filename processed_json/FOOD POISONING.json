@@ -1,0 +1,182 @@
+{
+  "condition_name": "Food Poisoning",
+  "condition_slug": "food-poisoning",
+  "source": "NSTG 2022",
+  "introduction": "A spectrum of disorders arising from: Ingestion of food and water contaminated by micro-organisms, and/or their toxins, or by chemicals from non-infectious sources.",
+  "clinical_features": [
+    {
+      "type": "General",
+      "features": [
+        "Abdominal pains",
+        "Nausea and Vomiting",
+        "Diarrhoea",
+        "Fever",
+        "Dehydration",
+        "Fatigue",
+        "Other systemic symptoms"
+      ]
+    },
+    {
+      "type": "Staphylococcal food poisoning",
+      "features": [
+        "Symptoms begin 30 minutes – 6 hours after exposure to microbial toxins.",
+        "Nausea",
+        "Abdominal cramps",
+        "Vomiting",
+        "Diarrhoea"
+      ]
+    },
+    {
+      "type": "Clostridium perfringens",
+      "features": [
+        "Symptoms begin 6 – 24 hours after exposure.",
+        "Diarrhoea",
+        "Abdominal cramps."
+      ]
+    },
+    {
+      "type": "Food-borne Clostridium botulism",
+      "features": [
+        "Incubation period is 18 - 36 hours, but depending on toxin dose, can extend from a few hours to several days.",
+        "Symmetric descending paralysis",
+        "Diplopia",
+        "Dysarthria/dysphagia",
+        "Nausea, vomiting and abdominal pain may precede or follow the onset of paralysis."
+      ]
+    },
+    {
+      "type": "Non-typhoidal Salmonellosis",
+      "features": [
+        "Symptoms begin 6 hours to 6 days after exposure.",
+        "Diarrhoea",
+        "Nausea",
+        "Vomiting",
+        "Abdominal cramps",
+        "Fever",
+        "Headache",
+        "Myalgia"
+      ]
+    },
+    {
+      "type": "Shigellosis",
+      "features": [
+        "Symptoms begin 24hours to 48 hours after exposure",
+        "Fever",
+        "Self-limiting watery diarrhoea",
+        "Bloody diarrhoea",
+        "Dysentery",
+        "Frequent passage, 10 - 30 times/day of small volume stools containing blood, mucus, and pus",
+        "Abdominal cramps",
+        "Tenesmus"
+      ]
+    },
+    {
+      "type": "Campylobacter food poisoning",
+      "features": [
+        "Symptoms begin 2 to 5 days after exposure.",
+        "Diarrhoea (frequently bloody)",
+        "Abdominal pain",
+        "Fever, headache, nausea, and/or vomiting.",
+        "The symptoms typically last 3 to 6 days."
+      ]
+    },
+    {
+      "type": "E. coli food poisoning",
+      "features": [
+        "Symptoms begin 3 to 5 days after exposure.",
+        "Watery diarrhoea (often bloody) accompanied by abdominal cramps.",
+        "Vomiting.",
+        "Around 5–10% of people diagnosed with E. coli food poisoning develop a life-threatening complication."
+      ]
+    },
+    {
+      "type": "L. monocytogenes food poisoning",
+      "features": [
+        "Symptoms begin 1 – 4 weeks after exposure.",
+        "Non-invasive listeriosis – fever and diarrhoea",
+        "Invasive listeriosis-pregnancy losses and meningoencephalitis in immunosuppressed person"
+      ]
+    },
+    {
+      "type": "Norwalk virus food poisoning",
+      "features": [
+        "Symptoms begin 12 – 48 hours after exposure:",
+        "Abrupt onset of nausea and abdominal cramps followed by vomiting and/or diarrhoea"
+      ]
+    },
+    {
+      "type": "Hepatitis A virus food poisoning",
+      "features": [
+        "May cause large outbreaks of diarrhoea and vomiting from contaminated food, water, milk and shellfish. Intra-family and intra-institutional spread common"
+      ]
+    }
+  ],
+  "investigations": [
+    "Essentially clinical",
+    "Laboratory confirmation of the specific microbe(s) involved."
+  ],
+  "treatment": {
+    "goals": [
+      "Restore fluid and electrolyte balance",
+      "Neutralize toxin",
+      "Eradicate the microbe"
+    ],
+    "non_drug": [
+      "Gastric lavage in food-borne botulism"
+    ],
+    "drug": [
+      "Appropriate fluid and electrolyte replacement",
+      "Botulism Antitoxin Heptavalent (A, B, C, D, E, F, G) - (Equine) should be administered as soon as possible after specimens are obtained for laboratory analysis for food-borne botulism.",
+      "Emetics in food-borne botulism",
+      "Oral Rehydration Therapy for Shigellosis",
+      "Amoxicillin: Adult: 50 - 100 mg/kg/day orally every 8 hours; up to 2 g/day",
+      "Amoxicillin: Child up to 10 years: 125 mg every 8 hours, doubled in severe infections.",
+      "Trimethoprim/sulfamethoxazole (co-trimoxazole): Adult: 960 mg orally every 12 hours for 5 days",
+      "Trimethoprim/sulfamethoxazole (co-trimoxazole): Few weeks to 5 months: 120 mg orally",
+      "Trimethoprim/sulfamethoxazole (co-trimoxazole): 6 months - 5 years: 240 mg",
+      "Trimethoprim/sulfamethoxazole (co-trimoxazole): 6 - 12 years: 480 mg given every 12 hours for 5 days",
+      "Ceftriaxone: Adult: 1 g intravenously slowly for 5 days",
+      "Ceftriaxone: Child: 50 mg/kg/day intravenously for 5 days",
+      "Erythromycin for Campylobacter food poisoning: Adult: 250 mg orally every 6 hours for 5 - 7 days",
+      "Erythromycin for Campylobacter food poisoning: Child: 30-50 mg/kg orally every 6 hours for 5 - 7 days",
+      "Amoxicillin-clavulanate for macrolide-resistant infections of Campylobacter",
+      "Ampicillin 50 mg/kg/day for L. monocytogenes food poisoning",
+      "Gentamicin 3 - 5 mg/kg for L. monocytogenes food poisoning"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Antibiotics are not recommended for patients with suspected shiga- toxin producing E. coli (STEC) infections, as administering might increase their risk of developing haemolytic uraemic syndrome."
+    ],
+    "supportive_measures": [
+      "Fluid and electrolyte replacement for Campylobacter food poisoning"
+    ]
+  },
+  "differential_diagnoses": [
+    "Other causes of acute onset diarrhoea, nausea,",
+    "abdominal cramps and vomiting with or without systemic manifestations."
+  ],
+  "complications": [
+    "Fluid and electrolyte derangements, Dehydration",
+    "Rectal prolapse.",
+    "Protein-losing enteropathy, Malnutrition",
+    "Haemolytic-uraemic syndrome",
+    "Toxic megacolon, perforation",
+    "Bacteraemia, Cholecystitis, Pancreatitis, Cystitis, Meningitis, Endocarditis, Arthritis, Peritonitis, Cellulitis or Septic abortion"
+  ],
+  "prevention": [
+    "Environmental and personal hygiene",
+    "Hand washing with soap and water.",
+    "Decontamination of water supplies by chlorination.",
+    "Use of sanitary latrines or toilets",
+    "Identify and treat chronic carriers among food handlers.",
+    "Hygienic preparation and storage of food and water",
+    "Ensure that food is cooked at temperatures sufficient to kill bacteria.",
+    "Refrigerate food whenever possible.",
+    "Encourage exclusive breastfeeding.",
+    "Encourage measures to reduce the burden of malnutrition (with its attendant predisposition to severe infections)",
+    "Administer a pentavalent vaccine (A, B, C, D, and E) for persons at high risk of botulism.",
+    "Report new cases to public health authorities"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

@@ -1,0 +1,170 @@
+{
+  "condition_name": "Migraines",
+  "condition_slug": "migraines",
+  "source": "NSTG 2022",
+  "introduction": "Headache results from changes in the calibre of certain blood vessels in the brain with accompanying physical, autonomic and emotional disturbance. It can be very incapacitating and affects productivity. Each headache attack lasts for a few hours to a maximum of 3 days but can be aborted with appropriate intervention. More females affected than males, usually between the ages of 15 and 50 years.",
+  "clinical_features": [
+    {
+      "type": "Migraine without aura",
+      "features": [
+        "Throbbing pain usually affecting one side of the head around the temples",
+        "Associated nausea and vomiting",
+        "Dislike of light and noise",
+        "No warning symptoms"
+      ]
+    },
+    {
+      "type": "Migraine with aura",
+      "features": [
+        "Throbbing headache preceded by seeing flashes of light",
+        "Disturbances in the field of vision (scotomas)",
+        "Visual hallucinations"
+      ]
+    },
+    {
+      "type": "Childhood periodic syndromes associated with headache",
+      "features": [
+        "Abdominal pain and vomiting",
+        "Alternating hemiplegia",
+        "Benign positional vertigo"
+      ]
+    },
+    {
+      "type": "Basilary artery migraine",
+      "features": [
+        "Predominantly brain stem symptoms",
+        "Dysarthria",
+        "Vertigo",
+        "Tinnitus",
+        "Decreased hearing",
+        "Diplopia",
+        "Ataxia"
+      ]
+    },
+    {
+      "type": "Migraine headache with tension-type headache",
+      "features": [
+        "Coexistence with tension-type headache",
+        "No pain (migraine equivalent)"
+      ]
+    },
+    {
+      "type": "Complications associated with migraine",
+      "features": [
+        "Stroke",
+        "Ophthalmoplegia",
+        "Status attacks (persistent headaches)"
+      ]
+    },
+    {
+      "type": "Tension-type Headache",
+      "features": [
+        "Heaviness in the head",
+        "Crawling sensation",
+        "Peppery sensation",
+        "Tight-band sensation around the head",
+        "Poor sleep",
+        "Disturbed concentration"
+      ]
+    },
+    {
+      "type": "Cluster Headache",
+      "features": [
+        "Recurrent, frequent, brief attacks of disturbing pain in the head (mainly around the eyes and forehead)",
+        "Redness of the eyes",
+        "Nasal stuffiness",
+        "Occasional drooping of the eyelids"
+      ]
+    },
+    {
+      "type": "Persistent Daily Headache",
+      "features": [
+        "Daily attacks of pain on the head that mimic tension-type pain",
+        "Pulsating quality",
+        "Associated with chronic use of analgesic drugs (Medication Overuse Headache)",
+        "May point to underlying stress or emotional disturbance"
+      ]
+    },
+    {
+      "type": "Secondary headaches",
+      "features": [
+        "Defined underlying cause",
+        "Red flags include fever",
+        "Early morning vomiting",
+        "Neck stiffness",
+        "Alteration in level of consciousness",
+        "Seizures",
+        "Cranial nerve deficits",
+        "Limb weakness (hemiparesis, quadriparesis)",
+        "Papilloedema as evidence of raised intracranial pressure",
+        "Evidence of disease in other organs",
+        "Historical evidence of substance or alcohol abuse"
+      ]
+    }
+  ],
+  "investigations": [
+    "Neuroimaging such as computerized tomographic (CT) scan, MRI for the exclusion of mass lesions and electroencephalography, skull X-ray",
+    "Cerebrospinal fluid examination for pressure, cells and chemistry, erythrocyte sedimentation rate",
+    "Angiography"
+  ],
+  "treatment": {
+    "goals": [
+      "Eliminate pain",
+      "Treat the precipitating factor",
+      "Prevent recurrence"
+    ],
+    "non_drug": [
+      "Manage in a quiet (and dark) room",
+      "Psychotherapy",
+      "Physiotherapy/biofeedback"
+    ],
+    "drug": [
+      "Aspirin (acetylsalicylic acid): Adults 300 - 900 mg every 4 - 6 hours when necessary; maximum 4 g daily (not recommended for children due to risk of Reye's syndrome)",
+      "Metoclopramide or other non-steroidal anti-inflammatory agents",
+      "Oral sumatriptan: Initial dose: 25 mg, 50 mg, or 100 mg orally, once. Dose may be repeated after at least two hours if migraine recurs (max. 300 mg in 24 hours)",
+      "Ergotamine preparations: Adult: 1-2 mg orally at first sign of attack; maximum 4 mg in 24 hours. Not to be used more than twice in any one month",
+      "Narcotic analgesics – pethidine, codeine",
+      "Propranolol 40 mg orally every 8 - 12 hours",
+      "Tricyclic antidepressants, notably amitriptyline 10 mg orally at night, increased to a maintenance dose of 50-75 mg at night",
+      "Sodium valproate - initially 300 mg orally every 12 hours, increased if necessary, to 1.2 g daily in two divided doses",
+      "Cyproheptadine 4 mg orally; a further 4 mg if necessary; maintenance 4 mg every 4 - 6 hours",
+      "Simple analgesics and non-steroidal anti-inflammatory agents",
+      "Anxiolytics e.g., bromazepam 1.5 - 3 mg at night (use lower doses for elderly patients)",
+      "Stop analgesic use in individuals with persistent daily headaches",
+      "Medical or surgical management of identified causes in secondary headaches",
+      "Antibiotics for infections like meningitis, sinusitis; steroids for vasculitis"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Aspirin and other NSAIDs: use with caution in patients with history of dyspepsia, and asthma",
+      "Tricyclic antidepressants: use with caution in the elderly and in individuals with respiratory diseases, cardiac symptoms, muscle weakness, myasthenia gravis and organic brain damage. Risk of dependence in those with history of drug or alcoholic dependence and personality disorder. Drowsiness may affect performance of skilled tasks, effects of alcohol enhanced, anticholinergic effects (e.g., urinary retention in the elderly)",
+      "Ergotamine: use should not exceed 4 - 6 mg per attack. Caution in patients with vascular and renal disorders. Not recommended for children",
+      "Opiates: risk of addiction",
+      "Beta-blockers: can slow down heart rate and reduce sensitivity to hypoglycaemia in diabetics"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Epilepsy",
+    "Hysteria (conversion disorder)",
+    "Glaucoma",
+    "Multiple sclerosis",
+    "Refractive error",
+    "Cervical spondylosis",
+    "Brain tumour",
+    "Haemorrhagic stroke"
+  ],
+  "complications": [
+    "Most headache attacks are benign with no sequelae apart from reduced economic productivity/wastage of medications",
+    "The dreaded complication is coning from raised intracranial pressure",
+    "Blindness may follow temporal arteritis and unrelieved raised pressure in idiopathic intracranial hypertension (pseudotumour cerebri)",
+    "The risk of epilepsy is higher in those who suffer from migraine headache"
+  ],
+  "prevention": [
+    "Reduce stress levels and avoid precipitants which must be identified for effective prevention",
+    "Prophylactic medications if attacks last more than 15 days a month, or are severely incapacitating (in the absence of other causes)",
+    "Early detection and management of refractive errors, sinusitis, otorhinolaryngologic and dental problems."
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

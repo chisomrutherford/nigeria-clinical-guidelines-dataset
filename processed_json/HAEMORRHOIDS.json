@@ -1,0 +1,63 @@
+{
+  "condition_name": "Haemorrhoids",
+  "condition_slug": "haemorrhoids",
+  "source": "NSTG 2022",
+  "introduction": "Enlarged or varicose veins of the tissues at the anus or rectum. Engorgement of the vascular complex or thrombus often leads to the symptoms of disease. May be external or internal.",
+  "clinical_features": [
+    {
+      "type": "Internal haemorrhoids",
+      "features": [
+        "Typically painless",
+        "May present with bright red rectal bleeding",
+        "Often become thrombosed and protrude into the anal canal."
+      ]
+    },
+    {
+      "type": "External haemorrhoids",
+      "features": [
+        "When thrombosed, causes acute perineal pain with or without necrosis and bleeding on defeacation",
+        "Fibrosed external haemorrhoids present as anal tags"
+      ]
+    }
+  ],
+  "investigations": [
+    "Anoscopy.",
+    "Full blood count"
+  ],
+  "treatment": {
+    "goals": [
+      "Relieve pain.",
+      "Ameliorate precipitants",
+      "Extirpate haemorrhoids"
+    ],
+    "non_drug": [
+      "Increase fibre in diet",
+      "Increase fluid intake",
+      "Avoid foods that cause constipation",
+      "Stool softeners",
+      "Regular exercise"
+    ],
+    "drug": [
+      "Suppositories/ointments of preparations containing hydrocortisone acetate with or without lidocaine hydrochloride plus astringent(s)",
+      "Dicynone may be useful."
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Bleeding",
+    "Necrosis",
+    "Perineal sepsis",
+    "Mucus discharge"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "Haemorrhoidectomy.",
+    "Haemorrhoid tappling",
+    "Band ligation",
+    "Injection Sclerotherapy, photocoagulaton, cauterization, cryosurgery are other modalities of treatment."
+  ],
+  "prognosis": null
+}

@@ -1,0 +1,47 @@
+{
+  "condition_name": "Myiasis",
+  "condition_slug": "myiasis",
+  "source": "NSTG 2022",
+  "introduction": "Invasion of mammalian tissue by fly larvae. Furuncular myiasis may be caused by Dermatobia hominis or the Tumbu fly Cordylobia anthropophaga. Larvae of D hominis are often transferred by mosquitoes. The usual host is cattle. People living near cattle-rearing areas are particularly vulnerable. Eggs, living larvae, or both are deposited on the skin or mucous membranes or on clothing. The eggs hatch and produce larvae that then burrow into the skin and cause mild or severe inflammatory changes.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Furuncular myiasis looks like a furuncle (boil)",
+        "Key feature is the presence of a tiny hole in the inflamed erythematous papule",
+        "There may be a sensation of motion within the furuncle",
+        "There may be intermittent stinging sensation",
+        "In accidental myiasis, there is a pre-existing lesion, usually a leg ulcer, wound or ulcerated basal cell carcinoma"
+      ]
+    }
+  ],
+  "investigations": [],
+  "treatment": {
+    "goals": [
+      "Extract the maggot",
+      "Treat or prevent bacterial infection"
+    ],
+    "non_drug": [
+      "Apply petrolatum: the maggot crawls out to avoid asphyxiation",
+      "Extract the maggot by compressing simultaneously from beneath on both sides with a pair of spatulae"
+    ],
+    "drug": [
+      "Prevent bacterial infection with oral antibiotics if lesions are multiple",
+      "Wound myiasis is flushed out surgically with antiseptics: surgical debridement"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Furuncles and carbuncles"
+  ],
+  "complications": [
+    "Secondary bacterial infection"
+  ],
+  "prevention": [
+    "Iron clothes that are dried in the open air"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

@@ -1,0 +1,53 @@
+{
+  "condition_name": "Torsion of the Testis",
+  "condition_slug": "torsion-of-the-testis",
+  "source": "NSTG 2022",
+  "introduction": "Twisting of the spermatic cord with compromise of the blood supply to the testis. An uncommon affliction that is most commonly seen in adolescent males. A few cases occur in infancy",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Testicular pain of sudden onset, severe and radiates to the lower abdomen",
+        "Nausea and vomiting",
+        "Swollen, high lying testis with reddening of the scrotal skin",
+        "Tenderness: Pain can be increased by lifting weights or objects",
+        "Absence of the cremasteric reflex",
+        "Abnormal lie of the testis on the opposite side"
+      ]
+    }
+  ],
+  "investigations": [
+    "Colour Doppler sonography: an absence of arterial flow is typical",
+    "Radionuclide scan using Tc-99m pertechnetate: the twisted testis is avascular"
+  ],
+  "treatment": {
+    "goals": [
+      "Detorsion",
+      "Fixation of the testis to prevent recurrence"
+    ],
+    "non_drug": [],
+    "drug": [],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Acute epididymo-orchitis",
+    "Mumps orchitis",
+    "Trauma to the testis",
+    "Strangulated inguinal hernia",
+    "Idiopathic scrotal oedema",
+    "Testicular tumour"
+  ],
+  "complications": [
+    "Testicular atrophy",
+    "Sympathetic orchidopathy",
+    "Abnormal sperm count",
+    "Infertility"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "Fixation on the affected side and prophylactic fixation on the opposite side"
+  ],
+  "prognosis": null
+}

@@ -1,0 +1,93 @@
+{
+  "condition_name": "Acute Coronary Syndrome",
+  "condition_slug": "acute-coronary-syndrome",
+  "source": "NSTG 2022",
+  "introduction": "Spectrum of CAD comprising myocardial infarction with ST segment elevation (STEMI), or without ST segment elevation (NSTEMI) and unstable angina (UA) depending on clinical, ECG and enzyme changes. Guidelines for management of ACS are issued by ACC/AHA and ESC.",
+  "clinical_features": [
+    {
+      "type": "General",
+      "features": [
+        "Focused history",
+        "Chest pain similar in character to angina pectoris but greater in severity, longer in duration (> 30 mins), not relieved by nitrates, not specifically provoked by exercise or relieved by rest",
+        "Autonomic disturbance: diaphoresis, vomiting, giddiness & anxiety",
+        "History of risk factors, previous MI/intervention, stroke/asthma/bleeding tendencies",
+        "Pulse: Tachycardia/bradycardia/arrhythmia",
+        "BP: Normal/transient elevation/hypotension",
+        "Pulmonary oedema"
+      ]
+    }
+  ],
+  "investigations": [
+    "12 lead ECG within 10 mins of presentation with chest pain",
+    "Serial ECG if there is diagnostic uncertainty or change in clinical status",
+    "In inferior wall MI: do a right sided ECG (4VR) to exclude RV infarct (ST elevation > 1 mm)",
+    "ECG diagnosis of STEMI in a setting of preceding LBBB is difficult, but the following are useful: ST changes in the same direction, ST segment elevation > 7-8 mm, Coving of ST segment, Pathological Q wave in 2 consecutive leads and Reciprocal changes",
+    "Cardiac enzymes: Cardiac troponin I & T are released within 4 hours of MI and remain elevated for up to 2 weeks, It is the most sensitive marker of myocardial damage. Useful in late presentation, MB-CK rises within 4-6 hours, peaks in a day and disappears by the second day",
+    "Blood chemistry: Blood sugar, electrolytes (Na, K, Cl, Ca, Mg), urea, Cr, lipid levels, arterial blood gas",
+    "C-Xray: Cardiomegaly & Pulmonary oedema",
+    "Echocardiography: Regional wall motion abnormality, Pericardial effusion, Septal/chordae/ papillary muscle rupture, MR, LV function, RV function, PAP",
+    "Coronary angiography: Delineate site (s) of lesion & number of vessels involved"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Oxygen (100% 2 - 4 L/min) via nasal prongs if SaO2 < 90%",
+      "Bed rest within the first 24 hours"
+    ],
+    "drug": [
+      "Dual antiplatelet therapy: Acetyl salicylic acid (aspirin) 300 mg stat; 75 mg daily + clopidrogrel 300 mg stat; 75 mg daily",
+      "Short acting nitrates (nitroglycerin): Route: Sublingual (0.4 mg), Buccal (1-5 mg 6 hourly), Aerosol (400 μg per spray)",
+      "Long acting nitrates: Oral isosorbide dinitrate 10 - 20 mg three times daily, IV route: IV nitroglycerin (5 - 10 g/min)",
+      "Morphine: (2 - 4 mg) slow IV",
+      "Lipid lowering drugs: Statins 10 - 40 mg daily",
+      "ACEIs: Captopril (6.25 - 12.5 mg daily), lisinopril (2.5 - 10 mg daily depending on blood pressure status)",
+      "ARBs: Valsartan (80 mg daily), losartan (12.5 - 25 mg daily)",
+      "Beta blockers: Carvedilol (6.25 - 12.5 mg daily), metoprolol (25 - 50 mg daily)",
+      "Calcium Channel Blockers (CCBs): Verapamil (40 - 80 mg three times daily), diltiazem (30 - 60 mg three times daily), Non rate limiting such as amlodipine (2.5 - 10 mg daily)",
+      "Anxiolytics: Diazepam 5 mg daily",
+      "Stool softener: Liquid paraffin 15 - 30 mL nocte",
+      "Anticoagulant therapy: Heparin 60 units/kg body weight followed by 12 units/kg/hr, LMWH: 1 mg/kg given twice daily"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Nitrates may cause headache and tolerance. Contraindicated in bradycardia and when SBP < 90 mmHg",
+      "Beta blockers may precipitate bradycardia, heart failure, asthma and hypotension",
+      "Thrombolytic agents may cause bleeding",
+      "Heparin may induce thrombocytopenia",
+      "Absolute contraindications to reperfusion therapy: Active bleeding, Bleeding diathesis, Stroke within 3 months, Intracranial tumour",
+      "Relative contraindications to reperfusion therapy: Severe hypertension (> 180/110 mmHg), Recent trauma/CPR/c surgery, Active peptic ulcer, Oral anticoagulant therapy, Advanced liver diseases, Active cavitation PTB, Pregnancy and within 1 week post-partum"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Acute pulmonary embolism",
+    "Acute pericarditis",
+    "Acute aortic dissection",
+    "Esophageal spasm",
+    "Peptic ulcer disease"
+  ],
+  "complications": [
+    "Arrhythmia",
+    "Pulmonary oedema",
+    "Septal/chordae/myocardial wall rupture",
+    "Stroke",
+    "Ventricular aneurysm",
+    "Pericarditis"
+  ],
+  "prevention": [
+    "Life style modifications including regular exercise, optimum weight, high fibre and low saturated fat diet; cessation of cigarette smoking and moderate alcohol intake",
+    "Treatment of hypertension, diabetes and hyperlipidaemia",
+    "Educate on benefits, outcome and complications of patient's condition and treatment modalities",
+    "Emphasize primary and secondary preventive measures as essential irrespective of treatment modality offered"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "Reperfusion therapy (pharmacological)",
+    "Best benefit if given within 1-3 hours of AMI ('GOLDEN HOUR')",
+    "Streptokinase (SK): Dose 1.5 million units in 100 mL of normal saline given over 30 - 60 mins",
+    "Recombinant tissue plasminogen activator (tPA): Superior to, and more expensive than streptokinase, Not antigenic, Preferred to SK if there is hypotension, Higher risk of intracerebral haemorrhage",
+    "Alteplase: 15 mg stat; then 0.75 mg/kg (max: 50 mg) over 30 mins; then 0.5 mg/kg (max: 35 mg) over 60 mins",
+    "Refer to centres for percutaneous coronary intervention where available and affordable: Balloon angioplasty, Stenting (Bare metal Thrombectomy)",
+    "Coronary artery bypass graft (CABG): Triple vessel disease, Proximal Left main coronary artery disease, Double vessel disease with proximal LAD lesion & Calcification"
+  ],
+  "prognosis": []
+}

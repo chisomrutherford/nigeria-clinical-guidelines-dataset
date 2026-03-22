@@ -1,0 +1,47 @@
+{
+  "condition_name": "Oral Thrush (Candidiasis)",
+  "condition_slug": "oral-thrush-candidiasis",
+  "source": "NSTG 2022",
+  "introduction": "A clinical infection of mucous membranes due to the fungus species Candida. Candida albicans is the most frequently isolated strain.",
+  "clinical_features": [
+    {
+      "type": "general",
+      "features": [
+        "A creamy/whitish, soft and friable slough located on the soft tissues of the oral cavity: tongue, palate, cheek, pharynx",
+        "May be asymptomatic, or painful, with difficulty in swallowing"
+      ]
+    }
+  ],
+  "investigations": [
+    "Smear of the affected region and Gram staining or PAS, with or without potassium hydroxide to demonstrate hyphae",
+    "Swab sample for M/C/S",
+    "Biopsy and histopathologic examination",
+    "Identify predisposing factors (including immunosuppression)",
+    "Define extent of involvement"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Manage any underlying predisposing factors",
+      "Replace worn dentures",
+      "Proper counselling of patients as to use of dentures",
+      "Diet modification and improvement",
+      "Chlorhexidine mouthwash three times daily for 1 - 2 weeks"
+    ],
+    "drug": [
+      "Topical anti-fungal medication - Nystatin suspension Adult: 400,000 - 600,000 units/mL 4 times daily, after food (usually for 7 days); Continue for 48 hours after lesions have resolved Child: 1 month - 18 years, prophylaxis and treatment: 100,000 units 6 hourly after food for 7 days; Continue for 48 hours after lesions have healed Immunocompromised children: 500,000 units 6 hourly for 7 days",
+      "Miconazole oral gel 2% Adult: place 5 - 10 mL in the mouth after food and retain near lesions 4 times daily Child: under 2 years: 2.5 mL twice daily; 2 - 6 years: 5 mL twice daily 6 - 12 years: 5 mL four times daily; 12 - 18 years: 5-10 mL four times daily",
+      "Some patients may require systemic antimicrobial medicines - Fluconazole Adult: 50 mg orally daily for 7 - 14 days Child: 3 - 6 mg/kg on the first day, then 3 mg/kg daily for 7 - 14 days For neonates up to 2 weeks old: administer every 72 hours for 7 - 14 days 2 - 4 weeks old: administer every 48 hours for 7-14 days"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [
+    "Manage any underlying predisposing factors like denture wearing, reduced salivation, antibiotic therapy, poorly controlled diabetes mellitus, steroid therapy, salivary gland damage, malnutrition, HIV infection and leukaemia, deficiencies like iron, vitamin B, folic acid and agranulocytosis"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

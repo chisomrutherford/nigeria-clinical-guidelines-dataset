@@ -1,0 +1,31 @@
+{
+  "condition_name": "Trauma to the Temporomandibular Joint",
+  "condition_slug": "trauma-to-the-temporomandibular-joint",
+  "source": "NSTG 2022",
+  "introduction": "",
+  "clinical_features": [
+    {
+      "type": "features",
+      "features": [
+        "Condyle fracture or trauma arthritis",
+        "Pain and trismus of traumatic arthritis resolve after one week",
+        "Micro-trauma from parafunction may result in chronic symptoms",
+        "Dislocation is usually a result of trauma and is rare; very rarely it occurs after yawning"
+      ]
+    }
+  ],
+  "investigations": [],
+  "treatment": {
+    "goals": [],
+    "non_drug": [],
+    "drug": [],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

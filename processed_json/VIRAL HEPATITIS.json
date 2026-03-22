@@ -1,0 +1,29 @@
+{
+  "condition_name": "Viral Hepatitis",
+  "condition_slug": "viral-hepatitis",
+  "source": "NSTG 2022",
+  "introduction": "The most common cause of jaundice in pregnancy, accounting for about 40% of cases. Incidence during pregnancy is probably no more than in the normal population. Pregnancy does not alter the course of the disease. Hepatitis A virus does not affect the foetus, but hepatitis B and C can cross over the placenta to affect the foetus unlike other hepatotrophic viral infections, which carry a significant risk of vertical transmission (particularly in the third trimester). A severe attack may influence foetal outcome with a slight increase in premature labour and stillbirths (as seen in any severe medical illness).",
+  "clinical_features": [],
+  "investigations": [],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Avoid any further damage to the liver by drugs",
+      "Bed rest",
+      "Adequate nutrition",
+      "Avoid breastfeeding",
+      "Delivery room personnel must exercise great care in dealing with these patients, as all their body fluids are highly infectious"
+    ],
+    "drug": [
+      "If hepatitis B is present then the infant requires protection with immunoglobulins against HBsAg Hepatitis B immunoglobulin by intramuscular injection: Neonate: 200 units as soon as possible after birth; 1 month - 5 years: 200 units; 5 - 10 years: 300 units; 10 - 18 years: 500 units"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

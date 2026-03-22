@@ -1,0 +1,67 @@
+{
+  "condition_name": "Gonorrhea in Females",
+  "condition_slug": "gonorrhea-in-females",
+  "source": "NSTG 2022",
+  "introduction": "",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Inflammation of the cervix and cervical canal (cervicitis) is the commonest presentation in women",
+        "Urethritis: the urethra becomes the most common site in women who have had hysterectomy",
+        "The most frequent complaint is discharge, often accompanied with burning on urination",
+        "Over 50% of infected women are asymptomatic",
+        "Oropharyngeal gonorrhoea from orogenital sex (fellatio) may present as sore throat"
+      ]
+    }
+  ],
+  "investigations": [
+    "Endocervical swab (through a vaginal speculum) for microscopy, culture and sensitivity"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [],
+    "drug": [],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Accentuation of physiological discharge",
+    "Candidiasis",
+    "Trichomoniasis",
+    "Bacterial vaginosis",
+    "Chlamydia",
+    "Cervical herpes genitalis",
+    "Cervical warts",
+    "Syphilitic chancre",
+    "Toxic shock syndrome (Staphylococcus aureus)",
+    "B-haemolytic streptococcal infection, Mycoplasma infection",
+    "Cervical ectropion",
+    "Cervical polyp(s)",
+    "Neoplasia e.g. cancer of the cervix",
+    "Retained products (tampon, post-abortion, post-natal)",
+    "Trauma",
+    "Semen (post-coital)",
+    "Contact irritants and sensitizers e.g. from douches or feminine hygiene sprays",
+    "Bullous diseases of the mucous membranes"
+  ],
+  "complications": [
+    "Infections of Skene's periurethral glands and Bartholin's labial glands; a Bartholin's gland abscess may cause pain on sitting or walking",
+    "Vulvitis",
+    "Ascending infection to the endometrium, fallopian tubes, ovaries and peritoneum (pelvic inflammatory disease)",
+    "Ectopic pregnancy",
+    "Infertility",
+    "Perihepatic abscess (Fitz-Hugh-Curtis syndrome)",
+    "Risk of disseminated gonococcal infection during pregnancy and menstruation",
+    "Premature rupture of membranes",
+    "Premature labour",
+    "Chorioamnionitis",
+    "Septic abortion",
+    "Ophthalmia neonatorum",
+    "Oropharyngeal gonorrhoea"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

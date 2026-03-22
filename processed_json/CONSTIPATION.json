@@ -1,0 +1,60 @@
+{
+  "condition_name": "Constipation",
+  "condition_slug": "constipation",
+  "source": "NSTG 2022",
+  "introduction": "A clinical condition characterized by infrequent bowel opening and/or passage of hard pellet-like stools.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Infrequent bowel openings",
+        "Hard stools",
+        "Flatulence",
+        "Abdominal discomfort"
+      ]
+    }
+  ],
+  "investigations": [
+    "Full blood counts",
+    "Stool microscopy",
+    "Serum electrolytes",
+    "Proctosigmoidoscopy/Colonoscopy",
+    "Barium enema",
+    "Serum hormonal levels e.g. Thyroid hormones",
+    "Abdominal x-rays"
+  ],
+  "treatment": {
+    "goals": [
+      "Identification of aetiology",
+      "Restore normal bowel motions",
+      "Treatment largely depends on the aetiology"
+    ],
+    "non_drug": [
+      "Avoid precipitants",
+      "High-fibre diet",
+      "Adequate fluid intake",
+      "Surgery",
+      "Hormonal therapy",
+      "Avoidance of offending drugs"
+    ],
+    "drug": [
+      "Stimulant laxatives - Senna (7.5 mg tablet): Adult: 2 - 4 tablets at night; 6 - 12 years: 1 - 2 tablets at night/or morning; 12 - 18 years: 2 - 4 tablets at night",
+      "Bisacodyl tablets 10 mg orally at night",
+      "Bisacodyl suppositories 10 mg at night"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Faecal impaction",
+    "Rectal prolapse",
+    "Anal fissures",
+    "Haemorrhoids",
+    "Rectal bleeding"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

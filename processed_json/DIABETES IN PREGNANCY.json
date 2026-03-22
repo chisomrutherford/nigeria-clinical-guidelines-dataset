@@ -1,0 +1,61 @@
+{
+  "condition_name": "Diabetes in Pregnancy",
+  "condition_slug": "diabetes-in-pregnancy",
+  "source": "NSTG 2022",
+  "introduction": "Gestational diabetes mellitus (GDM) is any degree of glucose intolerance first recognised in pregnancy. If inadequately managed, GDM is associated with increased risk of perinatal morbidity and mortality. Diagnosis and prompt institution of therapy reduce the risks of poor outcomes.",
+  "clinical_features": [
+    {
+      "type": "When to screen for GDM",
+      "features": [
+        "Between 24 and 28 weeks of gestation",
+        "Women with high risk for GDM",
+        "BMI 25 kg/m²",
+        "Previous history of GDM",
+        "Glycosuria",
+        "Previous large baby (> 4 kg)",
+        "Poor obstetric history",
+        "Family history of diabetes",
+        "Known IGT / IFG"
+      ]
+    }
+  ],
+  "investigations": [
+    "Daily SBGM (urine glucose monitoring) is not useful in pregnancy",
+    "Regular assessment of maternal wellbeing should include blood pressure and urine protein",
+    "Regular surveillance for foetal well-being"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Combined health care team including obstetrician, diabetologist, diabetes educator, and paediatrician/neonatologist",
+      "Initial therapy is dietary modification",
+      "Spread carbohydrate over 3 small to moderate sized meals and 2 - 3 snacks/day",
+      "Consider an evening snack to prevent starvation ketosis",
+      "Energy intake should provide for desirable weight gain during pregnancy",
+      "For obese women a 30 - 33% calorie restriction is advised",
+      "Delivery at 38 weeks gestation recommended",
+      "Withdraw therapy for diabetes after birth",
+      "Re-assess classification of maternal status at 6 weeks post partum"
+    ],
+    "drug": [
+      "Initiate insulin therapy if fasting plasma glucose is > 5.8 mmol/L, 1 hour post-prandial glucose is > 8.6 mmol/L, 2 hour post-prandial plasma glucose is >7.5 mmol/L",
+      "Modify insulin regimen to achieve above targets"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Stroke",
+    "Seizures",
+    "Trauma",
+    "Drug overdose",
+    "Ethanol intoxication"
+  ],
+  "complications": [
+    "Acute metabolic complications of diabetes mellitus"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

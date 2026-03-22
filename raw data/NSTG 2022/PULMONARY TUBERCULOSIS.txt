@@ -1,0 +1,250 @@
+PULMONARY TUBERCULOSIS
+Introduction
+Tuberculosis (TB) is one of the oldest diseases known to affect humans
+It is caused by bacteria of mycotuberculosis complex which includes M.
+tuberculosis, M. bovis, and M. africanum
+M. tuberculosis is the most common cause of tuberculosis worldwide.
+Transmission is by droplet infection.
+Nigeria ranks 11th among the high burden countries of TB in the world
+Federal government of Nigeria established the National Tuberculosis and
+Leprosy Control Program (NTBLCS) in 1993 with the objective to reduce the
+prevalence of TB and Leprosy to a level at which they no longer constitute
+public health problem in the country
+Almost every organ can be affected. The lung parenchyma are affected in more
+than 80% of the cases. This can be either as primary pulmonary disease (occurs
+mainly in childhood) or post primary pulmonary disease.
+Those at risk of acquiring tuberculosis are:
+• Contacts of patients with smear positive pulmonary disease
+• Immunocompromised individuals, health works and people living in
+overcrowded conditions
+
+CLINICAL FEATURES OF PULMONARY TUBERCULOSIS 
+Clinical Features
+Symptoms
+• Persistent cough
+• Weight loss
+• Drenching night sweats
+• Chest pain (dull or pleuritic)
+• Haemoptysis
+• Anorexia
+Signs:
+• Physical examination may be normal
+• Crepitations usually in the upper zone (earliest physical sign)
+• Physical signs of consolidation, cavitation and fibrosis develop later
+• Pallor and finger clubbing
+• Erythema nodusum and phlyctenular conjunctivitis (Primary PTB)
+
+DIFFERENTIAL DIAGNOSES OF PULMONARY TUBERCULOSIS 
+Differential Diagnoses
+• Pneumonia
+• Carcinoma of the bronchus
+• Lung abscess (especially due to Klebsiella pneumoniae)
+• Pulmonary infarction
+
+COMPLICATIONS OF PULMONARY TUBERCULOSIS 
+Complications
+• Lung collapse
+• Bronchiectasis
+• Chronic Obstructive Pulmonary Disease
+• Pleural effusion
+• Cor pulmonale
+• Destructive lung syndrome
+• Lung abscess
+• Acute Respiratory Distress Syndrome
+• Spontaneous Pneumothorax
+• Haemorrhage/Mycetoma
+Extra-pulmonary TB
+• Lymph node TB:
+- Painless swelling of lymph nodes (usually cervical and supracervical
+sites
+- Usually discrete in early disease; may become inflamed and have a
+fistulous tract draining caseous material)
+• Pleural TB:
+- Fever
+- Pleuritic chest pain
+- Dyspnoea
+- Dullness to percussion
+- Absence of breath sounds
+• TB of the upper airways:
+- Nearly always a complication of advanced cavitatory pulmonary TB
+- May involve the larynx, pharynx and epiglottis:
+- Hoarseness
+- Dysphagia
+- Dysphonia
+- Chronic productive cough
+• Genitourinary TB:
+- Urinary frequency Dysuria Haematuria Flank pain
+• Skeletal TB:
+- Weight bearing joints are affected: spine, hips and knees
+• Spinal TB (Pott's disease):
+- Paraparesis Paraplegia
+• TB meningitis:
+- Headache
+- Mental changes
+- Confusion
+- Lethargy
+- Altered sensorium
+- Neck rigidity
+- Ocular nerve paresis
+
+- Hydrocephalus
+• Gastrointestinal TB:
+- Commonly affects the terminal ileum and caecum
+- Abdominal pain (may be similar to that of appendicitis)
+- Diarrhoea
+- Intestinal obstruction
+- Haematochezia
+- Palpable mass Fever
+- Weight loss
+- Night sweats
+- TB peritonitis
+• Pericardial TB:
+- Fever
+- Dull retrosternal pain
+- Friction rub
+- Cardiac tamponade
+• Miliary TB:
+• Fever
+• Night sweats
+• Anorexia
+• Weakness
+• Weight loss
+• Cough
+• Hepatomegaly
+• Splenomegaly
+• Lymphadenopathy
+• Choroidal tubercles (pathognomonic)
+• Meningitis
+There are no clinical findings specific for a diagnosis of pulmonary TB; a
+history of contact with a smear positive pulmonary TB case, respiratory
+symptoms for more than 2-3 weeks not responding to broad spectrum
+antibiotics, and weight loss, failure to thrive may suggest TB
+
+INVESTIGATION OF PULMONARY TUBERCULOSIS 
+Investigations
+• Bacteriologic examination:-
+- Sputum AFB X 3 (spot, morning, spot)
+- Sputum mycobacterial culture and drug susceptibility testing/Gene
+Xpert MTB-RIF Assay
+• Radiologic Examination
+- Chest X-ray
+• Other tests:-
+- Tuberculin skin test (low sensitivity and low specificity)
+- Haematologic - FBC and ESR
+• In cases of diagnostic difficulties, one may need High Resolution CT and
+fibre-optic bronchoscopy with bronchoalveolar lavage and trans-bronchial
+biopsy
+
+TREATMENT OF PULMONARY TUBERCULOSIS 
+Treatment Goals
+• Cure the disease
+• Prevent death from active TB or its late effects
+• Prevent relapse of TB
+• Decrease transmission of TB
+• Prevent the development of acquired drug resistance
+NTBLCP recommends that all TB cases and TB suspects should be managed in
+DOTs centres. This programme provides good quality drugs free of charge to all
+patients. It also implements international standards for tuberculosis care.
+Drug Treatment
+• Chemotherapy
+Standard drug regimens for Adults
+- 6 months regimen
+- Initial Intensive Phase: This is for 2 months using Rifampicin,
+isoniazid, pyrazinamide and ethambutol
+- Continuation Phase: 4 months using Isoniazid and rifampicin. In this
+regimen, there is fully supervised administration of drugs in both
+intensive and continuation phases
+NOTE
+• Pyridoxine 10mg is usually added to prevent peripheral neuropathy
+• These drugs can be provided as fixed dose combinations to enhance
+adherence to therapy or lose tablets
+Non-drug Treatment
+• Contact tracing
+• Health education of the patient
+
+
+# Table 13.2: Daily Doses and Adverse Reactions of Commonly Used Anti-Tuberculosis Drugs (Adults)
+
+| Drugs | Daily Dose | Adverse Drug Reactions |
+|---|---|---|
+| Rifampicin (taken 30 minutes before breakfast) | 10 mg/kg (maximum dose) 600 mg | Drug interactions, hypersensitivity, hepatitis, fever |
+| Isoniazid | 5 - 10 mg/kg (maximum dose) 300 mg | Hypersensitivity, polyneuropathy |
+| Ethambutol | 15 - 20 mg/kg (maximum dose) 1.6 g | Optic neuritis, hypersensitivity |
+| Pyrazinamide | 20 - 35 mg/kg (maximum dose) 2.5 g | Hepatitis, gout, hypersensitivity |
+
+Notable Adverse Drug Reactions, Contraindications and Caution
+First line Anti-tuberculosis drugs though very effective, present problems in the
+treatment of patients such as:
+• Pill burden
+• Drug interaction
+• Potentials for drug interactions with rifampicin and antiretroviral agents
+such as protease inhibitors (PIs) and non nucleoside reverse transcriptase
+inhibitor (NNRTIs)
+• Rifabutin may be used in place of rifampicin but not easily available and
+expensive.
+• Efavirenz in place of nevirapine
+• Immune reconstitution syndrome
+• Increased incidence of drug resistance cases
+Standard drug regimen for Children
+Two standardized treatment Regimen adopted for the treatment of all
+children diagnosed with susceptible TB in Nigeria:
+• Standard six month treatment Regimen for all children with newly
+diagnosed or previously treated PTB disease
+Regimen 1 for Children: 2(RHZ+E)/4(RH)
+• Standard six month treatment Regimen for all children with newly
+diagnosed or previously treated EPTB disease
+Regimen 2 for children with EPTB: 2(RHZ+E)/10(RH)
+• Use of Pyridoxine (Vitamin B6) in children
+- Pyridoxine (vitamin B6) protects against isoniazid-induced
+peripheral neuropathy
+- Not routinely given but is recommended for severely malnourished and
+HIV-infected children
+- The recommended dose is 25 mg/ day until treatment is completed
+• Monitoring of PTB Treatment
+
+# TABLE 13.3: Paediatric Drugs and Dosages for the Management of Tuberculosis
+
+| Drug | Dosage (mg/kg) | Range (mg/kg) | Maximum Dose (mg/day) |
+|---|---|---|---|
+| Isoniazid (H) | 10 | 7-15 | 300 |
+| Rifampicin (R) | 15 | 10-20 | 600 |
+| Pyrazinamide (Z) | 35 | 30-4 | 2000 |
+| Ethambutol (E) | 20 | 15-25 | 1200 |
+
+- Monitoring for response to therapy (clinical improvement and
+bacteriologic clearance in sputum) and adverse drug reactions
+- Routine laboratory monitoring for drug toxicity may not be necessary
+when there are no symptoms, signs or co-morbid factors like hepatic
+and renal disease
+Multidrug Resistant Tuberculosis (MDR-TB)
+• Drug resistance in mycobacteria comes about through random spontaneous
+mutation
+• Emergence of this is creating additional barriers to effective tuberculosis
+control
+• MDR-TB is caused by an organism resistance to at least isoniazid and
+rifampicin
+• XDR-TB is MDR-TB plus resistance to any of the fluoroquinolones and
+one of the second line injectables.
+MDR-TB Suspects
+• Treatment failure with first line anti-tuberculosis drugs
+• Symptomatic contacts to a known MDR-TB case
+Diagnoses
+• Send sputum samples to specialized facility for culture, molecular line
+probe and drug susceptibility
+• Treatment – refer to designated treatment centres
+HIV-Associated Pulmonary Tuberculosis
+• Tuberculosis is an important opportunistic among HIV infected persons
+and commonest cause of death in such patients
+• It directly attacks the critical immune mechanism involved in protection
+against Tuberculosis
+• Presentation depends on the stage of HIV infection
+• Diagnosis of tuberculosis in HIV patients may be difficult when the
+immunity is highly compromised (low CD4 count) because of atypical
+presentation, increase frequency of sputum smear negativity and atypical
+radiographic features
+• All TB patients should be offered HIV counseling and testing; also. all HIV
+patients should be screened for TB
+Treatment
+• Commence anti-tuberculosis treatment
+• Offer Co-trimoxazole preventive therapy
+• Commence anti-retroviral therapy

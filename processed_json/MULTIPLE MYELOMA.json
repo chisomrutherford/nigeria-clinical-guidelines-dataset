@@ -1,0 +1,64 @@
+{
+  "condition_name": "Multiple Myeloma",
+  "condition_slug": "multiple-myeloma",
+  "source": "NSTG 2022",
+  "introduction": "A malignant proliferation of plasma cells derived from a single clone. The terms multiple myeloma and myeloma may be used interchangeably. The tumour, its product, and the host response to it result in a number of organ dysfunctions and symptoms of bone pain or fracture, renal failure, susceptibility to infection, anaemia, hypercalcemia, and occasionally clotting abnormalities, neurologic symptoms, and vascular manifestations of hyper-viscosity.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Classified as asymptomatic or symptomatic, depending on the absence or presence of myeloma related organ or tissue dysfunction, including hypercalcemia, renal insufficiency, anaemia, and bone disease",
+        "Bone pain is the most common symptom in myeloma, affecting about 70% of patients",
+        "Usually involves the back and ribs",
+        "The pain of myeloma is precipitated by movement (Unlike the pain of metastatic carcinoma, which often is worse at night)",
+        "Persistent localized pain in a patient with myeloma usually signifies a pathologic fracture",
+        "The bone lesions of myeloma are caused by the proliferation of tumour cells and the activation of the osteoclasts that destroy the bone",
+        "The next most common clinical problem in patients with myeloma is susceptibility to bacterial infections",
+        "Anaemia occurs in about 80% of myeloma patients: Usually normocytic and normochromic Related both to the replacement of normal marrow by expanding tumour cells and to the inhibition of haematopoiesis by factors made by the tumour",
+        "Bony lesions develop in almost 80% of patients with newly diagnosed disease; in one study, 58% of patient reported bone pain",
+        "Renal impairment occurs in 20 – 40% of patients with newly diagnosed disease, mainly as a result of direct tubular damage from excess protein load, dehydration, hypercalcemia and the use of nephrotoxic medications",
+        "The risk of infection is increased with active disease but decreases with response to therapy"
+      ]
+    }
+  ],
+  "investigations": [
+    "Diagnosis is based on the presence of at least 10% clonal bone marrow plasma cells and monoclonal protein in serum or urine",
+    "In patients with true non-secretory myeloma, the diagnosis is based on 30% monoclonal bone marrow plasma cells or a biopsy proven plasmacytoma",
+    "Routine laboratory testing: FBC, Chemical analysis, Serum and urine protein electrophoresis with immunofixation, and qualification of monoclonal protein, Bone marrow examination (trephine biopsy plus aspirate of cytogenetic analysis or fluorescence In situ hybridization [FISH])",
+    "Conventional radiography of the spine, skull, chest, pelvic, humeri, and femoral remains the standard to identify myeloma related bone lesions",
+    "Magnetic resonance imaging (MRI) is recommended to evaluate symptoms in patients with normal results in conventional radiography and in all patients with radiographs suggesting the presence or solitary plasmacytoma of the bone",
+    "Computed tomography and MRI are the procedures of choice to asses suspected cord compression and should be performed on an urgent basis"
+  ],
+  "treatment": {
+    "goals": [
+      "Reduce total mass of tumour",
+      "Maintain this by continuation therapy"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Single agent combination: Melphalan/prednisolone",
+      "Combination chemotherapy: VMCP (vincristine, melphalan, cyclophosphamide, prednisolone)",
+      "VAD regimen (Vincristine, adriamycin, high dose dexamethasone)",
+      "VAMP-use of methyl prednisolone in place of dexamethasone",
+      "Alpha interferon (3mu)",
+      "Thalidomide and dexamethasone"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Cytotoxic medicines have both anticancer activity and the potential to damage normal tissue; most are teratogenic",
+      "All cytotoxic medicines cause side effects and a balance has to be struck between likely benefit and acceptable toxicity",
+      "Trained personnel should reconstitute cytotoxics in designated pharmacy areas",
+      "Pregnant staff should avoid exposure to cytotoxics",
+      "Prescriptions should not be repeated except on the instructions of a specialist"
+    ],
+    "supportive_measures": [
+      "Radiotherapy",
+      "Transplantation: Allogenous and autologous stem cell"
+    ]
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

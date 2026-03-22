@@ -1,0 +1,183 @@
+PNEUMONIA
+Introduction
+An inflammation of the lung parenchyma
+Various bacterial species, fungi and viruses may cause pneumonia
+The setting in which infection is acquired could be a predictor of the infecting
+pathogen
+Bacterial Pneumonia: is defined as bacterial infection of the lung parenchyma
+associated with recently developed radiological shadowing which may be
+segmental, lobar or multi lobar.
+Types
+• Community Acquired Pneumonia (CAP)
+• Hospital Acquired pneumonia (HAP)
+• Ventilator Associated pneumonia (VAP)
+• Health care associated Pneumonia (HCAP)
+• Pneumonia in the immunocompromised
+• Aspiration pneumonia
+
+Common bacteria causing CAP:
+• Streptococcus pneumonia(Most common cause)
+• Mycoplasma pneumonia
+• Legionella pneumophilia
+• Chlamydia pneumonia
+• Haemophilus influenza
+• Staphylococcus aureus
+• Chlamydia psittaci
+• Coxiella burnetti
+• Klebsiella pneumonia
+• Actinomyces israelli
+• Haemophilus influenzae
+• Pseudomonas aeruginosa (usually implicated in nosocomial pneumonia)
+
+CLINICAL FEATURES OF PNEUMONIA 
+Clinical Features
+• Typical pneumonia:
+- Sudden onset fever, chills and rigors
+- Cough with purulent sputum production
+- Pleuritic chest pain
+- Breathlessness with short inspiratory efforts
+Signs:
+- Fever
+- Herpes labialis
+- Tachypnoea
+Signs of lung consolidation
+- Pleural friction rubs
+- Chest signs are very helpful depending on the phase of the inflammatory
+response
+- Dull percussion
+- Increased tactile and vocal fremitus
+- Bronchial breath sounds
+- Whispering pectoriloquy
+- Crepitations
+Signs of severity
+- Confusion
+- Urea > 7mmol/L
+- Respiratory rate > 30/min
+- Systolic BP < 90
+- Age ≤ 65years
+- In Children: inability to feed or drink, cyanosis, alteration in level of
+consciousness
+Score 1 point for any of the above features present
+• 0 or 1- home treatment
+• 2 - Hospital-supervised treatment
+• 3 or more- manage in Hospital as severe pneumonia
+• 4 or 5 – ICU Admission
+
+• Atypical pneumonia:
+- Gradual onset
+- Dry cough
+- Prominent extra-pulmonary symptoms
+- Headache
+- Sore throat
+- Fatigue
+- Myalgia
+- Chest crackles or rales
+
+DIFFERNTIAL DIAGNOSES OF PNEUMONIA 
+Differential Diagnoses
+• Acute bronchitis
+• COPD Exacerbation
+• Pulmonary embolism/infarction
+• TB
+• Pulmonary eosinophilia
+
+COMPLICATIONS OF PNEUMONIA 
+Complications
+• Empyema thoracis
+• Pleural effusion
+• Lung abscess
+• Lobar collapse
+• Deep vein thrombosis and pulmonary embolism
+• Pneumothorax
+• ARDS
+• Multi organ failure
+• Hepatitis, pericarditis, myocarditis, meningoencephalitis
+• Pyrexia from drug hypersensitivity
+
+INVESTIGATIONS OF PNEUMONIA 
+Investigations
+• FBC +ESR+ CRP
+• Serum Electrolyte, Urea and Creatinine
+• LFT
+• Blood Culture
+• Serology
+• Cold agglutinins
+• Arterial blood gases/ SPO2
+• Sputum gram stain, M/C/S
+• Urine pneumococcal and legionella antigen
+• Chest X-ray
+• Pleural fluid M/C/S
+
+TREATMENT OF PNEUMONIA 
+Treatment Goals
+• Eliminate the infection
+• Return to normal lung function
+Drug Treatment
+General
+• Oxygen to maintain PaO at or above 8kPa
+• IV fluids especially in severe cases
+• Antipyretics
+• Antibiotics
+• Uncomplicated CAP and No modifying factor, no antibiotics use in the
+last 3 months:
+• Co-amoxiclav
+- Adult: 1 g 12 hourly for 5 – 7 days
+- Child:
+- Neonate and premature infants, 25 mg/kg/dose 12 hourly
+- Infants up to 3 months, 25 mg/kg/dose 8 hourly
+- 3 months – 12 years, 25 mg/kg/dose 8 hourly increased to 6 hourly in
+more severe infections
+Or
+• Benzyl penicillin
+- Adult: initially 2 million units 6 hourly
+- Child:
+- preterm and neonate under 7 days, 25 mg/kg by IM injection Or by slow
+IV injection or infusion every 12 hours; double dose in severe infections
+- Neonate 7 – 28 days: 25 mg/kg 8 hourly; double dose in severe
+infections
+- 1 month – 18 years: 25 mg/kg, 4 – 6 hourly; Double dose in severe
+infections
+- Commence oral therapy as soon as possible
+Or
+• Macrolide (azithromycin 500 mg stat, then 250 mg daily, or clarithromycin
+500 mg twice daily for up to 14 days)
+Or
+• Cefuroxime axetil
+- Adult :500 mg orally 8 hourly for 5 – 7 days
+- Child:
+- 3 months – 2 years 10 mg/kg (maximum 125 mg) orally 12 hourly
+- 2 – 12 years 15 mg/kg orally 12 hourly
+- 12 – 18 years 12 hourly; May double doses in severe infections.
+• Fourth generation Cephalosporins: Cefpodoxime
+- Adult: 200 mg orally 12 hourly
+- Children: 4 mg/kg/dose orally 12 hourly
+Patients with history of recent use of Antibiotics
+• Respiratory quinolone (levofloxacin).
+• Quinolones are generally better avoided in TB endemic areas because of
+their potential use as part of n2d line regimen in the treatment of MDR-TB.
+• Advanced macrolide+ amoxycillin
+• Advanced macrolide+amoxycillin+clavulanic acid
+Complicated CAP
+• IV β lactam + advanced macrolide
+• IV respiratory quinolones+advanced macrolide
+• Penicillin G+advanced macrolide
+• Consider Pneumocystis jiroveci in HIV patients: Co-trimoxazole
+Notable Adverse Drug Reaction, Contraindications and Caution
+• Co-amoxiclav: Nausea, diarrhoea, skin rashes, contraindicated in penicillin
+hypersensitive individuals
+• Cefuroxime: Nausea, vomiting, abdominal discomfort, headaches, rarely
+antibiotic associated colitis
+• Macrolides: Similar to those mentioned above but usually milder.
+Hepatotoxicity and antibiotic associated colitis are quite rare
+
+# TABLE 13.1: Treatment Schedule for Community Acquired Pneumonia - Paediatric Association of Nigeria Guidelines
+
+| Category of Children | Outpatient: First Line | Outpatient: Alternatives | Inpatient: First Line | Inpatient: Alternatives |
+|---|---|---|---|---|
+| **< 2 months** | Admit and treat as neonatal sepsis | Admit and treat as neonatal sepsis | Admit and treat as neonatal sepsis | Admit and treat as neonatal sepsis |
+| **≥ 2 months** | High dose oral amoxicillin (90 mg/kg/day) in 2 divided doses for at least 5 days | High dose oral amoxicillin-clavulanic acid (amoxicillin component 90 mg/kg/day) in 2 divided doses OR Oral cefpodoxime (10 mg/kg/day) in 2 divided doses OR Oral cefuroxime 20-30 mg/kg/day in 2DD for at least 5 days | IV amoxicillin (150 mg/kg/day in 3 divided doses) AND IV gentamicin 5 to 7.5 mg/kg/day | 1. IV Ceftriaxone 100 mg/kg/day single dose or in 2 divided doses 2. IV Cefotaxime 50 to 100 mg/kg in 2 divided doses 3. IV Genticin and IV Cloxacillin 100-200 mg/kg/day in 4 divided doses 4. IV Cefuroxime 150 mg/kg in 3 divided doses AND IV Genticin |
+| **HIV infected children** | High dose oral amoxicillin (90 mg/kg/day) in 2 divided doses for 10 days | High dose oral amoxicillin-clavulanic acid (amoxicillin component 90 mg/kg/day) in 2 divided doses OR Oral cefpodoxime (10 mg/kg/day) in 2 divided doses OR Oral cefuroxime 20-30 mg/kg/day in 2DD for at least 10 days | IV amoxicillin (150 mg/kg/day in 3 divided doses) AND IV genticin 5 to 7.5 mg/kg/day PLUS high dose co-trimoxazole (20 mg/kg/day of trimethoprim) for at least 10 days | 1. IV ceftriazone 100 mg/kg/day single dose or in 2 divided doses OR 2. IV cefotaxime 50 to 100 mg/kg in 2 divided doses OR 3. IV cefuroxime 150 mg/kg in 3 divided doses AND IV genticin PLUS high dose co-trimoxazole (20 mg/kg/day of trimethoprim) for at least 10 days |
+
+Prevention
+• Pneumococcal vaccine
+• Haemophilus influenzae vaccine

@@ -1,0 +1,49 @@
+{
+  "condition_name": "Prevention and Control of Surgical Site Infection",
+  "condition_slug": "prevention-and-control-of-surgical-site-infection",
+  "source": "NSTG 2022",
+  "introduction": "Postoperative surgical site infection (SSI) is a rather common, but undesirable complication. Increase postoperative morbidity and may sometimes lead to mortality. Efforts therefore need to be made to prevent it. Prevention requires a good appreciation of the risk stratification according to type of surgical wound as well as the indications for the utilization of antibiotic prophylaxis. Wounds are classified into I Clean (Risk of SSI, >2%), II Clean contaminated (Risk of SSI, 4-8%), III Contaminated (Risk of SSI >20%), IV Dirty/Infected (Risk of SSI <40%)",
+  "clinical_features": [],
+  "investigations": [],
+  "treatment": {
+    "goals": [
+      "To prevent postoperative infection in susceptible patients"
+    ],
+    "non_drug": [
+      "Should be used only where there is a high risk of bacterial contamination",
+      "Intravenous route is preferred to achieve optimum effect",
+      "Should be given not >2 hours before surgical incision (many surgeons prefer to give at the time of induction of anaesthesia)",
+      "Should be repeated intraoperatively if the surgery lasts for >3 hours",
+      "Not more than 2 - 3 doses (not longer than 24 hours) should be given after surgery",
+      "Antibiotics should be reinstituted if infection occurs"
+    ],
+    "drug": [],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Antibiotic misuse",
+    "Antibiotic resistance",
+    "Side effects of antibiotics (e.g. pseudomembranous colitis)",
+    "False sense of surgical security"
+  ],
+  "prevention": [
+    "Wounds are classified into I Clean (Risk of SSI, >2%), II Clean contaminated (Risk of SSI, 4-8%), III Contaminated (Risk of SSI >20%), IV Dirty/Infected (Risk of SSI <40%)",
+    "Prophylactic antibiotics for Prevention of SSI"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "Clean wounds require no antibiotic use, except in implants, prosthesis, valvular heart disease, immunosuppression and patients on steroids where prophylactic antibiotics are needed",
+    "Clean-contaminated and contaminated wounds require prophylactic antibiotics, while dirty/infected wounds require therapeutic antibiotics",
+    "Broad spectrum antibiotics are preferred",
+    "Combination of antibiotics (with synergistic actions) is preferred to a single antibiotic",
+    "Should be used only when scientific evidence shows benefit",
+    "Should depend on the known prevalent bacteria in the part of the body",
+    "Patients with increased risk of infection: e.g. Immunosuppression, diabetes mellitus, severe malnutrition, patients on steroids, patients on cytotoxic chemotherapy",
+    "When prosthesis or implants are used",
+    "To prevent infective endocarditis in patients with valvular heart disease or prosthetic heart valves",
+    "Patients with peripheral vascular disease undergoing surgery on that limb"
+  ],
+  "prognosis": null
+}

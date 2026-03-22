@@ -1,0 +1,69 @@
+{
+  "condition_name": "Erectile Dysfunction",
+  "condition_slug": "erectile-dysfunction",
+  "source": "NSTG 2022",
+  "introduction": "Erectile dysfunction (ED) is the persistent inability to achieve and maintain an erection sufficient for satisfactory sexual intercourse. It results from disorder in any of the factors involved in the complex processes that lead to erection which involves the brain, hormones, blood vessels, emotions, and muscles. It can occur at any age, but is uncommon in boys, common in the elderly. By the age of 45 years, most men have experienced ED at some time. Generally, 40% of men experience some degree of ED at 40 years, and 70% at 70 years. Complete ED occurs in approximately 5% of men at 40 years and 15% at 70 years.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Difficulty getting erection",
+        "Difficulty keeping an erection",
+        "Reduced sexual drive",
+        "History suggestive of possible causes- e.g. drugs, systemic diseases",
+        "Focused history to confirm it is ED and not any other sexual dysfunctions (see Differential Diagnoses)",
+        "Focused physical examination to identify significant abnormalities, e.g. gynaecomastia, penile deformity or plaques, impaired sensations etc"
+      ]
+    }
+  ],
+  "investigations": [
+    "FBC and ESR",
+    "Urinalysis",
+    "Blood glucose screening",
+    "Blood lipid profile (Fasting)",
+    "Hormone assay – Total and free testosterone, prolactin, FSH, LH",
+    "Nocturnal penile tumescence testing (Rigidscan)",
+    "Colour Duplex Ultrasound – for suspected vascular cause.",
+    "Cavernosogram – suspected venous leak"
+  ],
+  "treatment": {
+    "goals": [
+      "Achieve and sustain erection"
+    ],
+    "non_drug": [
+      "Life-style and home remedies",
+      "Quitting smoking",
+      "Losing excess weight",
+      "Exercising regularly",
+      "Reducing or stopping alcohol and hard drugs",
+      "Couples or marriage counselling, if relation problem",
+      "Adjusting medications: Important part of ED treatment",
+      "alpha methyl dopa, Beta blockers & Hydrochlorothiazide cause ED",
+      "Ca channel blockers & ACEIs have no effect"
+    ],
+    "drug": [
+      "Oral phosphodiesterase-5 inhibitors (PDES-5): Sildenafil 25-100 mg daily"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Adequate medical evaluation must be done before PDES-5 (or any OTC drug for ED) is given."
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Ejaculatory Dysfunctions (premature ejaculation, delayed ejaculation, anejaculation, anorgasmia)",
+    "Long refractory period",
+    "Decreased libido",
+    "Peyronie's Disease"
+  ],
+  "complications": [
+    "Psychological disturbance – stress and anxiety",
+    "Unsatisfactory sex life",
+    "Embarrassment and low esteem",
+    "Relationship problems",
+    "Infertility"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

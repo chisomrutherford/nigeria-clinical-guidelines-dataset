@@ -1,0 +1,51 @@
+{
+  "condition_name": "Neonatal Sepsis",
+  "condition_slug": "neonatal-sepsis",
+  "source": "NSTG 2022",
+  "introduction": "A clinical syndrome resulting from bacterial blood stream infection with active proliferation of the organisms. Early-Onset sepsis manifests within the first 72 hours of life or at most 7 days of life while Late-Onset sepsis manifests after 7 days of life.",
+  "clinical_features": [
+    {
+      "type": "Non-specific features",
+      "features": [
+        "fever",
+        "vomiting",
+        "poor feeding",
+        "poor activity"
+      ]
+    },
+    {
+      "type": "More specific features",
+      "features": [
+        "hypothermia",
+        "convulsions",
+        "jaundice"
+      ]
+    }
+  ],
+  "investigations": [
+    "A lumbar tap for cerebrospinal fluid analysis is mandatory unless the infant has cardio-respiratory instability. It must not delay empirical antibiotic therapy.",
+    "Neuro-imaging studies if fever persists, seizures recur, or occipitofrontal circumference is increasing."
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [],
+    "drug": [
+      "The empirical antibiotic therapy tailored to local patterns.",
+      "Ceftriaxone 50 mg/kg 12-hourly or Cefotaxime 50 mg/kg 6-hourly and Gentamicin 2.5 mg/kg 12-hourly.",
+      "Intravenous Ampicillin 50 mg/kg 6-hourly in specific cases.",
+      "Phenobarbitone for seizures; 15 mg/kg loading dose, 2.5 mg/kg 12-hourly maintenance."
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": [
+      "Fluid therapy with caution against over-hydration.",
+      "Fluid and caloric balance, blood transfusion for severe anaemia.",
+      "Oxygen therapy and ventilator support for hypoxaemia."
+    ]
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

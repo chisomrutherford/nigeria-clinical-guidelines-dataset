@@ -1,0 +1,51 @@
+{
+  "condition_name": "Cholestasis of Pregnancy",
+  "condition_slug": "cholestasis-of-pregnancy",
+  "source": "NSTG 2022",
+  "introduction": "Uncommon, in the order of 1:2,000 pregnancies. Presents commonly in late third trimester, after 36 weeks. Clinically significant because of its association with intra-uterine foetal growth retardation (IUGR) and intra-uterine foetal death (IUFD) (mechanism unclear). It is not as a rule associated with maternal Complications",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Generalized pruritus",
+        "Decreased foetal movements",
+        "Upper abdominal pain",
+        "Dark urine",
+        "Steatorrhea",
+        "Occasionally there is jaundice (particularly in the later stages of the disease)"
+      ]
+    }
+  ],
+  "investigations": [
+    "Liver function tests: Mildly deranged",
+    "Serum bilirubin and bile salts may be elevated"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Careful maternal follow-up with LFTs",
+      "Foetal surveillance: by growth (serial ultrasound biometry) and wellbeing (cardio-tocographic foetal) monitoring",
+      "If all is well induce at 38 weeks"
+    ],
+    "drug": [
+      "Colestyramine: binds bile salts and fat soluble vitamins",
+      "Vitamin K: To decrease bleeding tendencies",
+      "Antihistamines: May offer brief respite",
+      "Ursodeoxycholic acid and colestyramine (orally) decrease itching and normalize liver function"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Viral hepatitis",
+    "Early HELLP syndrome",
+    "Acute fatty liver"
+  ],
+  "complications": [],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": [
+    "Good with complete recovery in days to weeks"
+  ]
+}

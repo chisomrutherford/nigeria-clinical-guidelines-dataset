@@ -1,0 +1,203 @@
+DECUBITUS (PRESSURE) ULCERS 
+Introduction
+Localized physical manifestation of changes in blood supply to the skin, usually manifesting over bony prominences. It results from pressure or pressure in combination with friction/shear and may occur in institutional or home settings. It is a useful indicator of quality of care
+
+
+RISK FACTORS FOR DECUBITUS (PRESSURE) ULCERS 
+• Age (higher risk the older the patient)
+• Male gender
+• History of cerebrovascular accident (5-fold increase in risk)
+• Diabetes mellitus
+• Feeding difficulties
+• Decreased serum albumin (3-fold increase in risk)
+• Emergency admission (up to 36-fold increase in risk in patients admitted for surgical indications)
+• Faecal incontinence (up to 3-fold increase in risk)
+• Fractures (up to 5-fold increase in risk)
+• Number of days in bed and Number of days without nutrition
+In older persons with functional limitations (bed- or chair-bound):
+• Decreased body weight (2-fold increase in risk) and Dry skin
+• Immobility or reduced mobility
+• Lymphopaenia (5-fold increase in risk)
+
+Facility dependent factors
+• Ambulation difficulties
+Inappropriate mattresses and bedding tissue loss is described as follows:
+
+STAGING OF DECUBITUS (PRESSURE) ULCERS 
+Stage I
+• Intact skin; non-blanchable erythema
+• May be painful, warm or cool, firm or soft, compared to adjacent skin
+• May be missed in darkly pigmented skin
+
+
+Stage II
+• Ulcer extends through epidermis; no slough
+• May present as blister with intact skin or ruptured blister
+• Does not include other skin breaches e.g. excoriation, maceration, tape
+  burns or dermatitis associated with incontinence
+
+Stage III
+• Full thickness loss of tissue; depth varies by anatomical location
+• Subcutaneous fat may be visible; Bone, tendon, muscle not exposed
+• Tunneling, undermining may be present
+
+Stage IV
+• Full thickness tissue loss; slough present
+• Depth varies by anatomical location; may extend to muscle, fascia, joint
+  capsule
+• Bone or muscle may be exposed or palpable
+• Tunneling, undermining frequent
+• May be associated with osteitis or osteomyelitis
+
+Unstageable/Unclassified
+• Full thickness tissue loss
+• Depth obscured by slough and/or eschar in the wound bed
+• Adherent, dry, intact eschar on the heel is protective and should not be
+  removed
+
+Suspected deep tissue injury
+• Localized area of discolored skin
+• Initial boggy swelling; may become blood-filled blister
+• May be cooler or warmer than surrounding skin
+
+CLINICAL FEATURES OF DECUBITUS (PRESSURE) ULCERS 
+Clinical Features
+• Skin lesions at different stages (see above)
+• Erythema around edges of wound; enlarging wound
+• Foul odour; friable granulation tissue; increased necrotic tissue
+• Increasing pain; marked oedema
+• Purulent exudate; tunneling; warmth; wound breakdown
+
+DIFFERENTIAL DIAGNOSES OF DECUBITUS (PRESSURE) ULCERS 
+Differential Diagnoses
+• Arterial ulcers; diabetic ulcers; venous ulcers
+
+COMPLICATIONS OF DECUBITUS (PRESSURE) ULCERS 
+Complications
+• Secondary wound infection
+• Systemic Inflammatory Response Syndrome
+• Osteomyelitis
+
+INVESTIGATIONS FOR DECUBITUS (PRESSURE) ULCERS
+• Levine's technique for obtaining wound swabs:
+  - Cleanse wound with 0.9% saline
+  - Rotate a swab over a 1-cm square area of viable wound tissue (not
+    necrotic tissue or wound exudate)
+  - Apply enough pressure to get fluid from beneath the wound surface
+• Tissue biopsy:
+  - Wound contamination is not synonymous with wound infection
+  - Culture of wound surface exudates is not useful to diagnose wound infection
+  - Cultures obtained using Levine's technique give results comparable to those from tissue specimens
+
+TREATMENT OF DECUBITUS (PRESSURE) ULCERS 
+
+Treatment Goals 
+- Achieve wound healing
+- Prevent secondary wound infection
+
+Non-drug Treatment
+
+- Remove debris from wound:
+- Clean wound using 0.9% saline or lactated Ringer's solution at each dressing change
+
+- Antiseptic solutions may be cytotoxic
+- Contraindicated in patients with ulcers in lower extremities who have arterial disease
+Remove necrotic tissue
+
+- Autolytic methods (hydrogels or moisture retaining dressings)
+- Chemical debridement
+- Sharp debridement
+- Close dead spaces in wound:
+- Pack tunnels and undermining loosely with moist gauze dressings
+- Adjunct treatment to facilitate wound healing
+- Electrical therapy
+- Electromagnetic therapy and Laser therapy
+- Ultrasound therapy
+- Vacuum-assisted closure
+
+
+Prevent further injury:
+
+Avoid pressure on wound
+Chair cushions for sitting
+Keep heels and other pressure points off pressure
+Pressure-reducing mattresses
+Reposition every 2 hours (or more frequently, depending on host factors)
+
+
+Support wound healing process:
+
+Adequate protein intake, unless contraindicated by renal disease: 1.25-1.5g/kg/day)
+Adequate calorie intake (30-35kcal/kg/day)
+Avoid exposure to cold (causes vasoconstriction and impaired tissue perfusion)
+Correct deficiencies e.g. of vitamin C and zinc
+
+Drug Treatment
+
+Analgesia: give appropriate pain medicines 30 minutes before wound procedures
+Antibiotics:
+Topical antibiotic treatment is indicated for the following ulcers:
+
+- Presence of ≥1 million CFU/g of tissue
+- Growth of any level of β-hemolytic streptococci
+- Clean ulcers which fail to heal after 2-4 weeks of optimal care
+  - Spectrum should cover Gram-negative, Gram-positive and anaerobic organisms
+  - Limit use of topical antibiotics to avoid tissue toxicity and development of resistance
+- Systemic antibiotic treatment is indicated if there is evidence of:
+  - Cellulitis
+  - Localized infection
+  - Systemic Inflammatory Response Syndrome (SIRS)
+  - Osteomyelitis
+  - Superficial wound with localized signs of infection; no signs of SIRS or osteomyelitis:
+    - Amoxicillin/clavulanate
+    - Clindamycin
+    - Clindamycin plus ciprofloxacin
+  - Superficial to deep wound with SIRS:
+    - Clindamycin plus ciprofloxacin
+    - Clindamycin plus ceftriaxone
+    - Vancomycin (for MRSA)
+    - Given for 2-4 weeks
+  - Deep tissue involvement with SIRS, osteomyelitis and/or threat to limb or life:
+    - Clindamycin plus ceftriaxone
+    - Clindamycin plus gentamicin
+    - Vancomycin (for MRSA) Given for 2-12 weeks
+    - Prolonged oral treatment required for bone and joint infections after initial intravenous therapy
+- Surgical Therapy
+  - Involves direct wound closure
+  - Suitable for a select group of patients e.g. those with spinal cord injury; deep Stage III/IV decubiti
+- High risk of recurrence if factors contributing to ulcers are not corrected
+
+Notable Adverse Drug Reactions, Contraindications and Caution
+- Vancomycin may be oto- and nephro-toxic; may also cause blood dyscrasias, rashes, Steven-Johnson's syndrome, toxic epidermal necrolysis (TENS); muscle spasm, pain, phlebitis, vasculitis, severe hypotension and flushing of the upper body ('red man' syndrome) are other possible Complications. Its use should be restricted to cases of MRSA.
+
+Prevention
+- Address potentially modifiable risk factors e.g. dry skin, immobility, nutritional factors, etc.
+- Incidence can be reduced up to 30% with aggressive Prevention/intervention strategies
+
+•  A multi-disciplinary wound team is an asset, where available
+
+Pressure relief
+•  Improve mobility ('bed is bad')
+•  Frequent turning (interval may be reduced from traditional 2 hours 
+   depending on host risk factors)
+•  Pressure-relieving devices
+
+Static:
+•  To redistribute local pressure over a wider area
+•  Foam mattresses
+•  Devices containing air, gel or water
+
+Dynamic:
+•  Redistribute pressure over wider body area e.g.:
+   -  Alternating pressure pads
+   -  Air suspension devices
+   -  Air-fluid surfaces
+•  Use power sources
+
+Nutritional Interventions
+•  Increase daily caloric intake to 30 kcal/kg/day for malnourished patients
+•  Achieve daily protein intake between 1.2 – 1.5 g/kg/day
+•  Current evidence does not support routine supplementation with vitamin C 
+   or zinc unless in those with demonstrated deficiency
+•  High serum zinc levels may interfere with healing and with metabolism of 
+   copper

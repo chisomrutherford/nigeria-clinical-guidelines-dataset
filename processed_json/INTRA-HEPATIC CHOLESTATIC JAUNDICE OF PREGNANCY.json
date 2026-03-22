@@ -1,0 +1,54 @@
+{
+  "condition_name": "Intra-hepatic Cholestatic Jaundice of Pregnancy",
+  "condition_slug": "intra-hepatic-cholestatic-jaundice-of-pregnancy",
+  "source": "NSTG 2022",
+  "introduction": "Also termed 'recurrent obstructive jaundice' or 'idiopathic cholestasis'. Thought to be due to the effect of high estrogen levels on the liver, which results in decreased conjugation of bilirubin, A rare condition. Incidence of 1:500 pregnancies, More commonly seen in among Scandinavians Its exact aetiology is unknown",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Intense pruritus due to retention of bile salts",
+        "The most common presenting symptom and may occur in the absence of other symptoms",
+        "Onset of symptoms usually in the third trimester",
+        "Jaundice is not often seen"
+      ]
+    }
+  ],
+  "investigations": [
+    "Bilirubinuria",
+    "Elevated bile acids",
+    "Elevated alkaline phosphatase",
+    "Elevated liver transferase enzymes",
+    "Prothrombin time",
+    "Always exclude viral disease, gallstones and treatment with chlorpromazine"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Careful maternal follow-up with LFTs",
+      "Foetal surveillance: by growth (serial USS biometry) and well-being (CTG) monitoring"
+    ],
+    "drug": [],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": [
+      "If all is well, induce at 38 weeks",
+      "Management of pruritus",
+      "See cholestasis of pregnancy"
+    ]
+  },
+  "differential_diagnoses": [],
+  "complications": [
+    "Maternal Haemorrhage",
+    "Preterm labour",
+    "Steatorrhea",
+    "Foetal distress",
+    "Still-birth",
+    "Perinatal death",
+    "Prematurity and its problems",
+    "Meconium staining of the liquor"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

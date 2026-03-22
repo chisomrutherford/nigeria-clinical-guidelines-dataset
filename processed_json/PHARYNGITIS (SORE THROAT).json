@@ -1,0 +1,48 @@
+{
+  "condition_name": "Pharyngitis (Sore Throat)",
+  "condition_slug": "pharyngitis-sore-throat",
+  "source": "NSTG 2022",
+  "introduction": "A common cause of persistent sore throat in young and most middle-aged adults, usually unaccompanied by other symptoms. Often secondary to chronic nasal conditions with nasal obstruction e.g. Vasomotor rhinitis, Nasal polyps, Septal deviation. Obstruction causes mouth breathing with dryness of the throat. Other causes include secondary inflammation from postnasal discharge of sinusitis, chronic exposure to irritants such as tobacco smoke and alcohol, and secondary infection from carious teeth.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Persistent sore throat with no systemic upset or dysphagia",
+        "Sore throat is often worse in the mornings"
+      ]
+    }
+  ],
+  "investigations": [
+    "Throat swab: microscopy, culture and sensitivity",
+    "X-ray of paranasal sinuses",
+    "CT Scan of Paranasal sinuses"
+  ],
+  "treatment": {
+    "goals": [
+      "Control symptoms by identifying and treating primary causes"
+    ],
+    "non_drug": [
+      "Treat sinusitis",
+      "Surgery for obstructive nasal conditions",
+      "Treat dental caries"
+    ],
+    "drug": [
+      "Appropriate antibacterial agent if indicated"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": [
+      "Reduction or avoidance of exposure to known irritants-tobacco, alcohol, etc"
+    ]
+  },
+  "differential_diagnoses": [
+    "Chronic tonsillitis",
+    "Pharyngeal or laryngeal tumour"
+  ],
+  "complications": [
+    "More often related to the primary sources of irritation or infection"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

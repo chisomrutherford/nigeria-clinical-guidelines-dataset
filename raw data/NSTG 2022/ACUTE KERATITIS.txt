@@ -1,0 +1,65 @@
+ACUTE KERATITIS 
+Introduction
+Infection or inflammation of the cornea. It could be secondary to trauma, or
+associated with infective conjunctivitis or occur de novo.
+
+CLINICAL FEATURES OF ACUTE KERATITIS
+Clinical Features
+• Irritation, pain
+• Red eye (conjunctival congestion)
+• Eye discharge: watery; purulent (if bacterial)
+• Photophobia
+• Visual impairment, depending on the site and size of ulcer and if interstitial
+• Hypopion, if associated with uveitis (no hypopion if viral)
+• Ulceration of cornea, which stains with fluoresceine; no ulcer in interstitial
+keratitis
+
+CAUSES OF ACUTE KERATITIS
+Aetiology
+• Exogenous
+- Marginal ulcers secondary to bacterial conjunctivitis (S. aureus)
+- Central ulcers (Pneumococcus, Herpes simplex, fungi)
+- Keratomalacia (Vitamin A deficiency)
+- Exposure (7th cranial nerve palsy or dysthyroid eye disease)
+• Endogenous
+- Interstitial keratitis of congenital syphilis
+- Interstitial keratitis of Herpes zoster
+
+DIFFERENTIAL DIAGNOSES OF ACUTE KERATITIS
+Differential Diagnoses
+• Infective conjunctivitis
+• Acute iritis
+• Acute glaucoma
+
+COMPLICATIONS OF ACUTE KERATITIS 
+Complications
+• Corneal perforation
+• Corneal scarification
+
+INVESTIGATIONS OF ACUTE KERATITIS
+Investigations
+• Corneal scraping for microscopy, culture and sensitivity
+
+TREATMENT OF ACUTE KERATITIS
+Drug Treatment
+• Antibiotic drops (if bacterial)
+- Chloramphenicol eye drops 0.5%: Apply 1 drop at least every 2 hours,
+and then reduce the frequency as infection is controlled and continue for
+48 hours after healing
+• Atropine drops; 1 drop, twice daily
+• Antivirals (if dendritic ulcer)
+- Acyclovir; Apply 1 cm ointment 5 times daily (continue for at least 3
+days after complete healing)
+- Idoxuridine 5% in dimethylsulfoxide
+- Adult and child over 12 years: apply to lesions 4 times daily for 4 days,
+starting at first sign of attack
+- Child under 12 years: not recommended
+• Topical steroids
+- Only for interstitial keratitis where there is no active ulcer
+
+Non-drug Treatment
+• Lateral tarsorrhaphy for exposure keratopathy
+Notable Adverse Drug Reactions, Contraindications and Caution
+• Never use topical steroids in the presence of an active microbial ulcer
+Prevention
+• Treat initial infection or trauma promptly to avoid progression to keratitis

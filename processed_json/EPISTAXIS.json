@@ -1,0 +1,61 @@
+{
+  "condition_name": "Epistaxis",
+  "condition_slug": "epistaxis",
+  "source": "NSTG 2022",
+  "introduction": "Epistaxis refers to bleeding from the nose of any cause. It is a clinical presentation rather than a disease entity.",
+  "clinical_features": [
+    {
+      "type": "General",
+      "features": [
+        "Intermittent bleeding from nose, often spontaneous, but may follow obvious trauma or injury; could vary from few drops of blood to torrential life-threatening bleeding.",
+        "Most bleeding stops spontaneously."
+      ]
+    }
+  ],
+  "investigations": [
+    "FBC, including platelet count",
+    "Bleeding and clotting time; APTT",
+    "Serum Electrolyte, Urea and Creatinine",
+    "X-ray sinuses",
+    "CT scan",
+    "Nasal endoscopy"
+  ],
+  "treatment": {
+    "goals": [
+      "To arrest bleeding",
+      "Replace lost blood and treat shock",
+      "Treat causes"
+    ],
+    "non_drug": [
+      "Pressure and compression of the nose between fingers to arrest bleeding",
+      "Cotton wool pack soaked in epinephrine 1:1000 may be placed on bleeding area before compression to induce vasoconstriction",
+      "Nasal packing with lubricated ribbon gauze",
+      "Arrest of posterior bleed with rubber tampon or improvised Foley's catheter balloon",
+      "Cauterization of bleeding point or dilated vessels in anterior nasal septum - Diathermy cautery (electrical) or chemical cautery with silver nitrate stick - Endoscopic identification and arrest of bleeding points by ligation or cautery"
+    ],
+    "drug": [
+      "Treat underlying causes",
+      "Sedation if necessary - Diazepam 5 mg orally twice daily for 1 - 2 days",
+      "Antibiotics if infection is present - Amoxicillin (Adult: 500 mg orally 8 hourly for 5 - 7 days; Child: 250 - 500 mg orally 8 hourly for 5 - 7 days)",
+      "Other drugs depending on identified causative factors"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": [
+      "Intravenous infusion, crystalloids and blood as necessary",
+      "Bed rest"
+    ]
+  },
+  "differential_diagnoses": [
+    "Local and systemic illnesses may present with nasal bleeding"
+  ],
+  "complications": [
+    "Haemorrhagic shock",
+    "Fatality"
+  ],
+  "prevention": [
+    "Avoid/treat predisposing conditions"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

@@ -1,0 +1,52 @@
+{
+  "condition_name": "Ophthalmia Neonatorum",
+  "condition_slug": "ophthalmia-neonatorum",
+  "source": "NSTG 2022",
+  "introduction": "Infection in both eyes of a newborn baby in the first one month of life, without obstruction of the nasolacrimal ducts.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Swollen eyelids: It may be impossible to see the baby's eye because of the swelling",
+        "Red eyes: The conjunctivae are less inflamed in chlamydial infection",
+        "Pus: Oozes out when the eyelids are opened",
+        "Fever: May or may not be present"
+      ]
+    }
+  ],
+  "investigations": [
+    "Conjunctival swab for microscopy, culture and sensitivity"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Copious irrigation to wash pus from the eyes with cooled boiled water or sodium chloride 0.9% (normal saline)"
+    ],
+    "drug": [
+      "Topical antibiotics - Gentamicin 0.3% eye drops: Apply 1 drop at least every 2 hours, and then reduce frequency as infection is controlled",
+      "Ofloxacin 0.3% eye drops: Apply twice daily (not to be used for more than 10 days).",
+      "Tetracycline 1% eye ointment: Apply 3 times daily for one week or more, depending on the severity of the condition",
+      "Ciprofloxacin 10 mg/kg per dose intramuscularly 12 hourly for 2 days",
+      "Ceftriaxone: Adults: 100 mg/kg by deep intramuscular injection or intravenous injection over 2 - 4 minutes every 24 hours or by intravenous infusion: 1 g daily, 2 - 4 g in severe infections; Child: Neonate: infuse over 60 minutes, 20 - 50 mg/kg daily (maximum 50 mg/kg daily); Child under 50 kg: 20 - 50 mg/kg daily by deep intramuscular injection or by intravenous injection over 2 - 4 minutes, or by intravenous infusion; up to 80 mg/kg daily in severe infections"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Do not use steroids eyedrops",
+      "Penicillin drops are not effective in the treatment of opthalmia neonatorum"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Lid oedema following prolonged difficult labor"
+  ],
+  "complications": [
+    "Corneal perforation",
+    "Endophthalmitis"
+  ],
+  "prevention": [
+    "Apply tetracycline eye ointment or silver nitrate drops in both eyes of neonates immediately after delivery",
+    "Proper antenatal care for early detection of infection in mothers"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

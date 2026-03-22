@@ -1,0 +1,45 @@
+{
+  "condition_name": "Plaque-Induced Gingivitis",
+  "condition_slug": "plaque-induced-gingivitis",
+  "source": "NSTG 2022",
+  "introduction": "An inflammatory response of the gingivae to plaque bacteria; the most common type is chronic marginal gingivitis",
+  "clinical_features": [
+    {
+      "type": "Chronic gingivitis",
+      "features": [
+        "Asymptomatic, low-grade inflammation of the gingivae",
+        "Gums become red slightly swollen and bleed on slight touch"
+      ]
+    }
+  ],
+  "investigations": [],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Oral hygiene instructions",
+      "Scaling and polishing",
+      "Antiseptic mouthwashes e.g. chlorhexidine gluconate 2% three times daily for 1-2 weeks",
+      "Hexetidine mouthwashes to alternate with warm saline mouthwashes"
+    ],
+    "drug": [
+      "Analgesics - Paracetamol \\n Adult: 1g orally every 8 hours for 3-5 days \\n Child: 1-5 years: 125-250 mg \\n 6-12 years: 250-500 mg orally every 8 hours",
+      "Antibiotics - Amoxicillin \\n Adult: 250 mg orally every 8 hours for 5 days \\n Child: 1 month - 1 year: 62.5 mg orally every 8 hours for 5 days; dose doubled in severe infections \\n 1 - 5 years: 125 mg every 8 hours for 5 days \\n 5 - 12 years: 250 mg 8 hourly for 5 days \\n 12 - 18 years: 500 mg 8 hourly for 5 days; all doses doubled in severe infections",
+      "Antibiotics - Metronidazole \\n Adult: 200 mg orally every 8 hours for 5 days \\n Child: 1 - 3 years: 50 mg orally every 8 hours for 3 days \\n 3 - 7 years: 100 mg every 12 hours for 3 days \\n 7-10 years: 100 mg every 8 hours for 3 days"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Metronidazole: nausea, vomiting and metallic taste",
+      "Metronidazole is contraindicated in pregnancy",
+      "Avoid alcohol during treatment with metronidazole, and for at least 48 hours after treatment"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [
+    "Oral health education",
+    "Scaling and polishing every six months"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

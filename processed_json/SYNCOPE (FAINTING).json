@@ -1,0 +1,66 @@
+{
+  "condition_name": "Syncope (Fainting)",
+  "condition_slug": "syncope-fainting",
+  "source": "NSTG 2022",
+  "introduction": "Loss of consciousness and postural tone as a result of diminished cerebral blood flow. This can result from Vaso-vagal attack or cardiac causes; prolonged standing; severe emotional disturbance; sight of blood (e.g. witnessed by medical student for the first time in theatre) The more severe form is associated with various heart diseases: Arrhythmias (especially complete heart block); Hypertrophic cardiomyopathy; 'Heart attack' (myocardial infarction); Atrial myxoma; Aortic stenosis; Dissecting aneurysm other causes; Pulmonary embolism; Vertebro-basilar insufficiency; Subclavian steal syndrome; Carotid sinus pressure and rarely Migraine headache",
+  "clinical_features": [
+    {
+      "type": "syncope",
+      "features": [
+        "Sudden fall to the ground with loss of consciousness",
+        "Cold extremities",
+        "Bluish discolouration of extremities (cyanosis)",
+        "Pulse irregularities (or pulselessness)",
+        "Hypotension (or unrecordable blood pressure)",
+        "Fainting induced by pressure on the neck",
+        "Fainting induced by coughing, micturition"
+      ]
+    }
+  ],
+  "investigations": [
+    "Electrocardiography",
+    "Echocardiography",
+    "Neuro-imaging: CT scan, MRI, carotid Doppler",
+    "Random blood sugar"
+  ],
+  "treatment": {
+    "goals": [
+      "Restore circulation and ensure brain perfusion by elevating the legs to increase venous return",
+      "Identify cause and treat accordingly",
+      "Prevent recurrence"
+    ],
+    "non_drug": [
+      "Physiotherapy: pressure stockings"
+    ],
+    "drug": [
+      "Specific treatment for cardiac arrhythmias: Please refer to cardiologist",
+      "If hypotensive, give pressor agents"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Aspirin and other NSAIDs: use with caution in patients with history of dyspepsia, and in asthmatics"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Epilepsy",
+    "Myocardial infarction",
+    "Stroke",
+    "Aortic dissection",
+    "Conversion disorder"
+  ],
+  "complications": [
+    "Cerebral hypoxia/anoxia resulting in brain damage",
+    "Stroke",
+    "Sudden death"
+  ],
+  "prevention": [
+    "Avoid prolonged standing",
+    "Treat underlying cardiac disease",
+    "Avoid dehydration or excessive fluid loss",
+    "Ensure adequate calorie and avoid prolonged fasting",
+    "Use medication as prescribed by physicians and avoid overdosage to compensate for missed doses"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

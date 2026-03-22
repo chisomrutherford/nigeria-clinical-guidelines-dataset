@@ -1,0 +1,65 @@
+{
+  "condition_name": "Varicella (Chickenpox)",
+  "condition_slug": "varicella-chickenpox",
+  "source": "NSTG 2022",
+  "introduction": "Varicella Zoster virus is caused by Human Herpes Virus 3. Transmission is by direct contact with the lesions and via the respiratory route. Initial replication occurs in the nasopharynx and conjunctivae. After the primary infection, the virus remains dormant in nervous tissue. Reactivation later in life is typically manifested as Herpes zoster",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Incubation period is 10 - 21 days",
+        "Vesicular eruptions consist of delicate \"teardrop\" vesicles on an erythematous base",
+        "The eruption starts with faint macules that develop rapidly into vesicles within 24 hours",
+        "Successive fresh crops of vesicles appear for a few days, mainly on the trunk, face, and oral mucosa",
+        "New lesions usually stop appearing by the fifth day; the majority is crusted by the sixth day",
+        "Most disappear in less than 20 days without a scar, except larger and secondarily infected lesions",
+        "Low grade fever",
+        "Malaise",
+        "Headaches",
+        "The severity of the disease is age-dependent",
+        "Adults have more severe disease and a greater risk of visceral disease"
+      ]
+    }
+  ],
+  "investigations": [
+    "Tzanck smear",
+    "Direct fluorescent antibody (DFA) staining",
+    "Polymerase Chain Reaction (PCR)"
+  ],
+  "treatment": {
+    "goals": [
+      "Relieve itching and treat secondary bacterial infection",
+      "Reduce severity and scarring"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Aciclovir - Adult: 10 mg/kg intravenously three times daily for 7 days in immunocompromised patients.",
+      "Antihistamine for pruritus",
+      "Co-trimoxazole or erythromycin for secondary infection"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Ensure adequate hydration",
+      "Caution in pregnancy and breastfeeding",
+      "May cause nausea, vomiting, dizziness, fatigue pruritus and photosensitivity"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Variola minor",
+    "Disseminated zoster in immunosuppressed patients",
+    "Widespread papular urticaria",
+    "Coxsackie and ECHO virus eruptions"
+  ],
+  "complications": [
+    "Secondary bacterial infection",
+    "Pneumonia",
+    "Cerebellar ataxia and encephalitis",
+    "Reye's syndrome"
+  ],
+  "prevention": [
+    "Isolate patients from non-immune persons"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

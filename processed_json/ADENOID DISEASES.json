@@ -1,0 +1,54 @@
+{
+  "condition_name": "Adenoid Diseases",
+  "condition_slug": "adenoid-diseases",
+  "source": "NSTG 2022",
+  "introduction": "A syndrome due to hyperplasia/hypertrophy of the adenoid tissue in the nasopharynx. Commoner in children aged 2 - 6 years.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features of Adenoid Diseases",
+      "features": [
+        "Nasal obstruction and mouth-breathing",
+        "Snoring at night",
+        "Obstructive sleep apnoea",
+        "Progressive deafness due to secretory otitis media",
+        "Chronic infection of adenoid tissue may be present",
+        "Symptom may subside spontaneously as adenoid regress and become atrophic with age"
+      ]
+    }
+  ],
+  "investigations": [
+    "X-ray of nasopharynx",
+    "X-ray of sinuses and chest",
+    "Nasal endoscopy"
+  ],
+  "treatment": {
+    "goals": [
+      "To improve nasopharyngeal airway and nasal breathing",
+      "To treat concurrent infection"
+    ],
+    "non_drug": [
+      "Adenoidectomy in severe cases"
+    ],
+    "drug": [
+      "Decongestants: Psuedoephedrine syrup (6-12 years: 30 mg (5 mL of syrup) orally 8 hourly; 2-5 years: 15 mg (2.5 mL) 4-8 hourly)",
+      "Ephedrine nasal drops (0.5%): Instill into nostrils twice daily and at night time",
+      "Antibiotics: Amoxicillin syrup 125 - 250 mg orally 8 hourly for 5-7 days"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Allergic rhinitis",
+    "Sinusitis",
+    "Otitis media"
+  ],
+  "complications": [
+    "Sinusitis",
+    "Recurrent otitis media",
+    "Pneumonitis"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

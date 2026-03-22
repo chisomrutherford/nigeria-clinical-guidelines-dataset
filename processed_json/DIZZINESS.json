@@ -1,0 +1,64 @@
+{
+  "condition_name": "Dizziness",
+  "condition_slug": "dizziness",
+  "source": "NSTG 2022",
+  "introduction": "Simply means 'light-headedness' and results from impaired supply of blood, oxygen and glucose to the brain; may suggest some form of unsteadiness, or could precede a fainting spell.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features of Dizziness",
+      "features": [
+        "Light-headedness: Feeling faint especially on attempting to stand or after squatting, and Weakness.",
+        "Dizziness may be accompanied by vertigo (giddiness) in some individuals and may culminate in loss of consciousness."
+      ]
+    }
+  ],
+  "investigations": [
+    "Full Blood Count and differentials",
+    "Electrocardiography",
+    "Echocardiography",
+    "Random blood glucose",
+    "X-ray of the sinuses",
+    "Neuro-imaging: CT scan, MRI and carotid Doppler ultrasound"
+  ],
+  "treatment": {
+    "goals": [
+      "Eliminate symptoms",
+      "Prevent recurrence"
+    ],
+    "non_drug": [
+      "Stop all medicines suspected to be responsible",
+      "Physiotherapy: pressure stockings"
+    ],
+    "drug": [
+      "Prochlorperazine for severe attacks: - Adult: 20 mg initially then 10 mg after 2 hours - Child (> 10 kg): 0.25 mg/kg 2 to 3 times daily - Not recommended for children less than 10 kg",
+      "Cinnarizine: - Adult: 25 mg three times daily or 75 mg at once - Child: - > 12 years: Same as adult dose - 5 - 12 years: 15 mg three times daily",
+      "Aspirin tablets as an anti-platelet agent but recommended for children"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Aspirin and other NSAIDs to be used with caution in patients with history of dyspepsia, asthma (especially aspirin)"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Benign positional vertigo",
+    "Labyrinthine disorders",
+    "Hysteria",
+    "Premonitory symptoms of epilepsy",
+    "Migraine aura",
+    "Warning symptom of posterior circulation stroke (posterior inferior cerebellar artery)",
+    "Cervical spondylosis with compression of vertebral artery",
+    "Brain tumour (acoustic neuroma)"
+  ],
+  "complications": [
+    "Falls with fractures",
+    "Stroke",
+    "If due to intracranial tumour: raised intracranial pressure with coning is a distinct possibility",
+    "If due to other intracranial pathology, there may be cranial nerve palsies"
+  ],
+  "prevention": [
+    "Avoid precipitants which should be identified early for effective prevention"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

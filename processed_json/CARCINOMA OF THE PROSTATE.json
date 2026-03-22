@@ -1,0 +1,91 @@
+{
+  "condition_name": "Carcinoma of the Prostate",
+  "condition_slug": "carcinoma-of-the-prostate",
+  "source": "NSTG 2022",
+  "introduction": "The most commonly diagnosed malignancy affecting men above middle age. Exact cause not known. Risk factors include increasing age, presence of testicles, heredity (cancer of the prostate in first degree relatives, inheritance of faulty genes such as cancer of the breast in mother), ethnicity (commoner and more aggressive in the black race), environment (industrial workers in rubber, textile, fertilizer), and obesity.",
+  "clinical_features": [
+    {
+      "type": "Lower urinary tract symptoms (LUTS)",
+      "features": [
+        "Daytime frequency",
+        "Poor stream",
+        "Excessive straining",
+        "Nocturia",
+        "Terminal dribbling"
+      ]
+    },
+    {
+      "type": "Features of advanced disease",
+      "features": [
+        "Low back pain",
+        "Paraplegia/Paraparesis",
+        "Pedal oedema",
+        "Weight loss",
+        "Pathological fractures",
+        "Azotaemia",
+        "Digital Rectal Examination (DRE): Enlarged, asymmetrical, hard, nodular prostate with obliteration of the median groove and lateral sulci"
+      ]
+    }
+  ],
+  "investigations": [
+    "FBC and ESR",
+    "Serum, electrolytes, urea and creatinine",
+    "Transrectal ultrasound",
+    "Abdominal ultrasound",
+    "Prostate biopsy",
+    "X-ray- Lumbosacral spine, chest",
+    "MRI/CT scan",
+    "Radionuclide bone scan"
+  ],
+  "treatment": {
+    "goals": [
+      "Cure for early disease",
+      "Palliation and improvement of quality of life for advanced disease",
+      "Treatment should be in a specialist centre."
+    ],
+    "non_drug": [
+      "Active surveillance (Watchful waiting)",
+      "Radical Prostatectomy",
+      "Radical radiotherapy",
+      "Bilateral orchiectomy",
+      "Cryoablation therapy",
+      "Laser therapy"
+    ],
+    "drug": [
+      "Lutenising hormone releasing hormone (LHRH) agonist: Goserelin 3.6 mg subcutaneously every month or 10.8 mg 3 monthly, Leuprolide 3.75 mg - 7.5 mg subcutaneously monthly or 11.5 mg - 22 mg 3 monthly",
+      "Lutenising hormone releasing hormone (LHRH) antagonist: Degarelix 280 mg subcutaneously stat, then 80 mg monthly",
+      "Antiandrogens with LHRH agonist, antagonist, or orchidectomy: Bicalutamide 50 mg daily orally, Flutamide 250 mg three times daily orally",
+      "Ketoconazole 400 mg orally three times daily with prednisolone 20 mg mane, 10 mg evening",
+      "Dietylstilbestrol 3 mg daily",
+      "Docetaxel 75 mg daily with Prednisolone",
+      "Zoledronic acid 400 mg over 1 hour once per month",
+      "Radiotherapy – Radium - 223"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Antiandrogens - Loss of libido, Gynaecomastia, Erectile dysfunction, Fluid retention, Hypertension, Thromboembolic disease, Gynaecomastia",
+      "Ketoconazole - Liver toxicity, monitor liver function",
+      "Other drugs for CRPC fraught with ADRs including blood dyscrasias, and reduced quality of life"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Benign Prostatic Hyperplasia",
+    "Chronic Prostatitis",
+    "Bladder cancer",
+    "Prostatic calculi",
+    "Urethral Stricture"
+  ],
+  "complications": [
+    "Urinary retention",
+    "Recurrent Urinary tract infection",
+    "Obstructive uropathy",
+    "Progressive renal failure",
+    "Paraplegia/Paraparesis",
+    "Pathological fractures",
+    "Lymphoedema"
+  ],
+  "prevention": [],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

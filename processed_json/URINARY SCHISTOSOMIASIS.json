@@ -1,0 +1,79 @@
+{
+  "condition_name": "Urinary Schistosomiasis",
+  "condition_slug": "urinary-schistosomiasis",
+  "source": "NSTG 2022",
+  "introduction": "A common parasitic infection of the urinary tract caused by a body fluke, Schistosoma haematobium. Acquired while bathing/wading in infected water. Endemic in many parts of Africa and gets to the urinary tract through the blood vessels after penetrating the skin.",
+  "clinical_features": [
+    {
+      "type": "Soon after penetration of the skin",
+      "features": [
+        "Pricking sensation and itching (cercarial dermatitis)"
+      ]
+    },
+    {
+      "type": "Four weeks later",
+      "features": [
+        "Intermittent fever",
+        "malaise",
+        "urticaria",
+        "cough"
+      ]
+    },
+    {
+      "type": "6 - 24 months later",
+      "features": [
+        "Intermittent, painless terminal haematuria (may be total)",
+        "Symptoms of bladder irritability: dysuria, frequency, urgency, strangury"
+      ]
+    }
+  ],
+  "investigations": [
+    "Urine examination for schistosomal ova",
+    "Cystoscopy: tubercles, sandy patches, nodules, ulcers",
+    "Plain abdominal radiograph (KUB)",
+    "Intravenous urogram",
+    "Serological tests",
+    "Full Blood Count"
+  ],
+  "treatment": {
+    "goals": [
+      "To eradicate the fluke and ova",
+      "Prevent complications"
+    ],
+    "non_drug": [],
+    "drug": [
+      "Praziquantel: Adult: Single oral dose of 50 mg/kg",
+      "Child over 4 years: 20 mg/kg orally, repeated after 4 – 6 hours",
+      "In S. japonicum infection, 20 mg/kg 3 times daily for one day after initial dose"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Nausea",
+      "epigastric pain",
+      "pruritus",
+      "headache",
+      "dizziness"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Tuberculous cystitis",
+    "Abacterial cystitis",
+    "Bladder carcinoma"
+  ],
+  "complications": [
+    "Bladder fibrosis and contracture",
+    "Ureteral stricture",
+    "Urethral stricture",
+    "Bladder calculi",
+    "Bladder cancer"
+  ],
+  "prevention": [
+    "Provision of and access to pipe-borne water",
+    "Improvement in socio-economic conditions",
+    "Mass chemotherapy in endemic areas",
+    "Eradicating the intermediate hosts (water snails)"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

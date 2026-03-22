@@ -1,0 +1,75 @@
+{
+  "condition_name": "Stroke (Brain Attack, Cerebrovascular Disease, Apoplexy)",
+  "condition_slug": "stroke",
+  "source": "NSTG 2022",
+  "introduction": "It is a condition caused by disruption of blood supply to brain cells (either occlusion (infarction) or blood vessel rupture (haemorrhage). There should be pathological and/or radiological demonstration of the lesion and the disability may result in death. The duration of disability is no longer critical. Acute stroke is referred to as “Brain Attack” because the longer brain cells are deprived of blood, the bigger the size of the lesion and the more severe the damage or disability.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features of Stroke",
+      "features": [
+        "Classical stroke: Sudden motor weakness of one side of the body or could be bilateral, with/without speech, visual and sensory impairment.",
+        "Subarachnoid haemorrhage: sudden onset of severe headache, neck stiffness and positive Kernig's sign.",
+        "Stroke-in-evolution: gradual onset of deficit with progression.",
+        "Haematoma (mass lesion): sudden rise in intracranial pressure with loss of consciousness, respiratory changes, pupillary changes.",
+        "Sudden death.",
+        "Lacunar syndrome: manifesting as incomplete deficits: speech defects with clumsy hand involvement or pure motor and/or pure sensory deficits.",
+        "Dementia usually follows small, recurrent strokes in critical areas of the brain leading to cognitive impairment and functional dependence."
+      ]
+    }
+  ],
+  "investigations": [
+    "Neuro-imaging with CT scan/MRI to determine stroke type and choice of management",
+    "Lumbar puncture for CSF analysis in suspected subarachnoid haemorrhage",
+    "Electrocardiography, echocardiography, carotid Doppler ultrasound study, cerebral angiography",
+    "Full Blood Count with differentials, random blood glucose, urea, electrolytes and creatinine",
+    "Chest radiograph, HIV screening"
+  ],
+  "treatment": {
+    "goals": [
+      "Restore cerebral circulation",
+      "Limit disability",
+      "Treat identified risk/predisposing factors",
+      "Reduce raised intracranial pressure",
+      "Treat complications (if any)"
+    ],
+    "non_drug": [
+      "Attention to calories",
+      "Fluid balance",
+      "Physiotherapy for passive muscle exercises",
+      "Nursing care (frequent turning and bladder care) to prevent decubitus ulcers and urinary tract infection",
+      "Rehabilitation"
+    ],
+    "drug": [
+      "Cerebral decompression if there is evidence of raised intracranial pressure - 20% mannitol 250 mL repeated every 12 hours for 4-6 doses and/or - Furosemide 40 mg every 8 hours by slow intravenous injection for 6 doses",
+      "Thrombolysis with tissue plasminogen activator (altepase) - IF patient is brought to medical attention within 4 1/2 hours and CT scan does not show haemorrhage or big infarct, no previous bleeding, BP not severely elevated, no evidence of recent surgery and no head trauma",
+      "Treat underlying conditions such as diabetes mellitus, hypertension, and thrombosis - Treat hyperglycaemia with intravenous soluble insulin - Treat seizures with Intravenous diazepam - Treat fever with antipyretics and antibiotics if infection is suspected - For subarachnoid haemorrhage: nimodipine is recommended for the prevention of vasospasm - Use of antacids to prevent and treat stress ulcers and anti-epileptic drugs to prevent seizures in the acute phase"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Rebound cerebral oedema when mannitol is discontinued",
+      "Thrombolytic agents cause bleeding",
+      "Diazepam by the intravenous route must be administered slowly to avoid respiratory depression and laryngeal spasm"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Brain tumour",
+    "Subdural haematoma",
+    "Cerebral abscess",
+    "Meningitis/encephalitis",
+    "Cerebral malaria",
+    "Migraine headache",
+    "Multiple sclerosis",
+    "Metabolic derangements e.g. hypoglycaemia, hyperosmolar non-ketotic coma"
+  ],
+  "complications": [
+    "Short term: tentorial herniation with coning and death; cardiac arrhythmias, hyperglycaemia, aspiration pneumonitis with sepsis, urinary tract infections; deep vein thrombosis",
+    "Long term: decubitus ulcers, depression, epilepsy, dementia, parkinsonism, contractures, thalamic pain"
+  ],
+  "prevention": [
+    "Treat/control known risk factors: Hypertension, diabetes mellitus; cardiac diseases; hyperlipidaemia; obesity; smoking and excessive alcohol consumption",
+    "Low dose aspirin (acetylsalicylic acid) is recommended as antiplatelet agent to prevent ischaemia in those at risk, if tolerated"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

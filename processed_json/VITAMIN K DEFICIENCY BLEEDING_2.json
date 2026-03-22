@@ -1,0 +1,49 @@
+{
+  "condition_name": "Vitamin K Deficiency Bleeding",
+  "condition_slug": "vitamin-k-deficiency-bleeding",
+  "source": "NSTG 2022",
+  "introduction": "It is due to the deficiency of the clotting factors II, VII, IX and X. In the newborn, the levels of the clotting factors are naturally low and coupled with low Vitamin K production, the newborn infant has a natural tendency for bleeding. Both term and preterm infants are affected but the risk is higher among preterm infants. Infants of mothers on anti-convulsant or anti-coagulant therapies and infants on prolonged exclusive breastfeeding are also at higher risk of the disease.",
+  "clinical_features": [
+    {
+      "type": "Clinical Presentation",
+      "features": [
+        "Classical type presents between the second and fourth days of life.",
+        "Early type presents within the first 24 hours of life while the late type occurs as late as three to six weeks of life.",
+        "Classical features include oozing from puncture sites or circumcision sites, umbilical stump haemorrhage, haematemesis and or melaena, ecchymoses, epistaxis or scalp haemorrhage.",
+        "Intra-viscera haemorrhage (kidney, brain) may also occur in severe cases."
+      ]
+    }
+  ],
+  "investigations": [
+    "Prothrombin time – very prolonged",
+    "Activated partial thromboplastin time – prolonged",
+    "Thrombin time – normal",
+    "Fibrin degradation products – normal",
+    "Platelet count - normal"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [],
+    "drug": [
+      "Intravenous Vitamin K (1 - 5 mg) should be administered daily for up to 3 days.",
+      "Fresh Frozen Plasma should be administered along with therapeutic doses of Vitamin K because the corrective action of Vitamin K is usually delayed.",
+      "If bleeding is severe and baby is shocked, immediate replacement transfusion with O Rhesus-negative whole blood (20 mL/kg) is indicated.",
+      "Gradual correction using single-volume exchange blood transfusion (80 mL/Kg) in the absence of shock.",
+      "Follow up with top-up transfusion (10 mL/kg of packed cells or 15 mL/kg of partially packed cells) if haematocrit remains low."
+    ],
+    "adverse_reactions_and_cautions": [
+      "Once haemorrhage occurs, intramuscular injections should be avoided to prevent haematoma formation."
+    ],
+    "supportive_measures": [
+      "Important supportive care includes oxygen therapy and frequent monitoring of oxygen saturation and central venous pressure."
+    ]
+  },
+  "differential_diagnoses": [],
+  "complications": [],
+  "prevention": [
+    "Babies are given Vitamin K1 routinely within 90 minutes after birth at the dose of 0.5 mg for those less than 1.5 kg and 1 mg for those 1.5 kg and above."
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

@@ -1,0 +1,69 @@
+{
+  "condition_name": "Apnea in a Child",
+  "condition_slug": "apnea-in-a-child",
+  "source": "NSTG 2022",
+  "introduction": "Cessation of breath for more than 15 seconds or any period with bradycardia and/or cyanosis. There may also be hypotonia or pallor in severe cases. Particularly common among very preterm infants with estimated gestational age of < 32 weeks. It may also occur among sick term babies. Prematurity and immaturity of the central respiratory centre causes a separate entity known as 'Apnea of Prematurity'.",
+  "clinical_features": [
+    {
+      "type": "Common",
+      "features": [
+        "Cessation of breath for more than 15 seconds",
+        "Bradycardia",
+        "Cyanosis"
+      ]
+    },
+    {
+      "type": "Severe",
+      "features": [
+        "Hypotonia",
+        "Pallor"
+      ]
+    }
+  ],
+  "investigations": [
+    "Apnea monitor should be used if available",
+    "Pulse oximeter with an alarm system for hypoxaemia"
+  ],
+  "treatment": {
+    "goals": [
+      "Correction of blood glucose",
+      "Maintain oxygen levels",
+      "Intubation and Intermittent Positive Pressure Ventilation if necessary"
+    ],
+    "non_drug": [
+      "Tactile stimulation such as flicking the sole of the feet",
+      "Resuscitation: airway clearance, assisted breathing and circulation according to standard protocols",
+      "Nursing in prone position",
+      "Cessation of oral feeds if gastro-oesophageal reflux is suspected"
+    ],
+    "drug": [
+      "10% Dextrose-in-Water (4 mL/kg) for glucose correction",
+      "Caffeine citrate in a loading dose of 20 mg/kg oral or slow intravenous and maintenance of 5-10mg/kg per 24 hours",
+      "Aminophylline in a loading dose of 6mg/kg slow intravenous and maintenance of 2.5mg/kg 12-hourly"
+    ],
+    "adverse_reactions_and_cautions": [],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Septicaemia",
+    "Pneumonia",
+    "Necrotizing enterocolitis",
+    "Gastro-oesophageal reflux",
+    "Congestive cardiac failure",
+    "Meningitis",
+    "Intra-cranial haemorrhage",
+    "Seizures",
+    "Hypoglycaemia",
+    "Severe anaemia",
+    "Urinary tract infection"
+  ],
+  "complications": [],
+  "prevention": [
+    "Early commencement of CPAP in a spontaneously breathing neonate"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": [
+    "If apnea still persists with persisting cyanosis, intubation and subsequent commencement of Intermittent Positive Pressure Ventilation is recommended"
+  ],
+  "prognosis": null
+}

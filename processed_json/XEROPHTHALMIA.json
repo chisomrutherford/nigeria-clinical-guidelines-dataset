@@ -1,0 +1,53 @@
+{
+  "condition_name": "Xerophthalmia",
+  "condition_slug": "xerophthalmia",
+  "source": "NSTG 2022",
+  "introduction": "Xerophthalmia is a spectrum of eye diseases that leads to loss of corneal integrity and is often associated with Vitamin A deficiency. The disease ranges from night blindness to conjunctival xerosis, to Bitot's spots, to corneal xerosis and finally keratomalacia.",
+  "clinical_features": [
+    {
+      "type": "Clinical Features",
+      "features": [
+        "Night blindness",
+        "Dryness of the conjunctiva and cornea (xerosis)",
+        "Tearing",
+        "Bitot's spots",
+        "Corneal degeneration (keratomalacia)"
+      ]
+    }
+  ],
+  "investigations": [
+    "Conjunctival impression cytology (where available)",
+    "Serum Vitamin A levels"
+  ],
+  "treatment": {
+    "goals": [],
+    "non_drug": [
+      "Nutrition education"
+    ],
+    "drug": [
+      "Vitamin A capsules 200,000 units orally daily for two days, then one capsule after one week",
+      "Topical antibiotics (ointment) and antivirals where applicable",
+      "Padding the eye (for active corneal ulceration)"
+    ],
+    "adverse_reactions_and_cautions": [
+      "Avoid the use of harmful traditional eye medication"
+    ],
+    "supportive_measures": []
+  },
+  "differential_diagnoses": [
+    "Measles keratoconjunctivitis"
+  ],
+  "complications": [
+    "Corneal perforation",
+    "Corneal scarring",
+    "Blindness"
+  ],
+  "prevention": [
+    "Distribution of massive dose capsules of vitamin A to affected communities",
+    "Nutrition and health education",
+    "Fortification of foods with vitamin A"
+  ],
+  "other_investigations": null,
+  "definitive_treatment": null,
+  "prognosis": null
+}

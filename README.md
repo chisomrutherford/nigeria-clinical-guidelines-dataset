@@ -16,7 +16,7 @@ Each condition is represented as a single JSON file with a unified schema coveri
 
 The dataset is derived from the Nigeria Standard Treatment Guidelines (NSTG) 2022 and contains 270 clinical conditions. It is structured in JSON format, with each condition represented as a separate file, and follows schema version 1.0.
 
-The data was created using a clinician-supervised pipeline that involved optical character recognition (OCR), followed by manual curation, and subsequent structuring using a large language model. Validation is currently ongoing through spot-checking, with additional details outlined in the limitations section.
+The data was created using a clinician-supervised pipeline that involved optical character recognition (OCR), followed by manual curation, and subsequent structuring using a large language model. 
 
 ## Schema
 
@@ -103,7 +103,7 @@ The JSON schema was designed by the author based on clinical judgment about how 
 **Stage 5 — LLM Structuring**
 Each condition file was passed to GPT-4o via an asynchronous Python pipeline, with a structured prompt mapping curated text content to the defined Pydantic schema. Outputs were validated for schema compliance.
 
-**Stage 6 — Validation** *(in progress)*
+**Stage 6 — Validation** 
 A sample of 40 condition `.txt` files were verified against the NSTG 2022 source document to assess OCR and curation accuracy. A further 40 JSON files were  checked against their corresponding `.txt` files to assess structuring accuracy. 
 
 ---

@@ -18,8 +18,6 @@ The dataset is derived from the Nigeria Standard Treatment Guidelines (NSTG) 202
 
 The data was created using a clinician-supervised pipeline that involved optical character recognition (OCR), followed by manual curation, and subsequent structuring using a large language model. Validation is currently ongoing through spot-checking, with additional details outlined in the limitations section.
 
-The dataset is released under the Creative Commons Attribution 4.0 (CC BY 4.0) license.
-
 ## Schema
 
 Each JSON file follows this structure:

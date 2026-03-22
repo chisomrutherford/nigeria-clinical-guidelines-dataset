@@ -1,21 +1,3 @@
----
-license: cc-by-4.0
-task_categories:
-- text-retrieval
-- question-answering
-language:
-- en
-region:
-- ng
-tags:
-- medical
-- clinical-guidelines
-- nigeria
-- nstg
-size_categories:
-- n<1K
----
-
 # Dataset Card: NSTG 2022 Structured Clinical Dataset
 
 ## Dataset Summary

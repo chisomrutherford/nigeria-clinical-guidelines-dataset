@@ -1,93 +1,55 @@
----
-license: cc-by-4.0
-task_categories:
-- text-retrieval
-- question-answering
-language:
-- en
-region:
-- ng
-tags:
-- medical
-- clinical-guidelines
-- nigeria
-- nstg
-size_categories:
-- n<1K
----
+# NSTG 2022 Structured Clinical Dataset
 
-# Dataset Card: NSTG 2022 Structured Clinical Dataset
-
-## Dataset Summary
-
-A machine-readable, schema-unified JSON dataset of 270 clinical conditions derived from the Nigeria Standard Treatment Guidelines (NSTG) 2022. Each condition is represented as a structured JSON object covering clinical presentation, investigations, treatment protocols, differential diagnoses, complications, and prevention measures.
-
-Designed for use in clinical AI/ML pipelines, decision support applications, and medical education tools — particularly in Nigerian and West African clinical contexts.
+A machine-readable JSON dataset of 270 clinical conditions extracted and structured from the **Nigeria Standard Treatment Guidelines (NSTG) 2022**, a public clinical reference document published by the Federal Ministry of Health, Nigeria.
 
 ---
 
-## Dataset Details
+## Overview
 
-### Dataset Description
+This dataset converts the NSTG 2022 into a consistent, schema-driven JSON format designed for use in clinical applications, AI/ML pipelines, and medical education tools.
 
-- **Curated by:** Chisom Rutherford
-- **Language(s):** English
-- **License:** Creative Commons Attribution 4.0 International (CC BY 4.0)
-- **Source document:** Nigeria Standard Treatment Guidelines (NSTG), Federal Ministry of Health, Nigeria, 2022 edition
-
-### Dataset Sources
-
-- **Repository:** https://github.com/[your-username]/nstg-2022-structured
-- **Contact:** chisomrutherford@gmail.com
+Each condition is represented as a single JSON file with a unified schema covering clinical features, investigations, treatment protocols, differential diagnoses, complications, and prevention.
 
 ---
 
-## Uses
+## Dataset at a Glance
 
-### Direct Use
+The dataset is derived from the Nigeria Standard Treatment Guidelines (NSTG) 2022 and contains 270 clinical conditions. It is structured in JSON format, with each condition represented as a separate file, and follows schema version 1.0.
 
-- Retrieval-augmented generation (RAG) knowledge bases for clinical assistants
-- Structured evaluation sets for clinical NLP models — differential diagnosis, treatment recommendation, complication prediction
-- Backend data for offline clinical reference applications
-- Flashcard and quiz generation for medical education
+The data was created using a clinician-supervised pipeline that involved optical character recognition (OCR), followed by manual curation, and subsequent structuring using a large language model. Validation is currently ongoing through spot-checking, with additional details outlined in the limitations section.
 
-### Out-of-Scope Use
+The dataset is released under the Creative Commons Attribution 4.0 (CC BY 4.0) license.
 
-- **Direct clinical decision-making.** This dataset has not been validated for clinical use and should not be used as a substitute for verified clinical references or professional judgment.
-- **Non-Nigerian clinical contexts without adaptation.** Drug availability, dosing, and protocols reflect Nigerian national guidelines and may not generalize to other settings.
-- **Fine-tuning large language models alone.** At 270 records, this dataset is too small for meaningful fine-tuning. It is better suited as an evaluation or retrieval corpus.
+## Schema
 
----
-
-## Dataset Structure
-
-### Data Instances
-
-Each instance is a JSON file representing one clinical condition. Example:
+Each JSON file follows this structure:
 
 ```json
 {
-  "condition_name": "Bronchial Asthma",
-  "condition_slug": "bronchial-asthma",
+  "condition_name": "string",
+  "condition_slug": "string",
   "source": "NSTG 2022",
-  "introduction": "...",
+  "introduction": "string",
   "clinical_features": [
-    { "type": "General", "features": ["Episodic dyspnoea", "Wheezing", "..."] }
+    {
+      "type": "string (e.g. General, Severe, Paediatric)",
+      "features": ["string"]
+    }
   ],
-  "investigations": ["..."],
+  "investigations": ["string"],
   "treatment": {
-    "goals": ["..."],
-    "non_drug": ["..."],
-    "drug": ["..."],
-    "adverse_reactions_and_cautions": ["..."],
-    "supportive_measures": ["..."]
+    "goals": ["string"],
+    "non_drug": ["string"],
+    "drug": ["string"],
+    "adverse_reactions_and_cautions": ["string"],
+    "supportive_measures": ["string"]
   },
-  "differential_diagnoses": ["..."],
-  "complications": ["..."],
-  "prevention": ["..."],
-  "other_investigations": [],
-  "definitive_treatment": [],
-  "prognosis": []
+  "differential_diagnoses": ["string"],
+  "complications": ["string"],
+  "prevention": ["string"],
+  "other_investigations": ["string"],
+  "definitive_treatment": ["string"],
+  "prognosis": ["string"]
 }
 ```
 
@@ -113,128 +75,58 @@ Each instance is a JSON file representing one clinical condition. Example:
 | `definitive_treatment` | array of strings | Definitive interventions (sparse) |
 | `prognosis` | array of strings | Outcome information (sparse) |
 
-### Data Splits
 
-No train/validation/test splits. This is a reference dataset, not a supervised learning dataset.
 
----
+## Intended Use Cases
 
-## Dataset Creation
-
-### Curation Rationale
-
-Clinical treatment guidelines are authoritative references but are published in unstructured prose, making them inaccessible to programmatic use. This dataset addresses that gap for the NSTG 2022 — a nationally authoritative document covering clinical practice in Nigeria — by imposing a consistent, clinician-designed schema across all 270 conditions.
-
-Prior automated parsing attempts resulted in data loss, particularly for clinically important sections such as resuscitation protocols and subtyped clinical features. The schema and extraction approach were designed specifically to preserve this information.
-
-### Source Data
-
-#### Data Collection and Processing
-
-The dataset was produced through a six-stage clinician-supervised pipeline:
-
-1. **OCR Extraction** — The NSTG 2022 PDF was processed using GPT-4o to extract full text from the source document.
-2. **Manual Clinician Curation** — The author, a practicing clinician, reviewed the extracted text for all 270 conditions and manually organised content into labelled clinical sections (clinical features, treatment, investigations, etc.) before any automated structuring was applied.
-3. **Automated Splitting** — A script segmented the curated text into individual per-condition files.
-4. **Schema Design** — The JSON schema was designed by the author based on clinical judgment, with explicit attention to preserving sections lost in earlier parsing attempts, including resuscitation protocols and subtyped clinical features.
-5. **LLM Structuring** — Each condition file was passed to GPT-4o-mini via an asynchronous Python pipeline with a structured prompt mapping content to the Pydantic schema. All 270 conditions were successfully mapped and validated for schema compliance.
-6. **Validation** *(in progress)* — A sample of 30 `.txt` files is being verified against the source document, and 30 JSON files are being checked against their corresponding `.txt` files. Results will be reported in v1.1.
-
-The manual curation step in Stage 2 is the primary quality control layer. It distinguishes this pipeline from fully automated extraction approaches and reduces the risk of section misclassification propagating into the final JSON output.
-
-#### Who are the source data producers?
-
-The Federal Ministry of Health, Nigeria. The NSTG 2022 is a public government document.
-
-### Annotations
-
-This dataset contains one significant human contribution beyond schema design: the manual clinician curation in Stage 2, where the author reviewed and organised extracted text for all 270 conditions prior to automated structuring. This is not annotation in the traditional labelling sense, but it represents substantive human judgment applied to the intermediate data.
-
-All final JSON structuring was performed by a large language model.
-
-#### Annotation process
-
-Manual review and section organisation was performed by the author across all 270 conditions. No annotation guidelines or inter-rater reliability measures were applied.
-
-#### Who are the annotators?
-
-Chisom Rutherford (author) — clinician.
-
-### Personal and Sensitive Information
-
-This dataset contains no personal data. All content is derived from a public clinical guideline document.
+- **Clinical AI/ML**: Structured ground truth for evaluating models on clinical reasoning tasks, differential diagnosis, or treatment planning in West African clinical contexts.
+- **Clinical applications**: Backend data source for decision support tools, offline reference apps, or community health worker tools.
+- **Medical education**: Flashcard systems, quiz generators, and study tools for medical students training under Nigerian or similar guidelines.
+- **Research**: Comparative analysis of treatment guideline content, NLP benchmarking, or health informatics research.
 
 ---
 
-## Evaluation
+## Extraction Methodology
 
-### Testing Data, Factors & Metrics
+This dataset was produced through a clinician-supervised, multi-stage pipeline designed to preserve fidelity to the source document at each step.
 
-#### Testing Data
+**Stage 1 — OCR Extraction**
+The NSTG 2022 PDF was processed using GPT-4o to extract raw text, producing a full-text representation of the source document.
 
-A two-layer spot-check validation is in progress:
+**Stage 2 — Manual Clinician Curation**
+The author clinically reviewed the extracted text for each of the 270 conditions and manually organised content into labelled sections (clinical features, treatment, investigations, etc.). This step was performed before any automated structuring, ensuring that the intermediate text representation was clinically coherent and section boundaries were accurate.
 
-- **Layer 1:** 30 `.txt` condition files verified against the NSTG 2022 source document to assess OCR and curation accuracy.
-- **Layer 2:** 30 JSON files verified against their corresponding `.txt` files to assess LLM structuring accuracy.
+**Stage 3 — Automated Splitting**
+A script split the curated text into individual per-condition files, one per clinical condition.
 
-This two-layer design isolates extraction errors from structuring errors. Results will be reported in v1.1.
+**Stage 4 — Schema Design**
+The JSON schema was designed by the author based on clinical judgment about how treatment guideline content is structured.
 
-#### Factors
+**Stage 5 — LLM Structuring**
+Each condition file was passed to GPT-4o via an asynchronous Python pipeline, with a structured prompt mapping curated text content to the defined Pydantic schema. Outputs were validated for schema compliance.
 
-Extraction quality may vary by:
-- Condition complexity (multi-section conditions with subtypes are harder to extract cleanly)
-- Source text formatting (poorly formatted source sections may produce incomplete extractions)
-- Field ambiguity (particularly `non_drug` vs `supportive_measures`)
-
-#### Metrics
-
-No formal accuracy metrics have been computed for v1.0. See Limitations.
-
-### Results
-
-Not available for v1.0.
+**Stage 6 — Validation** *(in progress)*
+A sample of 40 condition `.txt` files were verified against the NSTG 2022 source document to assess OCR and curation accuracy. A further 40 JSON files were  checked against their corresponding `.txt` files to assess structuring accuracy. 
 
 ---
 
-## Limitations and Biases
+## Geographic and Clinical Scope
 
-### Known Limitations
+This dataset reflects treatment recommendations from a Nigerian national guideline. Drug availability, dosing conventions, and clinical protocols may differ from international guidelines. It is best suited for applications targeting Nigerian or similar West African clinical contexts.
 
-**Validation:** This dataset has not been formally validated against the source document. LLM extraction introduces risk of subtle errors including misclassified features, truncated dosing information, and occasional hallucinations in sparse sections. Users should verify critical clinical content against the NSTG 2022 directly.
 
-**Schema ambiguity:** The `non_drug` and `supportive_measures` fields under `treatment` overlap in a subset of conditions. This is a known issue being addressed in v1.1.
+## License
 
-**Sparse fields:** `other_investigations`, `definitive_treatment`, and `prognosis` are empty in many entries. This reflects sparse coverage in the source document, not extraction failure.
+This dataset is released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
 
-**Dataset size:** 270 conditions is insufficient for fine-tuning. Suitable for evaluation, retrieval, and application use cases.
-
-### Geographic and Clinical Bias
-
-All content reflects Nigerian national treatment guidelines. Drug formulary, dosing conventions, and clinical protocols are calibrated to the Nigerian healthcare context and may not reflect WHO, NICE, or other international guidelines. This is a feature for Nigerian clinical applications but a limitation for general use.
+You are free to use, share, and adapt this dataset for any purpose, including commercial use, provided appropriate credit is given.
 
 ---
 
-## Citation
+## Contact
 
-### BibTeX
+**Chisom Rutherford**
+Email: chisomrutherford@gmail.com
+LinkedIn: [Chisom Rutherford](https://www.linkedin.com/in/chisomrutherford/)
 
-```bibtex
-@dataset{rutherford2025nstg,
-  author    = {Rutherford, Chisom},
-  title     = {NSTG 2022 Structured Clinical Dataset},
-  year      = {2025},
-  publisher = {GitHub},
-  url       = {https://github.com/[your-username]/nstg-2022-structured},
-  version   = {1.0}
-}
-```
-
----
-
-## Dataset Card Authors
-
-Chisom Rutherford — chisomrutherford@gmail.com
-
-## Dataset Card Contact
-
-chisomrutherford@gmail.com
+Feedback, corrections, and collaboration enquiries are welcome.

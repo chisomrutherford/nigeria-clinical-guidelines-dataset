@@ -113,6 +113,21 @@ A sample of 40 condition `.txt` files were verified against the NSTG 2022 source
 ## Geographic and Clinical Scope
 
 This dataset reflects treatment recommendations from a Nigerian national guideline. Drug availability, dosing conventions, and clinical protocols may differ from international guidelines. It is best suited for applications targeting Nigerian or similar West African clinical contexts.
+---
+
+## Citation
+
+### BibTeX
+
+```bibtex
+@dataset{rutherford2025nigeria,
+  author = {Rutherford, Chisom},
+  title = {Nigeria Clinical Guidelines Dataset},
+  year = {2025},
+  publisher = {GitHub},
+  url = {https://github.com/chisomrutherford/nigeria-clinical-guidelines-dataset}
+}
+```
 
 
 ## License
